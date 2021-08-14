@@ -1,0 +1,6 @@
+302 230 http://newhire.buzzfeed.com/%2e/admin
+302 231 http://newhire.buzzfeed.com/./admin/.
+302 238 http://newhire.buzzfeed.com/.nsf/../winnt/win.ini
+302 240 http://newhire.buzzfeed.com/./web-inf/web.xml
+302 241 http://newhire.buzzfeed.com/.//web-inf/web.xml
+302 248 http://newhire.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess

@@ -1,0 +1,38 @@
+GET https://web.archive.org/web/20180711092730if_/http://live.huffpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Location: All
+< Server: nginx/1.15.8
+< X-Archive-Orig-X-Frame-Options: DENY
+< Link: <http://live.huffpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://live.huffpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://live.huffpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180410140802/http://live.huffpost.com/robots.txt>; rel="first memento"; datetime="Tue, 10 Apr 2018 14:08:02 GMT", <https://web.archive.org/web/20180629210552/http://live.huffpost.com/robots.txt>; rel="prev memento"; datetime="Fri, 29 Jun 2018 21:05:52 GMT", <https://web.archive.org/web/20180711092730/http://live.huffpost.com/robots.txt>; rel="memento"; datetime="Wed, 11 Jul 2018 09:27:30 GMT", <https://web.archive.org/web/20180712210219/http://live.huffpost.com/robots.txt>; rel="next memento"; datetime="Thu, 12 Jul 2018 21:02:19 GMT", <https://web.archive.org/web/20190830100046/http://live.huffpost.com/robots.txt>; rel="last memento"; datetime="Fri, 30 Aug 2019 10:00:46 GMT"
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< Memento-Datetime: Wed, 11 Jul 2018 09:27:30 GMT
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Content-Length: 3388
+< X-Tr: 462
+< X-Na: 0
+< X-Archive-Orig-Connection: close
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Cache-Key: httpsweb.archive.org/web/20180711092730if_/http://live.huffpost.com/robots.txtUS
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< X-Archive-Orig-Server: ATS
+< X-Archive-Guessed-Charset: utf-8
+< Server-Timing: RedisCDXSource;dur=0.661464, captures_list;dur=118.235999, exclusion.robots.policy;dur=0.362158, PetaboxLoader3.datanode;dur=69.426714, LoadShardBlock;dur=77.305620, CDXLines.iter;dur=34.869527, PetaboxLoader3.resolve;dur=206.411909, exclusion.robots;dur=0.377926, load_resource;dur=251.990793, esindex;dur=0.013266
+< X-Page-Cache: MISS
+< Connection: keep-alive
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< X-Rl: 0
+< X-Archive-Orig-Age: 0
+< X-Archive-Guessed-Content-Type: text/html
+< X-Ts: 200
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Date: Wed, 11 Jul 2018 09:27:32 GMT
+< X-Archive-Orig-Cache-Control: max-age=3600, public
+< X-Archive-Src: liveweb-20180711080814/cachegw-20180711044925-wwwb-app52.us.archive.org.warc.gz
+< Date: Mon, 26 Jul 2021 15:39:17 GMT
+< X-App-Server: wwwb-app104

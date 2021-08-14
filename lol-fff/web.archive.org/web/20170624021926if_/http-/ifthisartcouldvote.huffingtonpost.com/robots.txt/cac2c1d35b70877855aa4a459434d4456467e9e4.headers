@@ -1,0 +1,44 @@
+GET https://web.archive.org/web/20170624021926if_/http://ifthisartcouldvote.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Cache-Control: public
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Expires: Sat, 24 Jun 2017 05:14:12 GMT
+< X-Page-Cache: MISS
+< X-Archive-Orig-Server: openresty
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Orig-Vary: X-UA-Device, Accept, Accept-Encoding
+< X-Archive-Orig-P3p: CP="Tumblr's privacy policy is available here: https://www.tumblr.com/policy/en/privacy"
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Encoding: utf-8
+< X-Tr: 579
+< X-Na: 0
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Cache-Key: httpsweb.archive.org/web/20170624021926if_/http://ifthisartcouldvote.huffingtonpost.com/robots.txtUS
+< Content-Type: text/plain;charset=UTF-8
+< X-Archive-Orig-Date: Sat, 24 Jun 2017 02:19:27 GMT
+< X-Archive-Orig-Pragma: 
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Guessed-Content-Type: text/plain
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: captures_list;dur=218.587571, exclusion.robots;dur=0.324759, exclusion.robots.policy;dur=0.311484, RedisCDXSource;dur=2.033545, esindex;dur=0.013255, LoadShardBlock;dur=184.193140, PetaboxLoader3.datanode;dur=161.082369, CDXLines.iter;dur=25.285588, load_resource;dur=334.886607, PetaboxLoader3.resolve;dur=164.116741
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 16:00:06 GMT
+< X-Archive-Orig-Content-Length: 181
+< X-Location: All
+< X-Archive-Orig-X-Ua-Device: desktop
+< X-Archive-Orig-X-Ua-Compatible: IE=Edge,chrome=1
+< Link: <http://ifthisartcouldvote.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://ifthisartcouldvote.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://ifthisartcouldvote.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160805153647/http://ifthisartcouldvote.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Fri, 05 Aug 2016 15:36:47 GMT", <https://web.archive.org/web/20170314225618/http://ifthisartcouldvote.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Tue, 14 Mar 2017 22:56:18 GMT", <https://web.archive.org/web/20170624021926/http://ifthisartcouldvote.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Sat, 24 Jun 2017 02:19:26 GMT", <https://web.archive.org/web/20180318041900/http://ifthisartcouldvote.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Sun, 18 Mar 2018 04:19:00 GMT", <https://web.archive.org/web/20201111043724/https://ifthisartcouldvote.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Wed, 11 Nov 2020 04:37:24 GMT"
+< X-Archive-Src: liveweb-20170624042329/cachegw-20170623113300-wwwb-app12.us.archive.org.warc.gz
+< X-Ts: 200
+< X-Rl: 0
+< X-App-Server: wwwb-app56
+< Connection: keep-alive
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-X-Frame-Options: deny
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-Last-Modified: Mon, 19 Jun 2017 09:04:38 GMT
+< Memento-Datetime: Sat, 24 Jun 2017 02:19:26 GMT

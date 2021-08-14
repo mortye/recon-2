@@ -1,0 +1,191 @@
+[
+    {
+        "arguments": "/home/morty/tools/Tools/dnsrecon/dnsrecon.py -d huffpost.net -a -j subdomains/zonetransfer.json",
+        "date": "2021-07-21 04:52:40.755662",
+        "type": "ScanInfo"
+    },
+    {
+        "ns_server": "13.226.36.15",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "13.226.36.123",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.193.6",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5307:ef00::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.195.38",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5301:600::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.197.236",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "13.226.36.56",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "13.226.36.6",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5305:ec00::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5303:2600::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.199.239",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "address": "13.226.36.6",
+        "domain": "huffpost.net",
+        "mname": "huffpost.net",
+        "type": "SOA"
+    },
+    {
+        "address": "13.226.36.123",
+        "domain": "huffpost.net",
+        "mname": "huffpost.net",
+        "type": "SOA"
+    },
+    {
+        "address": "13.226.36.56",
+        "domain": "huffpost.net",
+        "mname": "huffpost.net",
+        "type": "SOA"
+    },
+    {
+        "address": "13.226.36.15",
+        "domain": "huffpost.net",
+        "mname": "huffpost.net",
+        "type": "SOA"
+    },
+    {
+        "Version": "",
+        "address": "205.251.195.38",
+        "domain": "huffpost.net",
+        "recursive": "True",
+        "target": "ns-806.awsdns-36.net",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5303:2600::1",
+        "domain": "huffpost.net",
+        "recursive": "False",
+        "target": "ns-806.awsdns-36.net",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "205.251.199.239",
+        "domain": "huffpost.net",
+        "recursive": "True",
+        "target": "ns-2031.awsdns-61.co.uk",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5307:ef00::1",
+        "domain": "huffpost.net",
+        "recursive": "False",
+        "target": "ns-2031.awsdns-61.co.uk",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "205.251.193.6",
+        "domain": "huffpost.net",
+        "recursive": "True",
+        "target": "ns-262.awsdns-32.com",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5301:600::1",
+        "domain": "huffpost.net",
+        "recursive": "False",
+        "target": "ns-262.awsdns-32.com",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "205.251.197.236",
+        "domain": "huffpost.net",
+        "recursive": "True",
+        "target": "ns-1516.awsdns-61.org",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5305:ec00::1",
+        "domain": "huffpost.net",
+        "recursive": "False",
+        "target": "ns-1516.awsdns-61.org",
+        "type": "NS"
+    },
+    {
+        "address": "13.226.36.6",
+        "domain": "huffpost.net",
+        "name": "huffpost.net",
+        "type": "A"
+    },
+    {
+        "address": "13.226.36.123",
+        "domain": "huffpost.net",
+        "name": "huffpost.net",
+        "type": "A"
+    },
+    {
+        "address": "13.226.36.56",
+        "domain": "huffpost.net",
+        "name": "huffpost.net",
+        "type": "A"
+    },
+    {
+        "address": "13.226.36.15",
+        "domain": "huffpost.net",
+        "name": "huffpost.net",
+        "type": "A"
+    },
+    {
+        "domain": "huffpost.net",
+        "name": "huffpost.net",
+        "strings": "e47c89934c2643af87f5919147cde880",
+        "type": "TXT"
+    },
+    {
+        "domain": "huffpost.net",
+        "name": "_dmarc.huffpost.net",
+        "strings": "v=DMARC1; p=reject; pct=100; rua=mailto:dmarc-yahoo-rua@yahoo-inc.com;",
+        "type": "TXT"
+    }
+]

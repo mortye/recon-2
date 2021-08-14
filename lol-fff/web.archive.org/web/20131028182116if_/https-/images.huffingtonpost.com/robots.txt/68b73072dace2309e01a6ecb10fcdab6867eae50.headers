@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20131028182116if_/https://images.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Orig-Last-Modified: Fri, 25 Oct 2013 23:32:58 GMT
+< X-Rl: 0
+< X-Archive-Orig-Date: Mon, 28 Oct 2013 18:21:16 GMT
+< X-Archive-Guessed-Content-Type: text/plain
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< Cache-Control: max-age=1800
+< X-Na: 0
+< X-Cache-Key: httpsweb.archive.org/web/20131028182116if_/https://images.huffingtonpost.com/robots.txtUS
+< Link: <https://images.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://images.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://images.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20070710212612/http://images.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 10 Jul 2007 21:26:12 GMT", <https://web.archive.org/web/20131028180005/http://images.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Mon, 28 Oct 2013 18:00:05 GMT", <https://web.archive.org/web/20131028182116/https://images.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Mon, 28 Oct 2013 18:21:16 GMT", <https://web.archive.org/web/20131028190752/http://images.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Mon, 28 Oct 2013 19:07:52 GMT", <https://web.archive.org/web/20210724221347/https://images.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 22:13:47 GMT"
+< Server-Timing: CDXLines.iter;dur=196.778026, PetaboxLoader3.datanode;dur=150.772927, load_resource;dur=146.271667, exclusion.robots.policy;dur=0.313504, esindex;dur=0.016704, exclusion.robots;dur=0.328613, LoadShardBlock;dur=249.708185, RedisCDXSource;dur=0.832543, PetaboxLoader3.resolve;dur=64.656317, captures_list;dur=2862.089270
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-Expires: Tue, 29 Oct 2013 00:21:16 GMT
+< X-Archive-Orig-Accept-Ranges: bytes
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server: nginx/1.15.8
+< X-Archive-Orig-Server: nginx/1.2.6 (Ubuntu)
+< X-Ts: 200
+< X-Tr: 3243
+< X-Location: All
+< X-Nid: -
+< X-Archive-Orig-Cache-Control: max-age=21600
+< X-Archive-Src: huffingtonpost.com-20131028-054724/IA-FOC-huffingtonpost.com-20131028092331-00000.warc.gz
+< Memento-Datetime: Mon, 28 Oct 2013 18:21:16 GMT
+< X-App-Server: wwwb-app39
+< Date: Mon, 26 Jul 2021 18:24:46 GMT
+< X-Archive-Orig-Content-Length: 728

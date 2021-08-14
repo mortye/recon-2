@@ -1,0 +1,38 @@
+GET https://web.archive.org/web/20190603053334if_/http://new.www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Tr: 443
+< Date: Mon, 26 Jul 2021 15:44:01 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Page-Cache: MISS
+< X-Nid: -
+< X-Archive-Orig-Date: Mon, 03 Jun 2019 05:33:34 GMT
+< Link: <http://new.www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://new.www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://new.www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160614030017/http://new.www.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 14 Jun 2016 03:00:17 GMT", <https://web.archive.org/web/20190602200844/http://new.www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Sun, 02 Jun 2019 20:08:44 GMT", <https://web.archive.org/web/20190603053334/http://new.www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Mon, 03 Jun 2019 05:33:34 GMT", <https://web.archive.org/web/20190604080700/http://new.www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Tue, 04 Jun 2019 08:07:00 GMT", <https://web.archive.org/web/20210705043424/https://new.www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Mon, 05 Jul 2021 04:34:24 GMT"
+< X-Ts: 200
+< X-Archive-Orig-Cache-Control: max-age=3600, public
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Src: ARCHIVEIT-12099-DAILY-JOB918195-SEED2001450-20190602-00000/ARCHIVEIT-12099-DAILY-JOB918195-SEED2001450-20190602170646169-00000-h3.warc.gz
+< Server-Timing: load_resource;dur=241.256386, exclusion.robots.policy;dur=0.399403, LoadShardBlock;dur=96.881317, captures_list;dur=156.748701, CDXLines.iter;dur=28.897257, PetaboxLoader3.resolve;dur=111.274993, RedisCDXSource;dur=9.259179, PetaboxLoader3.datanode;dur=210.304816, esindex;dur=0.014928, exclusion.robots;dur=0.417785
+< X-Cache-Key: httpsweb.archive.org/web/20190603053334if_/http://new.www.huffingtonpost.com/robots.txtUS
+< X-Archive-Orig-Age: 0
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Archive-Guessed-Content-Type: text/html
+< X-App-Server: wwwb-app103
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri https://csp.yahoo.com/beacon/csp?src=generic
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< X-Location: All
+< Connection: keep-alive
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Guessed-Charset: utf-8
+< Memento-Datetime: Mon, 03 Jun 2019 05:33:34 GMT
+< X-Na: 0
+< X-Archive-Orig-P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+< X-Archive-Orig-Content-Length: 3388
+< X-Archive-Orig-Server: ATS

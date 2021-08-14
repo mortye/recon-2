@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20180408015803if_/http://calendar.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 Found
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Connection: keep-alive
+< Location: https://web.archive.org/web/20180408015803if_/http://calendar.teamaol.com/
+< X-Archive-Orig-Connection: Keep-Alive
+< X-Archive-Src: liveweb-20180408075049/cachegw-20180407192752-wwwb-app10.us.archive.org.warc.gz
+< X-Ts: 302
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< Link: <http://calendar.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://calendar.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://calendar.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180408015803/http://calendar.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Sun, 08 Apr 2018 01:58:03 GMT", <https://web.archive.org/web/20180408015803/http://calendar.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Sun, 08 Apr 2018 01:58:03 GMT", <https://web.archive.org/web/20180423185730/http://calendar.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Mon, 23 Apr 2018 18:57:30 GMT", <https://web.archive.org/web/20190802074943/http://calendar.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 02 Aug 2019 07:49:43 GMT"
+< X-Na: 0
+< X-Nid: -
+< Date: Mon, 26 Jul 2021 17:12:03 GMT
+< X-Archive-Orig-Server: Apache
+< X-App-Server: wwwb-app58
+< Content-Type: text/html; charset=iso-8859-1
+< X-Archive-Orig-Content-Length: 212
+< X-Archive-Orig-Keep-Alive: timeout=15, max=9964
+< X-Tr: 275
+< X-Cache-Key: httpsweb.archive.org/web/20180408015803if_/http://calendar.huffingtonpost.com/robots.txtUS
+< Server-Timing: PetaboxLoader3.datanode;dur=112.491578, RedisCDXSource;dur=6.320670, LoadShardBlock;dur=125.938344, captures_list;dur=153.038962, esindex;dur=0.010818, exclusion.robots;dur=0.325256, exclusion.robots.policy;dur=0.312979, PetaboxLoader3.resolve;dur=40.543011, load_resource;dur=104.968302, CDXLines.iter;dur=17.679379
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Cache-Control: max-age=1800
+< X-Page-Cache: MISS
+< X-Archive-Orig-Date: Sun, 08 Apr 2018 01:58:05 GMT
+< Memento-Datetime: Sun, 08 Apr 2018 01:58:03 GMT
+< X-Location: All

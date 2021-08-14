@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20110523220050if_/http://horizon.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Connection: close
+< X-App-Server: wwwb-app56
+< X-Location: All
+< Date: Mon, 26 Jul 2021 15:48:27 GMT
+< Connection: keep-alive
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Rl: 0
+< X-Archive-Orig-Date: Mon, 23 May 2011 22:00:50 GMT
+< X-Archive-Guessed-Content-Type: text/html
+< Link: <http://horizon.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://horizon.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://horizon.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20100728181035/http://horizon.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Wed, 28 Jul 2010 18:10:35 GMT", <https://web.archive.org/web/20110522223354/http://horizon.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Sun, 22 May 2011 22:33:54 GMT", <https://web.archive.org/web/20110523220050/http://horizon.buzzfeed.com/robots.txt>; rel="memento"; datetime="Mon, 23 May 2011 22:00:50 GMT", <https://web.archive.org/web/20110524221440/http://horizon.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Tue, 24 May 2011 22:14:40 GMT", <https://web.archive.org/web/20190607151017/http://horizon.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Fri, 07 Jun 2019 15:10:17 GMT"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: captures_list;dur=377.251946, exclusion.robots;dur=0.254753, exclusion.robots.policy;dur=0.242001, RedisCDXSource;dur=27.479179, esindex;dur=0.012915, LoadShardBlock;dur=273.006514, PetaboxLoader3.datanode;dur=185.026143, CDXLines.iter;dur=21.315851, load_resource;dur=323.651568, PetaboxLoader3.resolve;dur=171.800940
+< X-Ts: 200
+< X-Archive-Orig-Server: Apache/2.2.3 (CentOS)
+< X-Archive-Orig-X-Powered-By: PHP/5.3.5
+< X-Archive-Src: ARCHIVEIT-2438-DAILY-JVQTTB-00000/ARCHIVEIT-2438-DAILY-JVQTTB-20110523220044-00000-crawling201.us.archive.org-6683.warc.gz
+< Permissions-Policy: interest-cohort=()
+< X-Tr: 802
+< X-Page-Cache: MISS
+< Memento-Datetime: Mon, 23 May 2011 22:00:50 GMT
+< X-Na: 0
+< X-Archive-Orig-Content-Length: 1344
+< X-Archive-Guessed-Charset: utf-8
+< Server: nginx/1.15.8
+< Content-Type: text/html; charset=UTF-8
+< X-Cache-Key: httpsweb.archive.org/web/20110523220050if_/http://horizon.buzzfeed.com/robots.txtUS

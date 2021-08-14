@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /backstage/
+Disallow: /blackberry/
+Disallow: /users/
+Disallow: /contact/pop/
+Disallow: /t/
+Disallow: /archive/
+Disallow: /social/
+Disallow: /commentsv3/
+Disallow: /mobileweb/comments/
+Disallow: /recipe-search/
+Disallow: /*-recipes/*/*/*/"
+Disallow: /ads/sponsor/*
+Disallow: /*editors-note*

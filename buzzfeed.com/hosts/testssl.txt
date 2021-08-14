@@ -1,0 +1,1645 @@
+
+====== Running in file batch mode with file="hosts/ips.txt" ======
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 104.106.255.107
+
+ Start 2021-07-21 12:28:06        -->> 104.106.255.107:443 (104.106.255.107) <<--
+
+ rDNS (104.106.255.107): a104-106-255-107.deploy.static.akamaitechnologies.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     Server does not support any cipher suites that use RSA key transport
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     VULNERABLE (NOT ok), DoS threat (6 attempts)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           no RSA certificate, thus certificate can't be used with SSLv2 elsewhere
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK)
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:28:23 [  19s] -->> 104.106.255.107:443 (104.106.255.107) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 104.16.171.253
+
+ Start 2021-07-21 12:28:25        -->> 104.16.171.253:443 (104.16.171.253) <<--
+
+ rDNS (104.16.171.253):  --
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=A6C18657E738C89A75BF0BCE2362D07AC52AA6A3C02A8CF66AC03D9A6E5B91A2 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK)
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:28:52 [  29s] -->> 104.16.171.253:443 (104.16.171.253) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 13.225.206.52
+
+ Start 2021-07-21 12:28:55        -->> 13.225.206.52:443 (13.225.206.52) <<--
+
+ rDNS (13.225.206.52):   server-13-225-206-52.ewr50.r.cloudfront.net.
+
+ 13.225.206.52:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 13.225.206.68
+
+ Start 2021-07-21 12:28:59        -->> 13.225.206.68:443 (13.225.206.68) <<--
+
+ rDNS (13.225.206.68):   server-13-225-206-68.ewr50.r.cloudfront.net.
+
+ 13.225.206.68:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 13.225.66.4
+
+ Start 2021-07-21 12:29:03        -->> 13.225.66.4:443 (13.225.66.4) <<--
+
+ rDNS (13.225.66.4):     server-13-225-66-4.ewr53.r.cloudfront.net.
+
+ 13.225.66.4:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 13.225.66.47
+
+ Start 2021-07-21 12:29:07        -->> 13.225.66.47:443 (13.225.66.47) <<--
+
+ rDNS (13.225.66.47):    server-13-225-66-47.ewr53.r.cloudfront.net.
+
+ 13.225.66.47:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 13.225.66.71
+
+ Start 2021-07-21 12:29:11        -->> 13.225.66.71:443 (13.225.66.71) <<--
+
+ rDNS (13.225.66.71):    server-13-225-66-71.ewr53.r.cloudfront.net.
+
+ 13.225.66.71:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 13.225.66.82
+
+ Start 2021-07-21 12:29:15        -->> 13.225.66.82:443 (13.225.66.82) <<--
+
+ rDNS (13.225.66.82):    server-13-225-66-82.ewr53.r.cloudfront.net.
+
+ 13.225.66.82:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 13.225.66.83
+
+ Start 2021-07-21 12:29:19        -->> 13.225.66.83:443 (13.225.66.83) <<--
+
+ rDNS (13.225.66.83):    server-13-225-66-83.ewr53.r.cloudfront.net.
+
+ 13.225.66.83:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 13.225.71.88
+
+ Start 2021-07-21 12:29:24        -->> 13.225.71.88:443 (13.225.71.88) <<--
+
+ rDNS (13.225.71.88):    server-13-225-71-88.ewr53.r.cloudfront.net.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK), reply empty
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              some unexpected "handshake failure" instead of "inappropriate fallback"
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    VULNERABLE, uses 64 bit block ciphers
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=66BAF2672184BC587C5F61614DBAFB5C90C4260A85A352CCBE6893E2255343D5 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     TLS1: ECDHE-RSA-AES128-SHA 
+                                                 CDHE-RSA-AES256-SHA 
+                                                 ES256-SHA
+                                                 AES128-SHA
+                                                 DES-CBC3-SHA 
+                                           VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK)
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:31:52 [ 151s] -->> 13.225.71.88:443 (13.225.71.88) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 13.226.36.129
+
+ Start 2021-07-21 12:31:55        -->> 13.226.36.129:443 (13.226.36.129) <<--
+
+ rDNS (13.226.36.129):   server-13-226-36-129.ewr53.r.cloudfront.net.
+
+ 13.226.36.129:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 13.226.36.31
+
+ Start 2021-07-21 12:31:59        -->> 13.226.36.31:443 (13.226.36.31) <<--
+
+ rDNS (13.226.36.31):    server-13-226-36-31.ewr53.r.cloudfront.net.
+
+ 13.226.36.31:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 13.226.36.40
+
+ Start 2021-07-21 12:32:03        -->> 13.226.36.40:443 (13.226.36.40) <<--
+
+ rDNS (13.226.36.40):    server-13-226-36-40.ewr53.r.cloudfront.net.
+
+ 13.226.36.40:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 13.88.237.90
+
+ Start 2021-07-21 12:32:07        -->> 13.88.237.90:443 (13.88.237.90) <<--
+
+ rDNS (13.88.237.90):    --
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK), no session ticket extension
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=54A776D59017722EE1D346B7AC3F135BDE0693D66DFE1C834A1DFF267E624C33 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:32:39 [  34s] -->> 13.88.237.90:443 (13.88.237.90) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 142.250.72.115
+
+ Start 2021-07-21 12:32:41        -->> 142.250.72.115:443 (142.250.72.115) <<--
+
+ rDNS (142.250.72.115):  lga34s32-in-f19.1e100.net.
+
+ 142.250.72.115:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 142.250.80.19
+
+ Start 2021-07-21 12:32:45        -->> 142.250.80.19:443 (142.250.80.19) <<--
+
+ rDNS (142.250.80.19):   lga34s33-in-f19.1e100.net.
+
+ 142.250.80.19:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 151.101.2.114
+
+ Start 2021-07-21 12:32:50        -->> 151.101.2.114:443 (151.101.2.114) <<--
+
+ rDNS (151.101.2.114):   --
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           no RSA certificate, thus certificate can't be used with SSLv2 elsewhere
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK)
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:34:16 [  88s] -->> 151.101.2.114:443 (151.101.2.114) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 172.217.12.179
+
+ Start 2021-07-21 12:34:19        -->> 172.217.12.179:443 (172.217.12.179) <<--
+
+ rDNS (172.217.12.179):  lga25s62-in-f19.1e100.net.
+
+ 172.217.12.179:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 173.193.133.94
+
+ Start 2021-07-21 12:34:23        -->> 173.193.133.94:443 (173.193.133.94) <<--
+
+ rDNS (173.193.133.94):  5e.85.c1ad.ip4.static.sl-reverse.com. Oops: TCP connect problem
+
+Unable to open a socket to 173.193.133.94:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 18.233.139.36
+
+ Start 2021-07-21 12:36:35        -->> 18.233.139.36:443 (18.233.139.36) <<--
+
+ rDNS (18.233.139.36):   ec2-18-233-139-36.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=877451070279F883030FD0644368FE6903E6F23DA4142B47CF1B0CF73F49A02E could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:37:06 [  33s] -->> 18.233.139.36:443 (18.233.139.36) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 18.234.32.149
+
+ Start 2021-07-21 12:37:08        -->> 18.234.32.149:443 (18.234.32.149) <<--
+
+ rDNS (18.234.32.149):   ec2-18-234-32-149.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     Server does not support any cipher suites that use RSA key transport
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           no RSA certificate, thus certificate can't be used with SSLv2 elsewhere
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK)
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:37:22 [  16s] -->> 18.234.32.149:443 (18.234.32.149) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 185.199.108.153
+
+ Start 2021-07-21 12:37:24        -->> 185.199.108.153:443 (185.199.108.153) <<--
+
+ rDNS (185.199.108.153): cdn-185-199-108-153.github.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           no RSA certificate, thus certificate can't be used with SSLv2 elsewhere
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK)
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:38:51 [  89s] -->> 185.199.108.153:443 (185.199.108.153) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 192.161.154.1
+
+ Start 2021-07-21 12:38:53        -->> 192.161.154.1:443 (192.161.154.1) <<--
+
+ rDNS (192.161.154.1):   -- Oops: TCP connect problem
+
+Unable to open a socket to 192.161.154.1:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 198.185.159.144
+
+ Start 2021-07-21 12:41:06        -->> 198.185.159.144:443 (198.185.159.144) <<--
+
+ rDNS (198.185.159.144): --
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     Server does not support any cipher suites that use RSA key transport
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           no RSA certificate, thus certificate can't be used with SSLv2 elsewhere
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK)
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:41:22 [  18s] -->> 198.185.159.144:443 (198.185.159.144) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 198.49.23.145
+
+ Start 2021-07-21 12:41:25        -->> 198.49.23.145:443 (198.49.23.145) <<--
+
+ rDNS (198.49.23.145):   --
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     Server does not support any cipher suites that use RSA key transport
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           no RSA certificate, thus certificate can't be used with SSLv2 elsewhere
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK)
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:41:41 [  19s] -->> 198.49.23.145:443 (198.49.23.145) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 208.82.15.3
+
+ Start 2021-07-21 12:41:43        -->> 208.82.15.3:443 (208.82.15.3) <<--
+
+ rDNS (208.82.15.3):     -- Oops: TCP connect problem
+
+Unable to open a socket to 208.82.15.3:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 23.227.38.65
+
+ Start 2021-07-21 12:43:56        -->> 23.227.38.65:443 (23.227.38.65) <<--
+
+ rDNS (23.227.38.65):    myshopify.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=B091C2A197C5F826A9FB71237E58CECD4970159C982D23CAE52EBBBECD41F257 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK)
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:44:22 [  29s] -->> 23.227.38.65:443 (23.227.38.65) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 23.227.38.74
+
+ Start 2021-07-21 12:44:25        -->> 23.227.38.74:443 (23.227.38.74) <<--
+
+ rDNS (23.227.38.74):    --
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=B091C2A197C5F826A9FB71237E58CECD4970159C982D23CAE52EBBBECD41F257 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK)
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:44:52 [  30s] -->> 23.227.38.74:443 (23.227.38.74) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 3.210.40.137
+
+ Start 2021-07-21 12:44:54        -->> 3.210.40.137:443 (3.210.40.137) <<--
+
+ rDNS (3.210.40.137):    ec2-3-210-40-137.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK), no session ticket extension
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     VULNERABLE (NOT ok), DoS threat (6 attempts)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              Downgrade attack prevention supported (OK)
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=BD726ECDC3A0DCDAA12B0837F90E504F840D6280ABE7C31757850B8ADE3D8332 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     TLS1: ECDHE-RSA-AES128-SHA 
+                                                 CDHE-RSA-AES256-SHA 
+                                                 ES128-SHA
+                                                 AES256-SHA 
+                                           VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:45:32 [  40s] -->> 3.210.40.137:443 (3.210.40.137) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 3.218.187.122
+
+ Start 2021-07-21 12:45:35        -->> 3.218.187.122:443 (3.218.187.122) <<--
+
+ rDNS (3.218.187.122):   ec2-3-218-187-122.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=877451070279F883030FD0644368FE6903E6F23DA4142B47CF1B0CF73F49A02E could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:46:06 [  33s] -->> 3.218.187.122:443 (3.218.187.122) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 3.226.166.212
+
+ Start 2021-07-21 12:46:08        -->> 3.226.166.212:443 (3.226.166.212) <<--
+
+ rDNS (3.226.166.212):   ec2-3-226-166-212.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK)
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     Server does not support any cipher suites that use RSA key transport
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           no RSA certificate, thus certificate can't be used with SSLv2 elsewhere
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:46:25 [  19s] -->> 3.226.166.212:443 (3.226.166.212) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 3.227.124.255
+
+ Start 2021-07-21 12:46:27        -->> 3.227.124.255:443 (3.227.124.255) <<--
+
+ rDNS (3.227.124.255):   ec2-3-227-124-255.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=877451070279F883030FD0644368FE6903E6F23DA4142B47CF1B0CF73F49A02E could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:46:58 [  33s] -->> 3.227.124.255:443 (3.227.124.255) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 34.194.30.149
+
+ Start 2021-07-21 12:47:00        -->> 34.194.30.149:443 (34.194.30.149) <<--
+
+ rDNS (34.194.30.149):   ec2-34-194-30-149.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=877451070279F883030FD0644368FE6903E6F23DA4142B47CF1B0CF73F49A02E could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:47:32 [  34s] -->> 34.194.30.149:443 (34.194.30.149) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 34.198.22.180
+
+ Start 2021-07-21 12:47:34        -->> 34.198.22.180:443 (34.198.22.180) <<--
+
+ rDNS (34.198.22.180):   ec2-34-198-22-180.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=877451070279F883030FD0644368FE6903E6F23DA4142B47CF1B0CF73F49A02E could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:48:06 [  34s] -->> 34.198.22.180:443 (34.198.22.180) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 34.200.136.111
+
+ Start 2021-07-21 12:48:09        -->> 34.200.136.111:443 (34.200.136.111) <<--
+
+ rDNS (34.200.136.111):  ec2-34-200-136-111.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=AA1D5CD258D725B7361AB35EFFF1DFE7844626BAD08B23524171AC678F3F1C86 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:48:40 [  34s] -->> 34.200.136.111:443 (34.200.136.111) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 34.203.126.16
+
+ Start 2021-07-21 12:48:43        -->> 34.203.126.16:443 (34.203.126.16) <<--
+
+ rDNS (34.203.126.16):   ec2-34-203-126-16.compute-1.amazonaws.com. Oops: TCP connect problem
+
+Unable to open a socket to 34.203.126.16:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 34.230.154.121
+
+ Start 2021-07-21 12:50:56        -->> 34.230.154.121:443 (34.230.154.121) <<--
+
+ rDNS (34.230.154.121):  ec2-34-230-154-121.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    potentially NOT ok, "gzip" HTTP compression detected. - only supplied "/" tested
+                                           Can be ignored for static pages or if no secrets in the page
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=AA1D5CD258D725B7361AB35EFFF1DFE7844626BAD08B23524171AC678F3F1C86 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:51:32 [  39s] -->> 34.230.154.121:443 (34.230.154.121) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 34.233.252.69
+
+ Start 2021-07-21 12:51:34        -->> 34.233.252.69:443 (34.233.252.69) <<--
+
+ rDNS (34.233.252.69):   ec2-34-233-252-69.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=AA1D5CD258D725B7361AB35EFFF1DFE7844626BAD08B23524171AC678F3F1C86 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:52:06 [  34s] -->> 34.233.252.69:443 (34.233.252.69) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 44.238.102.154
+
+ Start 2021-07-21 12:52:08        -->> 44.238.102.154:443 (44.238.102.154) <<--
+
+ rDNS (44.238.102.154):  ec2-44-238-102-154.us-west-2.compute.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK), no session ticket extension
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     VULNERABLE (NOT ok), DoS threat (6 attempts)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              Downgrade attack prevention supported (OK)
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=6811D3C403DAF6887F167A0A1EB673592970BF2A30F803AF76D2AFEF78DAB354 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     TLS1: ECDHE-RSA-AES128-SHA 
+                                                 CDHE-RSA-AES256-SHA 
+                                                 ES128-SHA
+                                                 AES256-SHA 
+                                           VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:52:52 [  46s] -->> 44.238.102.154:443 (44.238.102.154) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 50.16.137.80
+
+ Start 2021-07-21 12:52:54        -->> 50.16.137.80:443 (50.16.137.80) <<--
+
+ rDNS (50.16.137.80):    ec2-50-16-137-80.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=AA1D5CD258D725B7361AB35EFFF1DFE7844626BAD08B23524171AC678F3F1C86 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:53:31 [  39s] -->> 50.16.137.80:443 (50.16.137.80) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 50.59.128.230
+
+ Start 2021-07-21 12:53:33        -->> 50.59.128.230:443 (50.59.128.230) <<--
+
+ rDNS (50.59.128.230):   -- Oops: TCP connect problem
+
+Unable to open a socket to 50.59.128.230:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.1.119.170
+
+ Start 2021-07-21 12:55:46        -->> 52.1.119.170:443 (52.1.119.170) <<--
+
+ rDNS (52.1.119.170):    ec2-52-1-119-170.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), timed out
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    potentially NOT ok, "gzip" HTTP compression detected. - only supplied "/" tested
+                                           Can be ignored for static pages or if no secrets in the page
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              Downgrade attack prevention supported (OK)
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=A04328B1DB9394EF6E8EDA51BE27B2C70E2F232CC695317B4C4F23526B783423 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     TLS1: ECDHE-RSA-AES128-SHA 
+                                                 CDHE-RSA-AES256-SHA 
+                                                 ES256-SHA
+                                                 AES128-SHA 
+                                           VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:56:33 [  49s] -->> 52.1.119.170:443 (52.1.119.170) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.202.174.118
+
+ Start 2021-07-21 12:56:35        -->> 52.202.174.118:443 (52.202.174.118) <<--
+
+ rDNS (52.202.174.118):  ec2-52-202-174-118.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=AA1D5CD258D725B7361AB35EFFF1DFE7844626BAD08B23524171AC678F3F1C86 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:57:07 [  34s] -->> 52.202.174.118:443 (52.202.174.118) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.207.55.171
+
+ Start 2021-07-21 12:57:10        -->> 52.207.55.171:443 (52.207.55.171) <<--
+
+ rDNS (52.207.55.171):   ec2-52-207-55-171.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK), no session ticket extension
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     VULNERABLE (NOT ok), DoS threat (6 attempts)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    potentially NOT ok, "gzip" HTTP compression detected. - only supplied "/" tested
+                                           Can be ignored for static pages or if no secrets in the page
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              Downgrade attack prevention supported (OK)
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=BD726ECDC3A0DCDAA12B0837F90E504F840D6280ABE7C31757850B8ADE3D8332 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     TLS1: ECDHE-RSA-AES128-SHA 
+                                                 CDHE-RSA-AES256-SHA 
+                                                 ES128-SHA
+                                                 AES256-SHA 
+                                           VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 12:57:57 [  49s] -->> 52.207.55.171:443 (52.207.55.171) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.216.132.146
+
+ Start 2021-07-21 12:58:00        -->> 52.216.132.146:443 (52.216.132.146) <<--
+
+ rDNS (52.216.132.146):  s3-website-us-east-1.amazonaws.com. Oops: TCP connect problem
+
+Unable to open a socket to 52.216.132.146:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.216.205.122
+
+ Start 2021-07-21 13:00:13        -->> 52.216.205.122:443 (52.216.205.122) <<--
+
+ rDNS (52.216.205.122):  s3-website-us-east-1.amazonaws.com. Oops: TCP connect problem
+
+Unable to open a socket to 52.216.205.122:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.216.29.11
+
+ Start 2021-07-21 13:02:26        -->> 52.216.29.11:443 (52.216.29.11) <<--
+
+ rDNS (52.216.29.11):    s3-website-us-east-1.amazonaws.com. Oops: TCP connect problem
+
+Unable to open a socket to 52.216.29.11:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.217.32.155
+
+ Start 2021-07-21 13:04:39        -->> 52.217.32.155:443 (52.217.32.155) <<--
+
+ rDNS (52.217.32.155):   s3-website-us-east-1.amazonaws.com. Oops: TCP connect problem
+
+Unable to open a socket to 52.217.32.155:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.217.44.19
+
+ Start 2021-07-21 13:06:52        -->> 52.217.44.19:443 (52.217.44.19) <<--
+
+ rDNS (52.217.44.19):    s3-website-us-east-1.amazonaws.com. Oops: TCP connect problem
+
+Unable to open a socket to 52.217.44.19:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.217.96.228
+
+ Start 2021-07-21 13:09:05        -->> 52.217.96.228:443 (52.217.96.228) <<--
+
+ rDNS (52.217.96.228):   s3-1-w.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK), no session ticket extension
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              Check failed, unexpected result , run testssl.sh -Z --debug=1 and look at /tmp/testssl.GO4APw/*tls_fallback_scsv.txt
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    VULNERABLE, uses 64 bit block ciphers
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=62D486F092A61B639D70D81789BBCD9E5D49CA659C2FA58216D906D4E4CF4FD2 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     TLS1: ECDHE-RSA-AES128-SHA 
+                                                 CDHE-RSA-AES256-SHA 
+                                                 ES128-SHA
+                                                 AES256-SHA
+                                                 DES-CBC3-SHA 
+                                           VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - ARIA, CHACHA or CCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 13:09:37 [  34s] -->> 52.217.96.228:443 (52.217.96.228) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.24.185.245
+
+ Start 2021-07-21 13:09:39        -->> 52.24.185.245:443 (52.24.185.245) <<--
+
+ rDNS (52.24.185.245):   ec2-52-24-185-245.us-west-2.compute.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=D76A88040353222259E9E78C6439DC54A4454D2C493A7347288F20F5E4BF4CBD could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 13:10:17 [  40s] -->> 52.24.185.245:443 (52.24.185.245) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.3.15.185
+
+ Start 2021-07-21 13:10:19        -->> 52.3.15.185:443 (52.3.15.185) <<--
+
+ rDNS (52.3.15.185):     ec2-52-3-15-185.compute-1.amazonaws.com. Oops: TCP connect problem
+
+Unable to open a socket to 52.3.15.185:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.4.135.32
+
+ Start 2021-07-21 13:12:32        -->> 52.4.135.32:443 (52.4.135.32) <<--
+
+ rDNS (52.4.135.32):     ec2-52-4-135-32.compute-1.amazonaws.com. Oops: TCP connect problem
+
+Unable to open a socket to 52.4.135.32:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.6.90.232
+
+ Start 2021-07-21 13:14:45        -->> 52.6.90.232:443 (52.6.90.232) <<--
+
+ rDNS (52.6.90.232):     ec2-52-6-90-232.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=AA1D5CD258D725B7361AB35EFFF1DFE7844626BAD08B23524171AC678F3F1C86 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 13:15:17 [  34s] -->> 52.6.90.232:443 (52.6.90.232) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.7.101.15
+
+ Start 2021-07-21 13:15:19        -->> 52.7.101.15:443 (52.7.101.15) <<--
+
+ rDNS (52.7.101.15):     ec2-52-7-101-15.compute-1.amazonaws.com. Oops: TCP connect problem
+
+Unable to open a socket to 52.7.101.15:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.7.89.175
+
+ Start 2021-07-21 13:17:31        -->> 52.7.89.175:443 (52.7.89.175) <<--
+
+ rDNS (52.7.89.175):     ec2-52-7-89-175.compute-1.amazonaws.com. Oops: TCP connect problem
+
+Unable to open a socket to 52.7.89.175:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.70.79.61
+
+ Start 2021-07-21 13:19:44        -->> 52.70.79.61:443 (52.70.79.61) <<--
+
+ rDNS (52.70.79.61):     ec2-52-70-79-61.compute-1.amazonaws.com. Oops: TCP connect problem
+
+Unable to open a socket to 52.70.79.61:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.8.240.98
+
+ Start 2021-07-21 13:21:57        -->> 52.8.240.98:443 (52.8.240.98) <<--
+
+ rDNS (52.8.240.98):     ec2-52-8-240-98.us-west-1.compute.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), timed out
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK), session IDs were returned but potential memory fragments do not differ
+ ROBOT                                     Server does not support any cipher suites that use RSA key transport
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              Downgrade attack prevention supported (OK)
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=BE604F602C2B9CF61F6089B4CEBDD4F8E1FE3E88E3D4803D6DAC10D77480F485 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no common prime detected
+ BEAST (CVE-2011-3389)                     TLS1: ECDHE-RSA-AES256-SHA 
+                                                 HE-RSA-AES256-SHA 
+                                           VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 13:22:32 [  37s] -->> 52.8.240.98:443 (52.8.240.98) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 52.86.180.187
+
+ Start 2021-07-21 13:22:35        -->> 52.86.180.187:443 (52.86.180.187) <<--
+
+ rDNS (52.86.180.187):   ec2-52-86-180-187.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=877451070279F883030FD0644368FE6903E6F23DA4142B47CF1B0CF73F49A02E could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 13:23:06 [  34s] -->> 52.86.180.187:443 (52.86.180.187) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 54.173.122.227
+
+ Start 2021-07-21 13:23:09        -->> 54.173.122.227:443 (54.173.122.227) <<--
+
+ rDNS (54.173.122.227):  ec2-54-173-122-227.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK), no session ticket extension
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     VULNERABLE (NOT ok), DoS threat (6 attempts)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              Downgrade attack prevention supported (OK)
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=BD726ECDC3A0DCDAA12B0837F90E504F840D6280ABE7C31757850B8ADE3D8332 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     TLS1: ECDHE-RSA-AES128-SHA 
+                                                 CDHE-RSA-AES256-SHA 
+                                                 ES128-SHA
+                                                 AES256-SHA 
+                                           VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 13:23:47 [  40s] -->> 54.173.122.227:443 (54.173.122.227) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 54.175.100.204
+
+ Start 2021-07-21 13:23:50        -->> 54.175.100.204:443 (54.175.100.204) <<--
+
+ rDNS (54.175.100.204):  ec2-54-175-100-204.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), timed out
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK), session IDs were returned but potential memory fragments do not differ
+ ROBOT                                     Server does not support any cipher suites that use RSA key transport
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              Downgrade attack prevention supported (OK)
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=BE604F602C2B9CF61F6089B4CEBDD4F8E1FE3E88E3D4803D6DAC10D77480F485 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no common prime detected
+ BEAST (CVE-2011-3389)                     TLS1: ECDHE-RSA-AES256-SHA 
+                                                 HE-RSA-AES256-SHA 
+                                           VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 13:24:17 [  30s] -->> 54.175.100.204:443 (54.175.100.204) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 54.192.101.22
+
+ Start 2021-07-21 13:24:19        -->> 54.192.101.22:443 (54.192.101.22) <<--
+
+ rDNS (54.192.101.22):   server-54-192-101-22.ewr53.r.cloudfront.net.
+
+ 54.192.101.22:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 54.192.101.33
+
+ Start 2021-07-21 13:24:23        -->> 54.192.101.33:443 (54.192.101.33) <<--
+
+ rDNS (54.192.101.33):   server-54-192-101-33.ewr53.r.cloudfront.net.
+
+ 54.192.101.33:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 54.192.101.37
+
+ Start 2021-07-21 13:24:28        -->> 54.192.101.37:443 (54.192.101.37) <<--
+
+ rDNS (54.192.101.37):   server-54-192-101-37.ewr53.r.cloudfront.net.
+
+ 54.192.101.37:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 54.192.101.86
+
+ Start 2021-07-21 13:24:32        -->> 54.192.101.86:443 (54.192.101.86) <<--
+
+ rDNS (54.192.101.86):   server-54-192-101-86.ewr53.r.cloudfront.net.
+
+ 54.192.101.86:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 54.192.101.9
+
+ Start 2021-07-21 13:24:36        -->> 54.192.101.9:443 (54.192.101.9) <<--
+
+ rDNS (54.192.101.9):    server-54-192-101-9.ewr53.r.cloudfront.net.
+
+ 54.192.101.9:443 doesn't seem to be a TLS/SSL enabled server
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 54.213.31.53
+
+ Start 2021-07-21 13:24:40        -->> 54.213.31.53:443 (54.213.31.53) <<--
+
+ rDNS (54.213.31.53):    ec2-54-213-31-53.us-west-2.compute.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=D76A88040353222259E9E78C6439DC54A4454D2C493A7347288F20F5E4BF4CBD could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 13:25:18 [  40s] -->> 54.213.31.53:443 (54.213.31.53) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 54.81.52.55
+
+ Start 2021-07-21 13:25:21        -->> 54.81.52.55:443 (54.81.52.55) <<--
+
+ rDNS (54.81.52.55):     ec2-54-81-52-55.compute-1.amazonaws.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=AA1D5CD258D725B7361AB35EFFF1DFE7844626BAD08B23524171AC678F3F1C86 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 13:25:52 [  34s] -->> 54.81.52.55:443 (54.81.52.55) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 54.88.133.207
+
+ Start 2021-07-21 13:25:54        -->> 54.88.133.207:443 (54.88.133.207) <<--
+
+ rDNS (54.88.133.207):   ec2-54-88-133-207.compute-1.amazonaws.com. Oops: TCP connect problem
+
+Unable to open a socket to 54.88.133.207:443. 
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 76.223.20.182
+
+ Start 2021-07-21 13:28:06        -->> 76.223.20.182:443 (76.223.20.182) <<--
+
+ rDNS (76.223.20.182):   afffcfa8cfaedc693.awsglobalaccelerator.com.
+ Service detected:       HTTP
+
+
+ Testing vulnerabilities 
+
+ Heartbleed (CVE-2014-0160)                not vulnerable (OK), no heartbeat extension
+ CCS (CVE-2014-0224)                       not vulnerable (OK)
+ Ticketbleed (CVE-2016-9244), experiment.  not vulnerable (OK)
+ ROBOT                                     not vulnerable (OK)
+ Secure Renegotiation (RFC 5746)           supported (OK)
+ Secure Client-Initiated Renegotiation     not vulnerable (OK)
+ CRIME, TLS (CVE-2012-4929)                not vulnerable (OK)
+ BREACH (CVE-2013-3587)                    no gzip/deflate/compress/br HTTP compression (OK)  - only supplied "/" tested
+ POODLE, SSL (CVE-2014-3566)               not vulnerable (OK)
+ TLS_FALLBACK_SCSV (RFC 7507)              No fallback possible (OK), no protocol below TLS 1.2 offered
+ SWEET32 (CVE-2016-2183, CVE-2016-6329)    not vulnerable (OK)
+ FREAK (CVE-2015-0204)                     not vulnerable (OK)
+ DROWN (CVE-2016-0800, CVE-2016-0703)      not vulnerable on this host and port (OK)
+                                           make sure you don't use this certificate elsewhere with SSLv2 enabled services
+                                           https://censys.io/ipv4?q=02F7B9728AF7CEC51CA20A9FA57763A541E9E1CF33B14A88126E3DF2927A0C22 could help you to find out
+ LOGJAM (CVE-2015-4000), experimental      not vulnerable (OK): no DH EXPORT ciphers, no DH key detected with <= TLS 1.2
+ BEAST (CVE-2011-3389)                     not vulnerable (OK), no SSL3 or TLS1
+ LUCKY13 (CVE-2013-0169), experimental     potentially VULNERABLE, uses cipher block chaining (CBC) ciphers with TLS. Check patches
+ Winshock (CVE-2014-6321), experimental    not vulnerable (OK) - CAMELLIA or ECDHE_RSA GCM ciphers found
+ RC4 (CVE-2013-2566, CVE-2015-2808)        no RC4 ciphers detected (OK)
+
+
+ Done 2021-07-21 13:28:37 [  33s] -->> 76.223.20.182:443 (76.223.20.182) <<--
+
+
+=================================
+/home/morty/tools/Tools/testssl.sh/testssl.sh --quiet --color 0 -U --warnings=batch 96.88.17.185
+
+ Start 2021-07-21 13:28:39        -->> 96.88.17.185:443 (96.88.17.185) <<--
+
+ rDNS (96.88.17.185):    96-88-17-185-static.hfc.comcastbusiness.net. Oops: TCP connect problem
+
+Unable to open a socket to 96.88.17.185:443. 
+
+

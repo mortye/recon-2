@@ -1,0 +1,33 @@
+GET https://web.archive.org/web/20110416030003if_/http://www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Date: Sat, 16 Apr 2011 03:00:03 GMT
+< Referrer-Policy: no-referrer-when-downgrade
+< Date: Mon, 26 Jul 2021 17:05:47 GMT
+< X-Archive-Orig-Last-Modified: Sat, 16 Apr 2011 02:36:42 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-App-Server: wwwb-app57
+< Server: nginx/1.15.8
+< X-Archive-Orig-Server: Apache/2.2.8 (Unix)
+< Cache-Control: max-age=1800
+< Memento-Datetime: Sat, 16 Apr 2011 03:00:03 GMT
+< X-Archive-Orig-Connection: close
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: ARCHIVEIT-2349-NONE-YRQPDA-00002/ARCHIVEIT-2349-NONE-YRQPDA-20110416025935-00240-crawling201.us.archive.org-6683.warc.gz
+< Server-Timing: exclusion.robots;dur=1.360952, exclusion.robots.policy;dur=1.281603, RedisCDXSource;dur=1332.248773, esindex;dur=0.059699, LoadShardBlock;dur=1071.455730, PetaboxLoader3.datanode;dur=721.052256, CDXLines.iter;dur=375.735005, PetaboxLoader3.resolve;dur=288.221895, load_resource;dur=104.184480
+< X-Tr: 2999
+< X-Rl: 0
+< Connection: keep-alive
+< X-Archive-Orig-Etag: "25e247d-5a-4a10007562280"
+< Link: <http://www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20110416030002/http://huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Sat, 16 Apr 2011 03:00:02 GMT", <https://web.archive.org/web/20110416030003/http://www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Sat, 16 Apr 2011 03:00:03 GMT", <https://web.archive.org/web/20110416044647/http://www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Sat, 16 Apr 2011 04:46:47 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< X-Location: All
+< X-Na: 0
+< X-Page-Cache: MISS
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Cache-Key: httpsweb.archive.org/web/20110416030003if_/http://www.huffingtonpost.com/robots.txtUS
+< Content-Type: text/plain; charset=utf-8
+< X-Archive-Orig-Content-Length: 90
+< X-Ts: 200
+< X-Nid: -

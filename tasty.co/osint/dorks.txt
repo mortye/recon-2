@@ -1,0 +1,330 @@
+
+# Cloud buckets S3/GCP (https://www.google.com/search?q=site%3A.s3.amazonaws.com%20%7C%20site%3Astorage.googleapis.com%20%7C%20site%3Aamazonaws.com%20%22tasty%22)
+-- 10 results --
+
+The Tasty K - a happy, plant-based & sustainable living
+http://ec2-52-27-167-186.us-west-2.compute.amazonaws.com/
+
+Recipes - The Tasty K
+http://ec2-52-27-167-186.us-west-2.compute.amazonaws.com/recipes/
+
+Sweet Treats Archives - The Tasty K
+http://ec2-52-27-167-186.us-west-2.compute.amazonaws.com/category/sweet-treats/
+
+Vegan Archives - The Tasty K
+http://ec2-52-27-167-186.us-west-2.compute.amazonaws.com/tag/vegan/
+
+Snickers Ice Cream Cake - The Tasty K
+http://ec2-52-27-167-186.us-west-2.compute.amazonaws.com/2019/06/30/snickers-ice-cream-cake/
+
+sushi Archives - The Tasty K
+http://ec2-52-27-167-186.us-west-2.compute.amazonaws.com/tag/sushi/
+
+Healthy Sweets & Treats - The Tasty K
+http://ec2-52-27-167-186.us-west-2.compute.amazonaws.com/healthy-sweets-treats/
+
+Vegan Spaghetti Bolognese - The Tasty K
+http://ec2-52-27-167-186.us-west-2.compute.amazonaws.com/2020/01/29/vegan-spaghetti-bolognese/
+
+Vegetable Flatbread Tarte - The Tasty K
+http://ec2-52-27-167-186.us-west-2.compute.amazonaws.com/2019/07/26/vegetable-flatbread-tarte/
+
+[PDF] Tasty and Healthy- Heart Healthy Filipino Recipes
+https://pr-alb-web-609085401.us-east-1.elb.amazonaws.com/health/educational/healthdisp/pdf/recipes/Recipes-Filipino.pdf
+
+# PHP errors (https://www.google.com/search?q=site%3Atasty.co%20%5C%22PHP%20Parse%20error%5C%22%20%7C%20%5C%22PHP%20Warning%5C%22%20%7C%20%5C%22PHP%20Error%5C%22)
+no results
+
+# Stackoverflow (https://www.google.com/search?q=site%3Astackoverflow.com%20%22tasty.co%22)
+-- 8 results --
+
+How to get the output of a function to be the input of another function ...
+https://stackoverflow.com/questions/65705666/how-to-get-the-output-of-a-function-to-be-the-input-of-another-function
+
+Web Crawler with BS4 and a Show more button - Stack Overflow
+https://stackoverflow.com/questions/65797291/web-crawler-with-bs4-and-a-show-more-button
+
+Scrapy scraped only the 4 pages - Stack Overflow
+https://stackoverflow.com/questions/53835499/scrapy-scraped-only-the-4-pages
+
+Multithread python request in webscraping - Stack Overflow
+https://stackoverflow.com/questions/59094900/multithread-python-request-in-webscraping
+
+Why is requests.get() not working in a for loop? - Stack Overflow
+https://stackoverflow.com/questions/54598785/why-is-requests-get-not-working-in-a-for-loop
+
+Emulator Nexus5X Android 8.0 Instant App - Stack Overflow
+https://stackoverflow.com/questions/46772805/emulator-nexus5x-android-8-0-instant-app/46778319
+
+Can't link out from amp-autocomplete when selecting a result ...
+https://stackoverflow.com/questions/56955097/cant-link-out-from-amp-autocomplete-when-selecting-a-result
+
+Emulator Nexus5X Android 8.0 Instant App - Stack Overflow
+https://stackoverflow.com/questions/46772805/emulator-nexus5x-android-8-0-instant-app
+
+# Config files (https://www.google.com/search?q=site%3Atasty.co%20ext%3Axml%20%7C%20ext%3Aconf%20%7C%20ext%3Acnf%20%7C%20ext%3Areg%20%7C%20ext%3Ainf%20%7C%20ext%3Ardp%20%7C%20ext%3Acfg%20%7C%20ext%3Atxt%20%7C%20ext%3Aora%20%7C%20ext%3Aenv%20%7C%20ext%3Aini)
+-- 3 results --
+
+adingo.jp, 23813, RESELLER adtech.com, 10947, DIRECT adtech ...
+https://www.tasty.co/ads.txt
+
+User-agent: discobot Disallow: / User-agent: dotbot Disallow: / User ...
+https://tasty.co/robots.txt
+
+https://tasty.co/compilation/chia-seed-pudding-4-ways 2017-07-24 ...
+https://tasty.co/sitemaps/tasty/sitemap.xml
+
+# Other files (https://www.google.com/search?q=site%3Atasty.co%20intitle%3Aindex.of%20%7C%20ext%3Alog%20%7C%20ext%3Aphp%20intitle%3Aphpinfo%20%5C%22published%20by%20the%20PHP%20Group%5C%22%20%7C%20inurl%3Ashell%20%7C%20inurl%3Abackdoor%20%7C%20inurl%3Awso%20%7C%20inurl%3Acmd%20%7C%20shadow%20%7C%20passwd%20%7C%20boot.ini%20%7C%20inurl%3Abackdoor%20%7C%20inurl%3Areadme%20%7C%20inurl%3Alicense%20%7C%20inurl%3Ainstall%20%7C%20inurl%3Asetup%20%7C%20inurl%3Aconfig%20%7C%20inurl%3A%5C%22%2Fphpinfo.php%5C%22%20%7C%20inurl%3A%5C%22.htaccess%5C%22%20%7C%20ext%3Aswf)
+no results
+
+# Project management sites (https://www.google.com/search?q=site%3Atrello.com%20%7C%20site%3A*.atlassian.net%20%22tasty%22)
+-- 10 results --
+
+Tasty Recipes Feature Requests - Trello
+https://trello.com/b/tUK7PvK9/tasty-recipes-feature-requests
+
+TASTY CAFE! (tastycafe) - Trello
+https://trello.com/tastycafe
+
+Tasty on AST ROSTER - Trello
+https://trello.com/c/9rCvC2wq/17-tasty
+
+Tasty Freeze (tastyfreeze) - Trello
+https://trello.com/tastyfreeze
+
+Tasty Links Feature Requests - Trello
+https://trello.com/b/mZ7dVtIV/tasty-links-feature-requests
+
+Tasty - Trello
+https://trello.com/b/WFmJtp4Y/tasty
+
+Tasty-Delivery - Trello
+https://trello.com/b/NgFU5WdY/tasty-delivery
+
+Tasty'z&#8482; | Music Trello
+https://trello.com/b/zt99Zbgy/tastyz%E2%84%A2-music-trello
+
+Tasty Music on Bruh - Trello
+https://trello.com/c/BIJVDpNp/8-tasty-music
+
+Tasty Pins Feature Requests - Trello
+https://trello.com/b/b9WdbSUN/tasty-pins-feature-requests
+
+# GitLab/GitHub/Bitbucket (https://www.google.com/search?q=site%3Agithub.com%20%7C%20site%3Agitlab.com%20%7C%20site%3Abitbucket.org%20%22tasty%22)
+-- 10 results --
+
+UnkindPartition/tasty: Modern and extensible testing ... - GitHub
+https://github.com/UnkindPartition/tasty
+
+xenial-io/Tasty: Delicious dotnet testing - GitHub
+https://github.com/xenial-io/Tasty
+
+NREL/tasty - GitHub
+https://github.com/NREL/tasty
+
+minad/tasty-auto: Deprecated: Auto discovery for the Tasty ... - GitHub
+https://github.com/minad/tasty-auto
+
+qfpl/tasty-hedgehog: Tasty integration for the Hedgehog ... - GitHub
+https://github.com/qfpl/tasty-hedgehog
+
+TASTy Reader For Scala 2 - GitHub
+https://github.com/scala/scala/blob/2.13.x/doc/internal/tastyreader.md
+
+UnkindPartition/tasty-golden: Golden test support for Tasty - GitHub
+https://github.com/feuerbach/tasty-golden
+
+qfpl/tasty-wai - GitHub
+https://github.com/qfpl/tasty-wai
+
+scala/scala3-tasty-inspector.g8 - GitHub
+https://github.com/scala/scala3-tasty-inspector.g8
+
+nomeata/tasty-expected-failure: Mark test cases as ... - GitHub
+https://github.com/nomeata/tasty-expected-failure
+
+# Linkedin employees (https://www.google.com/search?q=site%3Alinkedin.com%20employees%20tasty.co)
+-- 10 results --
+
+Employees at Tasty - LinkedIn
+https://www.linkedin.com/company/tasty
+
+Employees at Tasty Restaurant Group - LinkedIn
+https://www.linkedin.com/company/tastybrandslp
+
+Employees at Tasty Foods - LinkedIn
+https://www.linkedin.com/company/tasty-foods
+
+Employees at BuzzFeed - LinkedIn
+https://www.linkedin.com/company/buzzfeed
+
+Employees at Tasty Beverage Company - LinkedIn
+https://www.linkedin.com/company/tasty-beverage-company
+
+Employees at Tasty Baking Company - LinkedIn
+https://www.linkedin.com/company/tasty-baking-company
+
+Tastykake Inc | LinkedIn
+https://www.linkedin.com/company/tastykake-inc
+
+Employees at TASTY PLC - LinkedIn
+https://www.linkedin.com/company/tasty-plc
+
+Employees at AB Tasty - LinkedIn
+https://www.linkedin.com/company/ab-tasty
+
+Employees at Honestly Tasty - LinkedIn
+https://www.linkedin.com/company/honestly-tasty
+
+# Apache Struts RCE (https://www.google.com/search?q=site%3Atasty.co%20ext%3Aaction%20%7C%20ext%3Astruts%20%7C%20ext%3Ado)
+no results
+
+# Database files (https://www.google.com/search?q=site%3Atasty.co%20ext%3Asql%20%7C%20ext%3Adbf%20%7C%20ext%3Amdb)
+no results
+
+# Subdomains (https://www.google.com/search?q=site%3A*.tasty.co)
+-- 3 results --
+
+Tasty - Chicken Sliders For Everyone 4 Ways | Facebook
+http://www.tasty.co/tysonchicken
+
+adingo.jp, 23813, RESELLER adtech.com, 10947, DIRECT adtech ...
+https://www.tasty.co/ads.txt
+
+https://vid.tasty.co/
+https://vid.tasty.co/
+
+# Code share sites (https://www.google.com/search?q=site%3Asharecode.io%20%7C%20site%3Acontrolc.com%20%7C%20site%3Acodepad.co%20%7Csite%3Aideone.com%20%7C%20site%3Acodebeautify.org%20%7C%20site%3Ajsdelivr.com%20%7C%20site%3Acodeshare.io%20%7C%20site%3Acodepen.io%20%7C%20site%3Arepl.it%20%7C%20site%3Ajsfiddle.net%20%22tasty%22)
+-- 10 results --
+
+Tasty Sites on CodePen
+https://codepen.io/tastysites
+
+tasty-api CDN by jsDelivr - A CDN for npm and GitHub
+https://www.jsdelivr.com/package/npm/tasty-api
+
+Tasty Sites on CodePen
+https://codepen.io/tastysites/pens/templates/
+
+vue-tasty-burgers CDN by jsDelivr - A CDN for npm and GitHub
+https://www.jsdelivr.com/package/npm/vue-tasty-burgers
+
+react-native-tasty-toast CDN by jsDelivr - A CDN for npm and GitHub
+https://www.jsdelivr.com/package/npm/react-native-tasty-toast
+
+Tasty CSS Hamburgers - CodePen
+https://codepen.io/smargh/pen/NNxyez
+
+100% Tasty - CodePen
+https://codepen.io/undeadinstitute/pen/YzyJwxp
+
+Tasty Burger Menu - CodePen
+https://codepen.io/marinehe/pen/XxXPBj
+
+Tasty Burger Menu - CodePen
+https://codepen.io/nelsonswork/pen/XbbJVx
+
+Tasty Select - CodePen
+https://codepen.io/CreativeLittleChris/pen/eJvVxa
+
+# Sub-subdomains (https://www.google.com/search?q=site%3A*.*.tasty.co)
+no results
+
+# Exposed documents (https://www.google.com/search?q=site%3Atasty.co%20ext%3Adoc%20%7C%20ext%3Adocx%20%7C%20ext%3Aodt%20%7C%20ext%3Apdf%20%7C%20ext%3Artf%20%7C%20ext%3Asxw%20%7C%20ext%3Apsw%20%7C%20ext%3Appt%20%7C%20ext%3Apptx%20%7C%20ext%3Apps%20%7C%20ext%3Acsv)
+no results
+
+# .git folder (https://www.google.com/search?q=inurl%3A%5C%22%2F.git%5C%22%20tasty.co%20-github)
+no results
+
+# Login pages (https://www.google.com/search?q=site%3Atasty.co%20inurl%3Asignup%20%7C%20inurl%3Aregister%20%7C%20intitle%3ASignup)
+-- 1 results --
+
+The Essential Wedding Registry List For Your Kitchen - Tasty
+https://tasty.co/article/emofly/what-you-should-register-for
+
+# Wordpress files (https://www.google.com/search?q=site%3Atasty.co%20inurl%3Awp-content%20%7C%20inurl%3Awp-includes)
+no results
+
+# Other 3rd parties sites (https://www.google.com/search?q=site%3Agitter.im%20%7C%20site%3Apapaly.com%20%7C%20site%3Aproductforums.google.com%20%7C%20site%3Acoggle.it%20%7C%20site%3Areplt.it%20%7C%20site%3Aycombinator.com%20%7C%20site%3Alibraries.io%20%7C%20site%3Anpm.runkit.com%20%7C%20site%3Anpmjs.com%20%7C%20site%3Ascribd.com%20%22tasty%22)
+-- 10 results --
+
+tasty - npm
+https://www.npmjs.com/package/tasty
+
+tasty-ui - npm
+https://www.npmjs.com/package/tasty-ui
+
+vue-tasty-burgers - npm
+https://www.npmjs.com/package/vue-tasty-burgers
+
+react-native-tasty-toast - npm
+https://www.npmjs.com/package/react-native-tasty-toast
+
+gobuffalo/pop: A Tasty Treat For All Your Database Needs - GitHub
+https://news.ycombinator.com/item?id=16732892
+
+tasty-api - npm
+https://www.npmjs.com/package/tasty-api?activeTab=readme
+
+tasty-ui - npm
+https://www.npmjs.com/package/tasty-ui?activeTab=dependencies
+
+react-native-tasty-toast - npm
+https://www.npmjs.com/package/react-native-tasty-toast?activeTab=readme
+
+npm
+https://www.npmjs.com/~builat
+
+Read Tasty Every Day Online by Tasty | Books - Scribd
+https://www.scribd.com/book/431609158/Tasty-Every-Day-All-of-the-Flavor-None-of-the-Fuss-An-Official-Tasty-Cookbook
+
+# Traefik (https://www.google.com/search?q=intitle%3Atraefik%20inurl%3A8080%2Fdashboard%20%22tasty%22)
+no results
+
+# Open redirects (https://www.google.com/search?q=site%3Atasty.co%20inurl%3Aredir%20%7C%20inurl%3Aurl%20%7C%20inurl%3Aredirect%20%7C%20inurl%3Areturn%20%7C%20inurl%3Asrc%3Dhttp%20%7C%20inurl%3Ar%3Dhttp)
+-- 1 results --
+
+23 Glorious Ways To Eat Mac & Cheese - BuzzFeed
+https://tasty.co/article/rachelysanders/return-of-the-mac
+
+# SQL errors (https://www.google.com/search?q=site%3Atasty.co%20intext%3A%5C%22sql%20syntax%20near%5C%22%20%7C%20intext%3A%5C%22syntax%20error%20has%20occurred%5C%22%20%7C%20intext%3A%5C%22incorrect%20syntax%20near%5C%22%20%7C%20intext%3A%5C%22unexpected%20end%20of%20SQL%20command%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20mysql_connect()%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20mysql_query()%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20pg_connect()%5C%22)
+no results
+
+# Pastebin-like sites (https://www.google.com/search?q=site%3Ajustpaste.it%20%7C%20site%3Aheypasteit.com%20%7C%20site%3Apastebin.com%20%22tasty%22)
+-- 10 results --
+
+Tasty! - Pastebin.com
+https://pastebin.com/ycgqcxBC
+
+CUBE-104: Tasty Chocolate - Pastebin.com
+https://pastebin.com/ar2Lg1nV
+
+12 Healthy And Tasty Snacks For Teens - Pastebin.com
+https://pastebin.com/neHrkHuX
+
+CUBE-104: Tasty Chocolate_top down - Pastebin.com
+https://pastebin.com/CFYGJsyj
+
+Thanks Nightbaker, tasty breads - Pastebin.com
+https://pastebin.com/zs2SHtmq
+
+Tasty, restaurant grade Pad Thai! - Pastebin.com
+https://pastebin.com/JBtJQVx5
+
+TASTY ALTS - Pastebin.com
+https://pastebin.com/sCbc3D8r
+
+Xlgirls.14.10.31.Anna.Beck.Tasty.Tourist.XXX.720p ... - Pastebin.com
+https://pastebin.com/B8SJ2QYD
+
+How to: Get a tasty mini-parse overlay for FFXIV!Download this ...
+https://pastebin.com/yLsM0agm
+
+2020 EP Rate - Pastebin.com
+https://pastebin.com/xLXusJCe
+
+# Backup files (https://www.google.com/search?q=site%3Atasty.co%20ext%3Abkf%20%7C%20ext%3Abkp%20%7C%20ext%3Abak%20%7C%20ext%3Aold%20%7C%20ext%3Abackup)
+no results
+
+# Jenkins (https://www.google.com/search?q=intitle%3A%5C%22Dashboard%20%5BJenkins%5D%5C%22%20%22tasty%22)
+no results

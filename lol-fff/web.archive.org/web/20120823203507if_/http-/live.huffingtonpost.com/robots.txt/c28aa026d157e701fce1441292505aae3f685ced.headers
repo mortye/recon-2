@@ -1,0 +1,33 @@
+GET https://web.archive.org/web/20120823203507if_/http://live.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Server: Apache
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20120823203507if_/http://live.huffingtonpost.com/robots.txtUS
+< Date: Mon, 26 Jul 2021 18:31:10 GMT
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Content-Type: text/plain
+< Server-Timing: captures_list;dur=546.190043, exclusion.robots;dur=0.182859, exclusion.robots.policy;dur=0.175280, RedisCDXSource;dur=1.752291, esindex;dur=0.008507, LoadShardBlock;dur=160.826841, PetaboxLoader3.datanode;dur=2611.451451, CDXLines.iter;dur=54.140653, load_resource;dur=3447.405372, PetaboxLoader3.resolve;dur=78.632445
+< Server: nginx/1.15.8
+< X-Archive-Orig-Content-Length: 262
+< X-Archive-Src: COL-ELECTION2012-024-20120621125529975-00167-00342-wbgrp-crawl011/COL-ELECTION2012-033-20120823202235874-00236-11196~wbgrp-crawl011.us.archive.org~8443.warc.gz
+< X-Tr: 4050
+< Connection: keep-alive
+< X-Archive-Orig-Last-Modified: Thu, 23 Aug 2012 13:35:04 GMT
+< X-Archive-Guessed-Encoding: utf-8
+< Memento-Datetime: Thu, 23 Aug 2012 20:35:07 GMT
+< X-Na: 0
+< X-Archive-Orig-Date: Thu, 23 Aug 2012 20:35:07 GMT
+< X-Archive-Orig-Connection: close
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Access-Control-Allow-Origin: *
+< Link: <http://live.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://live.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://live.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20120813131214/http://live.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Mon, 13 Aug 2012 13:12:14 GMT", <https://web.archive.org/web/20120822182609/http://live.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Wed, 22 Aug 2012 18:26:09 GMT", <https://web.archive.org/web/20120823203507/http://live.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Thu, 23 Aug 2012 20:35:07 GMT", <https://web.archive.org/web/20120824160124/http://live.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Fri, 24 Aug 2012 16:01:24 GMT", <https://web.archive.org/web/20210724152939/http://live.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 15:29:39 GMT"
+< X-Nid: -
+< X-Page-Cache: MISS
+< Permissions-Policy: interest-cohort=()
+< Content-Type: text/plain
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-App-Server: wwwb-app200
+< X-Ts: 200
+< X-Rl: 0

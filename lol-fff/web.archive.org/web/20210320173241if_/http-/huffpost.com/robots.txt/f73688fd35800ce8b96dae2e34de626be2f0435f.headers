@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20210320173241if_/http://huffpost.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Date: Mon, 26 Jul 2021 18:02:57 GMT
+< X-Tr: 2738
+< X-Rl: 0
+< X-Na: 0
+< X-Page-Cache: MISS
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 0
+< Location: https://web.archive.org/web/20210320173002if_/https://www.huffpost.com/robots.txt
+< X-Ts: 302
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< Server-Timing: captures_list;dur=2211.132099, exclusion.robots;dur=0.196449, exclusion.robots.policy;dur=0.188730, RedisCDXSource;dur=13.165953, esindex;dur=0.008139, LoadShardBlock;dur=525.778207, PetaboxLoader3.datanode;dur=394.491130, CDXLines.iter;dur=150.229405, load_resource;dur=406.509599, PetaboxLoader3.resolve;dur=240.939960
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20210320173241if_/http://huffpost.com/robots.txtUS
+< X-Nid: -
+< Server: nginx/1.15.8
+< Connection: keep-alive
+< X-Archive-Redirect-Reason: found capture at 20210320173002
+< X-App-Server: wwwb-app202

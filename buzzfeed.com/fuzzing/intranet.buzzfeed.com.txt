@@ -1,0 +1,6 @@
+302 231 http://intranet.buzzfeed.com/%2e/admin
+302 232 http://intranet.buzzfeed.com/./admin/.
+302 239 http://intranet.buzzfeed.com/.nsf/../winnt/win.ini
+302 241 http://intranet.buzzfeed.com/./web-inf/web.xml
+302 242 http://intranet.buzzfeed.com/.//web-inf/web.xml
+302 249 http://intranet.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess

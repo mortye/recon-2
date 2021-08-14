@@ -1,0 +1,297 @@
+
+14A840.pdf
+----------
+URL: http://documents.buzzfeed.com/14A840.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20150209084430-05'00'
+|_ Title: 14A840 Strange v. Searcy (02/09/2015)
+|_ Creator: PScript5.dll Version 5.2.2
+|_ CreationDate: D:20150209084120-05'00'
+|_ Producer: Acrobat Distiller 11.0 (Windows)
+
+BowersMemo.pdf
+--------------
+URL: http://documents.buzzfeed.com/BowersMemo.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: 2015-02-23 14:12:24
+|_ Creator: Aspose Ltd.
+|_ CreationDate: 2015-02-23 14:12:24
+|_ Producer: Aspose.Pdf for .NET 8.9.1
+
+11262014MSStayRequest5thCir.pdf
+-------------------------------
+URL: http://documents.buzzfeed.com/11262014MSStayRequest5thCir.pdf
+Status code: 200
+Search engines: google
+|_ ModDate: D:20141126142919-06'00'
+|_ Creator: PrintServer140
+|_ CreationDate: D:20141126194834Z
+|_ Producer: Corel PDF Engine Version 1.14.0.755; modified using iText 2.1.7 by 1T3XT
+
+11252014MSDCtRuling.pdf
+-----------------------
+URL: http://documents.buzzfeed.com/11252014MSDCtRuling.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20141125192425-06'00'
+|_ Producer: iText 2.1.7 by 1T3XT
+
+11262014TXCCAPanettiordanddiss.pdf
+----------------------------------
+URL: http://documents.buzzfeed.com/11262014TXCCAPanettiordanddiss.pdf
+Status code: 200
+Search engines: google
+|_ Creator: ScandAll PRO V1.8.1 Update7
+|_ ModDate: D:20141126111306-06'00'
+|_ CreationDate: D:20141126111306-06'00'
+|_ Producer: Adobe PDF Scan Library 3.1
+
+12022014LACertResponse.pdf
+--------------------------
+URL: http://documents.buzzfeed.com/12022014LACertResponse.pdf
+Status code: 200
+Search engines: google
+|_ No metadata found
+
+SaksAnswer.pdf
+--------------
+URL: http://documents.buzzfeed.com/SaksAnswer.pdf
+Status code: 200
+Search engines: google
+|_ ModDate: D:20150108110405-06'00'
+|_ Title: Microsoft Word - 19745662_1.DOC
+|_ Creator: Microsoft Word - 19745662_1.DOC
+|_ CreationDate: D:20141210163058-06'00'
+|_ Author: Anza2527
+|_ Producer: 乵慮捥⁐䑆⁃牥慴攠㠻⁭潤楦楥搠畳楮朠楔數琠㈮ㄮ㜠批‱吳塔
+
+012715-Moore.pdf
+----------------
+URL: https://documents.buzzfeed.com/012715-Moore.pdf
+Status code: 200
+Search engines: google
+|_ ModDate: D:20150127115544-08'00'
+|_ CreationDate: D:20150127114427-06'00'
+
+SaksMtD.pdf
+-----------
+URL: http://documents.buzzfeed.com/SaksMtD.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20150108110426-06'00'
+|_ Title: Microsoft Word - 19850784_1.doc
+|_ Creator: Microsoft Word - 19850784_1.doc
+|_ CreationDate: D:20141229105633-06'00'
+|_ Author: Anza2527
+|_ Producer: 乵慮捥⁐䑆⁃牥慴攠㠻⁭潤楦楥搠畳楮朠楔數琠㈮ㄮ㜠批‱吳塔
+
+11252014ArkDistCtRuling.pdf
+---------------------------
+URL: http://documents.buzzfeed.com/11252014ArkDistCtRuling.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20141125164742-06'00'
+|_ Creator: PScript5.dll Version 5.2.2
+|_ CreationDate: D:20141125160609-06'00'
+|_ Producer: Acrobat Distiller 9.4.6 (Windows); modified using iText 2.1.7 by 1T3XT
+
+020315-MooreLetter.pdf
+----------------------
+URL: http://documents.buzzfeed.com/020315-MooreLetter.pdf
+Status code: 200
+Search engines: google
+|_ No metadata found
+
+brent_email.pdf
+---------------
+URL: https://documents.buzzfeed.com/_NewsDesign/brent_email.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20171020170531-04'00'
+|_ Trapped: /False
+|_ Creator: Adobe InDesign CC 2017 (Macintosh)
+|_ CreationDate: D:20171020170531-04'00'
+|_ Producer: Adobe PDF Library 15.0
+
+CompleteRecipeDocument.pdf
+--------------------------
+URL: https://documents.buzzfeed.com/HEALTH/CompleteRecipeDocument.pdf
+Status code: 200
+Search engines: bing
+|_ Producer: Skia/PDF m61
+
+020315-MooreMemo.pdf
+--------------------
+URL: http://documents.buzzfeed.com/020315-MooreMemo.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20150203171710-06'00'
+|_ Creator: PrintServer150
+|_ CreationDate: D:20150203231242Z
+|_ Producer: Corel PDF Engine Version 15.0.0.512
+
+BF_4Weeks5K_2017_Calendar.pdf
+-----------------------------
+URL: http://documents.buzzfeed.com/HEALTH/BF_4Weeks5K_2017_Calendar.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20170303144301-05'00'
+|_ Title: 2017_xx_Couchto5K_3a.indd
+|_ Trapped: /False
+|_ Creator: Adobe InDesign CC 2017 (Macintosh)
+|_ GTS_PDFXVersion: PDF/X-4
+|_ CreationDate: D:20170303144300-05'00'
+|_ Producer: Adobe PDF Library 15.0
+
+022715-MIpetitionersbrief.pdf
+-----------------------------
+URL: https://documents.buzzfeed.com/022715-MIpetitionersbrief.pdf
+Status code: 200
+Search engines: google
+|_ ModDate: D:20150226121057-06'00'
+|_ Creator: PScript5.dll Version 5.2.2
+|_ CreationDate: D:20150226120852-06'00'
+|_ Producer: Acrobat Distiller 10.1.13 (Windows)
+
+022315-ReedR_wrt07_ord.pdf
+--------------------------
+URL: https://documents.buzzfeed.com/022315-ReedR_wrt07_ord.pdf
+Status code: 200
+Search engines: google
+|_ ModDate: D:20150223222130Z
+|_ Creator: PrintServer150
+|_ CreationDate: D:20150223222130Z
+|_ Producer: Corel PDF Engine Version 15.0.0.357
+
+BF_GetFitChallenge_2017.pdf
+---------------------------
+URL: http://documents.buzzfeed.com/HEALTH/BF_GetFitChallenge_2017.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20161212160259-05'00'
+|_ Trapped: /False
+|_ Creator: Adobe InDesign CC 2015 (Macintosh)
+|_ CreationDate: D:20161212160252-05'00'
+|_ Producer: Adobe PDF Library 15.0
+
+012515AL-plaintiffsresponsetostayrequest.pdf
+--------------------------------------------
+URL: http://documents.buzzfeed.com/012515AL-plaintiffsresponsetostayrequest.pdf
+Status code: 200
+Search engines: google
+|_ ModDate: D:20150125151954-06'00'
+|_ Title: Response to Motion to Stay.pages
+|_ Creator: Pages
+|_ CreationDate: D:20150125162228Z00'00'
+|_ Author: Christine Hernandez
+|_ Producer: Mac OS X 10.10.1 Quartz PDFContext; modified using iText 2.1.7 by 1T3XT
+
+021715-LoudermilkFireChiefLetter.pdf
+------------------------------------
+URL: http://documents.buzzfeed.com/021715-LoudermilkFireChiefLetter.pdf
+Status code: 200
+Search engines: google
+|_ ModDate: D:20150211110052-05'00'
+|_ CreationDate: D:20150211110520-05'00'
+
+GroceryList.pdf
+---------------
+URL: https://documents.buzzfeed.com/HEALTH/GroceryList.pdf
+Status code: 200
+Search engines: bing
+|_ Creator: Adobe Photoshop CC 2017 (Macintosh)
+|_ ModDate: D:20170608173852-04'00'
+|_ CreationDate: D:20170530105331-04'00'
+|_ Producer: Adobe Photoshop for Macintosh -- Image Conversion Plug-in
+
+14A761.pdf
+----------
+URL: http://documents.buzzfeed.com/14A761.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20150115190931-05'00'
+|_ Title: 14A761 Warner v. Gross (01/15/2015)
+|_ Creator: PScript5.dll Version 5.2.2
+|_ CreationDate: D:20150115190703-05'00'
+|_ Producer: Acrobat Distiller 11.0 (Windows)
+
+Sidewalk%20Labs%20DoT_spreadsheet.xlsx
+--------------------------------------
+URL: https://data.buzzfeed.com/projects/2016-10-sidewalk-labs/Sidewalk%20Labs%20DoT_spreadsheet.xlsx
+Status code: 200
+Search engines: bing
+|_ No metadata found
+
+012615-Saks-USGovt.pdf
+----------------------
+URL: http://documents.buzzfeed.com/012615-Saks-USGovt.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20150126094122-06'00'
+|_ Title: Microsoft Word - SAKS SOI Final.docx
+|_ Creator: PScript5.dll Version 5.2.2
+|_ CreationDate: D:20150126095109-05'00'
+|_ Author: lkisch
+|_ Producer: Acrobat Distiller 9.5.5 (Windows); modified using iText 2.1.7 by 1T3XT
+
+030615-AL-motion.pdf
+--------------------
+URL: http://documents.buzzfeed.com/030615-AL-motion.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20150306153421-06'00'
+|_ Creator: Acrobat PDFMaker 11 for Word
+|_ Company: SPLC
+|_ CreationDate: D:20150306150533-06'00'
+|_ Author: Christopher Howard
+|_ SourceModified: 2015-03-06 21:05:18
+|_ Producer: Adobe PDF Library 11.0; modified using iText 2.1.7 by 1T3XT
+
+14-8663%20BIO.pdf
+-----------------
+URL: http://documents.buzzfeed.com/14-8663%20BIO.pdf
+Status code: 200
+Search engines: bing
+|_ Creator: Canon iR-ADV 6075  PDF
+|_ ModDate: D:20150302183839-05'00'
+|_ CreationDate: D:20150302182018-05'00'
+|_ Producer: Adobe PSL 1.1e for Canon
+
+020815-mooreorder-marriage.pdf
+------------------------------
+URL: http://documents.buzzfeed.com/020815-mooreorder-marriage.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20150209021043Z
+|_ Creator: PrintServer150
+|_ CreationDate: D:20150209021043Z
+|_ Producer: Corel PDF Engine Version 15.0.0.512
+
+BuzzKeepers_Sweeps_Rules_Oct_dec_FINAL_2017.pdf
+-----------------------------------------------
+URL: https://buzzkeepers.buzzfeed.com/MediaServer/documents/BuzzKeepers_Sweeps_Rules_Oct_dec_FINAL_2017.pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20171026093016-04'00'
+|_ Creator: Microsoft® Word 2013
+|_ CreationDate: D:20171026093016-04'00'
+|_ Author: Fran Mady
+|_ Producer: Microsoft® Word 2013
+
+view.aspx?src=https%3A%2F%2Fdata.buzzfeed.com%2Fprojects%2F2016-10-sidewalk-labs%2FSidewalk%2520Labs%2520DoT_spreadsheet.xlsx
+-----------------------------------------------------------------------------------------------------------------------------
+URL: https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fdata.buzzfeed.com%2Fprojects%2F2016-10-sidewalk-labs%2FSidewalk%2520Labs%2520DoT_spreadsheet.xlsx
+Status code: 200
+Search engines: bing
+|_ No metadata found
+
+2015.02.09.%20Dkt%2043.%20Plntffs%27%20Emergency%20Mtn%20to%20Amend%20Complaint%20and%20for%20PI....pdf
+-------------------------------------------------------------------------------------------------------
+URL: http://documents.buzzfeed.com/2015.02.09.%20Dkt%2043.%20Plntffs%27%20Emergency%20Mtn%20to%20Amend%20Complaint%20and%20for%20PI....pdf
+Status code: 200
+Search engines: bing
+|_ ModDate: D:20150209192702-06'00'
+|_ CreationDate: D:20150209192702-06'00'
+|_ Producer: iText 2.1.7 by 1T3XT

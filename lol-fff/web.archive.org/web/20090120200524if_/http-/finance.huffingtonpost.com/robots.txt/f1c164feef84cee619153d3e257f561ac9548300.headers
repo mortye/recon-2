@@ -1,0 +1,36 @@
+GET https://web.archive.org/web/20090120200524if_/http://finance.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-X-Cache-Lookup: MISS from squid1.financialcontent.com:3128
+< X-Cache-Key: httpsweb.archive.org/web/20090120200524if_/http://finance.huffingtonpost.com/robots.txtUS
+< X-Na: 0
+< Server: nginx/1.15.8
+< X-Archive-Orig-Expires: Tue, 20 Jan 2009 20:06:24 GMT
+< X-Archive-Orig-Connection: close
+< X-Ts: 200
+< X-Tr: 3164
+< X-Page-Cache: MISS
+< Memento-Datetime: Tue, 20 Jan 2009 20:05:24 GMT
+< X-App-Server: wwwb-app55
+< X-Rl: 0
+< Content-Type: text/html; charset=UTF-8
+< Connection: keep-alive
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Guessed-Content-Type: text/html
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-P3p: "CAO DSP COR CURa ADMa DEVa OUR IND PHY ONL UNI COM NAV INT DEM PRE"
+< X-Archive-Orig-Last-Modified: Tue, 20 Jan 2009 20:05:24 GMT
+< Server-Timing: captures_list;dur=1716.747768, exclusion.robots;dur=0.336973, exclusion.robots.policy;dur=0.323083, RedisCDXSource;dur=5.094589, esindex;dur=0.011643, LoadShardBlock;dur=1684.340376, PetaboxLoader3.datanode;dur=848.671737, CDXLines.iter;dur=23.418216, PetaboxLoader3.resolve;dur=2135.317550, load_resource;dur=1339.520156
+< X-Nid: -
+< X-Archive-Guessed-Charset: iso-8859-1
+< Link: <http://finance.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://finance.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://finance.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20090111230030/http://finance.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Sun, 11 Jan 2009 23:00:30 GMT", <https://web.archive.org/web/20090111230030/http://finance.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Sun, 11 Jan 2009 23:00:30 GMT", <https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 20 Jan 2009 20:05:24 GMT", <https://web.archive.org/web/20110707161241/http://finance.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Thu, 07 Jul 2011 16:12:41 GMT", <https://web.archive.org/web/20190527170401/http://finance.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Mon, 27 May 2019 17:04:01 GMT"
+< Date: Mon, 26 Jul 2021 16:59:45 GMT
+< X-Archive-Orig-X-Cache: MISS from squid1.financialcontent.com
+< X-Location: All
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Date: Tue, 20 Jan 2009 20:05:24 GMT
+< X-Archive-Orig-Server: Apache/2.0.58 (Gentoo) mod_perl/2.0.2 Perl/v5.8.8
+< X-Archive-Orig-Via: 1.0 squid1.financialcontent.com:3128 (squid/2.6.STABLE12)
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Src: webgroup-20100504225155-00075/ARCHIVEIT-1313-MOLLYASTRID-OBAMA-20090120200421-00000-ia400030.us.archive.org.arc.gz

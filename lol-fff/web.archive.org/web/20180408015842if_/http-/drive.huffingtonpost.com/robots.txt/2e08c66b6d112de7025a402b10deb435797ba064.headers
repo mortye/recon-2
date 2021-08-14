@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20180408015842if_/http://drive.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 Found
+< Location: https://web.archive.org/web/20180408015842if_/http://docs.teamaol.com/
+< X-Archive-Orig-Keep-Alive: timeout=15, max=9970
+< Cache-Control: max-age=1800
+< Memento-Datetime: Sun, 08 Apr 2018 01:58:42 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20180408015842if_/http://drive.huffingtonpost.com/robots.txtUS
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< Link: <http://drive.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://drive.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://drive.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180408015842/http://drive.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Sun, 08 Apr 2018 01:58:42 GMT", <https://web.archive.org/web/20180408015842/http://drive.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Sun, 08 Apr 2018 01:58:42 GMT", <https://web.archive.org/web/20180423190334/http://drive.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Mon, 23 Apr 2018 19:03:34 GMT", <https://web.archive.org/web/20190802114701/http://drive.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 02 Aug 2019 11:47:01 GMT"
+< X-Archive-Src: liveweb-20180408110856/cachegw-20180407220037-wwwb-app15.us.archive.org.warc.gz
+< X-Na: 0
+< X-Page-Cache: MISS
+< Date: Mon, 26 Jul 2021 18:03:35 GMT
+< X-Archive-Orig-Date: Sun, 08 Apr 2018 01:58:42 GMT
+< X-Tr: 236
+< X-Archive-Orig-Content-Length: 208
+< X-App-Server: wwwb-app57
+< X-Ts: 302
+< Server: nginx/1.15.8
+< Content-Type: text/html; charset=iso-8859-1
+< X-Archive-Orig-Server: Apache
+< X-Archive-Orig-Connection: Keep-Alive
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Location: All
+< X-Rl: 0
+< Server-Timing: captures_list;dur=113.172106, exclusion.robots;dur=0.223295, exclusion.robots.policy;dur=0.214201, RedisCDXSource;dur=0.555894, esindex;dur=0.009631, LoadShardBlock;dur=81.848439, PetaboxLoader3.datanode;dur=100.915353, CDXLines.iter;dur=26.244354, load_resource;dur=99.822593, PetaboxLoader3.resolve;dur=47.908014
+< Referrer-Policy: no-referrer-when-downgrade

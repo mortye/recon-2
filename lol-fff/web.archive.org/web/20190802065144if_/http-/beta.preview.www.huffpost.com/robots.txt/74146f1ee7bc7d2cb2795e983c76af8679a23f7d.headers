@@ -1,0 +1,37 @@
+GET https://web.archive.org/web/20190802065144if_/http://beta.preview.www.huffpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-App-Server: wwwb-app201
+< X-Na: 0
+< Permissions-Policy: interest-cohort=()
+< Date: Mon, 26 Jul 2021 15:20:33 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20190802065144if_/http://beta.preview.www.huffpost.com/robots.txtUS
+< X-Rl: 0
+< X-Page-Cache: MISS
+< X-Archive-Orig-Accept-Ranges: bytes
+< Link: <http://beta.preview.www.huffpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://beta.preview.www.huffpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://beta.preview.www.huffpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20181128011535/http://beta.preview.www.huffpost.com/robots.txt>; rel="first memento"; datetime="Wed, 28 Nov 2018 01:15:35 GMT", <https://web.archive.org/web/20190510072516/http://beta.preview.www.huffpost.com/robots.txt>; rel="prev memento"; datetime="Fri, 10 May 2019 07:25:16 GMT", <https://web.archive.org/web/20190802065144/http://beta.preview.www.huffpost.com/robots.txt>; rel="memento"; datetime="Fri, 02 Aug 2019 06:51:44 GMT", <https://web.archive.org/web/20190802083751/http://beta.preview.www.huffpost.com/robots.txt>; rel="next memento"; datetime="Fri, 02 Aug 2019 08:37:51 GMT", <https://web.archive.org/web/20190802083751/http://beta.preview.www.huffpost.com/robots.txt>; rel="last memento"; datetime="Fri, 02 Aug 2019 08:37:51 GMT"
+< X-Archive-Orig-X-Hp-Webp: true
+< X-Archive-Orig-Cache-Control: max-age=0,s-maxage=0
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Connection: keep-alive
+< X-Archive-Orig-Content-Length: 779
+< Memento-Datetime: Fri, 02 Aug 2019 06:51:44 GMT
+< X-Archive-Orig-Connection: close
+< Cache-Control: max-age=1800
+< X-Archive-Orig-Etag: W/"30b-16c49035960"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Src: liveweb-20190803002708/cachegw-20190802020706-wwwb-app6.us.archive.org.warc.gz
+< Server-Timing: captures_list;dur=219.392425, exclusion.robots;dur=0.133665, exclusion.robots.policy;dur=0.127081, RedisCDXSource;dur=1.405359, esindex;dur=0.005716, LoadShardBlock;dur=199.200576, PetaboxLoader3.datanode;dur=174.895192, CDXLines.iter;dur=16.800480, load_resource;dur=70.699399, PetaboxLoader3.resolve;dur=36.544902
+< X-Location: All
+< X-Archive-Orig-X-Powered-By: Express
+< X-Archive-Orig-Last-Modified: Wed, 31 Jul 2019 17:10:52 GMT
+< X-Tr: 305
+< Content-Type: text/plain; charset=UTF-8
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< X-Ts: 200
+< Server: nginx/1.15.8
+< X-Archive-Orig-Date: Fri, 02 Aug 2019 06:51:44 GMT

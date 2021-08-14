@@ -1,0 +1,40 @@
+GET https://web.archive.org/web/20190320001046if_/https://cambria.assets.huffpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Date: Mon, 26 Jul 2021 17:01:11 GMT
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Cache-Control: public, max-age=31536000, immutable
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Etag: "18326949d1e033164b2bf4d446e1a5b1"
+< X-Archive-Orig-X-Amz-Id-2: s96rhp31PNsFCTjIYy0z4ZN9GbZyoheHemawp2tsrTJikAKPzsIKsvVYPxDbZIp+sadxRmweUN4=
+< Memento-Datetime: Wed, 20 Mar 2019 00:10:46 GMT
+< X-Archive-Orig-Connection: close
+< Server-Timing: RedisCDXSource;dur=1.302407, captures_list;dur=772.835935, exclusion.robots.policy;dur=0.371057, PetaboxLoader3.datanode;dur=173.131116, LoadShardBlock;dur=215.257985, CDXLines.iter;dur=59.531751, PetaboxLoader3.resolve;dur=151.721385, exclusion.robots;dur=0.387905, load_resource;dur=195.287175, esindex;dur=0.017247
+< X-Cache-Key: httpsweb.archive.org/web/20190320001046if_/https://cambria.assets.huffpost.com/robots.txtUS
+< Connection: keep-alive
+< X-Archive-Orig-X-Amz-Request-Id: 70AA6F561B13A6C7
+< X-Archive-Orig-X-Amz-Server-Side-Encryption: AES256
+< X-Archive-Src: top_domains-00450-20190319-094901/IA-FOC-top_domains-00450-20190320000333-00000.warc.gz
+< Link: <https://cambria.assets.huffpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://cambria.assets.huffpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://cambria.assets.huffpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180930224850/https://cambria.assets.huffpost.com/robots.txt>; rel="first memento"; datetime="Sun, 30 Sep 2018 22:48:50 GMT", <https://web.archive.org/web/20190319161936/https://cambria.assets.huffpost.com/robots.txt>; rel="prev memento"; datetime="Tue, 19 Mar 2019 16:19:36 GMT", <https://web.archive.org/web/20190320001046/https://cambria.assets.huffpost.com/robots.txt>; rel="memento"; datetime="Wed, 20 Mar 2019 00:10:46 GMT", <https://web.archive.org/web/20190320013231/https://cambria.assets.huffpost.com/robots.txt>; rel="next memento"; datetime="Wed, 20 Mar 2019 01:32:31 GMT", <https://web.archive.org/web/20210724235221/https://cambria.assets.huffpost.com/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 23:52:21 GMT"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Ts: 200
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< X-Archive-Orig-Date: Wed, 20 Mar 2019 00:10:46 GMT
+< X-Archive-Orig-X-Cache: HIT
+< X-Location: All
+< X-Archive-Orig-Last-Modified: Thu, 14 Mar 2019 19:13:48 GMT
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Tr: 1056
+< X-App-Server: wwwb-app104
+< X-Na: 0
+< X-Nid: -
+< X-Archive-Orig-Server: ECAcc (sab/571B)
+< X-Archive-Orig-Content-Length: 376
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Page-Cache: MISS
+< Content-Type: text/plain
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Encoding: utf-8

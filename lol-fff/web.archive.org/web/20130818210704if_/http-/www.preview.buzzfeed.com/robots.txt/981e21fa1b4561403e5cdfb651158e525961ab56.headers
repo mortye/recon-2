@@ -1,0 +1,28 @@
+GET https://web.archive.org/web/20130818210704if_/http://www.preview.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Rl: 0
+< X-Na: 0
+< Date: Mon, 26 Jul 2021 16:48:48 GMT
+< X-Archive-Orig-Content-Length: 0
+< Cache-Control: max-age=1800
+< Link: <http://preview.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://preview.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://preview.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20130422215427/http://preview.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Mon, 22 Apr 2013 21:54:27 GMT", <https://web.archive.org/web/20130701074243/http://preview.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Mon, 01 Jul 2013 07:42:43 GMT", <https://web.archive.org/web/20130818210704/http://preview.buzzfeed.com/robots.txt>; rel="memento"; datetime="Sun, 18 Aug 2013 21:07:04 GMT", <https://web.archive.org/web/20130819102111/http://preview.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Mon, 19 Aug 2013 10:21:11 GMT", <https://web.archive.org/web/20190629021725/http://preview.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sat, 29 Jun 2019 02:17:25 GMT"
+< X-App-Server: wwwb-app100
+< X-Ts: 301
+< X-Tr: 279
+< X-Location: All
+< Connection: keep-alive
+< X-Archive-Src: live-20130818032357991-03631-20130818200346564/live-20130818200346564-03709.arc.gz
+< Server-Timing: PetaboxLoader3.datanode;dur=78.272054, CDXLines.iter;dur=24.738940, LoadShardBlock;dur=161.105545, PetaboxLoader3.resolve;dur=24.538599, exclusion.robots.policy;dur=0.346690, esindex;dur=0.012887, load_resource;dur=52.635245, captures_list;dur=193.402151, RedisCDXSource;dur=3.128209, exclusion.robots;dur=0.358893
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< X-Archive-Orig-Server: lighttpd/1.4.28
+< Memento-Datetime: Sun, 18 Aug 2013 21:07:04 GMT
+< X-Nid: -
+< X-Page-Cache: MISS
+< Permissions-Policy: interest-cohort=()
+< Location: https://web.archive.org/web/20130818210704if_/http://www.buzzfeed.com/robots.txt
+< X-Archive-Orig-Date: Sun, 18 Aug 2013 21:05:01 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Cache-Key: httpsweb.archive.org/web/20130818210704if_/http://www.preview.buzzfeed.com/robots.txtUS

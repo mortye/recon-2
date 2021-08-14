@@ -1,0 +1,47 @@
+GET https://web.archive.org/web/20181223213005if_/https://www.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Etag: "5c10eed9-548"
+< X-Archive-Orig-Cache-Control: no-cache, no-store, must-revalidate
+< X-Archive-Orig-Connection: keep-alive
+< X-Archive-Orig-Content-Security-Policy: upgrade-insecure-requests
+< Memento-Datetime: Sun, 23 Dec 2018 21:30:05 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20181223213005if_/https://www.buzzfeed.com/robots.txtUS
+< X-Archive-Orig-Date: Sun, 23 Dec 2018 21:30:05 GMT
+< X-Archive-Orig-Vary: Accept-Encoding
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Encoding: utf-8
+< Link: <https://www.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://www.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20020921163523/http://buzzfeed.com:80/robots.txt>; rel="first memento"; datetime="Sat, 21 Sep 2002 16:35:23 GMT", <https://web.archive.org/web/20181223212806/https://www.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Sun, 23 Dec 2018 21:28:06 GMT", <https://web.archive.org/web/20181223213005/https://www.buzzfeed.com/robots.txt>; rel="memento"; datetime="Sun, 23 Dec 2018 21:30:05 GMT", <https://web.archive.org/web/20181223214013/https://www.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Sun, 23 Dec 2018 21:40:13 GMT", <https://web.archive.org/web/20210725033235/https://www.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 03:32:35 GMT"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Tr: 1245
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/plain
+< Connection: keep-alive
+< X-Page-Cache: MISS
+< X-Archive-Orig-Content-Length: 346
+< X-Archive-Orig-Via: 1.1 varnish
+< X-Archive-Orig-Set-Cookie: bf-geo-country=US; expires=Mon, 24 Dec 2018 21:30:05 GMT; path=/; domain=.buzzfeed.com;
+< X-Archive-Guessed-Content-Type: text/plain
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Server: nginx
+< X-Archive-Orig-Last-Modified: Wed, 12 Dec 2018 11:19:53 GMT
+< X-Archive-Orig-X-Request-Id: 1253039b1ac593b2023d82b826986084
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-X-Cache-Hits: 4
+< X-Archive-Orig-X-Timer: S1545600606.592824,VS0,VE0
+< X-Archive-Orig-X-Served-By: cache-bwi5021-BWI
+< X-Archive-Orig-Age: 265229
+< X-Archive-Orig-X-Frame-Options: SAMEORIGIN
+< X-Archive-Orig-Strict-Transport-Security: max-age=31536000; preload
+< X-Archive-Orig-X-Cache: HIT
+< Server-Timing: RedisCDXSource;dur=15.950216, load_resource;dur=170.353529, exclusion.robots.policy;dur=1.511991, PetaboxLoader3.datanode;dur=448.564226, LoadShardBlock;dur=546.544685, CDXLines.iter;dur=406.269335, PetaboxLoader3.resolve;dur=114.417637, exclusion.robots;dur=1.594825, esindex;dur=0.067086
+< X-Ts: 200
+< X-Rl: 0
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 17:51:09 GMT
+< X-Archive-Src: perma_cc_TJE3-3UUC/TJE3-3UUC.warc.gz
+< X-App-Server: wwwb-app104
+< X-Location: All
+< X-Nid: -

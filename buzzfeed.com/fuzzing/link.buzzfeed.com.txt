@@ -1,0 +1,7 @@
+200 203 https://link.buzzfeed.com/s
+200 203 https://link.buzzfeed.com/s/sfsites/aura
+200 77 https://link.buzzfeed.com/robots.txt
+403 213 https://link.buzzfeed.com/server-info
+403 215 https://link.buzzfeed.com/server-status
+403 215 https://link.buzzfeed.com/server-status?full
+403 215 https://link.buzzfeed.com/server-status?full&showmodulestate

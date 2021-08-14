@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20140204120226if_/http://i0.huffpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Ts: 200
+< X-Nid: -
+< X-Archive-Guessed-Encoding: utf-8
+< X-Page-Cache: MISS
+< X-Archive-Orig-Date: Tue, 04 Feb 2014 12:02:26 GMT
+< X-Rl: 0
+< X-Na: 0
+< X-Archive-Src: huffingtonpost.com-20140204-075921/IA-FOC-huffingtonpost.com-20140204115642-00009.warc.gz
+< Server-Timing: captures_list;dur=625.306968, exclusion.robots;dur=0.427581, exclusion.robots.policy;dur=0.405512, RedisCDXSource;dur=23.821120, esindex;dur=0.009891, LoadShardBlock;dur=147.941399, PetaboxLoader3.datanode;dur=100.727613, CDXLines.iter;dur=57.164067, load_resource;dur=204.413267, PetaboxLoader3.resolve;dur=76.602117
+< X-Cache-Key: httpsweb.archive.org/web/20140204120226if_/http://i0.huffpost.com/robots.txtUS
+< X-Tr: 984
+< Permissions-Policy: interest-cohort=()
+< Content-Type: text/plain
+< X-Archive-Orig-Content-Length: 0
+< Cache-Control: max-age=1800
+< X-Archive-Orig-Server: AmazonS3
+< X-Archive-Orig-Connection: close
+< X-Location: All
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< Connection: keep-alive
+< X-Archive-Orig-X-Amz-Request-Id: 76BAF260EF4DFBDC
+< Link: <http://i0.huffpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://i0.huffpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://i0.huffpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20140204120226/http://i0.huffpost.com/robots.txt>; rel="first memento"; datetime="Tue, 04 Feb 2014 12:02:26 GMT", <https://web.archive.org/web/20140204120226/http://i0.huffpost.com/robots.txt>; rel="memento"; datetime="Tue, 04 Feb 2014 12:02:26 GMT", <https://web.archive.org/web/20140205030936/http://i0.huffpost.com/robots.txt>; rel="next memento"; datetime="Wed, 05 Feb 2014 03:09:36 GMT", <https://web.archive.org/web/20210718180551/https://i0.huffpost.com/robots.txt>; rel="last memento"; datetime="Sun, 18 Jul 2021 18:05:51 GMT"
+< X-Archive-Orig-X-Amz-Id-2: gvrG97VdE49SRtVU3xveG1ENF9U8bnFarAJcRF1jqqT0Utt97Fpf6g8egTYjf0RZ
+< X-Archive-Orig-Etag: "d41d8cd98f00b204e9800998ecf8427e"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-App-Server: wwwb-app57
+< Date: Mon, 26 Jul 2021 15:51:16 GMT
+< X-Archive-Orig-Last-Modified: Fri, 15 Nov 2013 21:00:28 GMT
+< Memento-Datetime: Tue, 04 Feb 2014 12:02:26 GMT

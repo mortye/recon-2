@@ -1,0 +1,36 @@
+GET https://web.archive.org/web/20160904223350if_/http://elections.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Server: nginx/1.15.8
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-App-Server: wwwb-app100
+< X-Location: All
+< Link: <http://elections.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://elections.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://elections.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20120131222148/http://elections.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 31 Jan 2012 22:21:48 GMT", <https://web.archive.org/web/20160904211736/http://elections.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Sun, 04 Sep 2016 21:17:36 GMT", <https://web.archive.org/web/20160904223350/http://elections.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Sun, 04 Sep 2016 22:33:50 GMT", <https://web.archive.org/web/20160905020411/http://elections.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Mon, 05 Sep 2016 02:04:11 GMT", <https://web.archive.org/web/20210723143646/https://elections.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 23 Jul 2021 14:36:46 GMT"
+< X-Na: 0
+< X-Archive-Orig-Date: Sun, 04 Sep 2016 22:33:51 GMT
+< X-Archive-Orig-Last-Modified: Mon, 14 Mar 2016 21:58:42 GMT
+< X-Archive-Orig-Content-Length: 139
+< Memento-Datetime: Sun, 04 Sep 2016 22:33:50 GMT
+< X-Archive-Orig-Server: ECAcc (ord/4CC3)
+< X-Cache-Key: httpsweb.archive.org/web/20160904223350if_/http://elections.huffingtonpost.com/robots.txtUS
+< X-Page-Cache: MISS
+< X-Tr: 1390
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Connection: keep-alive
+< X-Archive-Orig-Etag: "e4148-bd-52e09624e4bfb+gzip"
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-X-Cache: HIT
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Content-Type: text/plain
+< Date: Mon, 26 Jul 2021 16:14:31 GMT
+< Content-Type: text/plain; charset=UTF-8
+< X-Archive-Orig-Cache-Control: public, max-age=3600
+< X-Archive-Orig-Expires: Sun, 04 Sep 2016 22:38:51 GMT
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Src: perma_cc_54ZK-3RUQ/54ZK-3RUQ.warc.gz
+< X-Ts: 200
+< X-Archive-Guessed-Encoding: utf-8
+< Server-Timing: PetaboxLoader3.datanode;dur=142.705354, CDXLines.iter;dur=67.876187, LoadShardBlock;dur=225.462739, PetaboxLoader3.resolve;dur=122.765517, exclusion.robots.policy;dur=0.415548, esindex;dur=0.026206, load_resource;dur=163.278996, captures_list;dur=1137.532655, RedisCDXSource;dur=15.859093, exclusion.robots;dur=1.940801

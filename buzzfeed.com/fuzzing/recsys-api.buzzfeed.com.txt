@@ -1,0 +1,2 @@
+200 3 https://recsys-api.buzzfeed.com/health
+400 32 https://recsys-api.buzzfeed.com/echo

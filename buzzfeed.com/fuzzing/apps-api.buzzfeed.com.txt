@@ -1,0 +1,6 @@
+200 3 https://apps-api.buzzfeed.com/health
+200 3 https://apps-api.buzzfeed.com/health-monitor.sh
+200 3 https://apps-api.buzzfeed.com/health.json
+200 3 https://apps-api.buzzfeed.com/healthcheck.php
+200 3 https://apps-api.buzzfeed.com/healthmonitoringcreate.sql
+200 3 https://apps-api.buzzfeed.com/healthz

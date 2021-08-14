@@ -1,0 +1,2 @@
+400 0 https://games-stage.buzzfeed.com/%2e%2e;/test
+400 0 https://games-stage.buzzfeed.com/..;

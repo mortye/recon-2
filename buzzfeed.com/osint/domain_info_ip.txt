@@ -1,0 +1,202 @@
+   IP Address    54.230.103.18
+   IP Reputation [6]Check abuses from 54.230.103.18
+   NetRange      54.224.0.0 - 54.239.255.255
+   Organization  Amazon Technologies Inc.
+   Name          AMAZON-2011L
+   Geolocation   [US.png] United States, Washington, Seattle
+   [INS: :INS]
+
+Website using this ip : 54.230.103.18
+
+   [7]buzzfeed.com [8]tropicalfmmac.com [9]snugly.net [10]u-kiss.jp
+   [11]hammercdn.net [12]tychurch.org [13]geheimdate.com
+   [14]cloudsummary.com [15]christmas-solitaire.com [16]tumble.to
+   [17]voltroncubesofolkarion.com [18]oneswish2018.com
+   [19]radiorepublicadoatuba.com [20]ixordocs.be
+   [21]adknowledge-partner-solutions.com [22]radhaswamihomes.com
+   [23]yogabycathy.de
+   [INS: :INS]
+
+Whois 54.230.103.18
+
+   NetRange: 54.224.0.0 - 54.239.255.255
+   CIDR: 54.224.0.0/12
+   NetName: AMAZON-2011L
+   NetHandle: NET-54-224-0-0-1
+   Parent: NET54 (NET-54-0-0-0-0)
+   NetType: Direct Allocation
+   OriginAS: AS16509
+   Organization: Amazon Technologies Inc. (AT-88-Z)
+   RegDate: 2012-03-01
+   Updated: 2012-04-02
+   Ref: https://rdap.arin.net/registry/ip/54.224.0.0
+   OrgName: Amazon Technologies Inc.
+   OrgId: AT-88-Z
+   Address: 410 Terry Ave N.
+   City: Seattle
+   StateProv: WA
+   PostalCode: 98109
+   Country: US
+   RegDate: 2011-12-08
+   Updated: 2020-03-31
+   Comment: All abuse reports MUST include:
+   Comment: * src IP
+   Comment: * dest IP (your IP)
+   Comment: * dest port
+   Comment: * Accurate date/timestamp and timezone of activity
+   Comment: * Intensity/frequency (short log extracts)
+   Comment: * Your contact details (phone and email) Without these we will
+   be unable to identify the correct owner of the IP address at that point
+   in time.
+   Ref: https://rdap.arin.net/registry/entity/AT-88-Z
+   OrgTechHandle: ANO24-ARIN
+   OrgTechName: Amazon EC2 Network Operations
+   OrgTechPhone: +1-206-266-4064
+   OrgTechEmail: amzn-noc-contact@amazon.com
+   OrgTechRef: https://rdap.arin.net/registry/entity/ANO24-ARIN
+   OrgNOCHandle: AANO1-ARIN
+   OrgNOCName: Amazon AWS Network Operations
+   OrgNOCPhone: +1-206-266-4064
+   OrgNOCEmail: amzn-noc-contact@amazon.com
+   OrgNOCRef: https://rdap.arin.net/registry/entity/AANO1-ARIN
+   OrgRoutingHandle: ADR29-ARIN
+   OrgRoutingName: AWS Dogfish Routing
+   OrgRoutingPhone: +1-206-266-4064
+   OrgRoutingEmail: aws-dogfish-routing-poc@amazon.com
+   OrgRoutingRef: https://rdap.arin.net/registry/entity/ADR29-ARIN
+   OrgRoutingHandle: IPROU3-ARIN
+   OrgRoutingName: IP Routing
+   OrgRoutingPhone: +1-206-266-4064
+   OrgRoutingEmail: aws-routing-poc@amazon.com
+   OrgRoutingRef: https://rdap.arin.net/registry/entity/IPROU3-ARIN
+   OrgAbuseHandle: AEA8-ARIN
+   OrgAbuseName: Amazon EC2 Abuse
+   OrgAbusePhone: +1-206-266-4064
+   OrgAbuseEmail: abuse@amazonaws.com
+   OrgAbuseRef: https://rdap.arin.net/registry/entity/AEA8-ARIN
+     *
+          + [24]IP
+          + [25]Domains on same ip
+          + [26]Whois IP
+
+
+
+#######################################################################
+
+
+   IP Address    54.192.101.86
+   IP Reputation [6]Check abuses from 54.192.101.86
+   NetRange      54.144.0.0 - 54.221.255.255
+   Organization  Amazon Technologies Inc.
+   Name
+   Geolocation   [US.png] United States, Washington, Seattle
+   [INS: :INS]
+
+Website using this ip : 54.192.101.86
+
+   [7]i4s.com [8]mcs-tax.com [9]advanceclub.com
+   [INS: :INS]
+
+Whois 54.192.101.86
+
+   Amazon Technologies Inc. AMAZON (NET-54-144-0-0-1) 54.144.0.0 -
+   54.221.255.255
+   Amazon.com, Inc. AMAZON-SFO (NET-54-176-0-0-2) 54.176.0.0 -
+   54.177.255.255
+     *
+          + [10]IP
+          + [11]Domains on same ip
+          + [12]Whois IP
+
+
+
+#######################################################################
+
+
+   IP Address    54.192.101.22
+   IP Reputation [6]Check abuses from 54.192.101.22
+   NetRange      54.144.0.0 - 54.221.255.255
+   Organization  Amazon Technologies Inc.
+   Name
+   Geolocation   [US.png] United States, Washington, Seattle
+   [INS: :INS]
+
+Website using this ip : 54.192.101.22
+
+   [7]cobo.com [8]wowhead.com
+   [INS: :INS]
+
+Whois 54.192.101.22
+
+   Amazon Technologies Inc. AMAZON (NET-54-144-0-0-1) 54.144.0.0 -
+   54.221.255.255
+   Amazon.com, Inc. AMAZON-SFO (NET-54-176-0-0-2) 54.176.0.0 -
+   54.177.255.255
+     *
+          + [9]IP
+          + [10]Domains on same ip
+          + [11]Whois IP
+
+
+
+#######################################################################
+
+
+   IP Address    54.192.101.33
+   IP Reputation [6]Check abuses from 54.192.101.33
+   NetRange      54.144.0.0 - 54.221.255.255
+   Organization  Amazon Technologies Inc.
+   Name
+   Geolocation   [US.png] United States, Washington, Seattle
+   [INS: :INS]
+
+Website using this ip : 54.192.101.33
+
+   [7]sportstech-solutions.com [8]jibecity.com [9]ipvm.com
+   [INS: :INS]
+
+Whois 54.192.101.33
+
+   Amazon Technologies Inc. AMAZON (NET-54-144-0-0-1) 54.144.0.0 -
+   54.221.255.255
+   Amazon.com, Inc. AMAZON-SFO (NET-54-176-0-0-2) 54.176.0.0 -
+   54.177.255.255
+     *
+          + [10]IP
+          + [11]Domains on same ip
+          + [12]Whois IP
+
+
+
+#######################################################################
+
+
+   IP Address    54.192.101.37
+   IP Reputation [6]Check abuses from 54.192.101.37
+   NetRange      54.144.0.0 - 54.221.255.255
+   Organization  Amazon Technologies Inc.
+   Name
+   Geolocation   [US.png] United States, Washington, Seattle
+   [INS: :INS]
+
+Website using this ip : 54.192.101.37
+
+   [7]nikeplus.com [8]538.nl [9]eurobiobiz.com
+   [INS: :INS]
+
+Whois 54.192.101.37
+
+   Amazon Technologies Inc. AMAZON (NET-54-144-0-0-1) 54.144.0.0 -
+   54.221.255.255
+   Amazon.com, Inc. AMAZON-SFO (NET-54-176-0-0-2) 54.176.0.0 -
+   54.177.255.255
+     *
+          + [10]IP
+          + [11]Domains on same ip
+          + [12]Whois IP
+
+
+
+#######################################################################
+
+

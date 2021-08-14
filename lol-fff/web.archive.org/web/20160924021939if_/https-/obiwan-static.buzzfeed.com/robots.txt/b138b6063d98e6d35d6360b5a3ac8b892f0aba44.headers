@@ -1,0 +1,40 @@
+GET https://web.archive.org/web/20160924021939if_/https://obiwan-static.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Via: 1.1 varnish
+< X-Archive-Orig-Connection: close
+< Memento-Datetime: Sat, 24 Sep 2016 02:19:39 GMT
+< Server-Timing: LoadShardBlock;dur=486.708457, captures_list;dur=667.323349, CDXLines.iter;dur=31.093212, load_resource;dur=235.728771, exclusion.robots.policy;dur=0.569519, PetaboxLoader3.datanode;dur=481.099785, exclusion.robots;dur=0.592521, RedisCDXSource;dur=5.922538, PetaboxLoader3.resolve;dur=86.545348, esindex;dur=0.027582
+< X-Archive-Orig-Etag: "7a7fe79e58c38583b1937fee80d8e77606cdb7a3"
+< X-Archive-Orig-Cache-Control: public, max-age=60
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Tr: 1374
+< X-Na: 0
+< X-Archive-Orig-Vary: Accept-Encoding, X-BF-Origin
+< X-Location: All
+< Content-Type: text/html; charset=UTF-8
+< Connection: keep-alive
+< X-Archive-Orig-Server: TornadoServer/4.3
+< X-Archive-Orig-Age: 0
+< X-Archive-Orig-X-Timer: S1474683579.780768,VS0,VE631
+< X-Archive-Orig-X-Cache-Hits: 0
+< X-Ts: 200
+< X-Archive-Orig-X-Served-By: cache-sjc3144-SJC
+< X-Archive-Guessed-Charset: utf-8
+< X-Cache-Key: httpsweb.archive.org/web/20160924021939if_/https://obiwan-static.buzzfeed.com/robots.txtUS
+< Permissions-Policy: interest-cohort=()
+< Date: Mon, 26 Jul 2021 16:32:19 GMT
+< X-Archive-Orig-Date: Sat, 24 Sep 2016 02:19:40 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Src: buzzfeed.com-20160921-224547/IA-FOC-buzzfeed.com-20160924021522-00000.warc.gz
+< X-Archive-Orig-Content-Length: 313839
+< X-Archive-Guessed-Content-Type: text/html
+< Link: <https://obiwan-static.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://obiwan-static.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://obiwan-static.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160710085101/https://obiwan-static.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Sun, 10 Jul 2016 08:51:01 GMT", <https://web.archive.org/web/20160923143215/https://obiwan-static.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Fri, 23 Sep 2016 14:32:15 GMT", <https://web.archive.org/web/20160924021939/https://obiwan-static.buzzfeed.com/robots.txt>; rel="memento"; datetime="Sat, 24 Sep 2016 02:19:39 GMT", <https://web.archive.org/web/20160925030139/https://obiwan-static.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Sun, 25 Sep 2016 03:01:39 GMT", <https://web.archive.org/web/20200419202947/https://obiwan-static.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 19 Apr 2020 20:29:47 GMT"
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< X-Archive-Orig-X-Cache: MISS
+< X-App-Server: wwwb-app29
+< X-Rl: 0
+< X-Page-Cache: MISS

@@ -1,0 +1,33 @@
+GET https://web.archive.org/web/20141118153402if_/http://elections.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Guessed-Content-Type: text/plain
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Ts: 200
+< Cache-Control: max-age=1800
+< Server-Timing: captures_list;dur=1591.728590, exclusion.robots;dur=0.119444, exclusion.robots.policy;dur=0.114681, RedisCDXSource;dur=88.280202, esindex;dur=0.006505, LoadShardBlock;dur=1287.246828, PetaboxLoader3.datanode;dur=1306.670211, CDXLines.iter;dur=44.931598, load_resource;dur=471.257548, PetaboxLoader3.resolve;dur=297.232710
+< X-Rl: 0
+< X-Archive-Orig-Cache-Control: public, max-age=1748
+< X-Archive-Orig-Date: Tue, 18 Nov 2014 15:34:02 GMT
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20141118153402if_/http://elections.huffingtonpost.com/robots.txtUS
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: theweek.com-20141118-165809/IA-FOC-theweek.com-20141118125740-00008.warc.gz
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< X-Archive-Orig-Connection: close
+< Memento-Datetime: Tue, 18 Nov 2014 15:34:02 GMT
+< X-Tr: 2255
+< X-Na: 0
+< Date: Mon, 26 Jul 2021 15:49:26 GMT
+< Content-Type: text/plain; charset=UTF-8
+< X-Archive-Orig-Last-Modified: Mon, 17 Nov 2014 19:03:45 GMT
+< Link: <http://elections.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://elections.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://elections.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20120131222148/http://elections.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 31 Jan 2012 22:21:48 GMT", <https://web.archive.org/web/20141118134855/http://elections.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Tue, 18 Nov 2014 13:48:55 GMT", <https://web.archive.org/web/20141118153402/http://elections.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 18 Nov 2014 15:34:02 GMT", <https://web.archive.org/web/20141118163328/http://elections.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Tue, 18 Nov 2014 16:33:28 GMT", <https://web.archive.org/web/20210723143646/https://elections.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 23 Jul 2021 14:36:46 GMT"
+< X-Page-Cache: MISS
+< X-Archive-Orig-Etag: "184070-74-50812a3439733"
+< X-Archive-Orig-Content-Length: 116
+< X-App-Server: wwwb-app208
+< X-Nid: -

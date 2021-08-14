@@ -1,0 +1,30 @@
+GET https://web.archive.org/web/20101029142723if_/http://badge.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 302 Found
+< Date: Mon, 26 Jul 2021 18:21:37 GMT
+< X-App-Server: wwwb-app58
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Server: Apache/2.2.3 (CentOS)
+< X-Cache-Key: httpsweb.archive.org/web/20101029142723if_/http://badge.buzzfeed.com/robots.txtUS
+< X-Rl: 0
+< Location: https://web.archive.org/web/20101029142723if_/http://www.buzzfeed.com/robots.txt
+< Memento-Datetime: Fri, 29 Oct 2010 14:27:23 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: PetaboxLoader3.datanode;dur=226.775138, RedisCDXSource;dur=16.197503, LoadShardBlock;dur=305.416495, captures_list;dur=389.583773, esindex;dur=0.011933, exclusion.robots;dur=0.280122, exclusion.robots.policy;dur=0.269552, PetaboxLoader3.resolve;dur=112.341850, load_resource;dur=108.140993, CDXLines.iter;dur=33.780057
+< Server: nginx/1.15.8
+< Content-Type: text/html; charset=iso-8859-1
+< X-Nid: -
+< X-Archive-Orig-Connection: close
+< Cache-Control: max-age=1800
+< X-Page-Cache: MISS
+< X-Archive-Src: web_el_2010-013-20101029125036-00059-crawling110/web_el_2010-013-20101029142238-00065-crawling110.us.archive.org.warc.gz
+< X-Ts: 302
+< X-Na: 0
+< X-Archive-Orig-Date: Fri, 29 Oct 2010 14:27:17 GMT
+< X-Tr: 522
+< Referrer-Policy: no-referrer-when-downgrade
+< Connection: keep-alive
+< Link: <http://badge.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://badge.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://badge.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20090421112139/http://badge.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Tue, 21 Apr 2009 11:21:39 GMT", <https://web.archive.org/web/20101024155614/http://badge.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Sun, 24 Oct 2010 15:56:14 GMT", <https://web.archive.org/web/20101029142723/http://badge.buzzfeed.com/robots.txt>; rel="memento"; datetime="Fri, 29 Oct 2010 14:27:23 GMT", <https://web.archive.org/web/20101030162226/http://badge.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Sat, 30 Oct 2010 16:22:26 GMT", <https://web.archive.org/web/20190628133358/http://badge.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Fri, 28 Jun 2019 13:33:58 GMT"
+< X-Location: All
+< X-Archive-Orig-Content-Length: 301

@@ -1,0 +1,40 @@
+GET https://web.archive.org/web/20160710085101if_/https://obiwan-static.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-X-Cache-Hits: 0
+< X-Archive-Orig-Vary: Accept-Encoding, X-BF-Origin
+< X-Archive-Src: buzzfeed.com-20160710-123726/IA-FOC-buzzfeed.com-20160710083651-00001.warc.gz
+< Server-Timing: cdx.remote;dur=0.101464, LoadShardBlock;dur=155.322332, exclusion.robots;dur=0.320606, PetaboxLoader3.resolve;dur=135.887844, captures_list;dur=234.526567, esindex;dur=0.015520, CDXLines.iter;dur=18.744107, load_resource;dur=182.334229, PetaboxLoader3.datanode;dur=156.926297, exclusion.robots.policy;dur=0.304852
+< X-Cache-Key: httpsweb.archive.org/web/20160710085101if_/https://obiwan-static.buzzfeed.com/robots.txtUS
+< X-Na: 0
+< X-Archive-Orig-Cache-Control: public, max-age=60
+< X-Archive-Orig-Content-Length: 220838
+< X-Archive-Orig-X-Timer: S1468140661.184855,VS0,VE1049
+< X-Archive-Guessed-Charset: utf-8
+< Date: Mon, 26 Jul 2021 15:45:36 GMT
+< Connection: keep-alive
+< Link: <https://obiwan-static.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://obiwan-static.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://obiwan-static.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160710085101/https://obiwan-static.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Sun, 10 Jul 2016 08:51:01 GMT", <https://web.archive.org/web/20160710085101/https://obiwan-static.buzzfeed.com/robots.txt>; rel="memento"; datetime="Sun, 10 Jul 2016 08:51:01 GMT", <https://web.archive.org/web/20160812001833/https://obiwan-static.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Fri, 12 Aug 2016 00:18:33 GMT", <https://web.archive.org/web/20200419202947/https://obiwan-static.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 19 Apr 2020 20:29:47 GMT"
+< X-App-Server: wwwb-app13
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-X-Cache: MISS
+< X-Archive-Guessed-Content-Type: text/html
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Tr: 614
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Etag: "73b2f3c51a65821bb3c7425ccc84ff65c1098f18"
+< X-Archive-Orig-Server: TornadoServer/4.3
+< X-Archive-Orig-Date: Sun, 10 Jul 2016 08:51:02 GMT
+< X-Archive-Orig-Age: 0
+< X-Rl: 0
+< Memento-Datetime: Sun, 10 Jul 2016 08:51:01 GMT
+< Server: nginx/1.15.8
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-X-Served-By: cache-sjc3134-SJC
+< X-Location: All
+< X-Nid: -
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Via: 1.1 varnish
+< X-Ts: 200
+< X-Page-Cache: MISS

@@ -1,0 +1,2 @@
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+127.0.0.1,https://assets.officevibe.com,,31,403,167,4,8,text/html,7.23003ms,

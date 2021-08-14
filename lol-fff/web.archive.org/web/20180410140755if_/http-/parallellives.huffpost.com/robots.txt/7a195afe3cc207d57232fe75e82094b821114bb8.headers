@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20180410140755if_/http://parallellives.huffpost.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Content-Type: text/plain; charset=utf-8
+< X-Archive-Redirect-Reason: found capture at 20180410140756
+< X-App-Server: wwwb-app206
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20180410140755if_/http://parallellives.huffpost.com/robots.txtUS
+< X-Rl: 0
+< X-Na: 0
+< Server: nginx/1.15.8
+< X-Page-Cache: MISS
+< Location: https://web.archive.org/web/20180410140756if_/https://parallellives.huffpost.com/robots.txt
+< Referrer-Policy: no-referrer-when-downgrade
+< Date: Mon, 26 Jul 2021 17:26:30 GMT
+< X-Tr: 555
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< Server-Timing: captures_list;dur=170.802508, exclusion.robots;dur=0.201332, exclusion.robots.policy;dur=0.193226, RedisCDXSource;dur=4.484187, esindex;dur=0.008681, LoadShardBlock;dur=144.417973, PetaboxLoader3.datanode;dur=374.927164, CDXLines.iter;dur=18.604062, load_resource;dur=370.168065, PetaboxLoader3.resolve;dur=93.617737
+< X-Ts: 302
+< X-Nid: -
+< Content-Length: 0

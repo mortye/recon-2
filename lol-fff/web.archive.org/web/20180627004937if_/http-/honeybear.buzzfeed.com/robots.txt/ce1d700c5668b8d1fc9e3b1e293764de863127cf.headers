@@ -1,0 +1,34 @@
+GET https://web.archive.org/web/20180627004937if_/http://honeybear.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Cache-Control: max-age=1800
+< X-App-Server: wwwb-app200
+< X-Ts: 200
+< X-Cache-Key: httpsweb.archive.org/web/20180627004937if_/http://honeybear.buzzfeed.com/robots.txtUS
+< X-Page-Cache: MISS
+< X-Archive-Orig-Date: Wed, 27 Jun 2018 00:49:37 GMT
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Orig-X-Frame-Options: SAMEORIGIN
+< X-Location: All
+< X-Na: 0
+< Content-Type: text/plain; charset=utf-8
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-Strict-Transport-Security: max-age=31536000
+< X-Archive-Src: liveweb-20180627050431/cachegw-20180626230731-wwwb-app0.us.archive.org.warc.gz
+< Server-Timing: captures_list;dur=142.594939, exclusion.robots;dur=0.225767, exclusion.robots.policy;dur=0.215075, RedisCDXSource;dur=2.042040, esindex;dur=0.010679, LoadShardBlock;dur=117.674659, PetaboxLoader3.datanode;dur=113.419008, CDXLines.iter;dur=19.281809, load_resource;dur=204.747424, PetaboxLoader3.resolve;dur=162.882629
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< Date: Mon, 26 Jul 2021 15:37:06 GMT
+< Connection: keep-alive
+< X-Archive-Orig-Content-Length: 25
+< Link: <https://honeybear.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://honeybear.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://honeybear.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20170102182159/https://honeybear.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Mon, 02 Jan 2017 18:21:59 GMT", <https://web.archive.org/web/20180316055751/https://honeybear.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Fri, 16 Mar 2018 05:57:51 GMT", <https://web.archive.org/web/20180627004937/https://honeybear.buzzfeed.com/robots.txt>; rel="memento"; datetime="Wed, 27 Jun 2018 00:49:37 GMT", <https://web.archive.org/web/20180627004938/https://honeybear.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Wed, 27 Jun 2018 00:49:38 GMT", <https://web.archive.org/web/20190214210013/https://honeybear.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Thu, 14 Feb 2019 21:00:13 GMT"
+< X-Tr: 366
+< X-Rl: 0
+< X-Nid: -
+< Server: nginx/1.15.8
+< X-Archive-Guessed-Encoding: utf-8
+< Memento-Datetime: Wed, 27 Jun 2018 00:49:37 GMT
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Referrer-Policy: no-referrer-when-downgrade

@@ -1,0 +1,36 @@
+GET https://web.archive.org/web/20190510072516if_/http://beta.preview.www.huffpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Connection: close
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Src: SURVEY-20190507073247-crawl858/SURVEY-20190508165323-00024.warc.gz
+< X-Ts: 200
+< X-Rl: 0
+< X-Nid: -
+< Connection: keep-alive
+< X-Archive-Orig-X-Powered-By: Express
+< X-Archive-Orig-Last-Modified: Wed, 08 May 2019 21:32:37 GMT
+< X-Na: 0
+< Date: Mon, 26 Jul 2021 17:28:36 GMT
+< X-Location: All
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< X-Archive-Orig-Date: Fri, 10 May 2019 07:25:16 GMT
+< X-Archive-Orig-Vary: Accept-Encoding
+< Memento-Datetime: Fri, 10 May 2019 07:25:16 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Guessed-Encoding: utf-8
+< Link: <http://beta.preview.www.huffpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://beta.preview.www.huffpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://beta.preview.www.huffpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20181128011535/http://beta.preview.www.huffpost.com/robots.txt>; rel="first memento"; datetime="Wed, 28 Nov 2018 01:15:35 GMT", <https://web.archive.org/web/20190227035723/http://beta.preview.www.huffpost.com/robots.txt>; rel="prev memento"; datetime="Wed, 27 Feb 2019 03:57:23 GMT", <https://web.archive.org/web/20190510072516/http://beta.preview.www.huffpost.com/robots.txt>; rel="memento"; datetime="Fri, 10 May 2019 07:25:16 GMT", <https://web.archive.org/web/20190802065144/http://beta.preview.www.huffpost.com/robots.txt>; rel="next memento"; datetime="Fri, 02 Aug 2019 06:51:44 GMT", <https://web.archive.org/web/20190802083751/http://beta.preview.www.huffpost.com/robots.txt>; rel="last memento"; datetime="Fri, 02 Aug 2019 08:37:51 GMT"
+< Cache-Control: max-age=1800
+< X-Archive-Orig-Etag: W/"252-16a995ccd08"
+< X-Tr: 364
+< X-Archive-Orig-Content-Length: 594
+< X-Archive-Orig-Cache-Control: public, max-age=0
+< X-App-Server: wwwb-app55
+< X-Archive-Orig-Accept-Ranges: bytes
+< Server-Timing: captures_list;dur=128.648360, exclusion.robots;dur=0.238024, exclusion.robots.policy;dur=0.229144, RedisCDXSource;dur=1.757661, esindex;dur=0.012203, LoadShardBlock;dur=103.562782, PetaboxLoader3.datanode;dur=230.350086, CDXLines.iter;dur=20.391067, load_resource;dur=218.650408, PetaboxLoader3.resolve;dur=55.599916
+< X-Cache-Key: httpsweb.archive.org/web/20190510072516if_/http://beta.preview.www.huffpost.com/robots.txtUS
+< Content-Type: text/plain; charset=UTF-8

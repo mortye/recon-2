@@ -1,0 +1,2 @@
+500 40 https://npm.buzzfeed.com/%c0
+500 55 https://npm.buzzfeed.com/%c0%ae%c0%ae%c0%af

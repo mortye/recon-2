@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20160716085652if_/http://live.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Mon, 26 Jul 2021 16:04:20 GMT
+< X-Archive-Orig-Server: Apache
+< X-Archive-Src: WIDE-20160716075443-crawl812/WIDE-20160716085157-08671.warc.gz
+< Server: nginx/1.15.8
+< Connection: keep-alive
+< Memento-Datetime: Sat, 16 Jul 2016 08:56:52 GMT
+< Link: <http://live.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://live.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://live.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20120813131214/http://live.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Mon, 13 Aug 2012 13:12:14 GMT", <https://web.archive.org/web/20160715100222/http://live.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Fri, 15 Jul 2016 10:02:22 GMT", <https://web.archive.org/web/20160716085652/http://live.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Sat, 16 Jul 2016 08:56:52 GMT", <https://web.archive.org/web/20160716105743/http://live.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Sat, 16 Jul 2016 10:57:43 GMT", <https://web.archive.org/web/20210724152939/http://live.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 15:29:39 GMT"
+< X-Ts: 301
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/html; charset=iso-8859-1
+< X-Location: All
+< X-Rl: 0
+< X-Na: 0
+< X-Page-Cache: MISS
+< X-Archive-Orig-Keep-Alive: timeout=15, max=9478
+< Cache-Control: max-age=1800
+< X-Cache-Key: httpsweb.archive.org/web/20160716085652if_/http://live.huffingtonpost.com/robots.txtUS
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Connection: Keep-Alive
+< X-App-Server: wwwb-app207
+< X-Tr: 446
+< X-Archive-Orig-Date: Sat, 16 Jul 2016 08:56:52 GMT
+< Location: https://web.archive.org/web/20160716085652if_/http://www.huffingtonpost.com/section/video
+< X-Archive-Orig-Content-Length: 251
+< Server-Timing: captures_list;dur=348.395295, exclusion.robots;dur=0.268418, exclusion.robots.policy;dur=0.258495, RedisCDXSource;dur=0.799547, esindex;dur=0.025676, LoadShardBlock;dur=125.899135, PetaboxLoader3.datanode;dur=62.253146, CDXLines.iter;dur=64.598396, load_resource;dur=51.568394, PetaboxLoader3.resolve;dur=23.959561

@@ -1,0 +1,40 @@
+GET https://web.archive.org/web/20161004090019if_/https://obiwan-static.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Vary: Accept-Encoding, X-BF-Origin
+< X-App-Server: wwwb-app58
+< Content-Type: text/html; charset=UTF-8
+< Link: <https://obiwan-static.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://obiwan-static.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://obiwan-static.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160710085101/https://obiwan-static.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Sun, 10 Jul 2016 08:51:01 GMT", <https://web.archive.org/web/20161004055548/https://obiwan-static.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Tue, 04 Oct 2016 05:55:48 GMT", <https://web.archive.org/web/20161004090019/https://obiwan-static.buzzfeed.com/robots.txt>; rel="memento"; datetime="Tue, 04 Oct 2016 09:00:19 GMT", <https://web.archive.org/web/20161005061252/https://obiwan-static.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Wed, 05 Oct 2016 06:12:52 GMT", <https://web.archive.org/web/20200419202947/https://obiwan-static.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 19 Apr 2020 20:29:47 GMT"
+< X-Archive-Src: facebook.com-20140719-105640/IA-FOC-facebook.com-20161004082636-00001.warc.gz
+< X-Tr: 487
+< X-Cache-Key: httpsweb.archive.org/web/20161004090019if_/https://obiwan-static.buzzfeed.com/robots.txtUS
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Cache-Control: public, max-age=60
+< X-Archive-Guessed-Charset: utf-8
+< Server-Timing: PetaboxLoader3.datanode;dur=60.044301, RedisCDXSource;dur=3.395371, LoadShardBlock;dur=56.834544, captures_list;dur=140.039370, esindex;dur=0.017287, exclusion.robots;dur=0.357150, exclusion.robots.policy;dur=0.343731, PetaboxLoader3.resolve;dur=56.523187, load_resource;dur=128.366646, CDXLines.iter;dur=21.805908
+< X-Archive-Guessed-Content-Type: text/html
+< X-Archive-Orig-Content-Length: 314116
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< X-Archive-Orig-X-Timer: S1475571619.720901,VS0,VE905
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-X-Cache: MISS
+< X-Archive-Orig-Server: TornadoServer/4.3
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-X-Served-By: cache-sjc3635-SJC
+< X-Archive-Orig-X-Cache-Hits: 0
+< X-Location: All
+< Connection: keep-alive
+< X-Archive-Orig-Date: Tue, 04 Oct 2016 09:00:20 GMT
+< X-Archive-Orig-Via: 1.1 varnish
+< Memento-Datetime: Tue, 04 Oct 2016 09:00:19 GMT
+< X-Na: 0
+< X-Archive-Orig-Etag: "6f6a29cdac20d35e1413d8ac7490cd682d096b98"
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Age: 0
+< X-Ts: 200
+< X-Page-Cache: MISS
+< X-Nid: -
+< Date: Mon, 26 Jul 2021 18:15:39 GMT

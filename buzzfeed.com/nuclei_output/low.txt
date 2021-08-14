@@ -1,0 +1,8 @@
+[2021-07-21 11:00:34] [unauthenticated-cache-purge] [http] [low] https://buzzcom-stage.buzzfeed.com
+[2021-07-21 11:01:01] [unauthenticated-cache-purge] [http] [low] https://buzzcom.buzzfeed.com
+[2021-07-21 11:01:17] [unauthenticated-cache-purge] [http] [low] https://api-public-stage.buzzfeed.com
+[2021-06-26 03:13:37] [unauthenticated-cache-purge] [http] [low] https://api-public-stage.buzzfeed.com
+[2021-06-26 03:13:47] [unauthenticated-cache-purge] [http] [low] https://29291.buzzfeed.com
+[2021-06-26 03:14:20] [unauthenticated-cache-purge] [http] [low] https://buzzcom-stage.buzzfeed.com
+[2021-06-26 03:14:20] [unauthenticated-cache-purge] [http] [low] https://buzzcom.buzzfeed.com
+[2021-06-26 03:14:20] [unauthenticated-cache-purge] [http] [low] https://em.buzzfeed.com

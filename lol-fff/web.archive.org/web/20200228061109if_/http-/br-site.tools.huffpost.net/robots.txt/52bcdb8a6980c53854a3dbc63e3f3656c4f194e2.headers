@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20200228061109if_/http://br-site.tools.huffpost.net/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Link: <http://br-site.tools.huffpost.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://br-site.tools.huffpost.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://br-site.tools.huffpost.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20200228061109/http://br-site.tools.huffpost.net/robots.txt>; rel="first memento"; datetime="Fri, 28 Feb 2020 06:11:09 GMT", <https://web.archive.org/web/20200228061109/http://br-site.tools.huffpost.net/robots.txt>; rel="memento"; datetime="Fri, 28 Feb 2020 06:11:09 GMT", <https://web.archive.org/web/20200228061109/http://br-site.tools.huffpost.net/robots.txt>; rel="last memento"; datetime="Fri, 28 Feb 2020 06:11:09 GMT"
+< X-Archive-Orig-Last-Modified: Tue, 03 Dec 2019 15:57:33 GMT
+< X-Archive-Orig-Strict-Transport-Security: max-age=2592000
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Guessed-Content-Type: text/plain
+< Date: Mon, 26 Jul 2021 17:22:30 GMT
+< Cache-Control: max-age=1800
+< Memento-Datetime: Fri, 28 Feb 2020 06:11:09 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-App-Server: wwwb-app13
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< X-Archive-Src: liveweb-20200229001532/cachegw-20200228011801-wwwb-app14.us.archive.org.warc.gz
+< Server-Timing: cdx.remote;dur=0.073237, LoadShardBlock;dur=79.180663, exclusion.robots;dur=0.264892, PetaboxLoader3.resolve;dur=303.653749, captures_list;dur=103.527680, esindex;dur=0.010930, CDXLines.iter;dur=16.835025, load_resource;dur=424.329296, PetaboxLoader3.datanode;dur=147.353705, exclusion.robots.policy;dur=0.253152
+< X-Cache-Key: httpsweb.archive.org/web/20200228061109if_/http://br-site.tools.huffpost.net/robots.txtUS
+< X-Rl: 0
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Date: Fri, 28 Feb 2020 06:11:09 GMT
+< X-Ts: 200
+< X-Tr: 550
+< X-Na: 0
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-Server: nginx
+< X-Archive-Orig-Etag: "5de685ed-1a"
+< Content-Type: text/plain
+< Connection: keep-alive
+< X-Archive-Orig-Content-Length: 26
+< X-Archive-Guessed-Encoding: utf-8
+< X-Location: All
+< X-Page-Cache: MISS

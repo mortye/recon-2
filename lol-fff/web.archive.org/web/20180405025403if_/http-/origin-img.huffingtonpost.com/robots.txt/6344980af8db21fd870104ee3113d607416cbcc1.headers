@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20180405025403if_/http://origin-img.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Cache-Control: public, max-age=31536000
+< X-Archive-Orig-Date: Thu, 05 Apr 2018 02:54:03 GMT
+< Link: <http://origin-img.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://origin-img.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://origin-img.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20150121065214/https://origin-img.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Wed, 21 Jan 2015 06:52:14 GMT", <https://web.archive.org/web/20150415142140/https://origin-img.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Wed, 15 Apr 2015 14:21:40 GMT", <https://web.archive.org/web/20180405025403/http://origin-img.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Thu, 05 Apr 2018 02:54:03 GMT", <https://web.archive.org/web/20180407050247/http://origin-img.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Sat, 07 Apr 2018 05:02:47 GMT", <https://web.archive.org/web/20190802065850/http://origin-img.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 02 Aug 2019 06:58:50 GMT"
+< Server-Timing: captures_list;dur=120.365776, exclusion.robots;dur=0.269794, exclusion.robots.policy;dur=0.258246, RedisCDXSource;dur=32.103678, esindex;dur=0.008448, LoadShardBlock;dur=62.781692, PetaboxLoader3.datanode;dur=59.538835, CDXLines.iter;dur=22.336010, load_resource;dur=98.015653, PetaboxLoader3.resolve;dur=69.724071
+< X-Ts: 200
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Rl: 0
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< X-Archive-Orig-Content-Length: 0
+< X-App-Server: wwwb-app200
+< X-Page-Cache: MISS
+< Date: Mon, 26 Jul 2021 15:08:41 GMT
+< Connection: keep-alive
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Encoding: utf-8
+< Memento-Datetime: Thu, 05 Apr 2018 02:54:03 GMT
+< X-Archive-Src: liveweb-20180405024115/cachegw-20180404131600-wwwb-app11.us.archive.org.warc.gz
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Nid: -
+< X-Archive-Orig-Age: 0
+< X-Archive-Orig-Connection: Close
+< X-Tr: 238
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20180405025403if_/http://origin-img.huffingtonpost.com/robots.txtUS

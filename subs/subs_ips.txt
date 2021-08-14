@@ -1,0 +1,13 @@
+stage.buzzfeednews.com 151.101.2.114
+buzzfeednews.com 151.101.130.114
+tips.buzzfeednews.com 13.225.206.118
+shop.buzzfeednews.com 13.225.206.45
+documents.buzzfeednews.com 151.101.2.114
+www.buzzfeednews.com 151.101.2.114
+zendesk4.buzzfeednews.com 192.161.154.1
+zendesk1.buzzfeednews.com 192.161.154.1
+zendesk3.buzzfeednews.com 192.161.154.1
+support.buzzfeednews.com 23.227.38.74
+link.buzzfeednews.com 3.226.166.212
+horizon.buzzfeednews.com 13.248.148.52
+zendesk2.buzzfeednews.com 192.161.154.1

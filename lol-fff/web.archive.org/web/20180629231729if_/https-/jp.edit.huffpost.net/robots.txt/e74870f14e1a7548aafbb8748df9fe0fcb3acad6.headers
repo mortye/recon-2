@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20180629231729if_/https://jp.edit.huffpost.net/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Content-Length: 31
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Tr: 256
+< X-Rl: 0
+< Server-Timing: captures_list;dur=112.045631, exclusion.robots;dur=0.256422, exclusion.robots.policy;dur=0.244752, RedisCDXSource;dur=1.836671, esindex;dur=0.012097, LoadShardBlock;dur=92.947250, PetaboxLoader3.datanode;dur=100.791233, CDXLines.iter;dur=14.522335, load_resource;dur=120.909207, PetaboxLoader3.resolve;dur=29.376568
+< X-Location: All
+< Date: Mon, 26 Jul 2021 15:54:50 GMT
+< Content-Type: text/plain
+< X-Archive-Orig-Server: nginx
+< X-Archive-Orig-Strict-Transport-Security: max-age=2592000
+< X-Nid: -
+< Server: nginx/1.15.8
+< X-Archive-Orig-Date: Fri, 29 Jun 2018 23:17:29 GMT
+< X-Archive-Orig-Connection: close
+< Cache-Control: max-age=1800
+< X-App-Server: wwwb-app206
+< X-Na: 0
+< Connection: keep-alive
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Etag: "5a9423eb-1f"
+< Link: <https://jp.edit.huffpost.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://jp.edit.huffpost.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://jp.edit.huffpost.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20180629231728/http://jp.edit.huffpost.net/robots.txt>; rel="first memento"; datetime="Fri, 29 Jun 2018 23:17:28 GMT", <https://web.archive.org/web/20180629231728/http://jp.edit.huffpost.net/robots.txt>; rel="prev memento"; datetime="Fri, 29 Jun 2018 23:17:28 GMT", <https://web.archive.org/web/20180629231729/https://jp.edit.huffpost.net/robots.txt>; rel="memento"; datetime="Fri, 29 Jun 2018 23:17:29 GMT", <https://web.archive.org/web/20180711230538/http://jp.edit.huffpost.net/robots.txt>; rel="next memento"; datetime="Wed, 11 Jul 2018 23:05:38 GMT", <https://web.archive.org/web/20181005183722/https://jp.edit.huffpost.net/robots.txt>; rel="last memento"; datetime="Fri, 05 Oct 2018 18:37:22 GMT"
+< X-Archive-Src: liveweb-20180630035425/cachegw-20180629192414-wwwb-app52.us.archive.org.warc.gz
+< X-Ts: 200
+< X-Cache-Key: httpsweb.archive.org/web/20180629231729if_/https://jp.edit.huffpost.net/robots.txtUS
+< X-Archive-Orig-Last-Modified: Mon, 26 Feb 2018 15:12:43 GMT
+< Memento-Datetime: Fri, 29 Jun 2018 23:17:29 GMT
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Guessed-Encoding: utf-8
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade

@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20191102080453if_/http://es-site.tools.huffpost.net/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Connection: keep-alive
+< X-Archive-Orig-Etag: "5d8a90ff-1a"
+< X-Rl: 0
+< X-App-Server: wwwb-app200
+< X-Tr: 272
+< X-Cache-Key: httpsweb.archive.org/web/20191102080453if_/http://es-site.tools.huffpost.net/robots.txtUS
+< Permissions-Policy: interest-cohort=()
+< Server-Timing: captures_list;dur=166.702345, exclusion.robots;dur=0.186498, exclusion.robots.policy;dur=0.179342, RedisCDXSource;dur=1.500553, esindex;dur=0.009723, LoadShardBlock;dur=147.261708, PetaboxLoader3.datanode;dur=96.085903, CDXLines.iter;dur=15.217967, PetaboxLoader3.resolve;dur=81.444077, load_resource;dur=89.267621
+< X-Ts: 200
+< X-Archive-Orig-Last-Modified: Tue, 24 Sep 2019 21:56:15 GMT
+< X-Archive-Guessed-Encoding: utf-8
+< X-Nid: -
+< X-Archive-Orig-Content-Length: 26
+< X-Archive-Orig-Server: nginx
+< X-Na: 0
+< Content-Type: text/plain
+< Memento-Datetime: Sat, 02 Nov 2019 08:04:53 GMT
+< X-Archive-Guessed-Content-Type: text/plain
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Location: All
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< X-Archive-Orig-Strict-Transport-Security: max-age=2592000
+< X-Archive-Orig-Date: Sat, 02 Nov 2019 08:04:53 GMT
+< X-Archive-Orig-Connection: close
+< Cache-Control: max-age=1800
+< Link: <http://es-site.tools.huffpost.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://es-site.tools.huffpost.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://es-site.tools.huffpost.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20191102080453/http://es-site.tools.huffpost.net/robots.txt>; rel="first memento"; datetime="Sat, 02 Nov 2019 08:04:53 GMT", <https://web.archive.org/web/20191102080453/http://es-site.tools.huffpost.net/robots.txt>; rel="memento"; datetime="Sat, 02 Nov 2019 08:04:53 GMT", <https://web.archive.org/web/20191102080453/http://es-site.tools.huffpost.net/robots.txt>; rel="last memento"; datetime="Sat, 02 Nov 2019 08:04:53 GMT"
+< X-Archive-Src: liveweb-20191103002452/cachegw-20191102002312-wwwb-app1.us.archive.org.warc.gz
+< Referrer-Policy: no-referrer-when-downgrade
+< Date: Mon, 26 Jul 2021 17:53:43 GMT

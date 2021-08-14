@@ -1,0 +1,11 @@
+[!] ---- TARGET: buzzfeednews.com ---- [!] 
+[-]  *.buzzfeednews.com
+[-]  dohaforum.buzzfeednews.com
+[-]  link.buzzfeednews.com
+[-]  support.buzzfeednews.com
+[-]  www.dohaforum.buzzfeednews.com
+buzzfeednews.com
+dohaforum.buzzfeednews.com
+link.buzzfeednews.com
+support.buzzfeednews.com
+www.dohaforum.buzzfeednews.com

@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20190218072737if_/https://edit.highline.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Date: Mon, 26 Jul 2021 18:06:24 GMT
+< Content-Length: 0
+< X-Archive-Redirect-Reason: found capture at 20190209155751
+< X-Location: All
+< X-Rl: 0
+< Permissions-Policy: interest-cohort=()
+< Content-Type: text/plain; charset=utf-8
+< Server-Timing: captures_list;dur=626.640227, exclusion.robots;dur=0.131163, exclusion.robots.policy;dur=0.125672, RedisCDXSource;dur=17.643747, esindex;dur=0.004116, LoadShardBlock;dur=577.873912, PetaboxLoader3.datanode;dur=807.734571, CDXLines.iter;dur=28.208150, load_resource;dur=609.463358, PetaboxLoader3.resolve;dur=191.505269
+< X-App-Server: wwwb-app208
+< X-Tr: 1277
+< X-Nid: -
+< Server: nginx/1.15.8
+< Connection: keep-alive
+< Location: https://web.archive.org/web/20190209155751if_/https://edit.highline.huffingtonpost.com/robots.txt
+< X-Ts: 302
+< X-Cache-Key: httpsweb.archive.org/web/20190218072737if_/https://edit.highline.huffingtonpost.com/robots.txtUS
+< X-Na: 0
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade

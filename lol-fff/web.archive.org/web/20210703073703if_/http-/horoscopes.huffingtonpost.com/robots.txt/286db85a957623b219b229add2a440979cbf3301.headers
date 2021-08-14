@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20210703073703if_/http://horoscopes.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Content-Length: 0
+< Server-Timing: captures_list;dur=652.022161, exclusion.robots;dur=0.341545, exclusion.robots.policy;dur=0.321540, RedisCDXSource;dur=3.461699, esindex;dur=0.020768, LoadShardBlock;dur=241.501471, PetaboxLoader3.datanode;dur=126.306583, CDXLines.iter;dur=64.820410, load_resource;dur=382.703034, PetaboxLoader3.resolve;dur=219.379947
+< Permissions-Policy: interest-cohort=()
+< Content-Type: text/plain; charset=utf-8
+< X-App-Server: wwwb-app204
+< X-Cache-Key: httpsweb.archive.org/web/20210703073703if_/http://horoscopes.huffingtonpost.com/robots.txtUS
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Ts: 302
+< X-Rl: 0
+< X-Location: All
+< X-Na: 0
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 15:30:10 GMT
+< Connection: keep-alive
+< X-Archive-Redirect-Reason: found capture at 20210703073706
+< Location: https://web.archive.org/web/20210703073706if_/https://horoscopes.huffingtonpost.com/robots.txt
+< X-Tr: 1067
+< X-Nid: -

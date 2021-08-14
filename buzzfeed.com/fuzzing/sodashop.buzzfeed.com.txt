@@ -1,0 +1,15 @@
+200 0 https://sodashop.buzzfeed.com/ping
+200 25 https://sodashop.buzzfeed.com/robots.txt
+301 0 https://sodashop.buzzfeed.com/.//web-inf/web.xml
+301 0 https://sodashop.buzzfeed.com/./admin/.
+301 0 https://sodashop.buzzfeed.com/./web-inf/web.xml
+301 0 https://sodashop.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess
+301 0 https://sodashop.buzzfeed.com/.nsf/../winnt/win.ini
+301 0 https://sodashop.buzzfeed.com//cfide/administrator
+301 0 https://sodashop.buzzfeed.com//out
+301 0 https://sodashop.buzzfeed.com/admin//phpmyadmin
+301 0 https://sodashop.buzzfeed.com/citrix//accessplatform/auth/clientscripts/cookies.js
+301 0 https://sodashop.buzzfeed.com/content/../libs/foundation/components/text/text.jsp
+301 0 https://sodashop.buzzfeed.com/extjs/resources//charts.swf
+301 0 https://sodashop.buzzfeed.com/secret/.
+301 0 https://sodashop.buzzfeed.com/vpn/../vpns/cfg/smb.conf

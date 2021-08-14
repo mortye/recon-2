@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20190220153146if_/https://preview.www.huffpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Content-Length: 358
+< X-Archive-Orig-Last-Modified: Tue, 19 Feb 2019 23:56:00 GMT
+< X-Archive-Src: liveweb-20190221002721/cachegw-20190220002053-wwwb-app4.us.archive.org.warc.gz
+< X-App-Server: wwwb-app13
+< X-Rl: 0
+< X-Tr: 1337
+< X-Location: All
+< X-Page-Cache: MISS
+< X-Archive-Orig-Date: Wed, 20 Feb 2019 15:31:46 GMT
+< X-Archive-Orig-Connection: close
+< X-Archive-Guessed-Content-Type: text/plain
+< Link: <https://preview.www.huffpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://preview.www.huffpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://preview.www.huffpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20181030221001/https://preview.www.huffpost.com/robots.txt>; rel="first memento"; datetime="Tue, 30 Oct 2018 22:10:01 GMT", <https://web.archive.org/web/20190218075030/http://preview.www.huffpost.com/robots.txt>; rel="prev memento"; datetime="Mon, 18 Feb 2019 07:50:30 GMT", <https://web.archive.org/web/20190220153146/https://preview.www.huffpost.com/robots.txt>; rel="memento"; datetime="Wed, 20 Feb 2019 15:31:46 GMT", <https://web.archive.org/web/20190227035720/http://preview.www.huffpost.com/robots.txt>; rel="next memento"; datetime="Wed, 27 Feb 2019 03:57:20 GMT", <https://web.archive.org/web/20210717054007/https://preview.www.huffpost.com/robots.txt>; rel="last memento"; datetime="Sat, 17 Jul 2021 05:40:07 GMT"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Accept-Ranges: bytes
+< Server-Timing: cdx.remote;dur=0.106512, LoadShardBlock;dur=918.107770, exclusion.robots;dur=0.306122, PetaboxLoader3.resolve;dur=90.492601, captures_list;dur=1062.117068, esindex;dur=0.015616, CDXLines.iter;dur=24.651254, load_resource;dur=204.233168, PetaboxLoader3.datanode;dur=996.902736, exclusion.robots.policy;dur=0.293477
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 15:12:21 GMT
+< X-Archive-Orig-X-Powered-By: Express
+< X-Na: 0
+< X-Nid: -
+< Connection: keep-alive
+< Cache-Control: max-age=1800
+< Memento-Datetime: Wed, 20 Feb 2019 15:31:46 GMT
+< X-Ts: 200
+< X-Archive-Orig-Etag: W/"166-16908300a80"
+< X-Archive-Guessed-Encoding: utf-8
+< Permissions-Policy: interest-cohort=()
+< Content-Type: text/plain; charset=UTF-8
+< X-Cache-Key: httpsweb.archive.org/web/20190220153146if_/https://preview.www.huffpost.com/robots.txtUS
+< X-Archive-Orig-Cache-Control: max-age=0,s-maxage=0

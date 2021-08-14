@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20190721093913if_/http://ifthisartcouldvote.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< X-Page-Cache: MISS
+< Permissions-Policy: interest-cohort=()
+< X-Ts: 302
+< X-Cache-Key: httpsweb.archive.org/web/20190721093913if_/http://ifthisartcouldvote.huffingtonpost.com/robots.txtUS
+< X-Archive-Redirect-Reason: found capture at 20190721093917
+< Location: https://web.archive.org/web/20190721093917if_/https://ifthisartcouldvote.huffingtonpost.com/robots.txt
+< X-Tr: 497
+< X-Nid: -
+< Server: nginx/1.15.8
+< Content-Type: text/plain; charset=utf-8
+< Server-Timing: captures_list;dur=233.113433, exclusion.robots;dur=0.176143, exclusion.robots.policy;dur=0.169539, RedisCDXSource;dur=4.058155, esindex;dur=0.006622, LoadShardBlock;dur=210.638278, PetaboxLoader3.datanode;dur=198.787592, CDXLines.iter;dur=15.473315, load_resource;dur=255.198330, PetaboxLoader3.resolve;dur=141.584122
+< X-App-Server: wwwb-app203
+< X-Location: All
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Length: 0
+< Connection: keep-alive
+< Date: Mon, 26 Jul 2021 15:17:59 GMT
+< X-Na: 0

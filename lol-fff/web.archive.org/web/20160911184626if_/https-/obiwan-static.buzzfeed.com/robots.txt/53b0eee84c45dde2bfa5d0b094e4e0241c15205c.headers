@@ -1,0 +1,40 @@
+GET https://web.archive.org/web/20160911184626if_/https://obiwan-static.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-X-Timer: S1473619586.891699,VS0,VE823
+< X-Ts: 200
+< X-Tr: 512
+< X-Cache-Key: httpsweb.archive.org/web/20160911184626if_/https://obiwan-static.buzzfeed.com/robots.txtUS
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Page-Cache: MISS
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-X-Served-By: cache-sjc3137-SJC
+< X-Archive-Orig-Vary: Accept-Encoding, X-BF-Origin
+< Memento-Datetime: Sun, 11 Sep 2016 18:46:26 GMT
+< Link: <https://obiwan-static.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://obiwan-static.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://obiwan-static.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160710085101/https://obiwan-static.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Sun, 10 Jul 2016 08:51:01 GMT", <https://web.archive.org/web/20160910025139/https://obiwan-static.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Sat, 10 Sep 2016 02:51:39 GMT", <https://web.archive.org/web/20160911184626/https://obiwan-static.buzzfeed.com/robots.txt>; rel="memento"; datetime="Sun, 11 Sep 2016 18:46:26 GMT", <https://web.archive.org/web/20160913013938/https://obiwan-static.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Tue, 13 Sep 2016 01:39:38 GMT", <https://web.archive.org/web/20200419202947/https://obiwan-static.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 19 Apr 2020 20:29:47 GMT"
+< X-App-Server: wwwb-app57
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< X-Archive-Orig-Content-Length: 296074
+< X-Archive-Src: buzzfeed.com-20160910-030844/IA-FOC-buzzfeed.com-20160911183843-00000.warc.gz
+< X-Rl: 0
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Etag: "030cf9fbd7fbe986845ede40e94efb5807072f0a"
+< X-Archive-Orig-Connection: close
+< X-Na: 0
+< X-Nid: -
+< Connection: keep-alive
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-Server: TornadoServer/4.3
+< X-Archive-Orig-Age: 0
+< X-Archive-Orig-X-Cache-Hits: 0
+< Date: Mon, 26 Jul 2021 14:59:08 GMT
+< X-Archive-Guessed-Content-Type: text/html
+< X-Archive-Guessed-Charset: utf-8
+< Server-Timing: captures_list;dur=209.359815, exclusion.robots;dur=0.225486, exclusion.robots.policy;dur=0.216726, RedisCDXSource;dur=1.361149, esindex;dur=0.009952, LoadShardBlock;dur=162.665541, PetaboxLoader3.datanode;dur=97.587154, CDXLines.iter;dur=19.104309, PetaboxLoader3.resolve;dur=177.913040, load_resource;dur=165.720727
+< X-Archive-Orig-X-Cache: MISS
+< X-Archive-Orig-Cache-Control: public, max-age=60
+< X-Archive-Orig-Date: Sun, 11 Sep 2016 18:46:27 GMT
+< X-Archive-Orig-Via: 1.1 varnish
+< X-Location: All

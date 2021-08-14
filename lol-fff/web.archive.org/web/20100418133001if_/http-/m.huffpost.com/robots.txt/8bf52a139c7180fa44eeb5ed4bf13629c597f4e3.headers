@@ -1,0 +1,26 @@
+GET https://web.archive.org/web/20100418133001if_/http://m.huffpost.com/robots.txt
+
+
+< HTTP/1.1 302 Found
+< X-Na: 0
+< X-Nid: -
+< Connection: keep-alive
+< X-Archive-Orig-Connection: close
+< X-Rl: 0
+< X-Location: All
+< Permissions-Policy: interest-cohort=()
+< Date: Mon, 26 Jul 2021 17:05:20 GMT
+< Cache-Control: max-age=1800
+< X-Archive-Src: ARCHIVEIT-6215-CDL-20100418-00000/ARCHIVEIT-6215-CDL-20100418130835-00005-tanager.ucop.edu-00136655.arc.gz
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: exclusion.robots;dur=1.296250, exclusion.robots.policy;dur=1.218536, RedisCDXSource;dur=14.817491, esindex;dur=0.061910, LoadShardBlock;dur=1158.949730, PetaboxLoader3.datanode;dur=794.797364, CDXLines.iter;dur=397.009008, load_resource;dur=78.614817, PetaboxLoader3.resolve;dur=50.014646
+< X-App-Server: wwwb-app207
+< X-Ts: 302
+< X-Cache-Key: httpsweb.archive.org/web/20100418133001if_/http://m.huffpost.com/robots.txtUS
+< Location: https://web.archive.org/web/20100418133001if_/http://www.huffingtonpost.com/blackberry
+< Link: <http://m.huffpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://m.huffpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://m.huffpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20100418133001/http://m.huffpost.com/robots.txt>; rel="first memento"; datetime="Sun, 18 Apr 2010 13:30:01 GMT", <https://web.archive.org/web/20100418133001/http://m.huffpost.com/robots.txt>; rel="memento"; datetime="Sun, 18 Apr 2010 13:30:01 GMT", <https://web.archive.org/web/20110714221921/http://m.huffpost.com/robots.txt>; rel="next memento"; datetime="Thu, 14 Jul 2011 22:19:21 GMT", <https://web.archive.org/web/20210725041523/https://m.huffpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 04:15:23 GMT"
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< Memento-Datetime: Sun, 18 Apr 2010 13:30:01 GMT
+< X-Tr: 1761

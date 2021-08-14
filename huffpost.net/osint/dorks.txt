@@ -1,0 +1,369 @@
+
+# Other 3rd parties sites (https://www.google.com/search?q=site%3Agitter.im%20%7C%20site%3Apapaly.com%20%7C%20site%3Aproductforums.google.com%20%7C%20site%3Acoggle.it%20%7C%20site%3Areplt.it%20%7C%20site%3Aycombinator.com%20%7C%20site%3Alibraries.io%20%7C%20site%3Anpm.runkit.com%20%7C%20site%3Anpmjs.com%20%7C%20site%3Ascribd.com%20%22huffpost%22)
+-- 10 results --
+
+huffpost - npm
+https://www.npmjs.com/package/huffpost?activeTab=explore
+
+huffpost - npm
+https://www.npmjs.com/package/huffpost
+
+https://www.huffpost.com/entry/dolphins-kill ... - Hacker News
+https://news.ycombinator.com/item?id=21805833
+
+BuzzFeed to Acquire HuffPost in Stock Deal with Verizon Media ...
+https://news.ycombinator.com/item?id=25152291
+
+BuzzFeed Acquires HuffPost, Expanding Its Slate of World-Class ...
+https://news.ycombinator.com/item?id=25152948
+
+I hope meetup doesnt get trashed like the Slashdot, Wired and ...
+https://news.ycombinator.com/item?id=15794376
+
+HuffPost India is history, thanks to new FDI norms | Hacker News
+https://news.ycombinator.com/item?id=25207051
+
+HuffPost: *The proposed terms of the Trans-Pacific Partnership deal ...
+https://news.ycombinator.com/item?id=6732747
+
+HuffPost Canada | Scribd
+https://www.scribd.com/publisher/236889927/HuffPost-Canada
+
+Documents by HuffPost Canada | Scribd
+https://www.scribd.com/publisher/236889927/HuffPost-Canada/documents
+
+# Apache Struts RCE (https://www.google.com/search?q=site%3Ahuffpost.net%20ext%3Aaction%20%7C%20ext%3Astruts%20%7C%20ext%3Ado)
+no results
+
+# Open redirects (https://www.google.com/search?q=site%3Ahuffpost.net%20inurl%3Aredir%20%7C%20inurl%3Aurl%20%7C%20inurl%3Aredirect%20%7C%20inurl%3Areturn%20%7C%20inurl%3Asrc%3Dhttp%20%7C%20inurl%3Ar%3Dhttp)
+no results
+
+# Subdomains (https://www.google.com/search?q=site%3A*.huffpost.net)
+-- 10 results --
+
+Widgets... Widgets, everywhere.
+https://widget.tools.huffpost.net/
+
+Widgets... Widgets, everywhere.
+https://staging-widget.tools.huffpost.net/
+
+Fritzie Fritzhall - HuffPost
+http://widget.tools.huffpost.net/embeds/52
+
+Aaron Elster - HuffPost
+http://widget.tools.huffpost.net/embeds/51
+
+Widgets... Widgets, everywhere. - Widget Creator
+https://widget.tools.huffpost.net/abzwfdwghwixotz.html
+
+Emoji Oscar Storybook
+http://widget.tools.huffpost.net/embeds/emoji-oscar-storybook
+
+HuffPost Athena
+https://us.edit.huffpost.net/cms/collection/5a05de2ee4b05673aa590da9?page=1
+
+Login - HuffPost
+https://us.preview.huffpost.net/entry/5e57033ec5b68f79fdc48898?preview=3e268eb2-fe64-485b-be9a-e3267403fc0f&edition=us
+
+Login - HuffPost
+https://us.preview.huffpost.net/api/user/authorize/janus?referer=https%3A%2F%2Fus.preview.huffpost.net%2Fentry%2F5a81d766e4b08dfc9306b593%3Fpreview%3Dd979884b-5d1f-43ed-90d4-6a73d3e69087%26edition%3Dus
+
+https://uk.preview.huffpost.net/api/user/authorize...
+https://uk.preview.huffpost.net/api/user/authorize/aas?referer=https%3A%2F%2Fuk.preview.huffpost.net%2Fentry%2F5b697b1ce4b0de86f4a4fefc%3Fpreview%3D93a03bbc-59f8-4693-b2b6-9133c9fc9ec8%26edition%3Duk
+
+# Wordpress files (https://www.google.com/search?q=site%3Ahuffpost.net%20inurl%3Awp-content%20%7C%20inurl%3Awp-includes)
+no results
+
+# Jenkins (https://www.google.com/search?q=intitle%3A%5C%22Dashboard%20%5BJenkins%5D%5C%22%20%22huffpost%22)
+no results
+
+# Database files (https://www.google.com/search?q=site%3Ahuffpost.net%20ext%3Asql%20%7C%20ext%3Adbf%20%7C%20ext%3Amdb)
+no results
+
+# Cloud buckets S3/GCP (https://www.google.com/search?q=site%3A.s3.amazonaws.com%20%7C%20site%3Astorage.googleapis.com%20%7C%20site%3Aamazonaws.com%20%22huffpost%22)
+-- 10 results --
+
+Why HuffPost made sense for BuzzFeed &#8211; and Verizon Media Group
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/they-wanted-to-unload-it-bad-why-huffpost-made-sense-for-buzzfeed-and-verizon-media-group/
+
+How HuffPost's Danielle Belton will steer the newsroom after a ...
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/an-employees-boss-how-huffposts-danielle-belton-will-steer-the-newsroom-after-a-tumultuous-year/
+
+The Huffington Post
+http://candt-prod-952725204.us-east-1.elb.amazonaws.com/things-we-make/the-huffington-post
+
+Post-Arianna, The Huffington Post's rebranding as HuffPost - Digiday
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/huffposts-ceo-jared-grusd-digiday-podcast-rebranding-post-arianna-huffington/
+
+HuffPost on clickbait: Short-term gain, long-term loss - Digiday
+http://ec2-34-225-151-148.compute-1.amazonaws.com/sponsored/huffington-post-rise-viral-editors/
+
+Need for speed: How HuffPost cut page-load time by 8 seconds in its ...
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/huffpost-app-speed/
+
+HuffPost's reorganized product team drove a 27 percent lift in video ...
+http://ec2-34-225-151-148.compute-1.amazonaws.com/future-of-tv/huffpost-product-team/
+
+HuffPost's Lydia Polgreen: Trump is not 'topic A' for most Americans ...
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/digiday-podcast-huffpost-lydia-polgreen-trump-not-topic-americans/
+
+How Julia Beizer is bringing a product sensibility to HuffPost - Digiday
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/julia-beizer-huffpost/
+
+HuffPost Live | Colorlines
+https://dc-34378-901350360.us-east-1.elb.amazonaws.com/tags/huffpost-live
+
+# Exposed documents (https://www.google.com/search?q=site%3Ahuffpost.net%20ext%3Adoc%20%7C%20ext%3Adocx%20%7C%20ext%3Aodt%20%7C%20ext%3Apdf%20%7C%20ext%3Artf%20%7C%20ext%3Asxw%20%7C%20ext%3Apsw%20%7C%20ext%3Appt%20%7C%20ext%3Apptx%20%7C%20ext%3Apps%20%7C%20ext%3Acsv)
+no results
+
+# Stackoverflow (https://www.google.com/search?q=site%3Astackoverflow.com%20%22huffpost.net%22)
+-- 9 results --
+
+Python requests (Ubuntu): first requests.packages.urllib3 ...
+https://stackoverflow.com/questions/46232544/python-requests-ubuntu-first-requests-packages-urllib3-connectionpool-get-res
+
+Blurred Box like in the Blizzard Website - Stack Overflow
+https://stackoverflow.com/questions/47970974/blurred-box-like-in-the-blizzard-website
+
+How to avoid Google Ads from slowing down my site (Especially ...
+https://stackoverflow.com/questions/53555452/how-to-avoid-google-ads-from-slowing-down-my-site-especially-mobile
+
+How to Change Image on hover - Stack Overflow
+https://stackoverflow.com/questions/45496069/how-to-change-image-on-hover
+
+java.io.IOException: Server returned HTTP response code: 403 for ...
+https://stackoverflow.com/questions/3869372/java-io-ioexception-server-returned-http-response-code-403-for-url
+
+javascript - Trouble Embedding Facebook Posts - Stack Overflow
+http://stackoverflow.com/questions/25164787/trouble-embedding-facebook-posts
+
+How do I add multiple Web pages on my news website and maintain ...
+https://stackoverflow.com/questions/66170373/how-do-i-add-multiple-web-pages-on-my-news-website-and-maintain-them-professiona
+
+Prevent div moving/jumping down and make images same height ...
+https://stackoverflow.com/questions/64910348/prevent-div-moving-jumping-down-and-make-images-same-height
+
+Change image when is clicked on it, and then change it back - Stack ...
+https://stackoverflow.com/questions/30477583/change-image-when-is-clicked-on-it-and-then-change-it-back
+
+# Config files (https://www.google.com/search?q=site%3Ahuffpost.net%20ext%3Axml%20%7C%20ext%3Aconf%20%7C%20ext%3Acnf%20%7C%20ext%3Areg%20%7C%20ext%3Ainf%20%7C%20ext%3Ardp%20%7C%20ext%3Acfg%20%7C%20ext%3Atxt%20%7C%20ext%3Aora%20%7C%20ext%3Aenv%20%7C%20ext%3Aini)
+no results
+
+# Code share sites (https://www.google.com/search?q=site%3Asharecode.io%20%7C%20site%3Acontrolc.com%20%7C%20site%3Acodepad.co%20%7Csite%3Aideone.com%20%7C%20site%3Acodebeautify.org%20%7C%20site%3Ajsdelivr.com%20%7C%20site%3Acodeshare.io%20%7C%20site%3Acodepen.io%20%7C%20site%3Arepl.it%20%7C%20site%3Ajsfiddle.net%20%22huffpost%22)
+-- 10 results --
+
+circle button animation for huffpost - CodePen
+https://codepen.io/wentin/full/nHAkG
+
+circle button animation for huffpost - CodePen
+https://codepen.io/wentin/pen/nHAkG
+
+CodePen Embed - Thumbnail List - With Lazy Image Loading
+https://codepen.io/mvidailhet/embed/yNOGzY?height=700&theme-id=0&slug-hash=yNOGzY&default-tab=result&user=mvidailhet&name=cp_embed_1
+
+circle button animation for huffpost - CodePen
+https://codepen.io/wentin/details/nHAkG
+
+circle button animation for huffpost - CodePen
+https://codepen.io/wentin/details/nHAkG/
+
+Online Compiler and IDE &gt;&gt; C/C++, Java, PHP ... - Ideone.com
+https://ideone.com/fork/n2UcBU
+
+CodePen - #BlackGirlMagic
+https://codepen.io/YugHug/full/BKQzJZ/
+
+World News - HuffPost - 20fc5ada - ControlC
+https://controlc.com/20fc5ada
+
+Edit fiddle - JSFiddle - Code Playground
+https://jsfiddle.net/_confirm_delete/54r0vk8L/
+
+Edit fiddle - JSFiddle - Code Playground
+http://jsfiddle.net/2xxq8tLz/
+
+# SQL errors (https://www.google.com/search?q=site%3Ahuffpost.net%20intext%3A%5C%22sql%20syntax%20near%5C%22%20%7C%20intext%3A%5C%22syntax%20error%20has%20occurred%5C%22%20%7C%20intext%3A%5C%22incorrect%20syntax%20near%5C%22%20%7C%20intext%3A%5C%22unexpected%20end%20of%20SQL%20command%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20mysql_connect()%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20mysql_query()%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20pg_connect()%5C%22)
+no results
+
+# Backup files (https://www.google.com/search?q=site%3Ahuffpost.net%20ext%3Abkf%20%7C%20ext%3Abkp%20%7C%20ext%3Abak%20%7C%20ext%3Aold%20%7C%20ext%3Abackup)
+no results
+
+# Other files (https://www.google.com/search?q=site%3Ahuffpost.net%20intitle%3Aindex.of%20%7C%20ext%3Alog%20%7C%20ext%3Aphp%20intitle%3Aphpinfo%20%5C%22published%20by%20the%20PHP%20Group%5C%22%20%7C%20inurl%3Ashell%20%7C%20inurl%3Abackdoor%20%7C%20inurl%3Awso%20%7C%20inurl%3Acmd%20%7C%20shadow%20%7C%20passwd%20%7C%20boot.ini%20%7C%20inurl%3Abackdoor%20%7C%20inurl%3Areadme%20%7C%20inurl%3Alicense%20%7C%20inurl%3Ainstall%20%7C%20inurl%3Asetup%20%7C%20inurl%3Aconfig%20%7C%20inurl%3A%5C%22%2Fphpinfo.php%5C%22%20%7C%20inurl%3A%5C%22.htaccess%5C%22%20%7C%20ext%3Aswf)
+no results
+
+# Login pages (https://www.google.com/search?q=site%3Ahuffpost.net%20inurl%3Asignup%20%7C%20inurl%3Aregister%20%7C%20intitle%3ASignup)
+no results
+
+# Traefik (https://www.google.com/search?q=intitle%3Atraefik%20inurl%3A8080%2Fdashboard%20%22huffpost%22)
+no results
+
+# GitLab/GitHub/Bitbucket (https://www.google.com/search?q=site%3Agithub.com%20%7C%20site%3Agitlab.com%20%7C%20site%3Abitbucket.org%20%22huffpost%22)
+-- 10 results --
+
+huffpost · GitHub Topics · GitHub
+https://github.com/topics/huffpost
+
+HuffPost Data · GitHub
+https://github.com/HuffPostData
+
+ashleyedds/mongodbscraper: Scrape travel articles from ... - GitHub
+https://github.com/ashleyedds/mongodbscraper
+
+huffpost/HuffPost-aus.ipynb at master · jhroy/huffpost · GitHub
+https://github.com/jhroy/huffpost/blob/master/HuffPost-aus.ipynb
+
+huffington-post · GitHub Topics · GitHub
+https://github.com/topics/huffington-post
+
+niles87/huffpost-scraped: A news scraping application - GitHub
+https://github.com/niles87/huffpost-scraped
+
+Pull requests · jhroy/huffpost · GitHub
+https://github.com/jhroy/huffpost/pulls
+
+sotomsa/HuffPostDataSet: Exploratory Data Analysis (EDA ... - GitHub
+https://github.com/sotomsa/HuffPostDataSet
+
+design/_overview.md at master · buzzfeed/design · GitHub
+https://github.com/buzzfeed/design/blob/master/recruiting/_overview.md
+
+alfarias/news-classification-distilbert: Exploratory data ... - GitHub
+https://github.com/alfarias/news-classification-distilbert
+
+# Sub-subdomains (https://www.google.com/search?q=site%3A*.*.huffpost.net)
+-- 10 results --
+
+Widgets... Widgets, everywhere.
+https://widget.tools.huffpost.net/
+
+Fritzie Fritzhall - HuffPost
+http://widget.tools.huffpost.net/embeds/52
+
+Aaron Elster - HuffPost
+http://widget.tools.huffpost.net/embeds/51
+
+Widgets... Widgets, everywhere. - Widget Creator
+https://widget.tools.huffpost.net/abzwfdwghwixotz.html
+
+Emoji Oscar Storybook
+http://widget.tools.huffpost.net/embeds/emoji-oscar-storybook
+
+HuffPost Athena
+https://us.edit.huffpost.net/cms/collection/5a05de2ee4b05673aa590da9?page=1
+
+Login - HuffPost
+https://us.preview.huffpost.net/entry/5e57033ec5b68f79fdc48898?preview=3e268eb2-fe64-485b-be9a-e3267403fc0f&edition=us
+
+Login - HuffPost
+https://us.preview.huffpost.net/api/user/authorize/janus?referer=https%3A%2F%2Fus.preview.huffpost.net%2Fentry%2F5a81d766e4b08dfc9306b593%3Fpreview%3Dd979884b-5d1f-43ed-90d4-6a73d3e69087%26edition%3Dus
+
+https://uk.preview.huffpost.net/api/user/authorize...
+https://uk.preview.huffpost.net/api/user/authorize/aas?referer=https%3A%2F%2Fuk.preview.huffpost.net%2Fentry%2F5b697b1ce4b0de86f4a4fefc%3Fpreview%3D93a03bbc-59f8-4693-b2b6-9133c9fc9ec8%26edition%3Duk
+
+https://us.preview.huffpost.net/api/user/authorize...
+https://us.preview.huffpost.net/api/user/authorize/aas?referer=https%3A%2F%2Fus.preview.huffpost.net%2Fentry%2F5da8b8e7e4b0b5c9be4b50cf%3Fpreview%3Ddb2b4c18-bc21-47e6-8c97-348193460a35%26edition%3Dus
+
+# PHP errors (https://www.google.com/search?q=site%3Ahuffpost.net%20%5C%22PHP%20Parse%20error%5C%22%20%7C%20%5C%22PHP%20Warning%5C%22%20%7C%20%5C%22PHP%20Error%5C%22)
+no results
+
+# Linkedin employees (https://www.google.com/search?q=site%3Alinkedin.com%20employees%20huffpost.net)
+-- 10 results --
+
+Employees at HuffPost - LinkedIn
+https://www.linkedin.com/company/huffpost
+
+Employees at Huffington Post - LinkedIn
+https://www.linkedin.com/company/huffington-post
+
+huffingtonpost.com | LinkedIn
+https://www.linkedin.com/company/huffingtonpost-com
+
+HuffPost | LinkedIn
+https://gr.linkedin.com/company/huffpost
+
+Le HuffPost | LinkedIn
+https://www.linkedin.com/company/le-huffpost
+
+HuffPost UK | LinkedIn
+https://www.linkedin.com/showcase/huffpost-uk
+
+Employees at AOL - LinkedIn
+https://www.linkedin.com/company/aol
+
+Huffington Post | LinkedIn
+https://www.linkedin.com/company/huffington-post/
+
+BuzzFeed hiring Junior Staff Writer - HuffPost Shopping in Utica ...
+https://www.linkedin.com/jobs/view/junior-staff-writer-huffpost-shopping-at-buzzfeed-2627241321
+
+BuzzFeed hiring Staff Writer - HuffPost Shopping in New York, New ...
+https://www.linkedin.com/jobs/view/staff-writer-huffpost-shopping-at-buzzfeed-2632855104
+
+# .git folder (https://www.google.com/search?q=inurl%3A%5C%22%2F.git%5C%22%20huffpost.net%20-github)
+no results
+
+# Project management sites (https://www.google.com/search?q=site%3Atrello.com%20%7C%20site%3A*.atlassian.net%20%22huffpost%22)
+-- 10 results --
+
+HUFFPOST: How Patient Data Affects Political Policy on MAP Health ...
+https://trello.com/c/IWiEYlHY/165-huffpost-how-patient-data-affects-political-policy
+
+HuffPost: How the Addiction Epidemic and Mental Health Crisis ...
+https://trello.com/c/BRqbbQaE/144-huffpost-how-the-addiction-epidemic-and-mental-health-crisis-inadvertently-became-a-prison-funnel-less-access-to-treatment-means
+
+36 Things I Wish Someone Told Me About Divorce | HuffPost Life on ...
+https://trello.com/c/tORnWKGL/125-36-things-i-wish-someone-told-me-about-divorce-huffpost-life
+
+Food Pairings: The Best Unusual Flavor Combinations | HuffPost on ...
+https://trello.com/c/Jq7CITtY/38-food-pairings-the-best-unusual-flavor-combinations-huffpost
+
+https://www.huffpost.com/entry/school-lunch-project ... - Trello
+https://trello.com/c/NSShLSCi/146-https-wwwhuffpostcom-entry-school-lunch-project-homemade-chicken-stripsb2616461
+
+Session 1: Media and Sustainable Development | Japan on SDG ...
+https://trello.com/c/M3mm1o4F/84-session-1-media-and-sustainable-development-japan
+
+HuffPost Tamo Junto on LAGER - Trello
+https://trello.com/c/tJELc6bH/6-huffpost-tamo-junto
+
+Japan promo 26/27 Sept (internal) on SDG Media Zone at UNGA75
+https://trello.com/c/RGNcJnjP/69-japan-promo-26-27-sept-internal
+
+Hats_CK_102317 - Trello
+https://trello.com/b/ENk1G5P2/hatsck102317
+
+Decision Making on To Learn - Trello
+https://trello.com/c/8o4afaB3/12-decision-making
+
+# Pastebin-like sites (https://www.google.com/search?q=site%3Ajustpaste.it%20%7C%20site%3Aheypasteit.com%20%7C%20site%3Apastebin.com%20%22huffpost%22)
+-- 10 results --
+
+https://www.huffpost.com/entry/how-to-avoid-being ...
+https://pastebin.com/Ds2ZinRU
+
+https://www.huffpost.com/entry/new-survey-shows-nearly-half-of ...
+https://pastebin.com/feNNbwpK
+
+6 Signs of Selfish Love - Pastebin.com
+https://pastebin.com/YTB6Qgbr
+
+SEXUAL ATTRACTIONS - Pastebin.com
+https://pastebin.com/aNSMGkpW
+
+https://www.huffpost.com/entry/a-simple-explanation-for-why-people ...
+https://pastebin.com/apNnm5uP
+
+10 Helpful Habits Of Happy People - Pastebin.com
+https://pastebin.com/jxZ5r5iw
+
+8 Habits that Drain Your Energy - Pastebin.com
+https://pastebin.com/e5BYJyZH
+
+PET PEEVES - Pastebin.com
+https://pastebin.com/hC7Tw3Ca
+
+https://www.todaysparent.com/kids/kids-health/why-we-shouldnt ...
+https://pastebin.com/7YYNP0tT
+
+https://www.dailymail.co.uk/news/article-2160144 ... - Pastebin.com
+https://pastebin.com/Tyu4H5Ks

@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /backstage/
+Disallow: /blackberry/
+Disallow: /users/
+Disallow: /contact/pop/
+Disallow: /t/
+Disallow: /archive/
+Disallow: /social/
+Disallow: /commentsv3/
+Disallow: /mobileweb/comments/
+Disallow: /recipe-search/
+Disallow: /*-recipes/*/*/*/"
+Disallow: /ads/sponsor/*
+Disallow: /*editors-note*
+Disallow: /search.php/
+
+Sitemap: http://www.huffingtonpost.com/sitemap.xml
+Sitemap: http://www.huffingtonpost.com/original-content-map.xml

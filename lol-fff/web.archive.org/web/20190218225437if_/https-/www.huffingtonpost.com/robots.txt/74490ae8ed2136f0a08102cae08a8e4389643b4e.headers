@@ -1,0 +1,40 @@
+GET https://web.archive.org/web/20190218225437if_/https://www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Date: Mon, 26 Jul 2021 18:13:42 GMT
+< Content-Type: text/plain
+< X-Archive-Orig-Age: 203
+< X-Archive-Orig-Server: ECD (sjc/16C2)
+< X-Archive-Orig-Connection: close
+< X-Tr: 1321
+< X-Archive-Orig-Last-Modified: Mon, 18 Feb 2019 22:17:49 GMT
+< X-Archive-Orig-Strict-Transport-Security: max-age=31536000;
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Orig-X-Ec-Lua: 19365-geo
+< X-Archive-Src: ARCHIVEIT-9881-TWELVE_HOURS-JOB743073-SEED1805902-20190218-00000/ARCHIVEIT-9881-TWELVE_HOURS-JOB743073-SEED1805902-20190218224202910-00000-h3.warc.gz
+< X-Ts: 200
+< X-Archive-Orig-Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://huffpost.report-uri.com/r/d/csp/enforce;
+< X-Archive-Orig-X-Cache: HIT
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Cache-Key: httpsweb.archive.org/web/20190218225437if_/https://www.huffingtonpost.com/robots.txtUS
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< X-Archive-Orig-Content-Length: 415
+< Memento-Datetime: Mon, 18 Feb 2019 22:54:37 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Rl: 0
+< X-Na: 0
+< Connection: keep-alive
+< Link: <https://www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20190218220217/http://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Mon, 18 Feb 2019 22:02:17 GMT", <https://web.archive.org/web/20190218225437/https://www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Mon, 18 Feb 2019 22:54:37 GMT", <https://web.archive.org/web/20190218231417/https://www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Mon, 18 Feb 2019 23:14:17 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< Server-Timing: exclusion.robots;dur=1.948983, RedisCDXSource;dur=30.178963, PetaboxLoader3.datanode;dur=495.393561, exclusion.robots.policy;dur=1.847284, PetaboxLoader3.resolve;dur=36.399374, CDXLines.iter;dur=464.736562, LoadShardBlock;dur=566.615160, esindex;dur=0.085269, load_resource;dur=95.631289
+< X-App-Server: wwwb-app31
+< X-Archive-Orig-Date: Mon, 18 Feb 2019 22:54:37 GMT
+< X-Archive-Orig-Etag: "5c6b2f0d-19f+gzip+ident"
+< X-Archive-Guessed-Encoding: utf-8
+< X-Location: All
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()

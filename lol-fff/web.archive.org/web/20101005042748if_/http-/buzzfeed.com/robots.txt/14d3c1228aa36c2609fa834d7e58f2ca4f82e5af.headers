@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20101005042748if_/http://buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< Location: https://web.archive.org/web/20101005042749if_/http://www.buzzfeed.com/robots.txt
+< X-App-Server: wwwb-app39
+< X-Tr: 1319
+< X-Na: 0
+< Server: nginx/1.15.8
+< Content-Type: text/plain; charset=utf-8
+< X-Archive-Redirect-Reason: found capture at 20101005042749
+< X-Ts: 302
+< X-Nid: -
+< Date: Mon, 26 Jul 2021 17:11:58 GMT
+< Server-Timing: CDXLines.iter;dur=158.561929, PetaboxLoader3.datanode;dur=731.919547, load_resource;dur=605.371651, exclusion.robots.policy;dur=0.229629, esindex;dur=0.015317, exclusion.robots;dur=0.242875, LoadShardBlock;dur=503.863601, RedisCDXSource;dur=0.649357, PetaboxLoader3.resolve;dur=131.778241
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20101005042748if_/http://buzzfeed.com/robots.txtUS
+< X-Rl: 0
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Length: 0

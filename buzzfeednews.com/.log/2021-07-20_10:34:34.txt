@@ -1,0 +1,73 @@
+Warning: Output is not a terminal (fd=1).
+Traceback (most recent call last):
+  File "theHarvester.py", line 7, in <module>
+    from theHarvester import __main__
+  File "/home/morty/tools/Tools/theHarvester/theHarvester/__main__.py", line 4, in <module>
+    from theHarvester.discovery import dnssearch, takeover, shodansearch
+  File "/home/morty/tools/Tools/theHarvester/theHarvester/discovery/takeover.py", line 1, in <module>
+    from theHarvester.lib.core import *
+  File "/home/morty/tools/Tools/theHarvester/theHarvester/lib/core.py", line 6, in <module>
+    import aiohttp
+ModuleNotFoundError: No module named 'aiohttp'
+mv: cannot stat 'osint/buzzfeednews.com/*.txt': No such file or directory
+jq: error (at <stdin>:25): Cannot iterate over null (null)
+jq: error (at <stdin>:13): Cannot iterate over null (null)
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+cat: .tmp/subdomains_dns_resolved.txt: No such file or directory
+cat: .tmp/analytics_subs_resolved.txt: No such file or directory
+cat: .tmp/output_cloud.txt: No such file or directory
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/192.161.154.1/443: Connection timed out
+Fatal error: Can't connect to "192.161.154.1:443"
+Make sure a firewall is not between you and your scanning target!

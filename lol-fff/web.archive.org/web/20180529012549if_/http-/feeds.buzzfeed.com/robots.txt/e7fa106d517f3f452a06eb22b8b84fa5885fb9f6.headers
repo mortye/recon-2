@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20180529012549if_/http://feeds.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Archive-Orig-X-Amz-Cf-Id: wV13JxUhx4UEb5onfPk7kXPrzjyV0p9vXur8tc9OaZckuh_c4DP2sg==
+< X-Cache-Key: httpsweb.archive.org/web/20180529012549if_/http://feeds.buzzfeed.com/robots.txtUS
+< X-Na: 0
+< X-Page-Cache: MISS
+< Link: <http://feeds.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://feeds.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://feeds.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180529012549/http://feeds.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Tue, 29 May 2018 01:25:49 GMT", <https://web.archive.org/web/20180529012549/http://feeds.buzzfeed.com/robots.txt>; rel="memento"; datetime="Tue, 29 May 2018 01:25:49 GMT", <https://web.archive.org/web/20180529012625/https://feeds.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Tue, 29 May 2018 01:26:25 GMT", <https://web.archive.org/web/20210724191429/https://feeds.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 19:14:29 GMT"
+< X-Archive-Src: liveweb-20180529005543/cachegw-20180529011445-wwwb-app11.us.archive.org.warc.gz
+< X-App-Server: wwwb-app203
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-Via: 1.1 222e383f81aa60fc948a16578ac9aa3c.cloudfront.net (CloudFront)
+< Memento-Datetime: Tue, 29 May 2018 01:25:49 GMT
+< Server-Timing: captures_list;dur=84.058519, exclusion.robots;dur=0.262271, exclusion.robots.policy;dur=0.254665, RedisCDXSource;dur=0.946018, esindex;dur=0.007757, LoadShardBlock;dur=56.941477, PetaboxLoader3.datanode;dur=109.082221, CDXLines.iter;dur=17.152851, load_resource;dur=197.884851, PetaboxLoader3.resolve;dur=120.307367
+< X-Ts: 301
+< Server: nginx/1.15.8
+< Connection: keep-alive
+< X-Archive-Orig-Date: Tue, 29 May 2018 01:25:55 GMT
+< X-Tr: 298
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Date: Mon, 26 Jul 2021 15:47:06 GMT
+< Location: https://web.archive.org/web/20180529012549if_/https://www.buzzfeed.com/robots.txt
+< X-Location: All
+< X-Rl: 0
+< Cache-Control: max-age=1800
+< X-Archive-Orig-Content-Length: 0
+< X-Archive-Orig-X-Cache: Miss from cloudfront
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org

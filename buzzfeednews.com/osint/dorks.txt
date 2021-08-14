@@ -1,0 +1,372 @@
+
+# Config files (https://www.google.com/search?q=site%3Abuzzfeednews.com%20ext%3Axml%20%7C%20ext%3Aconf%20%7C%20ext%3Acnf%20%7C%20ext%3Areg%20%7C%20ext%3Ainf%20%7C%20ext%3Ardp%20%7C%20ext%3Acfg%20%7C%20ext%3Atxt%20%7C%20ext%3Aora%20%7C%20ext%3Aenv%20%7C%20ext%3Aini)
+-- 10 results --
+
+https://www.buzzfeednews.com/sitemap/news/2016_8.xml https ...
+https://www.buzzfeednews.com/sitemap/news.xml
+
+https://www.buzzfeednews.com/article/briannasacks/grandfather ...
+https://www.buzzfeednews.com/sitemap/news/2019_44.xml
+
+https://www.buzzfeednews.com/article/eleanorbate/rupert-grint ...
+https://www.buzzfeednews.com/sitemap/news/2021_6.xml
+
+https://www.buzzfeednews.com/article/claudiakoerner/board ...
+https://www.buzzfeednews.com/sitemap/news/2016_16.xml
+
+https://www.buzzfeednews.com/article/henrygomez/gun-control ...
+https://www.buzzfeednews.com/sitemap/news/2019_32.xml
+
+https://www.buzzfeednews.com/article/krystieyandoli/paramount ...
+https://www.buzzfeednews.com/sitemap/news/2020_24.xml
+
+https://www.buzzfeednews.com/article/stephaniemcneal/instagram ...
+https://www.buzzfeednews.com/sitemap/news/2020_21.xml
+
+https://www.buzzfeednews.com/article/kenbensinger/prosecutors ...
+https://www.buzzfeednews.com/sitemap/news/2021_13.xml
+
+https://www.buzzfeednews.com/article/charliewarzel/alexandria ...
+https://www.buzzfeednews.com/sitemap/news/2019_2.xml
+
+https://www.buzzfeednews.com/article/krystieyandoli/michelle ...
+https://www.buzzfeednews.com/sitemap/news/2021_4.xml
+
+# Backup files (https://www.google.com/search?q=site%3Abuzzfeednews.com%20ext%3Abkf%20%7C%20ext%3Abkp%20%7C%20ext%3Abak%20%7C%20ext%3Aold%20%7C%20ext%3Abackup)
+no results
+
+# Sub-subdomains (https://www.google.com/search?q=site%3A*.*.buzzfeednews.com)
+no results
+
+# Pastebin-like sites (https://www.google.com/search?q=site%3Ajustpaste.it%20%7C%20site%3Aheypasteit.com%20%7C%20site%3Apastebin.com%20%22buzzfeednews%22)
+-- 10 results --
+
+https://www.guinnessworldrecords.com/world-records/77315 ...
+https://pastebin.com/fGsnGmL1
+
+&#1057;&#1088;&#1072;&#1074;&#1085;&#1077;&#1085;&#1080;&#1077;: &#1057;&#1072;&#1084;&#1099;&#1077; &#1057;&#1090;&#1088;&#1072;&#1085;&#1085;&#1099;&#1077; &#1056;&#1077;&#1082;&#1086;&#1088;&#1076;&#1099; (&#1088;&#1077;&#1089;&#1091;&#1088;&#1089;&#1099;) - Pastebin.com
+https://pastebin.com/nArcdG4Z
+
+OTHER RESOURCES - Pastebin.com
+https://pastebin.com/6ve7WxqE
+
+It Follows- It Can Really Follow - Pastebin.com
+https://pastebin.com/scT720WV
+
+https://www.crimeandinvestigation.co.uk/shows/the ... - Pastebin.com
+https://pastebin.com/EEKQ9V3V
+
+*Sigh.*I'll just keep posting this until you stop being dishonest, I gue ...
+https://pastebin.com/fp1CLpTG
+
+Energy Attacks - Pastebin.com
+https://pastebin.com/Kxp0S9mc
+
+https://www.telegraph.co.uk/news/2018/04/17 ... - Pastebin.com
+https://pastebin.com/xR9KShwb
+
+Lesung Telingahttps://www.mirror.co.uk/news/weird ... - Pastebin.com
+https://pastebin.com/GMs8dzDa
+
+Sephora x BeautyCounter - Pastebin.com
+https://pastebin.com/uRS2GhaP
+
+# PHP errors (https://www.google.com/search?q=site%3Abuzzfeednews.com%20%5C%22PHP%20Parse%20error%5C%22%20%7C%20%5C%22PHP%20Warning%5C%22%20%7C%20%5C%22PHP%20Error%5C%22)
+no results
+
+# Stackoverflow (https://www.google.com/search?q=site%3Astackoverflow.com%20%22buzzfeednews.com%22)
+-- 6 results --
+
+How to fix broken CSV file where column values are not formatted ...
+https://stackoverflow.com/questions/67389735/how-to-fix-broken-csv-file-where-column-values-are-not-formatted-properly
+
+Huge memory usage in Javascript (DAWG) - Stack Overflow
+https://stackoverflow.com/questions/54513120/huge-memory-usage-in-javascript-dawg
+
+PHP - 2018-11-28 (page 2 of 3) - Stack Overflow Chat
+https://chat.stackoverflow.com/transcript/11?m=44691527
+
+PHP - 2021-04-28 (page 1 of 4) - Stack Overflow chat
+https://chat.stackoverflow.com/transcript/11/2021/4/28
+
+Android - 2020-02-27 (page 5 of 6) - Stack Overflow chat
+https://chat.stackoverflow.com/transcript/message/48709042
+
+PHP - 2018-11-28 (page 2 of 3) - Stack Overflow Chat
+https://chat.stackoverflow.com/transcript/message/44691180
+
+# Exposed documents (https://www.google.com/search?q=site%3Abuzzfeednews.com%20ext%3Adoc%20%7C%20ext%3Adocx%20%7C%20ext%3Aodt%20%7C%20ext%3Apdf%20%7C%20ext%3Artf%20%7C%20ext%3Asxw%20%7C%20ext%3Apsw%20%7C%20ext%3Appt%20%7C%20ext%3Apptx%20%7C%20ext%3Apps%20%7C%20ext%3Acsv)
+no results
+
+# Other 3rd parties sites (https://www.google.com/search?q=site%3Agitter.im%20%7C%20site%3Apapaly.com%20%7C%20site%3Aproductforums.google.com%20%7C%20site%3Acoggle.it%20%7C%20site%3Areplt.it%20%7C%20site%3Aycombinator.com%20%7C%20site%3Alibraries.io%20%7C%20site%3Anpm.runkit.com%20%7C%20site%3Anpmjs.com%20%7C%20site%3Ascribd.com%20%22buzzfeednews%22)
+no results
+
+# Database files (https://www.google.com/search?q=site%3Abuzzfeednews.com%20ext%3Asql%20%7C%20ext%3Adbf%20%7C%20ext%3Amdb)
+no results
+
+# Code share sites (https://www.google.com/search?q=site%3Asharecode.io%20%7C%20site%3Acontrolc.com%20%7C%20site%3Acodepad.co%20%7Csite%3Aideone.com%20%7C%20site%3Acodebeautify.org%20%7C%20site%3Ajsdelivr.com%20%7C%20site%3Acodeshare.io%20%7C%20site%3Acodepen.io%20%7C%20site%3Arepl.it%20%7C%20site%3Ajsfiddle.net%20%22buzzfeednews%22)
+-- 6 results --
+
+Edit fiddle - JSFiddle - Code Playground
+http://jsfiddle.net/jvonk/udc9m7sk/21/
+
+Email converter - JSFiddle - Code Playground
+http://jsfiddle.net/_confirm_delete/wfsknc7a/
+
+Coronavirus Covid-19 Links - CodePen
+https://codepen.io/cwebba1/full/rNVZJEO
+
+A Pen by MC - CodePen
+https://codepen.io/949mac/pen/abdOggV
+
+Email converter - JSFiddle - Code Playground
+http://jsfiddle.net/_update/wfsknc7a/
+
+Coronavirus Covid-19 Links - CodePen
+https://codepen.io/cwebba1/pen/rNVZJEO
+
+# Linkedin employees (https://www.google.com/search?q=site%3Alinkedin.com%20employees%20buzzfeednews.com)
+-- 10 results --
+
+Employees at BuzzFeed - LinkedIn
+https://www.linkedin.com/company/buzzfeed
+
+BuzzFeed | LinkedIn
+https://be.linkedin.com/company/buzzfeed?trk=public_profile_experience-item_result-card_image-click
+
+Employees at The 99 Problems - LinkedIn
+https://www.linkedin.com/company/the-99-problems
+
+BuzzFeed | LinkedIn
+https://sk.linkedin.com/company/buzzfeed
+
+BuzzFeed | LinkedIn
+https://do.linkedin.com/company/buzzfeed
+
+nect WORLD Inc. | LinkedIn
+https://hr.linkedin.com/company/nectworld
+
+CollXab | LinkedIn
+https://www.linkedin.com/company/collxab
+
+BuzzFeed hiring Senior Product Manager, BuzzFeed News in Los ...
+https://www.linkedin.com/jobs/view/senior-product-manager-buzzfeed-news-at-buzzfeed-2552473275
+
+Employees at Boiler Room Chats - LinkedIn
+https://www.linkedin.com/company/boilerroomchats
+
+Employees at Chimbly Consultants LLC - LinkedIn
+https://www.linkedin.com/company/chimbly-consultants-llc
+
+# Open redirects (https://www.google.com/search?q=site%3Abuzzfeednews.com%20inurl%3Aredir%20%7C%20inurl%3Aurl%20%7C%20inurl%3Aredirect%20%7C%20inurl%3Areturn%20%7C%20inurl%3Asrc%3Dhttp%20%7C%20inurl%3Ar%3Dhttp)
+-- 10 results --
+
+Rapper Cashh Was Deported From The UK Seven Years Ago. Now ...
+https://www.buzzfeednews.com/article/zwelichib/rapper-cashh-return-of-the-immigrant
+
+Facebook Moderators Terrified Of COVID-19 Are Being Forced To ...
+https://www.buzzfeednews.com/article/ryanmac/terrified-facebook-moderators-return-offices
+
+New York Voters Get Wrong Return Envelopes With Ballots
+https://www.buzzfeednews.com/article/davidmack/new-york-mail-voters-get-wrong-return-envelopes
+
+Trump: Hoda Muthana, Who Left The US For ISIS, Cannot Return ...
+https://www.buzzfeednews.com/article/ellievhall/hoda-muthana-isis-return-us-trump-passport-citizen
+
+You Can Return Nordstrom Goods To Nordstrom Rack And Vice Versa
+https://www.buzzfeednews.com/article/sapna/you-can-return-nordstrom-goods-to-nordstrom-rack-and-vice-ve
+
+Some Of Square's Backers Were Guaranteed A 20% Return In IPO
+https://www.buzzfeednews.com/article/williamalden/square-promised-some-venture-capital-backers-a-20-return
+
+LuLaRoe Just Changed Its Return Policy And People Are Pissed
+https://www.buzzfeednews.com/article/juliegerstein/lularoe-just-changed-its-return-policy-and-people-are-pissed
+
+A Federal Agency Has Started To Return Censored Animal Safety ...
+https://www.buzzfeednews.com/article/peteraldhous/usda-starts-to-return-censored-online-animal-research-docume
+
+"I'm Devastated": Houston Residents Return Home To Ruin As ...
+https://www.buzzfeednews.com/article/albertsamaha/im-devastated-houston-residents-return-home-to-ruin-as
+
+Wanda Sykes Said She Wouldn't Return To "Roseanne" After ...
+https://www.buzzfeednews.com/article/krystieyandoli/wanda-sykes-wont-return-to-roseanne-after-roseanne-barrs
+
+# Apache Struts RCE (https://www.google.com/search?q=site%3Abuzzfeednews.com%20ext%3Aaction%20%7C%20ext%3Astruts%20%7C%20ext%3Ado)
+no results
+
+# .git folder (https://www.google.com/search?q=inurl%3A%5C%22%2F.git%5C%22%20buzzfeednews.com%20-github)
+-- 4 results --
+
+V2Democracy (@destroyccp) / Twitter
+https://twitter.com/destroyccp
+
+Peter Carrero (aloyr@) / &#1578;&#1608;&#1610;&#1578;&#1585; - Twitter
+https://mobile.twitter.com/aloyr?lang=ar-x-fm
+
+Video cms script php news | | Megathread: Likely Explosive Devices ...
+https://shop.olliechambers.pp.ua/?viewtopic=2604
+
+Video cms script php news | | Megathread: Likely Explosive Devices ...
+https://blog.jayweeks.pp.ua/?viewtopic=15278
+
+# Cloud buckets S3/GCP (https://www.google.com/search?q=site%3A.s3.amazonaws.com%20%7C%20site%3Astorage.googleapis.com%20%7C%20site%3Aamazonaws.com%20%22buzzfeednews%22)
+-- 10 results --
+
+buzzfeednews.com at WI. BuzzFeed News | Breaking News ...
+http://ec2-52-21-113-188.compute-1.amazonaws.com/buzzfeednews.com
+
+buzzfeed.com at Website Informer. BuzzFeed. Visit Buzz Feed.
+http://ec2-52-1-219-11.compute-1.amazonaws.com/buzzfeed.com
+
+Orlando Shooting Victim: "Out Of Nowhere We Just Heard A Big ...
+https://ec2-23-20-45-140.compute-1.amazonaws.com/stories/2016/06/14/orlando-shooting-victim-heard-big-shotgun-c41ff9fe48
+
+Assignment 2 - Amazon AWS
+https://rstudio-pubs-static.s3.amazonaws.com/612917_f9a5ae77ad3740b4b7e9f1bf36e305ab.html
+
+[PDF] DataDeps.jl - Cloud Object Storage | Store & Retrieve Data ...
+https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/12744080/pres.pdf
+
+Raghu_606_Project_Final - Amazon AWS
+https://rstudio-pubs-static.s3.amazonaws.com/275510_e69c7b47646e43b2961aef3b95857b75.html
+
+Lomoanara Home And Family Tv Show Recipes Sophie Brussaux ...
+http://s3.amazonaws.com/casarsa/mona/home-and-family-tv-show-recipes-sophie-brussaux-instagram-youtube.html
+
+The 89th Annual Academy Awards - Unmetric
+https://ec2-174-129-200-38.compute-1.amazonaws.com/events/oscars-instagram.html?utm_source=events_page_insta_posts
+
+[PDF] Presenters
+https://higherlogicdownload.s3.amazonaws.com/NIGP/ee8eaad6-caf5-4b41-bf2e-d70d3ac53a23/UploadedImages/Presentations/BreachedInCyberSecurity_AdlerPelletierSiderius.pdf
+
+Coronavirus: China to build two huge hospitals in just two weeks ...
+https://ec2-34-235-123-65.compute-1.amazonaws.com/harmonica-stuck-inside-a-teen-girl-mouth-tamil-_amp-news-252644
+
+# Wordpress files (https://www.google.com/search?q=site%3Abuzzfeednews.com%20inurl%3Awp-content%20%7C%20inurl%3Awp-includes)
+no results
+
+# Login pages (https://www.google.com/search?q=site%3Abuzzfeednews.com%20inurl%3Asignup%20%7C%20inurl%3Aregister%20%7C%20intitle%3ASignup)
+-- 10 results --
+
+Busch Light Guy: Reporter Fired After Des Moines Register Profile ...
+https://www.buzzfeednews.com/article/juliareinstein/des-moines-register-iowa-reporter-fired-aaron-calvin-carson
+
+Republican States Tried To Stop Facebook's Effort ... - BuzzFeed News
+https://www.buzzfeednews.com/article/ryanmac/facebook-republican-states-stop-register-millions-voters
+
+How To Register To Vote Online (And Off) - BuzzFeed News
+https://www.buzzfeednews.com/article/reyhan/how-to-register-to-vote-online-and-off
+
+Square Launched A New Cashless Register - BuzzFeed News
+https://www.buzzfeednews.com/article/katienotopoulos/square-launched-a-new-cashless-register
+
+Season's Greetings From The FAA. It's Time To Register Your Drone
+https://www.buzzfeednews.com/article/hamzashaban/heres-where-to-register-your-christmas-drone
+
+March For Our Lives Rallies Made A Huge Push To Register Teen ...
+https://www.buzzfeednews.com/article/carolineodonovan/people-register-to-vote-for-the-first-time-march-lives
+
+This Iowa Caucus Poll Was Never Published. It's Still Influencing ...
+https://www.buzzfeednews.com/article/bensmith/iowa-caucus-poll-des-moines-register-selzer
+
+What It's Like To Register Voters At Chance The Rapper's ...
+https://www.buzzfeednews.com/article/darrensands/what-its-like-to-register-voters-at-chance-the-rappers-magni
+
+Migrants In The Caravan Have A Choice: Register With Mexico Or ...
+https://www.buzzfeednews.com/article/karlazabludovsky/migrant-caravan-no-humanitarian-aid-register-federal
+
+People Are Sharing Fake Gossip About Celebrity Breakups To Get ...
+https://www.buzzfeednews.com/article/remysmidt/register-vote-gossip-why-ariana-grande-and-pete-davison
+
+# Traefik (https://www.google.com/search?q=intitle%3Atraefik%20inurl%3A8080%2Fdashboard%20%22buzzfeednews%22)
+no results
+
+# Other files (https://www.google.com/search?q=site%3Abuzzfeednews.com%20intitle%3Aindex.of%20%7C%20ext%3Alog%20%7C%20ext%3Aphp%20intitle%3Aphpinfo%20%5C%22published%20by%20the%20PHP%20Group%5C%22%20%7C%20inurl%3Ashell%20%7C%20inurl%3Abackdoor%20%7C%20inurl%3Awso%20%7C%20inurl%3Acmd%20%7C%20shadow%20%7C%20passwd%20%7C%20boot.ini%20%7C%20inurl%3Abackdoor%20%7C%20inurl%3Areadme%20%7C%20inurl%3Alicense%20%7C%20inurl%3Ainstall%20%7C%20inurl%3Asetup%20%7C%20inurl%3Aconfig%20%7C%20inurl%3A%5C%22%2Fphpinfo.php%5C%22%20%7C%20inurl%3A%5C%22.htaccess%5C%22%20%7C%20ext%3Aswf)
+no results
+
+# SQL errors (https://www.google.com/search?q=site%3Abuzzfeednews.com%20intext%3A%5C%22sql%20syntax%20near%5C%22%20%7C%20intext%3A%5C%22syntax%20error%20has%20occurred%5C%22%20%7C%20intext%3A%5C%22incorrect%20syntax%20near%5C%22%20%7C%20intext%3A%5C%22unexpected%20end%20of%20SQL%20command%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20mysql_connect()%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20mysql_query()%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20pg_connect()%5C%22)
+no results
+
+# Jenkins (https://www.google.com/search?q=intitle%3A%5C%22Dashboard%20%5BJenkins%5D%5C%22%20%22buzzfeednews%22)
+no results
+
+# GitLab/GitHub/Bitbucket (https://www.google.com/search?q=site%3Agithub.com%20%7C%20site%3Agitlab.com%20%7C%20site%3Abitbucket.org%20%22buzzfeednews%22)
+-- 10 results --
+
+BuzzFeed News · GitHub
+https://github.com/BuzzFeedNews
+
+BuzzFeedNews/everything: An index of all our open-source ... - GitHub
+https://github.com/BuzzFeedNews/everything
+
+BuzzFeedNews - GitHub
+https://github.com/BuzzFeedNews/2016-10-facebook-fact-check/tree/master/data
+
+BuzzFeedNews/nics-firearm-background-checks: Monthly ... - GitHub
+https://github.com/BuzzFeedNews/nics-firearm-background-checks
+
+BuzzFeed News · GitHub
+https://github.com/BuzzFeedNews?language=html
+
+everything/README.md at master · BuzzFeedNews/everything ...
+https://github.com/BuzzFeedNews/everything/blob/master/README.md
+
+BuzzFeedNews/2017-12-fake-news-top-50: Data and ... - GitHub
+https://github.com/BuzzFeedNews/2017-12-fake-news-top-50
+
+BuzzFeedNews/2017-09-harvey-emissions-update: Data ... - GitHub
+https://github.com/BuzzFeedNews/2017-09-harvey-emissions-update
+
+BuzzFeedNews/2018-12-fake-news-top-50: Data and ... - GitHub
+https://github.com/BuzzFeedNews/2018-12-fake-news-top-50
+
+Projects · BuzzFeedNews · GitHub
+https://github.com/orgs/BuzzFeedNews/projects
+
+# Subdomains (https://www.google.com/search?q=site%3A*.buzzfeednews.com)
+-- 10 results --
+
+BuzzFeed News | Breaking News | Original Reporting | News Analysis
+https://www.buzzfeednews.com/
+
+BuzzFeed News Membership: Become A BuzzFeed News Member
+https://support.buzzfeednews.com/
+
+Tanya Chen (tanyachen) on BuzzFeed
+https://www.buzzfeednews.com/author/tanyachen
+
+Megan Liscomb (meganeliscomb) on BuzzFeed
+https://www.buzzfeednews.com/author/meganeliscomb
+
+Otillia Steadman (otilliasteadman) on BuzzFeed
+https://www.buzzfeednews.com/author/otilliasteadman
+
+Stephanie M. Lee (stephaniemlee) on BuzzFeed
+https://www.buzzfeednews.com/author/stephaniemlee
+
+Ryan Brooks (ryancbrooks) on BuzzFeed
+https://www.buzzfeednews.com/author/ryancbrooks
+
+David Mack (davidmack) on BuzzFeed
+https://www.buzzfeednews.com/author/davidmack
+
+BuzzFeed News Books
+https://www.buzzfeednews.com/section/books
+
+Zahra Hirji (zahrahirji) on BuzzFeed
+https://www.buzzfeednews.com/author/zahrahirji
+
+# Project management sites (https://www.google.com/search?q=site%3Atrello.com%20%7C%20site%3A*.atlassian.net%20%22buzzfeednews%22)
+-- 4 results --
+
+The End Of My Marriage Was The Start Of The Sex Life I Always ...
+https://trello.com/c/f48pBIxJ/394-the-end-of-my-marriage-was-the-start-of-the-sex-life-i-always-wanted
+
+This Instagram Influencer Charged $500 For A "Master Class" In ...
+https://trello.com/c/o5nwtk2x/868-this-instagram-influencer-charged-500-for-a-master-class-in-social-media-now-angry-students-are-calling-it-a-scam
+
+Burnout and does it tech help fuel that? on Tech Ethic Topics - Trello
+https://trello.com/c/KZDd0kY0/44-burnout-and-does-it-tech-help-fuel-that
+
+TikTok-trend 'What I Eat in a Day' is tegen de dieetcultuur on LINDA ...
+https://trello.com/c/8Qcgiilc/201-tiktok-trend-what-i-eat-in-a-day-is-tegen-de-dieetcultuur

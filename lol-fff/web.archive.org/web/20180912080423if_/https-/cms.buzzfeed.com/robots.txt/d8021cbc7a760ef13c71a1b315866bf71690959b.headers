@@ -1,0 +1,34 @@
+GET https://web.archive.org/web/20180912080423if_/https://cms.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/plain; charset=utf-8
+< X-Location: All
+< X-Tr: 1129
+< Date: Mon, 26 Jul 2021 16:09:48 GMT
+< Connection: keep-alive
+< X-Archive-Orig-X-Frame-Options: SAMEORIGIN
+< Link: <https://cms.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://cms.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://cms.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180427104127/https://cms.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Fri, 27 Apr 2018 10:41:27 GMT", <https://web.archive.org/web/20180911073502/https://cms.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Tue, 11 Sep 2018 07:35:02 GMT", <https://web.archive.org/web/20180912080423/https://cms.buzzfeed.com/robots.txt>; rel="memento"; datetime="Wed, 12 Sep 2018 08:04:23 GMT", <https://web.archive.org/web/20180913090857/https://cms.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Thu, 13 Sep 2018 09:08:57 GMT", <https://web.archive.org/web/20210724191429/https://cms.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 19:14:29 GMT"
+< X-App-Server: wwwb-app208
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Ts: 200
+< X-Page-Cache: MISS
+< Server-Timing: captures_list;dur=454.159472, exclusion.robots;dur=0.210953, exclusion.robots.policy;dur=0.203231, RedisCDXSource;dur=40.944950, esindex;dur=0.007288, LoadShardBlock;dur=352.118418, PetaboxLoader3.datanode;dur=625.609716, CDXLines.iter;dur=24.699391, load_resource;dur=617.253771, PetaboxLoader3.resolve;dur=186.488647
+< Cache-Control: max-age=1800
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< X-Archive-Orig-Content-Length: 25
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< Memento-Datetime: Wed, 12 Sep 2018 08:04:23 GMT
+< X-Archive-Orig-Date: Wed, 12 Sep 2018 08:04:24 GMT
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Strict-Transport-Security: max-age=31536000
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: buzzfeed.com-20180910-111737/IA-FOC-buzzfeed.com-20180912075116-00000.warc.gz
+< X-Cache-Key: httpsweb.archive.org/web/20180912080423if_/https://cms.buzzfeed.com/robots.txtUS
+< X-Na: 0

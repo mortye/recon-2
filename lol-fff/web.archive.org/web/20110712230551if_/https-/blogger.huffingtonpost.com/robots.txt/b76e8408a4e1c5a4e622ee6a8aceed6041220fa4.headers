@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20110712230551if_/https://blogger.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Rl: 0
+< Server: nginx/1.15.8
+< X-Archive-Orig-Date: Tue, 12 Jul 2011 23:05:54 GMT
+< X-Archive-Orig-Server: Apache/2.2.8 (Unix)
+< X-Archive-Guessed-Encoding: utf-8
+< Date: Mon, 26 Jul 2021 15:42:31 GMT
+< X-Archive-Orig-Content-Length: 26
+< X-Archive-Guessed-Content-Type: text/plain
+< Memento-Datetime: Tue, 12 Jul 2011 23:05:51 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Location: All
+< X-Archive-Orig-Vary: Host
+< Link: <https://blogger.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://blogger.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://blogger.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20070626013716/http://blogger.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Tue, 26 Jun 2007 01:37:16 GMT", <https://web.archive.org/web/20110712230545/http://blogger.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Tue, 12 Jul 2011 23:05:45 GMT", <https://web.archive.org/web/20110712230551/https://blogger.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 12 Jul 2011 23:05:51 GMT", <https://web.archive.org/web/20110718204240/http://blogger.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Mon, 18 Jul 2011 20:42:40 GMT", <https://web.archive.org/web/20210614051652/https://blogger.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Mon, 14 Jun 2021 05:16:52 GMT"
+< X-Archive-Src: WPO-20110712220406-crawl438/WPO-20110712230330-01185.warc.gz
+< Server-Timing: captures_list;dur=356.804692, exclusion.robots;dur=0.439087, exclusion.robots.policy;dur=0.424267, RedisCDXSource;dur=1.164507, esindex;dur=0.010409, LoadShardBlock;dur=259.279084, PetaboxLoader3.datanode;dur=73.442267, CDXLines.iter;dur=23.261779, load_resource;dur=62.779756, PetaboxLoader3.resolve;dur=48.017422
+< X-Nid: -
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Na: 0
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Etag: "78bb0-1a-4741d8ae54f00"
+< X-Tr: 446
+< X-Cache-Key: httpsweb.archive.org/web/20110712230551if_/https://blogger.huffingtonpost.com/robots.txtUS
+< Content-Type: text/plain; charset=utf-8
+< Connection: keep-alive
+< Cache-Control: max-age=1800
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Last-Modified: Mon, 21 Sep 2009 21:55:40 GMT
+< X-Archive-Orig-Connection: close
+< X-App-Server: wwwb-app56
+< X-Ts: 200

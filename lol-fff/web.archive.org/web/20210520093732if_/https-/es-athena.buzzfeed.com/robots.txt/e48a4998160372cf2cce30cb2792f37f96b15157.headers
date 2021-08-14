@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20210520093732if_/https://es-athena.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Date: Mon, 26 Jul 2021 16:39:03 GMT
+< X-Archive-Orig-Content-Length: 25
+< X-Archive-Orig-Connection: close
+< Cache-Control: max-age=1800
+< X-Tr: 496
+< X-Na: 0
+< Connection: keep-alive
+< X-Archive-Orig-Server: nginx
+< X-App-Server: wwwb-app39
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20210520093732if_/https://es-athena.buzzfeed.com/robots.txtUS
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: GDELT-20210519232311-crawl501/GDELT-20210520000942-01671.warc.gz
+< Content-Type: text/plain; charset=utf-8
+< X-Archive-Orig-Date: Thu, 20 May 2021 09:37:32 GMT
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-X-Frame-Options: SAMEORIGIN
+< Link: <https://es-athena.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://es-athena.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://es-athena.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20210520093732/https://es-athena.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Thu, 20 May 2021 09:37:32 GMT", <https://web.archive.org/web/20210520093732/https://es-athena.buzzfeed.com/robots.txt>; rel="memento"; datetime="Thu, 20 May 2021 09:37:32 GMT", <https://web.archive.org/web/20210524132331/https://es-athena.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Mon, 24 May 2021 13:23:31 GMT", <https://web.archive.org/web/20210722130653/https://es-athena.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Thu, 22 Jul 2021 13:06:53 GMT"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Page-Cache: MISS
+< X-Nid: -
+< Server: nginx/1.15.8
+< Server-Timing: CDXLines.iter;dur=22.585539, PetaboxLoader3.datanode;dur=192.807778, load_resource;dur=279.045194, exclusion.robots.policy;dur=0.379103, esindex;dur=0.011464, exclusion.robots;dur=0.391017, LoadShardBlock;dur=159.855349, RedisCDXSource;dur=6.584377, PetaboxLoader3.resolve;dur=208.930156, captures_list;dur=192.528617
+< X-Ts: 200
+< X-Rl: 0
+< X-Archive-Orig-Strict-Transport-Security: max-age=31536000
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< Memento-Datetime: Thu, 20 May 2021 09:37:32 GMT
+< Referrer-Policy: no-referrer-when-downgrade

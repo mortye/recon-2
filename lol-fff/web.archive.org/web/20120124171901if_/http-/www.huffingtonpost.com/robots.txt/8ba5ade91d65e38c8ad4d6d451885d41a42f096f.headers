@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20120124171901if_/http://www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Rl: 0
+< X-Na: 0
+< Permissions-Policy: interest-cohort=()
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Ts: 200
+< X-Archive-Orig-Date: Tue, 24 Jan 2012 17:19:01 GMT
+< X-Archive-Orig-Connection: close
+< X-Archive-Guessed-Content-Type: text/plain
+< Link: <http://www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20120124155944/http://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Tue, 24 Jan 2012 15:59:44 GMT", <https://web.archive.org/web/20120124171901/http://www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 24 Jan 2012 17:19:01 GMT", <https://web.archive.org/web/20120124171909/http://www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Tue, 24 Jan 2012 17:19:09 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< X-App-Server: wwwb-app200
+< X-Location: All
+< Content-Type: text/plain; charset=utf-8
+< X-Archive-Orig-Ntcoent-Length: 215
+< X-Page-Cache: MISS
+< X-Archive-Orig-Etag: "10b927e-d7-4b1a1596cdbc0"
+< X-Archive-Orig-Content-Length: 215
+< Memento-Datetime: Tue, 24 Jan 2012 17:19:01 GMT
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: WIDE-20120124164536-crawl338/WIDE-20120124165115-01273.warc.gz
+< Connection: keep-alive
+< X-Archive-Orig-Server: Apache
+< X-Archive-Orig-P3p: CP='NO P3P'
+< Cache-Control: max-age=1800
+< X-Tr: 2716
+< X-Cache-Key: httpsweb.archive.org/web/20120124171901if_/http://www.huffingtonpost.com/robots.txtUS
+< Date: Mon, 26 Jul 2021 18:13:05 GMT
+< X-Archive-Orig-Last-Modified: Sun, 13 Nov 2011 17:47:35 GMT
+< Server-Timing: exclusion.robots;dur=0.872970, exclusion.robots.policy;dur=0.827646, RedisCDXSource;dur=106.390332, esindex;dur=0.173228, LoadShardBlock;dur=1604.496008, PetaboxLoader3.datanode;dur=435.983717, CDXLines.iter;dur=299.229041, load_resource;dur=634.005996, PetaboxLoader3.resolve;dur=573.044921
+< X-Nid: -
+< Server: nginx/1.15.8

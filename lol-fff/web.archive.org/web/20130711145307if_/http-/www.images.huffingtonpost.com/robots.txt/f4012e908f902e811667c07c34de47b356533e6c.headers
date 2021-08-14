@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20130711145307if_/http://www.images.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Ts: 200
+< Content-Type: text/plain
+< X-Archive-Orig-Expires: Thu, 11 Jul 2013 20:53:07 GMT
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Accept-Ranges: bytes
+< Memento-Datetime: Thu, 11 Jul 2013 14:53:07 GMT
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Encoding: utf-8
+< Link: <http://www.images.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.images.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.images.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20070710212612/http://images.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 10 Jul 2007 21:26:12 GMT", <https://web.archive.org/web/20130711145237/http://images.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Thu, 11 Jul 2013 14:52:37 GMT", <https://web.archive.org/web/20130711145307/http://www.images.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Thu, 11 Jul 2013 14:53:07 GMT", <https://web.archive.org/web/20130711145722/http://images.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Thu, 11 Jul 2013 14:57:22 GMT", <https://web.archive.org/web/20210724221347/https://images.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 22:13:47 GMT"
+< X-Archive-Src: live-20130711114300519-01177-20130712152951075/live-20130711142517290-01183.arc.gz
+< X-Location: All
+< X-Archive-Orig-Server: nginx/1.1.19
+< X-Archive-Orig-Content-Length: 771
+< X-Tr: 2469
+< X-Na: 0
+< X-Archive-Orig-Date: Thu, 11 Jul 2013 14:53:07 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20130711145307if_/http://www.images.huffingtonpost.com/robots.txtUS
+< X-Archive-Orig-Connection: keep-alive
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Rl: 0
+< Connection: keep-alive
+< X-Archive-Orig-Cache-Control: max-age=21600
+< Permissions-Policy: interest-cohort=()
+< Date: Mon, 26 Jul 2021 17:59:46 GMT
+< X-Page-Cache: MISS
+< Server-Timing: load_resource;dur=193.720956, exclusion.robots.policy;dur=0.305633, LoadShardBlock;dur=321.264161, captures_list;dur=2125.510642, CDXLines.iter;dur=133.799508, PetaboxLoader3.resolve;dur=144.038901, RedisCDXSource;dur=0.796282, PetaboxLoader3.datanode;dur=306.401570, esindex;dur=0.021991, exclusion.robots;dur=0.319747
+< X-App-Server: wwwb-app103
+< Server: nginx/1.15.8
+< X-Archive-Orig-Last-Modified: Wed, 13 Feb 2013 20:00:54 GMT

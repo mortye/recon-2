@@ -1,0 +1,34 @@
+GET https://web.archive.org/web/20180725003319if_/https://bento-stage.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-App-Server: wwwb-app203
+< X-Tr: 482
+< X-Page-Cache: MISS
+< Content-Type: text/plain; charset=utf-8
+< Connection: keep-alive
+< X-Archive-Orig-Content-Length: 25
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Rl: 0
+< X-Nid: -
+< X-Archive-Orig-Date: Wed, 25 Jul 2018 00:33:19 GMT
+< X-Archive-Orig-X-Frame-Options: SAMEORIGIN
+< X-Archive-Guessed-Encoding: utf-8
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Permissions-Policy: interest-cohort=()
+< Server-Timing: captures_list;dur=283.613923, exclusion.robots;dur=0.269845, exclusion.robots.policy;dur=0.258692, RedisCDXSource;dur=2.854657, esindex;dur=0.009705, LoadShardBlock;dur=261.109711, PetaboxLoader3.datanode;dur=281.377278, CDXLines.iter;dur=16.966338, load_resource;dur=138.795656, PetaboxLoader3.resolve;dur=45.630263
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< Cache-Control: max-age=1800
+< X-Archive-Src: liveweb-20180725055803/cachegw-20180725002052-wwwb-app14.us.archive.org.warc.gz
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< X-Archive-Guessed-Content-Type: text/plain
+< Date: Mon, 26 Jul 2021 16:20:53 GMT
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20180725003319if_/https://bento-stage.buzzfeed.com/robots.txtUS
+< X-Archive-Orig-Strict-Transport-Security: max-age=31536000
+< Memento-Datetime: Wed, 25 Jul 2018 00:33:19 GMT
+< Link: <https://bento-stage.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://bento-stage.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://bento-stage.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180628044621/http://bento-stage.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Thu, 28 Jun 2018 04:46:21 GMT", <https://web.archive.org/web/20180714041259/https://bento-stage.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Sat, 14 Jul 2018 04:12:59 GMT", <https://web.archive.org/web/20180725003319/https://bento-stage.buzzfeed.com/robots.txt>; rel="memento"; datetime="Wed, 25 Jul 2018 00:33:19 GMT", <https://web.archive.org/web/20181117033740/http://bento-stage.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Sat, 17 Nov 2018 03:37:40 GMT", <https://web.archive.org/web/20190721000607/https://bento-stage.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 21 Jul 2019 00:06:07 GMT"
+< X-Ts: 200

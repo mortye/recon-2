@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20190802113555if_/https://edit.highline.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 Found
+< X-Archive-Orig-Server: Apache
+< Location: https://web.archive.org/web/20190802113555if_/https://id.b2b.oath.com:443/identity/cdcservlet?realm=aolcorporate&goto=https%3A%2F%2Fedit.highline.huffingtonpost.com%3A443%2Frobots.txt&RequestID=1564745756065&MajorVersion=1&MinorVersion=0&ProviderID=https%3A%2F%2Fedit.highline.huffingtonpost.com%3A443%2Famagent%3FRealm%3D%2Faolcorporate&IssueInstant=2019-08-02T11%3A35%3A56Z
+< X-Location: All
+< X-Rl: 0
+< X-Page-Cache: MISS
+< X-App-Server: wwwb-app202
+< Content-Type: text/html; charset=iso-8859-1
+< Permissions-Policy: interest-cohort=()
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Src: liveweb-20190803002708/cachegw-20190802020706-wwwb-app6.us.archive.org.warc.gz
+< X-Archive-Orig-Content-Length: 537
+< X-Na: 0
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 16:45:52 GMT
+< X-Archive-Orig-Date: Fri, 02 Aug 2019 11:35:56 GMT
+< X-Archive-Orig-Set-Cookie: _B2BID=;Max-Age=0;Expires=Thu, 01-Jan-1970 00:00:01 GMT;Path=/;Secure;HttpOnly
+< Cache-Control: max-age=1800
+< Memento-Datetime: Fri, 02 Aug 2019 11:35:55 GMT
+< X-Tr: 516
+< X-Cache-Key: httpsweb.archive.org/web/20190802113555if_/https://edit.highline.huffingtonpost.com/robots.txtUS
+< X-Archive-Orig-Connection: close
+< Link: <https://edit.highline.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://edit.highline.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://edit.highline.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180405044743/http://edit.highline.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Thu, 05 Apr 2018 04:47:43 GMT", <https://web.archive.org/web/20190802111504/https://edit.highline.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Fri, 02 Aug 2019 11:15:04 GMT", <https://web.archive.org/web/20190802113555/https://edit.highline.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Fri, 02 Aug 2019 11:35:55 GMT", <https://web.archive.org/web/20191212053154/http://edit.highline.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Thu, 12 Dec 2019 05:31:54 GMT", <https://web.archive.org/web/20191212053154/https://edit.highline.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Thu, 12 Dec 2019 05:31:54 GMT"
+< X-Ts: 302
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Connection: keep-alive
+< Server-Timing: captures_list;dur=184.452605, exclusion.robots;dur=0.225189, exclusion.robots.policy;dur=0.215552, RedisCDXSource;dur=9.325740, esindex;dur=0.009731, LoadShardBlock;dur=140.920537, PetaboxLoader3.datanode;dur=94.818781, CDXLines.iter;dur=30.378728, load_resource;dur=205.528546, PetaboxLoader3.resolve;dur=106.011127

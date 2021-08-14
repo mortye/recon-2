@@ -1,0 +1,37 @@
+GET https://web.archive.org/web/20200807082846if_/http://new.www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Orig-Age: 0
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Na: 0
+< X-Archive-Orig-Date: Fri, 07 Aug 2020 08:28:46 GMT
+< X-Archive-Orig-Cache-Control: max-age=3600, public
+< X-Archive-Orig-Content-Length: 4438
+< X-Cache-Key: httpsweb.archive.org/web/20200807082846if_/http://new.www.huffingtonpost.com/robots.txtUS
+< Date: Mon, 26 Jul 2021 16:55:09 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Guessed-Charset: utf-8
+< X-Tr: 375
+< Server: nginx/1.15.8
+< Connection: keep-alive
+< Link: <http://new.www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://new.www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://new.www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160614030017/http://new.www.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 14 Jun 2016 03:00:17 GMT", <https://web.archive.org/web/20200726224732/http://new.www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Sun, 26 Jul 2020 22:47:32 GMT", <https://web.archive.org/web/20200807082846/http://new.www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Fri, 07 Aug 2020 08:28:46 GMT", <https://web.archive.org/web/20200810174230/http://new.www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Mon, 10 Aug 2020 17:42:30 GMT", <https://web.archive.org/web/20210705043424/https://new.www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Mon, 05 Jul 2021 04:34:24 GMT"
+< Server-Timing: captures_list;dur=100.447484, exclusion.robots;dur=0.360547, exclusion.robots.policy;dur=0.348981, RedisCDXSource;dur=1.043953, esindex;dur=0.011532, LoadShardBlock;dur=60.303029, PetaboxLoader3.datanode;dur=116.555169, CDXLines.iter;dur=27.292818, load_resource;dur=236.651631, PetaboxLoader3.resolve;dur=99.232055
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Server: ATS
+< X-Archive-Src: GDELT-20200807080353-crawl501/GDELT-20200807081550-06229.warc.gz
+< X-App-Server: wwwb-app57
+< X-Nid: -
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< X-Archive-Orig-Content-Security-Policy: sandbox allow-scripts; default-src 'self'; img-src https:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; report-uri http://csp.yahoo.com/beacon/csp?src=redirect
+< X-Archive-Guessed-Content-Type: text/html
+< X-Location: All
+< Memento-Datetime: Fri, 07 Aug 2020 08:28:46 GMT
+< X-Ts: 200
+< X-Page-Cache: MISS
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+< X-Rl: 0

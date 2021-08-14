@@ -1,0 +1,37 @@
+GET https://web.archive.org/web/20180625233402if_/http://groups.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< Connection: keep-alive
+< X-Archive-Orig-Date: Mon, 25 Jun 2018 23:34:02 GMT
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< X-Archive-Orig-Server: ATS
+< Link: <http://groups.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://groups.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://groups.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180508183239/http://groups.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 08 May 2018 18:32:39 GMT", <https://web.archive.org/web/20180509222709/http://groups.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Wed, 09 May 2018 22:27:09 GMT", <https://web.archive.org/web/20180625233402/http://groups.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Mon, 25 Jun 2018 23:34:02 GMT", <https://web.archive.org/web/20180626201958/http://groups.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Tue, 26 Jun 2018 20:19:58 GMT", <https://web.archive.org/web/20190802080201/http://groups.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 02 Aug 2019 08:02:01 GMT"
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20180625233402if_/http://groups.huffingtonpost.com/robots.txtUS
+< X-Archive-Orig-Age: 0
+< X-Archive-Orig-Connection: close
+< Memento-Datetime: Mon, 25 Jun 2018 23:34:02 GMT
+< X-Archive-Src: liveweb-20180626024041/cachegw-20180625213747-wwwb-app4.us.archive.org.warc.gz
+< X-Archive-Orig-P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+< Location: https://web.archive.org/web/20180625233402if_/https://ecp.ouroath.com/
+< X-App-Server: wwwb-app201
+< Date: Mon, 26 Jul 2021 15:05:41 GMT
+< X-Archive-Orig-Cache-Control: max-age=3600, public
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Ts: 301
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Content-Length: 0
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< Server-Timing: captures_list;dur=330.677961, exclusion.robots;dur=0.198718, exclusion.robots.policy;dur=0.190906, RedisCDXSource;dur=2.089609, esindex;dur=0.008095, LoadShardBlock;dur=271.392894, PetaboxLoader3.datanode;dur=93.242872, CDXLines.iter;dur=54.137666, PetaboxLoader3.resolve;dur=210.366725, load_resource;dur=180.069284
+< X-Na: 0
+< X-Page-Cache: MISS
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: max-age=1800
+< X-Nid: -
+< Server: nginx/1.15.8
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Tr: 521

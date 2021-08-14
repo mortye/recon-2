@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20180529012451if_/https://buzzen.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 302 Moved Temporarily
+< X-Archive-Orig-Date: Tue, 29 May 2018 01:24:58 GMT
+< X-Ts: 302
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Nid: -
+< X-Archive-Orig-Cache-Control: private, max-age=0
+< Link: <https://buzzen.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://buzzen.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://buzzen.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180529012450/http://buzzen.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Tue, 29 May 2018 01:24:50 GMT", <https://web.archive.org/web/20180529012450/http://buzzen.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Tue, 29 May 2018 01:24:50 GMT", <https://web.archive.org/web/20180529012451/https://buzzen.buzzfeed.com/robots.txt>; rel="memento"; datetime="Tue, 29 May 2018 01:24:51 GMT", <https://web.archive.org/web/20180529012523/https://buzzen.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Tue, 29 May 2018 01:25:23 GMT", <https://web.archive.org/web/20190214224310/https://buzzen.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Thu, 14 Feb 2019 22:43:10 GMT"
+< Server-Timing: captures_list;dur=260.676529, exclusion.robots;dur=0.314039, exclusion.robots.policy;dur=0.303487, RedisCDXSource;dur=2.081367, esindex;dur=0.010929, LoadShardBlock;dur=230.413747, PetaboxLoader3.datanode;dur=79.201389, CDXLines.iter;dur=24.636168, PetaboxLoader3.resolve;dur=49.579952, load_resource;dur=313.297444
+< Permissions-Policy: interest-cohort=()
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-Expires: Tue, 29 May 2018 01:24:58 GMT
+< X-Page-Cache: MISS
+< X-Tr: 596
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Date: Mon, 26 Jul 2021 18:12:56 GMT
+< Cache-Control: max-age=1800
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Na: 0
+< Server: nginx/1.15.8
+< X-Archive-Orig-Content-Length: 376
+< X-Archive-Orig-Server: GSE
+< Memento-Datetime: Tue, 29 May 2018 01:24:51 GMT
+< X-Archive-Src: liveweb-20180529083220/cachegw-20180528185316-wwwb-app0.us.archive.org.warc.gz
+< X-App-Server: wwwb-app206
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20180529012451if_/https://buzzen.buzzfeed.com/robots.txtUS
+< Connection: keep-alive
+< Location: https://web.archive.org/web/20180529012451if_/https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://sites.google.com/buzzfeed.com/buzzen/robots.txt&followup=https://sites.google.com/buzzfeed.com/buzzen/robots.txt

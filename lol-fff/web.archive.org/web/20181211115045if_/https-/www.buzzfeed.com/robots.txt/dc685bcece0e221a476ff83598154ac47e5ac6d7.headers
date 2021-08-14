@@ -1,0 +1,47 @@
+GET https://web.archive.org/web/20181211115045if_/https://www.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Set-Cookie: bf-geo-country=US; expires=Wed, 12 Dec 2018 11:50:45 GMT; path=/; domain=.buzzfeed.com;
+< X-Archive-Src: top_domains-00900-20181210-133547/IA-FOC-top_domains-00900-20181211113952-00004.warc.gz
+< X-Page-Cache: MISS
+< Content-Type: text/plain
+< X-Archive-Orig-Last-Modified: Thu, 06 Dec 2018 17:25:19 GMT
+< X-Archive-Orig-Age: 2313
+< Link: <https://www.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://www.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20020921163523/http://buzzfeed.com:80/robots.txt>; rel="first memento"; datetime="Sat, 21 Sep 2002 16:35:23 GMT", <https://web.archive.org/web/20181211105254/https://www.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Tue, 11 Dec 2018 10:52:54 GMT", <https://web.archive.org/web/20181211115045/https://www.buzzfeed.com/robots.txt>; rel="memento"; datetime="Tue, 11 Dec 2018 11:50:45 GMT", <https://web.archive.org/web/20181211120124/https://www.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Tue, 11 Dec 2018 12:01:24 GMT", <https://web.archive.org/web/20210725033235/https://www.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 03:32:35 GMT"
+< X-Tr: 4172
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Server: nginx
+< X-Archive-Orig-Etag: "5c095b7f-4f8"
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Encoding: utf-8
+< Memento-Datetime: Tue, 11 Dec 2018 11:50:45 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Cache-Key: httpsweb.archive.org/web/20181211115045if_/https://www.buzzfeed.com/robots.txtUS
+< X-Na: 0
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 17:51:15 GMT
+< X-Archive-Orig-Content-Security-Policy: upgrade-insecure-requests
+< X-Archive-Orig-X-Timer: S1544529046.619194,VS0,VE2
+< X-Rl: 0
+< X-Archive-Orig-Content-Length: 1272
+< X-Archive-Orig-X-Frame-Options: SAMEORIGIN
+< X-Archive-Orig-X-Cache: HIT
+< X-Location: All
+< X-Archive-Orig-Date: Tue, 11 Dec 2018 11:50:45 GMT
+< X-Archive-Orig-Via: 1.1 varnish
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Ts: 200
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-X-Cache-Hits: 2
+< X-Archive-Orig-Strict-Transport-Security: max-age=31536000; preload
+< X-Archive-Orig-X-Served-By: cache-pao17420-PAO
+< X-Archive-Guessed-Content-Type: text/plain
+< X-App-Server: wwwb-app31
+< X-Nid: -
+< Connection: keep-alive
+< X-Archive-Orig-X-Request-Id: 23b6eacd9f936fad4a68729f16004e2f
+< X-Archive-Orig-Accept-Ranges: bytes
+< Server-Timing: exclusion.robots;dur=1.951342, RedisCDXSource;dur=67.937354, PetaboxLoader3.datanode;dur=1200.933582, exclusion.robots.policy;dur=1.843658, load_resource;dur=266.739961, CDXLines.iter;dur=467.668464, LoadShardBlock;dur=3237.086769, esindex;dur=0.082422, PetaboxLoader3.resolve;dur=2026.129375
+< X-Archive-Orig-Cache-Control: no-cache, no-store, must-revalidate

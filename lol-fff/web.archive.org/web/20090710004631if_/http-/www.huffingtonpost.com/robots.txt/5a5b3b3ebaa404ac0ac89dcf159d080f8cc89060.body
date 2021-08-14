@@ -1,0 +1,11 @@
+# All robots will spider the domain
+User-agent: *
+Disallow:
+
+# Disallow directory /backstage/
+User-agent: *
+Disallow: /backstage/
+
+# Disallow directory /blackberry/
+User-agent: *
+Disallow: /blackberry/

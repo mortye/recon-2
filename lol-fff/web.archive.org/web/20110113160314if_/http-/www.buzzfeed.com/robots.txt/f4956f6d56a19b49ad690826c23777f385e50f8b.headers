@@ -1,0 +1,36 @@
+GET https://web.archive.org/web/20110113160314if_/http://www.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Tr: 1397
+< Server: nginx/1.15.8
+< X-Archive-Orig-Vary: Accept-Encoding,User-Agent
+< X-Archive-Orig-X-Buzzfeed: feed3
+< X-Ts: 200
+< Date: Mon, 26 Jul 2021 16:20:53 GMT
+< Content-Type: text/plain
+< X-Archive-Orig-Date: Thu, 13 Jan 2011 16:03:15 GMT
+< X-Rl: 0
+< X-Na: 0
+< Cache-Control: max-age=1800
+< Memento-Datetime: Thu, 13 Jan 2011 16:03:14 GMT
+< Server-Timing: exclusion.robots;dur=1.852756, RedisCDXSource;dur=38.495993, PetaboxLoader3.datanode;dur=406.873425, exclusion.robots.policy;dur=1.743997, PetaboxLoader3.resolve;dur=251.983320, CDXLines.iter;dur=386.102214, LoadShardBlock;dur=562.534616, esindex;dur=0.080715, load_resource;dur=297.858280
+< Permissions-Policy: interest-cohort=()
+< X-App-Server: wwwb-app31
+< X-Page-Cache: MISS
+< X-Nid: -
+< X-Archive-Orig-Server: Apache
+< X-Archive-Orig-Connection: close
+< X-Cache-Key: httpsweb.archive.org/web/20110113160314if_/http://www.buzzfeed.com/robots.txtUS
+< X-Archive-Orig-Accept-Ranges: bytes
+< Link: <http://www.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20020921163523/http://buzzfeed.com:80/robots.txt>; rel="first memento"; datetime="Sat, 21 Sep 2002 16:35:23 GMT", <https://web.archive.org/web/20110112141119/http://www.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Wed, 12 Jan 2011 14:11:19 GMT", <https://web.archive.org/web/20110113160314/http://www.buzzfeed.com/robots.txt>; rel="memento"; datetime="Thu, 13 Jan 2011 16:03:14 GMT", <https://web.archive.org/web/20110114002405/http://www.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Fri, 14 Jan 2011 00:24:05 GMT", <https://web.archive.org/web/20210725033235/https://www.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 03:32:35 GMT"
+< X-Archive-Orig-Last-Modified: Wed, 12 Jan 2011 20:44:18 GMT
+< X-Archive-Orig-Etag: "14d007f-1f1-499ac43d06c80"
+< X-Archive-Orig-Content-Length: 497
+< X-Location: All
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Src: web_mon-017-20110113154303-01005-crawling110/web_mon-017-20110113154303-01005-crawling110.us.archive.org.warc.gz
+< Referrer-Policy: no-referrer-when-downgrade
+< Connection: keep-alive
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8

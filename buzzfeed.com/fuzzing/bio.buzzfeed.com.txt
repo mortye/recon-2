@@ -1,0 +1,16 @@
+200 3 https://bio.buzzfeed.com/health
+200 99678 https://bio.buzzfeed.com/favicon.ico
+301 39 https://bio.buzzfeed.com//out
+301 41 https://bio.buzzfeed.com/%2e/admin
+301 41 https://bio.buzzfeed.com/./admin/.
+301 42 https://bio.buzzfeed.com/secret/.
+301 49 https://bio.buzzfeed.com/.nsf/../winnt/win.ini
+301 51 https://bio.buzzfeed.com/.//web-inf/web.xml
+301 51 https://bio.buzzfeed.com/./web-inf/web.xml
+301 52 https://bio.buzzfeed.com/admin//phpmyadmin
+301 53 https://bio.buzzfeed.com/vpn/../vpns/cfg/smb.conf
+301 55 https://bio.buzzfeed.com//cfide/administrator
+301 59 https://bio.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess
+301 62 https://bio.buzzfeed.com/extjs/resources//charts.swf
+301 76 https://bio.buzzfeed.com/content/../libs/foundation/components/text/text.jsp
+301 87 https://bio.buzzfeed.com/citrix//accessplatform/auth/clientscripts/cookies.js

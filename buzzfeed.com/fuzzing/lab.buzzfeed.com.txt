@@ -1,0 +1,11 @@
+302 227 https://lab.buzzfeed.com/%2e/admin
+302 228 https://lab.buzzfeed.com/./admin/.
+302 229 https://lab.buzzfeed.com/secret/.
+302 235 https://lab.buzzfeed.com/.nsf/../winnt/win.ini
+302 237 https://lab.buzzfeed.com/./web-inf/web.xml
+302 238 https://lab.buzzfeed.com/.//web-inf/web.xml
+302 239 https://lab.buzzfeed.com/vpn/../vpns/cfg/smb.conf
+302 245 https://lab.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess
+302 262 https://lab.buzzfeed.com/content/../libs/foundation/components/text/text.jsp
+400 1662 https://lab.buzzfeed.com/trace.axd::$data
+400 1662 https://lab.buzzfeed.com/web.config::$data

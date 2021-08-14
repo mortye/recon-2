@@ -1,0 +1,33 @@
+GET https://web.archive.org/web/20180201192333if_/http://grafana.huffpo.net/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Date: Mon, 26 Jul 2021 16:28:10 GMT
+< X-Archive-Orig-Cache-Control: public, max-age=3600
+< X-Archive-Guessed-Encoding: utf-8
+< X-Nid: -
+< Content-Type: text/plain; charset=utf-8
+< Memento-Datetime: Thu, 01 Feb 2018 19:23:33 GMT
+< X-Archive-Src: liveweb-20180202071311/cachegw-20180201144750-wwwb-app8.us.archive.org.warc.gz
+< X-App-Server: wwwb-app105
+< X-Cache-Key: httpsweb.archive.org/web/20180201192333if_/http://grafana.huffpo.net/robots.txtUS
+< X-Na: 0
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Last-Modified: Wed, 05 Jul 2017 07:37:18 GMT
+< Link: <http://grafana.huffpo.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://grafana.huffpo.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://grafana.huffpo.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20180201192333/http://grafana.huffpo.net/robots.txt>; rel="first memento"; datetime="Thu, 01 Feb 2018 19:23:33 GMT", <https://web.archive.org/web/20180201192333/http://grafana.huffpo.net/robots.txt>; rel="memento"; datetime="Thu, 01 Feb 2018 19:23:33 GMT", <https://web.archive.org/web/20180405040717/http://grafana.huffpo.net/robots.txt>; rel="next memento"; datetime="Thu, 05 Apr 2018 04:07:17 GMT", <https://web.archive.org/web/20190225192041/https://grafana.huffpo.net/robots.txt>; rel="last memento"; datetime="Mon, 25 Feb 2019 19:20:41 GMT"
+< Server: nginx/1.15.8
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Content-Type: text/plain
+< Server-Timing: load_resource;dur=57.670776, CDXLines.iter;dur=18.919508, LoadShardBlock;dur=98.018937, exclusion.robots.policy;dur=0.247959, esindex;dur=0.013109, captures_list;dur=125.426430, PetaboxLoader3.datanode;dur=100.859569, RedisCDXSource;dur=4.165654, exclusion.robots;dur=0.273479, PetaboxLoader3.resolve;dur=35.855799
+< X-Ts: 200
+< X-Page-Cache: MISS
+< X-Archive-Orig-Date: Thu, 01 Feb 2018 19:23:34 GMT
+< X-Tr: 201
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-Content-Length: 26
+< X-Archive-Orig-Connection: Close
+< X-Location: All
+< X-Rl: 0

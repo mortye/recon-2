@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20130711190457if_/http://www.i.huffpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Ts: 200
+< X-Rl: 0
+< Server-Timing: PetaboxLoader3.datanode;dur=1093.444267, RedisCDXSource;dur=164.063281, LoadShardBlock;dur=2450.934669, CDXLines.iter;dur=326.853046, esindex;dur=0.070626, exclusion.robots;dur=1.461423, exclusion.robots.policy;dur=1.386716, load_resource;dur=87.390924, PetaboxLoader3.resolve;dur=47.076627
+< X-Archive-Orig-Expires: Fri, 12 Jul 2013 01:04:57 GMT
+< Link: <http://www.i.huffpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.i.huffpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.i.huffpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20100415004801/http://i.huffpost.com/robots.txt>; rel="first memento"; datetime="Thu, 15 Apr 2010 00:48:01 GMT", <https://web.archive.org/web/20130711174120/http://i.huffpost.com/robots.txt>; rel="prev memento"; datetime="Thu, 11 Jul 2013 17:41:20 GMT", <https://web.archive.org/web/20130711190457/http://www.i.huffpost.com/robots.txt>; rel="memento"; datetime="Thu, 11 Jul 2013 19:04:57 GMT", <https://web.archive.org/web/20130711190459/http://i.huffpost.com/robots.txt>; rel="next memento"; datetime="Thu, 11 Jul 2013 19:04:59 GMT", <https://web.archive.org/web/20210725025502/https://i.huffpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:55:02 GMT"
+< X-Na: 0
+< X-Archive-Orig-Last-Modified: Wed, 13 Feb 2013 16:33:31 GMT
+< X-Archive-Orig-Server: nginx/1.1.19
+< X-Archive-Orig-Accept-Ranges: bytes
+< Memento-Datetime: Thu, 11 Jul 2013 19:04:57 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20130711190457if_/http://www.i.huffpost.com/robots.txtUS
+< X-Archive-Orig-Connection: keep-alive
+< Cache-Control: max-age=1800
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/plain
+< X-Archive-Orig-Cache-Control: max-age=21600
+< X-Archive-Src: live-20130711084451116-01157-20130711205041535/live-20130711185016110-01215.arc.gz
+< X-Tr: 3145
+< Connection: keep-alive
+< X-Archive-Orig-Date: Thu, 11 Jul 2013 19:04:57 GMT
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Page-Cache: MISS
+< Date: Mon, 26 Jul 2021 16:08:22 GMT
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Orig-Content-Length: 771
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-App-Server: wwwb-app58
+< X-Location: All
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8

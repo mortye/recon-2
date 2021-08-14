@@ -1,0 +1,2 @@
+400 0 https://weaver-assets-stage.buzzfeed.com/%2e%2e;/test
+400 0 https://weaver-assets-stage.buzzfeed.com/..;

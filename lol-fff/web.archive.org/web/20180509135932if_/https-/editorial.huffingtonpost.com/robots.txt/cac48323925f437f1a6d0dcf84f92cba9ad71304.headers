@@ -1,0 +1,30 @@
+GET https://web.archive.org/web/20180509135932if_/https://editorial.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Location: All
+< X-Rl: 0
+< Connection: keep-alive
+< X-Archive-Orig-Connection: Close
+< X-Page-Cache: MISS
+< X-Archive-Orig-Server: nginx
+< Cache-Control: max-age=1800
+< Referrer-Policy: no-referrer-when-downgrade
+< Link: <https://editorial.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://editorial.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://editorial.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20071013003918/http://editorial.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Sat, 13 Oct 2007 00:39:18 GMT", <https://web.archive.org/web/20180508160351/https://editorial.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Tue, 08 May 2018 16:03:51 GMT", <https://web.archive.org/web/20180509135932/https://editorial.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Wed, 09 May 2018 13:59:32 GMT", <https://web.archive.org/web/20180509135935/https://editorial.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Wed, 09 May 2018 13:59:35 GMT", <https://web.archive.org/web/20201118125622/https://editorial.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Wed, 18 Nov 2020 12:56:22 GMT"
+< Server-Timing: captures_list;dur=1191.551500, exclusion.robots;dur=0.239086, exclusion.robots.policy;dur=0.229906, RedisCDXSource;dur=0.740932, esindex;dur=0.009581, LoadShardBlock;dur=1156.532292, PetaboxLoader3.datanode;dur=1178.270220, CDXLines.iter;dur=19.618002, load_resource;dur=98.498016, PetaboxLoader3.resolve;dur=32.050525
+< X-App-Server: wwwb-app203
+< X-Cache-Key: httpsweb.archive.org/web/20180509135932if_/https://editorial.huffingtonpost.com/robots.txtUS
+< Server: nginx/1.15.8
+< X-Archive-Orig-Date: Wed, 09 May 2018 13:59:33 GMT
+< Location: https://web.archive.org/web/20180509135932if_/http://editorial.huffingtonpost.com/
+< Memento-Datetime: Wed, 09 May 2018 13:59:32 GMT
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< X-Na: 0
+< X-Archive-Src: liveweb-20180509175523/cachegw-20180509111826-wwwb-app8.us.archive.org.warc.gz
+< X-Ts: 301
+< X-Tr: 1339
+< Date: Mon, 26 Jul 2021 18:12:39 GMT
+< Content-Type: text/html
+< X-Archive-Orig-Content-Length: 178

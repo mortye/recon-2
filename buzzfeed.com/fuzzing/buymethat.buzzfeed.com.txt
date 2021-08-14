@@ -1,0 +1,7 @@
+200 223 https://buymethat.buzzfeed.com/crossdomain.xml
+200 24404 https://buymethat.buzzfeed.com/password
+200 25226 https://buymethat.buzzfeed.com/password.html
+200 3007 https://buymethat.buzzfeed.com/robots.txt
+200 3007 https://buymethat.buzzfeed.com/robots.txt.dist
+200 677 https://buymethat.buzzfeed.com/meta.json
+403 146 https://buymethat.buzzfeed.com/nginx_status

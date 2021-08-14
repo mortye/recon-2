@@ -1,0 +1,8 @@
+151.101.2.114 api-stage.tasty.co
+151.101.2.114 api.tasty.co
+151.101.2.114 stage.tasty.co
+151.101.2.114 tasty.co
+151.101.2.114 vid.tasty.co
+151.101.2.114 www.tasty.co
+3.226.166.212 link.tasty.co
+76.223.20.182 horizon.tasty.co

@@ -1,0 +1,40 @@
+GET https://web.archive.org/web/20161113103314if_/https://obiwan-static.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Server: TornadoServer/4.3
+< X-Archive-Orig-Cache-Control: public, max-age=60
+< X-Location: All
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-X-Cache-Hits: 0
+< X-Archive-Orig-X-Timer: S1479033194.109418,VS0,VE857
+< X-Archive-Guessed-Charset: utf-8
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-Date: Sun, 13 Nov 2016 10:33:14 GMT
+< X-Archive-Orig-Age: 0
+< X-Archive-Orig-Connection: close
+< Memento-Datetime: Sun, 13 Nov 2016 10:33:14 GMT
+< X-Archive-Orig-X-Served-By: cache-sjc3148-SJC
+< Link: <https://obiwan-static.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://obiwan-static.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://obiwan-static.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160710085101/https://obiwan-static.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Sun, 10 Jul 2016 08:51:01 GMT", <https://web.archive.org/web/20161113020016/https://obiwan-static.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Sun, 13 Nov 2016 02:00:16 GMT", <https://web.archive.org/web/20161113103314/https://obiwan-static.buzzfeed.com/robots.txt>; rel="memento"; datetime="Sun, 13 Nov 2016 10:33:14 GMT", <https://web.archive.org/web/20161113110702/https://obiwan-static.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Sun, 13 Nov 2016 11:07:02 GMT", <https://web.archive.org/web/20200419202947/https://obiwan-static.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 19 Apr 2020 20:29:47 GMT"
+< X-Archive-Src: WIDE-20161113072929-crawl427/WIDE-20161113091706-02936.warc.gz
+< X-Cache-Key: httpsweb.archive.org/web/20161113103314if_/https://obiwan-static.buzzfeed.com/robots.txtUS
+< Date: Mon, 26 Jul 2021 19:05:04 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Via: 1.1 varnish
+< X-Na: 0
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Guessed-Content-Type: text/html
+< X-App-Server: wwwb-app58
+< X-Rl: 0
+< X-Archive-Orig-Etag: "7af5f59699b980991e27be84a2f4e5af43fa66db"
+< X-Archive-Orig-Vary: Accept-Encoding, X-BF-Origin
+< Server-Timing: PetaboxLoader3.datanode;dur=466.708050, RedisCDXSource;dur=1.692493, LoadShardBlock;dur=400.316412, captures_list;dur=457.703085, esindex;dur=0.016610, exclusion.robots;dur=0.404726, exclusion.robots.policy;dur=0.388283, PetaboxLoader3.resolve;dur=63.184442, load_resource;dur=233.014228, CDXLines.iter;dur=18.521313
+< Server: nginx/1.15.8
+< X-Archive-Orig-Content-Length: 232076
+< X-Nid: -
+< Connection: keep-alive
+< X-Archive-Orig-X-Cache: MISS
+< X-Ts: 200
+< X-Tr: 904

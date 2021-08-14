@@ -1,0 +1,7 @@
+documents.buzzfeednews.com
+horizon.buzzfeednews.com
+shop.buzzfeednews.com
+stage.buzzfeednews.com
+support.buzzfeednews.com
+tips.buzzfeednews.com
+www.buzzfeednews.com

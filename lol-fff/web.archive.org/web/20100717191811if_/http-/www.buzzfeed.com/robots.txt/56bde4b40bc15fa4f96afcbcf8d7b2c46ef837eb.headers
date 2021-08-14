@@ -1,0 +1,36 @@
+GET https://web.archive.org/web/20100717191811if_/http://www.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Cache-Key: httpsweb.archive.org/web/20100717191811if_/http://www.buzzfeed.com/robots.txtUS
+< X-Archive-Orig-Last-Modified: Thu, 15 Jul 2010 12:48:36 GMT
+< X-Archive-Orig-Etag: "14d00c8-1cf-48b6c854d3100"
+< X-Archive-Orig-Content-Length: 463
+< X-Archive-Orig-X-Buzzfeed: feed3
+< X-Na: 0
+< X-Page-Cache: MISS
+< X-Archive-Src: ARCHIVEIT-1193-DAILY-LSKESK-20100605161830-00630-crawling105-6683-c/ARCHIVEIT-1193-DAILY-PDOTYJ-20100717191743-00001-crawling06.us.archive.org-6680.warc.gz
+< Server-Timing: exclusion.robots;dur=1.624539, RedisCDXSource;dur=30.798207, PetaboxLoader3.datanode;dur=538.819535, exclusion.robots.policy;dur=1.538413, PetaboxLoader3.resolve;dur=43.875271, CDXLines.iter;dur=388.646422, LoadShardBlock;dur=856.749948, esindex;dur=0.079859, load_resource;dur=88.384784
+< X-Rl: 0
+< Cache-Control: max-age=1800
+< X-Tr: 1463
+< X-Archive-Orig-Vary: Accept-Encoding,User-Agent
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Accept-Ranges: bytes
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Nid: -
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 15:01:38 GMT
+< Connection: keep-alive
+< X-Archive-Orig-Server: Apache
+< X-Archive-Orig-Date: Sat, 17 Jul 2010 19:18:11 GMT
+< X-Archive-Orig-Connection: close
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Ts: 200
+< Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< X-App-Server: wwwb-app31
+< Memento-Datetime: Sat, 17 Jul 2010 19:18:11 GMT
+< Link: <http://www.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20020921163523/http://buzzfeed.com:80/robots.txt>; rel="first memento"; datetime="Sat, 21 Sep 2002 16:35:23 GMT", <https://web.archive.org/web/20100717191807/http://buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Sat, 17 Jul 2010 19:18:07 GMT", <https://web.archive.org/web/20100717191811/http://www.buzzfeed.com/robots.txt>; rel="memento"; datetime="Sat, 17 Jul 2010 19:18:11 GMT", <https://web.archive.org/web/20100723070037/http://www.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Fri, 23 Jul 2010 07:00:37 GMT", <https://web.archive.org/web/20210725033235/https://www.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 03:32:35 GMT"
+< X-Location: All

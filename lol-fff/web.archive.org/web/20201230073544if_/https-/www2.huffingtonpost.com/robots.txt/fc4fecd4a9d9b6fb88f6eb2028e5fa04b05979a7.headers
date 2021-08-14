@@ -1,0 +1,39 @@
+GET https://web.archive.org/web/20201230073544if_/https://www2.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Na: 0
+< X-Archive-Guessed-Charset: utf-8
+< X-Tr: 5200
+< X-Archive-Orig-Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+< X-Archive-Guessed-Content-Type: text/html
+< X-Rl: 0
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Orig-Server: ATS
+< X-Archive-Src: huffingtonpost.com-20201230-000812/IA-FOC-huffingtonpost.com-20201230071304-00002.warc.gz
+< X-App-Server: wwwb-app13
+< X-Nid: -
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-Date: Wed, 30 Dec 2020 07:35:44 GMT
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< Memento-Datetime: Wed, 30 Dec 2020 07:35:44 GMT
+< X-Archive-Orig-Cache-Control: max-age=3600, public
+< X-Location: All
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 15:28:39 GMT
+< Server-Timing: cdx.remote;dur=0.704985, LoadShardBlock;dur=4547.686879, exclusion.robots;dur=1.655979, PetaboxLoader3.resolve;dur=126.176765, esindex;dur=0.077691, CDXLines.iter;dur=239.252513, load_resource;dur=200.754309, PetaboxLoader3.datanode;dur=3105.248524, exclusion.robots.policy;dur=1.573622
+< X-Ts: 200
+< X-Archive-Orig-Content-Security-Policy: sandbox allow-scripts; default-src 'self'; img-src https:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; report-uri http://csp.yahoo.com/beacon/csp?src=redirect
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-Content-Length: 4438
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Page-Cache: MISS
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< X-Archive-Orig-P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+< Link: <https://www2.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://www2.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www2.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20201230073318/https://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Wed, 30 Dec 2020 07:33:18 GMT", <https://web.archive.org/web/20201230073544/https://www2.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Wed, 30 Dec 2020 07:35:44 GMT", <https://web.archive.org/web/20201230075502/http://www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Wed, 30 Dec 2020 07:55:02 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< X-Cache-Key: httpsweb.archive.org/web/20201230073544if_/https://www2.huffingtonpost.com/robots.txtUS
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Age: 0
+< X-Archive-Orig-Strict-Transport-Security: max-age=31536000

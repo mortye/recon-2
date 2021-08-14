@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20190605183412if_/https://buzzfeednews.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Content-Length: 0
+< X-Archive-Redirect-Reason: found capture at 20190605184858
+< X-Page-Cache: MISS
+< Connection: keep-alive
+< X-Na: 0
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Date: Mon, 26 Jul 2021 14:52:50 GMT
+< Content-Type: text/plain; charset=utf-8
+< Server-Timing: captures_list;dur=1073.823558, exclusion.robots;dur=0.256206, exclusion.robots.policy;dur=0.246630, RedisCDXSource;dur=2.925798, esindex;dur=0.008419, LoadShardBlock;dur=65.131059, PetaboxLoader3.datanode;dur=185.774293, CDXLines.iter;dur=106.607626, load_resource;dur=487.373788, PetaboxLoader3.resolve;dur=258.424568
+< X-Tr: 1661
+< X-Cache-Key: httpsweb.archive.org/web/20190605183412if_/https://buzzfeednews.com/robots.txtUS
+< Server: nginx/1.15.8
+< Location: https://web.archive.org/web/20190605184858if_/https://www.buzzfeednews.com/robots.txt
+< X-App-Server: wwwb-app206
+< X-Ts: 302
+< X-Location: All

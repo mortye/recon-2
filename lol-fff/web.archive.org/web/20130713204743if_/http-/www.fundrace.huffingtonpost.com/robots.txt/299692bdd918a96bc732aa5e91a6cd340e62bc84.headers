@@ -1,0 +1,29 @@
+GET https://web.archive.org/web/20130713204743if_/http://www.fundrace.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Archive-Orig-Content-Length: 247
+< X-Archive-Src: live-20130712160120522-01359-20130714035247674/live-20130713203903157-01437.arc.gz
+< Server-Timing: captures_list;dur=297.254794, exclusion.robots;dur=0.336463, exclusion.robots.policy;dur=0.321221, RedisCDXSource;dur=0.651733, esindex;dur=0.010168, LoadShardBlock;dur=80.875930, PetaboxLoader3.datanode;dur=67.821684, CDXLines.iter;dur=93.219827, load_resource;dur=143.388122, PetaboxLoader3.resolve;dur=87.613059
+< X-Location: All
+< X-Rl: 0
+< Connection: keep-alive
+< Cache-Control: max-age=1800
+< Link: <http://fundrace.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://fundrace.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://fundrace.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20070806194950/http://fundrace.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Mon, 06 Aug 2007 19:49:50 GMT", <https://web.archive.org/web/20130710091816/http://fundrace.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Wed, 10 Jul 2013 09:18:16 GMT", <https://web.archive.org/web/20130713204743/http://fundrace.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Sat, 13 Jul 2013 20:47:43 GMT", <https://web.archive.org/web/20130717162726/http://fundrace.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Wed, 17 Jul 2013 16:27:26 GMT", <https://web.archive.org/web/20210716220755/https://fundrace.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 16 Jul 2021 22:07:55 GMT"
+< X-Ts: 301
+< X-Tr: 473
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Server: Apache
+< Location: https://web.archive.org/web/20130713204743if_/http://www.huffingtonpost.com/politics/
+< X-App-Server: wwwb-app28
+< X-Na: 0
+< X-Nid: -
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Cache-Key: httpsweb.archive.org/web/20130713204743if_/http://www.fundrace.huffingtonpost.com/robots.txtUS
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 17:23:07 GMT
+< Content-Type: text/html; charset=iso-8859-1
+< X-Archive-Orig-Date: Sat, 13 Jul 2013 20:47:43 GMT
+< Memento-Datetime: Sat, 13 Jul 2013 20:47:43 GMT

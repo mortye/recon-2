@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /_uac/adpage.html
+Disallow: /_huff_uac/adpage.html
+Disallow: /postid
+Disallow: /preview
+Sitemap: https://www.huffingtonpost.co.uk/sitemaps/sitemap-google-video.xml
+Sitemap: https://www.huffingtonpost.co.uk/sitemaps/sitemap-google-news.xml
+Sitemap: https://www.huffingtonpost.co.uk/sitemaps/sitemap-index-daily-archives.xml
+Sitemap: https://www.huffingtonpost.co.uk/sitemaps/sitemap-index-monthly-archives.xml
+Sitemap: https://www.huffingtonpost.co.uk/sitemaps/sections.xml
+

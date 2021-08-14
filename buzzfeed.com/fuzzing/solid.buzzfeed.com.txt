@@ -1,0 +1,14 @@
+200 1133 https://solid.buzzfeed.com/favicon.ico
+200 2 https://solid.buzzfeed.com/health
+200 2 https://solid.buzzfeed.com/health-monitor.sh
+200 2 https://solid.buzzfeed.com/health.json
+200 2 https://solid.buzzfeed.com/healthcheck.php
+200 2 https://solid.buzzfeed.com/healthmonitoringcreate.sql
+200 2 https://solid.buzzfeed.com/healthz
+200 4971 https://solid.buzzfeed.com/feed.xml
+200 8779 https://solid.buzzfeed.com/index.html
+301 178 https://solid.buzzfeed.com/css
+301 178 https://solid.buzzfeed.com/dist
+301 178 https://solid.buzzfeed.com/fonts
+301 178 https://solid.buzzfeed.com/images
+301 178 https://solid.buzzfeed.com/javascript

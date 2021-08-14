@@ -1,0 +1,26 @@
+GET https://web.archive.org/web/20100106182805if_/http://m.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 Found
+< Location: https://web.archive.org/web/20100106182805if_/http://www.huffingtonpost.com/blackberry
+< Cache-Control: max-age=1800
+< Server-Timing: captures_list;dur=378.584682, exclusion.robots;dur=0.186026, exclusion.robots.policy;dur=0.179111, RedisCDXSource;dur=7.048160, esindex;dur=0.009443, LoadShardBlock;dur=300.175667, PetaboxLoader3.datanode;dur=279.917994, CDXLines.iter;dur=38.822987, load_resource;dur=217.805783, PetaboxLoader3.resolve;dur=134.419132
+< X-Tr: 819
+< Permissions-Policy: interest-cohort=()
+< Date: Mon, 26 Jul 2021 19:18:24 GMT
+< Link: <http://m.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://m.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://m.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20070820071336/http://m.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Mon, 20 Aug 2007 07:13:36 GMT", <https://web.archive.org/web/20080605160433/http://m.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Thu, 05 Jun 2008 16:04:33 GMT", <https://web.archive.org/web/20100106182805/http://m.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Wed, 06 Jan 2010 18:28:05 GMT", <https://web.archive.org/web/20100513213303/http://m.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Thu, 13 May 2010 21:33:03 GMT", <https://web.archive.org/web/20210610101249/https://m.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Thu, 10 Jun 2021 10:12:49 GMT"
+< X-Archive-Src: TLA-20100106175817-00362-ia360913-c/TLA-20100106181756-00531-ia360908.us.archive.org.warc.gz
+< X-Location: All
+< X-Rl: 0
+< X-Page-Cache: MISS
+< Memento-Datetime: Wed, 06 Jan 2010 18:28:05 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Cache-Key: httpsweb.archive.org/web/20100106182805if_/http://m.huffingtonpost.com/robots.txtUS
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Connection: keep-alive
+< X-Archive-Orig-Connection: close
+< X-App-Server: wwwb-app201
+< X-Ts: 302
+< X-Na: 0
+< Server: nginx/1.15.8

@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20110423215837if_/http://horizon.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Rl: 0
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-Server: Apache/2.2.3 (CentOS)
+< X-Archive-Src: ARCHIVEIT-2438-DAILY-YTLVOR-00000/ARCHIVEIT-2438-DAILY-YTLVOR-20110423215832-00000-crawling211.us.archive.org-6680.warc.gz
+< X-Tr: 1228
+< X-Nid: -
+< Date: Mon, 26 Jul 2021 16:19:29 GMT
+< Link: <http://horizon.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://horizon.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://horizon.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20100728181035/http://horizon.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Wed, 28 Jul 2010 18:10:35 GMT", <https://web.archive.org/web/20110423061404/http://horizon.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Sat, 23 Apr 2011 06:14:04 GMT", <https://web.archive.org/web/20110423215837/http://horizon.buzzfeed.com/robots.txt>; rel="memento"; datetime="Sat, 23 Apr 2011 21:58:37 GMT", <https://web.archive.org/web/20110424215728/http://horizon.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Sun, 24 Apr 2011 21:57:28 GMT", <https://web.archive.org/web/20190607151017/http://horizon.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Fri, 07 Jun 2019 15:10:17 GMT"
+< Server-Timing: captures_list;dur=954.055786, exclusion.robots;dur=0.162762, exclusion.robots.policy;dur=0.156227, RedisCDXSource;dur=4.781223, esindex;dur=0.006302, LoadShardBlock;dur=906.382261, PetaboxLoader3.datanode;dur=819.908846, CDXLines.iter;dur=16.119988, PetaboxLoader3.resolve;dur=251.482073, load_resource;dur=237.711388
+< Referrer-Policy: no-referrer-when-downgrade
+< Memento-Datetime: Sat, 23 Apr 2011 21:58:37 GMT
+< X-Archive-Orig-Date: Sat, 23 Apr 2011 21:58:37 GMT
+< X-Archive-Orig-Content-Length: 1893
+< X-Cache-Key: httpsweb.archive.org/web/20110423215837if_/http://horizon.buzzfeed.com/robots.txtUS
+< Permissions-Policy: interest-cohort=()
+< Content-Type: text/html; charset=UTF-8
+< X-Ts: 200
+< Server: nginx/1.15.8
+< X-Na: 0
+< X-Archive-Guessed-Charset: utf-8
+< X-App-Server: wwwb-app201
+< X-Location: All
+< X-Archive-Guessed-Content-Type: text/html
+< X-Archive-Orig-X-Powered-By: PHP/5.3.5
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Page-Cache: MISS
+< Connection: keep-alive

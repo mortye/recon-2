@@ -1,0 +1,412 @@
+Domain
+
+   Domain         huffpost.com
+   Words in       huff post
+   Date creation  2005-03-10
+   Web age        16 years and 4 months
+   IP Address     [6]13.225.61.108
+                  [7]13.225.61.108 abuse reports
+   IP Geolocation US United States, Connecticut, Norwalk [8]map
+
+Registrant
+
+   from last whois record
+   Name [9]Domain Manager is associated with 100+ domains
+   Organization [10]Thehuffingtonpost.com Inc is associated with 100+
+   domains
+   Email [11]domain-adm@corp.aol.com is associated with 100+ domains
+   Address 560 Broadway, 405
+   City New York [12]map
+   State NY
+   Country US United States
+   Phone +1.7032654670
+   Fax +1.8887802723
+   Private no
+   [INS: :INS]
+
+Whois
+
+   last record, updated : 2018-11-30
+   ajax-loader
+   querying the whois server...
+   Domain Name: huffpost.com
+   Registry Domain ID: 145733375_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: www.cscprotectsbrands.com
+   Updated Date: 2018-11-29T13:00:24Z
+   Creation Date: 2005-03-10T17:07:10Z
+   Registrar Registration Expiration Date: 2019-03-10T16:07:10Z
+   Registrar: CSC CORPORATE DOMAINS, INC.
+   Sponsoring Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse(at)cscglobal.com
+   Registrar Abuse Contact Phone: +1.8887802723
+   Domain Status: clientTransferProhibited
+   http://www.icann.org/epp#clientTransferProhibited
+   Domain Status: serverDeleteProhibited
+   http://www.icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited
+   http://www.icann.org/epp#serverTransferProhibited
+   Registry Registrant ID:
+   Registrant Name: Domain Manager
+   Registrant Organization: TheHuffingtonPost.com, Inc.
+   Registrant Street: 560 Broadway, 405
+   Registrant City: New York
+   Registrant State/Province: NY
+   Registrant Postal Code: 10012
+   Registrant Country: US
+   Registrant Phone: +1.7032654670
+   Registrant Phone Ext:
+   Registrant Fax:
+   Registrant Fax Ext:
+   Registrant Email: domain-adm(at)corp.aol.com
+   Registry Admin ID:
+   Admin Name: Domain Admin
+   Admin Organization: AOL Inc.
+   Admin Street: 22000 AOL Way
+   Admin City: Dulles
+   Admin State/Province: VA
+   Admin Postal Code: 20166
+   Admin Country: US
+   Admin Phone: +1.7032654670
+   Admin Phone Ext:
+   Admin Fax:
+   Admin Fax Ext:
+   Admin Email: domain-adm(at)corp.aol.com
+   Registry Tech ID:
+   Tech Name: Domain Admin
+   Tech Organization: AOL Inc.
+   Tech Street: 22000 AOL Way
+   Tech City: Dulles
+   Tech State/Province: VA
+   Tech Postal Code: 20166
+   Tech Country: US
+   Tech Phone: +1.7032654670
+   Tech Phone Ext:
+   Tech Fax:
+   Tech Fax Ext:
+   Tech Email: domain-adm(at)corp.aol.com
+   Name Server: ns2.yahoo.com
+   Name Server: ns4.yahoo.com
+   Name Server: ns3.yahoo.com
+   Name Server: ns1.yahoo.com
+   Name Server: ns5.yahoo.com
+   DNSSEC: unsigned
+
+Recorded : 2016-08-19
+
+Historic Registrant
+
+   Name [13]Domain Manager is associated with 100+ domains
+   Organization [14]Thehuffingtonpost.com Inc is associated with 100+
+   domains
+   Email [15]domain-adm@corp.aol.com is associated with 100+ domains
+   Address 560 Broadway, 405
+   City New York
+   State NY
+   Country US United States
+   Phone +1.7032654670
+   Fax +1.8887802723
+   Private no
+
+Historic Whois Record
+
+   Domain Name: huffpost.com
+   Domain ID: 145733375_DOMAIN_COM-VRSN
+   WHOIS Server: whois.corporatedomains.com
+   Referral URL: www.cscprotectsbrands.com
+   Updated Date: 2016-08-18T10:26:30Z
+   Creation Date: 2005-03-10T17:07:10Z
+   Registry Expiry Date: 2017-03-10T16:07:10Z
+   Sponsoring Registrar: CSC CORPORATE DOMAINS, INC.
+   Sponsoring Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: +1.8887802723
+   Domain Status: serverTransferProhibited
+   http://www.icann.org/epp#serverTransferProhibited
+   Domain Status: serverDeleteProhibited
+   http://www.icann.org/epp#serverDeleteProhibited
+   Domain Status: clientTransferProhibited
+   http://www.icann.org/epp#clientTransferProhibited
+   Registry Registrant ID:
+   Registrant Name: Domain Manager
+   Registrant Organization: TheHuffingtonPost.com, Inc.
+   Registrant Street: 560 Broadway, 405
+   Registrant City: New York
+   Registrant State/Province: NY
+   Registrant Postal Code: 10012
+   Registrant Country: US
+   Registrant Phone: +1.7032654670
+   Registrant Phone Ext:
+   Registrant Fax:
+   Registrant Fax Ext:
+   Registrant Email: domain-adm@corp.aol.com
+   Registry Admin ID:
+   Admin Name: Domain Admin
+   Admin Organization: AOL Inc.
+   Admin Street: 22000 AOL Way
+   Admin City: Dulles
+   Admin State/Province: VA
+   Admin Postal Code: 20166
+   Admin Country: US
+   Admin Phone: +1.7032654670
+   Admin Phone Ext:
+   Admin Fax:
+   Admin Fax Ext:
+   Admin Email: domain-adm@corp.aol.com
+   Registry Tech ID:
+   Tech Name: Domain Admin
+   Tech Organization: AOL Inc.
+   Tech Street: 22000 AOL Way
+   Tech City: Dulles
+   Tech State/Province: VA
+   Tech Postal Code: 20166
+   Tech Country: US
+   Tech Phone: +1.7032654670
+   Tech Phone Ext:
+   Tech Fax:
+   Tech Fax Ext:
+   Tech Email: domain-adm@corp.aol.com
+   Name Server: ns1.p132.dynect.net
+   Name Server: ns3.p132.dynect.net
+   Name Server: pdns120.ultradns.biz
+   Name Server: ns4.p132.dynect.net
+   Name Server: pdns120.ultradns.org
+   Name Server: pdns120.ultradns.com
+   Name Server: pdns120.ultradns.net
+   Name Server: ns2.p132.dynect.net
+   DNSSEC: unsigned
+   URL of the ICANN WHOIS Data Problem Reporting System:
+   http://wdprs.internic.net/
+   >>> Last update of WHOIS database: 2016-08-18T10:26:30Z <<<
+   For more information on Whois status codes, please visit
+   https://icann.org/epp
+   Corporation Service Company(c) (CSC) The Trusted Partner of More than
+   50% of the 100 Best Global Brands.
+   Contact us to learn more about our enterprise solutions for Global
+   Domain Name Registration and Management, Trademark Research and
+   Watching, Brand, Logo and Auction Monitoring, as well SSL Certificate
+   Services and DNS Hosting.
+   NOTICE: You are not authorized to access or query our WHOIS database
+   through the use of high-volume, automated, electronic processes or for
+   the purpose or purposes of using the data in any manner that violates
+   these terms of use. The Data in the CSC WHOIS database is provided by
+   CSC for information purposes only, and to assist persons in obtaining
+   information about or related to a domain name registration record. CSC
+   does not guarantee its accuracy. By submitting a WHOIS query, you agree
+   to abide by the following terms of use: you agree that you may use this
+   Data only for lawful purposes and that under no circumstances will you
+   use this Data to: (1) allow, enable, or otherwise support the
+   transmission of mass unsolicited, commercial advertising or
+   solicitations via direct mail, e-mail, telephone, or facsimile; or (2)
+   enable high volume, automated, electronic processes that apply to CSC
+   (or its computer systems). CSC reserves the right to terminate your
+   access to the WHOIS database in its sole discretion for any violations
+   by you of these terms of use. CSC reserves the right to modify these
+   terms at any time.
+   Register your domain name at http://www.cscglobal.com
+
+Recorded : 2015-11-02
+
+Historic Registrant
+
+   Name [16]Domain Manager is associated with 100+ domains
+   Organization [17]Thehuffingtonpost.com Inc is associated with 100+
+   domains
+   Email [18]domain-adm@corp.aol.com is associated with 100+ domains
+   Address 560 Broadway, 405
+   City New York
+   State NY
+   Country US United States
+   Phone +1.7032654670
+   Fax +1.8887802723
+   Private no
+
+Historic Whois Record
+
+   Domain Name: huffpost.com
+   Registry Domain ID: 145733375_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: www.cscprotectsbrands.com
+   Updated Date: 2015-03-07T06:48:17Z
+   Creation Date: 2005-03-10T17:07:10Z
+   Registrar Registration Expiration Date: 2016-03-10T16:07:10Z
+   Registrar: CSC CORPORATE DOMAINS, INC.
+   Sponsoring Registrar IANA ID: 299
+   Registrar Abuse Contact Email: domainabuse@cscglobal.com
+   Registrar Abuse Contact Phone: +1.8887802723
+   Domain Status: serverTransferProhibited
+   http://www.icann.org/epp#serverTransferProhibited
+   Domain Status: serverDeleteProhibited
+   http://www.icann.org/epp#serverDeleteProhibited
+   Domain Status: clientTransferProhibited
+   http://www.icann.org/epp#clientTransferProhibited
+   Domain Status: serverUpdateProhibited
+   http://www.icann.org/epp#serverUpdateProhibited
+   Registry Registrant ID:
+   Registrant Name: Domain Manager
+   Registrant Organization: TheHuffingtonPost.com, Inc.
+   Registrant Street: 560 Broadway, 405
+   Registrant City: New York
+   Registrant State/Province: NY
+   Registrant Postal Code: 10012
+   Registrant Country: US
+   Registrant Phone: +1.7032654670
+   Registrant Phone Ext:
+   Registrant Fax:
+   Registrant Fax Ext:
+   Registrant Email: domain-adm@corp.aol.com
+   Registry Admin ID:
+   Admin Name: Domain Admin
+   Admin Organization: AOL Inc.
+   Admin Street: 22000 AOL Way
+   Admin City: Dulles
+   Admin State/Province: VA
+   Admin Postal Code: 20166
+   Admin Country: US
+   Admin Phone: +1.7032654670
+   Admin Phone Ext:
+   Admin Fax:
+   Admin Fax Ext:
+   Admin Email: domain-adm@corp.aol.com
+   Registry Tech ID:
+   Tech Name: Domain Admin
+   Tech Organization: AOL Inc.
+   Tech Street: 22000 AOL Way
+   Tech City: Dulles
+   Tech State/Province: VA
+   Tech Postal Code: 20166
+   Tech Country: US
+   Tech Phone: +1.7032654670
+   Tech Phone Ext:
+   Tech Fax:
+   Tech Fax Ext:
+   Tech Email: domain-adm@corp.aol.com
+   Name Server: pdns1.ultradns.net
+   Name Server: pdns2.ultradns.net
+   Name Server: dns-02.ns.aol.com
+   Name Server: dns-07.ns.aol.com
+   Name Server: pdns5.ultradns.info
+   Name Server: pdns3.ultradns.org
+   Name Server: dns-06.ns.aol.com
+   Name Server: dns-01.ns.aol.com
+   Name Server: pdns4.ultradns.org
+   Name Server: pdns6.ultradns.co.uk
+   DNSSEC: unsigned
+   URL of the ICANN WHOIS Data Problem Reporting System:
+   http://wdprs.internic.net/
+   >>> Last update of WHOIS database: 2015-03-07T06:48:17Z <<<
+   Corporation Service Company(c) (CSC) The Trusted Partner of More than
+   50% of the 100 Best Global Brands.
+   Contact us to learn more about our enterprise solutions for Global
+   Domain Name Registration and Management, Trademark Research and
+   Watching, Brand, Logo and Auction Monitoring, as well SSL Certificate
+   Services and DNS Hosting.
+   NOTICE: You are not authorized to access or query our WHOIS database
+   through the use of high-volume, automated, electronic processes or for
+   the purpose or purposes of using the data in any manner that violates
+   these terms of use. The Data in the CSC WHOIS database is provided by
+   CSC for information purposes only, and to assist persons in obtaining
+   information about or related to a domain name registration record. CSC
+   does not guarantee its accuracy. By submitting a WHOIS query, you agree
+   to abide by the following terms of use: you agree that you may use this
+   Data only for lawful purposes and that under no circumstances will you
+   use this Data to: (1) allow, enable, or otherwise support the
+   transmission of mass unsolicited, commercial advertising or
+   solicitations via direct mail, e-mail, telephone, or facsimile; or (2)
+   enable high volume, automated, electronic processes that apply to CSC
+   (or its computer systems). CSC reserves the right to terminate your
+   access to the WHOIS database in its sole discretion for any violations
+   by you of these terms of use. CSC reserves the right to modify these
+   terms at any time.
+   Register your domain name at http://www.cscglobal.com
+   For more information on Whois status codes, please visit
+   https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+Other TLDs
+
+   [19]huffpost.at
+   [20]huffpost.be
+   [21]huffpost.biz
+   [22]huffpost.ch
+   [23]huffpost.club
+   [24]huffpost.ca
+   [25]huffpost.co
+   [26]huffpost.com.co
+   [27]huffpost.cz
+   [28]huffpost.de
+   [29]huffpost.cn
+   [30]huffpost.com.br
+   [31]huffpost.co.uk
+   [32]huffpost.com.au
+   [33]huffpost.net
+   [34]huffpost.info
+   [35]huffpost.dk
+   [36]huffpost.kr
+   [37]huffpost.eu
+   [38]huffpost.fr
+   [39]huffpost.it
+   [40]huffpost.no
+   [41]huffpost.es
+   [42]huffpost.in
+   [43]huffpost.jp
+   [44]huffpost.nl
+   [45]huffpost.dz
+   [46]huffpost.link
+   [47]huffpost.mobi
+   [48]huffpost.fun
+   [49]huffpost.tk
+   [50]huffpost.org
+   [51]huffpost.us
+   [52]huffpost.ro
+   [53]huffpost.ru
+   [54]huffpost.pl
+   [55]huffpost.press
+   [56]huffpost.pro
+   [57]huffpost.wiki
+   [58]huffpost.top
+   [59]huffpost.social
+   [60]huffpost.shop
+   [61]huffpost.online
+   [62]huffpost.site
+   [63]huffpost.website
+
+Nameservers
+
+A Records
+
+   Type
+   Hostname
+   Address
+   TTL
+   Class
+   A huffpost.com [64]13.225.66.18 60 IN
+   A huffpost.com [65]13.225.66.85 60 IN
+   A huffpost.com [66]13.225.66.7 60 IN
+   A huffpost.com [67]13.225.66.73 60 IN
+
+AAAA Records
+
+   No AAAA record found
+
+MX Records
+
+   Type
+   Hostname Address Preference TTL Class
+   MX huffpost.com aspmx.l.google.com 1 3600 IN
+   MX huffpost.com alt1.aspmx.l.google.com 5 3600 IN
+   MX huffpost.com alt2.aspmx.l.google.com 5 3600 IN
+   MX huffpost.com alt3.aspmx.l.google.com 10 3600 IN
+   MX huffpost.com alt4.aspmx.l.google.com 10 3600 IN
+
+CNAME Records
+
+   No CNAME record found
+
+History
+
+   Date       Status         Name Server
+   2018-11-29 Transferred to yahoo.com
+   2016-08-18 Transferred to ultradns.net
+   [INS: :INS]
+   [68]domainbigdata.com
+

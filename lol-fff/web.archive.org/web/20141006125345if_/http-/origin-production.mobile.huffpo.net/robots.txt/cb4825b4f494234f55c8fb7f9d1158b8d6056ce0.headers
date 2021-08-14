@@ -1,0 +1,34 @@
+GET https://web.archive.org/web/20141006125345if_/http://origin-production.mobile.huffpo.net/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Server: nginx/1.15.8
+< Content-Type: text/plain
+< X-Archive-Orig-Date: Mon, 06 Oct 2014 12:53:45 GMT
+< X-Rl: 0
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Connection: Close
+< X-App-Server: wwwb-app105
+< X-Location: All
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Last-Modified: Thu, 02 Oct 2014 14:04:43 GMT
+< Link: <http://origin-production.mobile.huffpo.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://origin-production.mobile.huffpo.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://origin-production.mobile.huffpo.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20141006125345/http://origin-production.mobile.huffpo.net/robots.txt>; rel="first memento"; datetime="Mon, 06 Oct 2014 12:53:45 GMT", <https://web.archive.org/web/20141006125345/http://origin-production.mobile.huffpo.net/robots.txt>; rel="memento"; datetime="Mon, 06 Oct 2014 12:53:45 GMT", <https://web.archive.org/web/20141009014241/http://origin-production.mobile.huffpo.net/robots.txt>; rel="next memento"; datetime="Thu, 09 Oct 2014 01:42:41 GMT", <https://web.archive.org/web/20160718083727/http://origin-production.mobile.huffpo.net/robots.txt>; rel="last memento"; datetime="Mon, 18 Jul 2016 08:37:27 GMT"
+< X-Tr: 147
+< X-Page-Cache: MISS
+< X-Nid: -
+< Memento-Datetime: Mon, 06 Oct 2014 12:53:45 GMT
+< X-Archive-Src: NO404-WKP-20141006105453-crawl345/NO404-WKP-20141006122111-05484.warc.gz
+< X-Archive-Orig-Server: nginx/1.6.0
+< X-Archive-Orig-Content-Length: 204
+< Cache-Control: max-age=1800
+< X-Cache-Key: httpsweb.archive.org/web/20141006125345if_/http://origin-production.mobile.huffpo.net/robots.txtUS
+< Referrer-Policy: no-referrer-when-downgrade
+< Connection: keep-alive
+< X-Archive-Orig-Etag: "542d5b7b-cc"
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: load_resource;dur=45.811918, CDXLines.iter;dur=20.800709, LoadShardBlock;dur=38.697805, exclusion.robots.policy;dur=0.418251, esindex;dur=0.018233, captures_list;dur=65.331927, PetaboxLoader3.datanode;dur=44.078796, RedisCDXSource;dur=1.295079, exclusion.robots;dur=0.437350, PetaboxLoader3.resolve;dur=25.337480
+< X-Ts: 200
+< Date: Mon, 26 Jul 2021 18:53:03 GMT
+< X-Na: 0

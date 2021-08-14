@@ -1,0 +1,34 @@
+GET https://web.archive.org/web/20130318013653if_/http://www.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/plain
+< Memento-Datetime: Mon, 18 Mar 2013 01:36:53 GMT
+< Link: <http://www.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20020921163523/http://buzzfeed.com:80/robots.txt>; rel="first memento"; datetime="Sat, 21 Sep 2002 16:35:23 GMT", <https://web.archive.org/web/20130318002924/http://www.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Mon, 18 Mar 2013 00:29:24 GMT", <https://web.archive.org/web/20130318013653/http://www.buzzfeed.com/robots.txt>; rel="memento"; datetime="Mon, 18 Mar 2013 01:36:53 GMT", <https://web.archive.org/web/20130318014632/http://www.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Mon, 18 Mar 2013 01:46:32 GMT", <https://web.archive.org/web/20210725033235/https://www.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 03:32:35 GMT"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Location: All
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< X-Cache-Key: httpsweb.archive.org/web/20130318013653if_/http://www.buzzfeed.com/robots.txtUS
+< X-Na: 0
+< Server: nginx/1.15.8
+< X-Ts: 200
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Nid: -
+< X-Archive-Orig-Etag: "661c9-351-4d7c04c23d3e7"
+< X-Archive-Orig-Content-Length: 849
+< X-App-Server: wwwb-app101
+< Date: Mon, 26 Jul 2021 16:45:19 GMT
+< X-Archive-Orig-X-Buzzfeed: webdr01
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: imf-lawa-im89-item-2/IM_LAWA_032013_617_www.ft.com-20130318013310213-00013.arc.gz
+< X-Rl: 0
+< X-Archive-Orig-Last-Modified: Tue, 12 Mar 2013 20:40:17 GMT
+< X-Archive-Guessed-Content-Type: text/plain
+< Server-Timing: CDXLines.iter;dur=421.772378, esindex;dur=0.087413, exclusion.robots.policy;dur=1.520998, load_resource;dur=5848.221304, LoadShardBlock;dur=1497.405177, exclusion.robots;dur=1.609487, PetaboxLoader3.datanode;dur=6761.015029, RedisCDXSource;dur=86.637934, PetaboxLoader3.resolve;dur=32.015403
+< X-Tr: 7969
+< X-Archive-Orig-Server: Apache/2.2.17 (Ubuntu)
+< X-Archive-Orig-Date: Mon, 18 Mar 2013 01:36:53 GMT
+< X-Archive-Orig-Connection: close
+< Cache-Control: max-age=1800

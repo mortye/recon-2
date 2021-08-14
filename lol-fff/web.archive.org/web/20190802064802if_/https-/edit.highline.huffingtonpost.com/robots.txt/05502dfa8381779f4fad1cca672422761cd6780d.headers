@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20190802064802if_/https://edit.highline.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 Found
+< X-Ts: 302
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< X-Archive-Orig-Content-Length: 537
+< X-App-Server: wwwb-app207
+< X-Cache-Key: httpsweb.archive.org/web/20190802064802if_/https://edit.highline.huffingtonpost.com/robots.txtUS
+< Server: nginx/1.15.8
+< Content-Type: text/html; charset=iso-8859-1
+< X-Archive-Orig-Server: Apache
+< Cache-Control: max-age=1800
+< X-Location: All
+< X-Rl: 0
+< Location: https://web.archive.org/web/20190802064802if_/https://id.b2b.oath.com:443/identity/cdcservlet?realm=aolcorporate&goto=https%3A%2F%2Fedit.highline.huffingtonpost.com%3A443%2Frobots.txt&RequestID=1564728482676&MajorVersion=1&MinorVersion=0&ProviderID=https%3A%2F%2Fedit.highline.huffingtonpost.com%3A443%2Famagent%3FRealm%3D%2Faolcorporate&IssueInstant=2019-08-02T06%3A48%3A02Z
+< Link: <https://edit.highline.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://edit.highline.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://edit.highline.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180405044743/http://edit.highline.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Thu, 05 Apr 2018 04:47:43 GMT", <https://web.archive.org/web/20190802063226/https://edit.highline.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Fri, 02 Aug 2019 06:32:26 GMT", <https://web.archive.org/web/20190802064802/https://edit.highline.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Fri, 02 Aug 2019 06:48:02 GMT", <https://web.archive.org/web/20190802065026/http://edit.highline.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Fri, 02 Aug 2019 06:50:26 GMT", <https://web.archive.org/web/20191212053154/https://edit.highline.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Thu, 12 Dec 2019 05:31:54 GMT"
+< X-Page-Cache: MISS
+< Date: Mon, 26 Jul 2021 17:49:18 GMT
+< X-Archive-Orig-Date: Fri, 02 Aug 2019 06:48:02 GMT
+< X-Archive-Orig-Connection: close
+< Memento-Datetime: Fri, 02 Aug 2019 06:48:02 GMT
+< X-Archive-Orig-Set-Cookie: _B2BID=;Max-Age=0;Expires=Thu, 01-Jan-1970 00:00:01 GMT;Path=/;Secure;HttpOnly
+< X-Archive-Src: liveweb-20190803003525/cachegw-20190802020705-wwwb-app15.us.archive.org.warc.gz
+< X-Tr: 428
+< X-Na: 0
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: captures_list;dur=238.361630, exclusion.robots;dur=0.259939, exclusion.robots.policy;dur=0.251253, RedisCDXSource;dur=0.678930, esindex;dur=0.009483, LoadShardBlock;dur=203.973192, PetaboxLoader3.datanode;dur=143.076036, CDXLines.iter;dur=29.793848, load_resource;dur=161.578289, PetaboxLoader3.resolve;dur=70.030562
+< X-Nid: -

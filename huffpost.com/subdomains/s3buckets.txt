@@ -1,0 +1,33 @@
+
+Bucket scan raised exception: https://amp.assets.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://api.login.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://auth.stage.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://beta-cambria.assets.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://beta.preview.www.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://e.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://help.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://i.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://i3.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://live.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://login-stage.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://maisonsansfenetres.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://mapi.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://mod.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://mysubscriptions.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://offers.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://parallellives.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://ryotstudio.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://s-i.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://s.staging.mobile.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://s0.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://s2.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://sketchy.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://sli.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://staging-cambria.assets.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://staging.mapi.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://staging.mobile.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://staging.preview.www.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://subscribe.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+Bucket scan raised exception: https://support.huffpost.com - An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist
+ERROR: Error while checking bucket https
+https | bucket_exists | AuthUsers: [], AllUsers: []

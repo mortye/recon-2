@@ -1,0 +1,8 @@
+# STAGING Desktop robots.
+
+User-agent: *
+Disallow: /
+
+Sitemap: http://www.huffingtonpost.com/archive-sitemap.xml
+Sitemap: http://www.huffingtonpost.com/sitemaps/sitemap-google-news.xml
+Sitemap: http://www.huffingtonpost.com/sitemaps/sitemap-google-video.xml

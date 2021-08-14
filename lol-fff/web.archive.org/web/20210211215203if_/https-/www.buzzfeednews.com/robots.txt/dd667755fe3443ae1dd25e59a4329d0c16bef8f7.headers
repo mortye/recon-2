@@ -1,0 +1,44 @@
+GET https://web.archive.org/web/20210211215203if_/https://www.buzzfeednews.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-X-Bf-Cdn-Url: /robots.txt
+< X-Archive-Orig-X-Cache-Hits: 1
+< X-Page-Cache: MISS
+< X-Tr: 2110
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/plain
+< X-Archive-Orig-Timing-Allow-Origin: *
+< X-Archive-Src: ARCHIVEIT-5838-WEEKLY-JOB1362092-SEED2348847-20210209-00000/ARCHIVEIT-5838-WEEKLY-JOB1362092-SEED2348847-20210209192142281-00000-h3.warc.gz
+< X-App-Server: wwwb-app105
+< X-Rl: 0
+< X-Archive-Orig-Content-Length: 1075
+< Cache-Control: max-age=1800
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20210211215203if_/https://www.buzzfeednews.com/robots.txtUS
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Na: 0
+< Connection: keep-alive
+< X-Archive-Orig-Cache-Control: no-cache, no-store, must-revalidate
+< X-Archive-Orig-Set-Cookie: ccpa=true; expires=Thu, 25 Feb 2021 21:52:03 GMT; path=/; domain=www.buzzfeednews.com;
+< Memento-Datetime: Thu, 11 Feb 2021 21:52:03 GMT
+< X-Archive-Orig-Date: Thu, 11 Feb 2021 21:52:03 GMT
+< X-Archive-Orig-X-Cache: HIT
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-Etag: "602587d2-433"
+< X-Archive-Orig-Last-Modified: Thu, 11 Feb 2021 19:38:58 GMT
+< Server-Timing: load_resource;dur=109.383154, CDXLines.iter;dur=138.126057, LoadShardBlock;dur=333.646689, exclusion.robots.policy;dur=0.291909, esindex;dur=0.007856, captures_list;dur=1886.441560, PetaboxLoader3.datanode;dur=131.599121, RedisCDXSource;dur=21.629212, exclusion.robots;dur=0.302790, PetaboxLoader3.resolve;dur=62.360338
+< X-Ts: 200
+< X-Nid: -
+< Server: nginx/1.15.8
+< X-Archive-Orig-X-Served-By: cache-sjc10070-SJC
+< X-Archive-Orig-X-Timer: S1613080324.546979,VS0,VE1
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Orig-X-Request-Id: 0589160e93d508eaf0caedefafca6b7b
+< X-Archive-Orig-Age: 1025
+< Link: <https://www.buzzfeednews.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://www.buzzfeednews.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.buzzfeednews.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20130527205747/http://buzzfeednews.com/robots.txt>; rel="first memento"; datetime="Mon, 27 May 2013 20:57:47 GMT", <https://web.archive.org/web/20210211201029/https://buzzfeednews.com/robots.txt>; rel="prev memento"; datetime="Thu, 11 Feb 2021 20:10:29 GMT", <https://web.archive.org/web/20210211215203/https://www.buzzfeednews.com/robots.txt>; rel="memento"; datetime="Thu, 11 Feb 2021 21:52:03 GMT", <https://web.archive.org/web/20210211222301/https://www.buzzfeednews.com/robots.txt>; rel="next memento"; datetime="Thu, 11 Feb 2021 22:23:01 GMT", <https://web.archive.org/web/20210725015117/https://www.buzzfeednews.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 01:51:17 GMT"
+< Date: Mon, 26 Jul 2021 17:56:56 GMT
+< X-Archive-Orig-Accept-Ranges: bytes
+< Permissions-Policy: interest-cohort=()

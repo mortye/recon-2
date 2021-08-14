@@ -1,0 +1,13 @@
+# Mobile robots!
+
+User-agent: *
+Disallow: /us/entry/*?
+Disallow: /us/entry/*/comments
+Disallow: /us/search
+Disallow: /us/archive/
+
+crawl-delay: 1
+
+Sitemap: https://www.huffingtonpost.com/sitemaps/sitemap-index-daily-archives.xml
+Sitemap: https://www.huffingtonpost.com/sitemaps/sitemap-google-news.xml
+Sitemap: https://www.huffingtonpost.com/sitemaps/sitemap-google-video.xml

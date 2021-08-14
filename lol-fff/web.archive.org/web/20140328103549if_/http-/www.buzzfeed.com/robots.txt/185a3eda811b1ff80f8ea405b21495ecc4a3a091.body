@@ -1,0 +1,42 @@
+User-agent: msnbot
+Crawl-delay: 120 
+Disallow: /*.xml$
+Disallow: /buzz/*.xml$
+Disallow: /category/*.xml$
+Disallow: /mobile/
+Disallow: *?s=mobile
+Disallow: *?s=lightbox
+Disallow: /buzzfeed/
+Disallow: /contest
+Disallow: /contests
+
+User-agent: *
+Disallow: /buzz/*.xml$
+Disallow: /category/*.xml$
+Disallow: /mobile/
+Disallow: *?s=mobile
+Disallow: *?s=lightbox
+Disallow: /buzzfeed/ 
+Disallow: /contest
+Disallow: /contests
+Disallow: /_ga/
+Disallow: /static/
+Disallow: /dashboard/
+Disallow: /juliapugachevsky/most-dubious-chip-flavors-created-by-the-internet 
+
+User-agent: discobot
+Disallow: / 
+
+User-agent: Slurp
+Crawl-delay: 4
+
+Sitemap: http://www.buzzfeed.com/sitemap.xml
+Sitemap: http://www.buzzfeed.com/politics.news_sitemap.xml
+Sitemap: http://www.buzzfeed.com/tech.news_sitemap.xml
+Sitemap: http://www.buzzfeed.com/shift.news_sitemap.xml
+Sitemap: http://www.buzzfeed.com/sports.news_sitemap.xml
+Sitemap: http://www.buzzfeed.com/animals.news_sitemap.xml
+Sitemap: http://www.buzzfeed.com/celeb.news_sitemap.xml
+Sitemap: http://www.buzzfeed.com/music.news_sitemap.xml
+Sitemap: http://www.buzzfeed.com/lgbt.news_sitemap.xml
+

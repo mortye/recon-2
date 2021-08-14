@@ -1,0 +1,41 @@
+GET https://web.archive.org/web/20181030221112if_/https://advertise.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Connection: keep-alive
+< X-Archive-Orig-Set-Cookie: crumb=BcCZW6p5CfyMMzdiMDZlYjRkZTYxMjRkZjZiYmE2MDUzNzQwNzJk;Path=/
+< X-Archive-Orig-Accept-Ranges: bytes
+< Link: <https://advertise.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://advertise.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://advertise.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20171016154302/https://advertise.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Mon, 16 Oct 2017 15:43:02 GMT", <https://web.archive.org/web/20181028063045/https://advertise.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Sun, 28 Oct 2018 06:30:45 GMT", <https://web.archive.org/web/20181030221112/https://advertise.buzzfeed.com/robots.txt>; rel="memento"; datetime="Tue, 30 Oct 2018 22:11:12 GMT", <https://web.archive.org/web/20181031230252/https://advertise.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Wed, 31 Oct 2018 23:02:52 GMT", <https://web.archive.org/web/20210724191429/https://advertise.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 19:14:29 GMT"
+< X-Tr: 1289
+< X-Archive-Orig-X-Contextid: Qo2dXxoe/tj4dDweH
+< X-Rl: 0
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Date: Tue, 30 Oct 2018 22:11:12 GMT
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-Content-Length: 3049
+< X-Archive-Orig-Connection: close
+< Memento-Datetime: Tue, 30 Oct 2018 22:11:12 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20181030221112if_/https://advertise.buzzfeed.com/robots.txtUS
+< Server: nginx/1.15.8
+< X-Archive-Orig-Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Archive-Orig-X-Varnish: varnish-web002
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Ts: 200
+< X-Page-Cache: MISS
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/plain; charset=UTF-8
+< X-Archive-Orig-Strict-Transport-Security: max-age=0
+< X-Archive-Orig-X-Via: 1.1 echo029
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Src: buzzfeed.com-20181026-111508/IA-FOC-buzzfeed.com-20181030221104-00000.warc.gz
+< X-Archive-Orig-X-Servedby: web050
+< Server-Timing: captures_list;dur=1083.492574, exclusion.robots;dur=0.192891, exclusion.robots.policy;dur=0.185698, RedisCDXSource;dur=1.691467, esindex;dur=0.009542, LoadShardBlock;dur=989.728630, PetaboxLoader3.datanode;dur=952.773766, CDXLines.iter;dur=29.573618, load_resource;dur=150.531520, PetaboxLoader3.resolve;dur=39.415274
+< X-Archive-Orig-Vary: Accept-Encoding, User-Agent
+< X-Archive-Orig-Age: 0
+< X-Archive-Guessed-Encoding: utf-8
+< Date: Mon, 26 Jul 2021 16:57:38 GMT
+< X-App-Server: wwwb-app200
+< X-Location: All
+< X-Na: 0

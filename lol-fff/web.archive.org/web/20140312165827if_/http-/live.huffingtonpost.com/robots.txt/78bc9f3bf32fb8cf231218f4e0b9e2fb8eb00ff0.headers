@@ -1,0 +1,36 @@
+GET https://web.archive.org/web/20140312165827if_/http://live.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Server: Apache
+< X-Archive-Orig-Last-Modified: Wed, 12 Mar 2014 15:32:45 GMT
+< X-Archive-Orig-X-Hpl-Cache: WIFF
+< X-App-Server: wwwb-app200
+< X-Cache-Key: httpsweb.archive.org/web/20140312165827if_/http://live.huffingtonpost.com/robots.txtUS
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Access-Control-Allow-Origin: *
+< X-Archive-Orig-Connection: close
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Encoding: utf-8
+< Date: Mon, 26 Jul 2021 19:19:29 GMT
+< X-Tr: 863
+< X-Location: All
+< X-Archive-Src: newser.com-20140308-083428/IA-FOC-newser.com-20140312143408-00003.warc.gz
+< X-Rl: 0
+< X-Ts: 200
+< X-Na: 0
+< Server: nginx/1.15.8
+< X-Archive-Orig-Content-Length: 205
+< X-Archive-Guessed-Content-Type: text/plain
+< Server-Timing: captures_list;dur=713.181614, exclusion.robots;dur=0.189160, exclusion.robots.policy;dur=0.181443, RedisCDXSource;dur=1.761278, esindex;dur=0.008837, LoadShardBlock;dur=547.954747, PetaboxLoader3.datanode;dur=416.638220, CDXLines.iter;dur=41.114503, PetaboxLoader3.resolve;dur=90.492960, load_resource;dur=113.778844
+< X-Page-Cache: MISS
+< Connection: keep-alive
+< X-Archive-Orig-X-Dm: tf
+< X-Archive-Orig-X-Varnish: 913143597
+< X-Archive-Orig-Date: Wed, 12 Mar 2014 16:58:27 GMT
+< Link: <http://live.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://live.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://live.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20120813131214/http://live.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Mon, 13 Aug 2012 13:12:14 GMT", <https://web.archive.org/web/20140312070412/http://live.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Wed, 12 Mar 2014 07:04:12 GMT", <https://web.archive.org/web/20140312165827/http://live.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Wed, 12 Mar 2014 16:58:27 GMT", <https://web.archive.org/web/20140312192936/http://live.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Wed, 12 Mar 2014 19:29:36 GMT", <https://web.archive.org/web/20210724152939/http://live.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 15:29:39 GMT"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Content-Type: text/plain
+< Memento-Datetime: Wed, 12 Mar 2014 16:58:27 GMT

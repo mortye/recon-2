@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20120521142656if_/http://www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Connection: keep-alive
+< Cache-Control: max-age=1800
+< X-Archive-Src: inn.co.il-20120520-023044/IA-FOC-inn.co.il-20120521053258-00000.warc.gz
+< Server-Timing: PetaboxLoader3.resolve;dur=90.416322, esindex;dur=0.106485, LoadShardBlock;dur=4458.563699, exclusion.robots;dur=2.708096, RedisCDXSource;dur=43.258470, exclusion.robots.policy;dur=2.506869, load_resource;dur=253.313780, PetaboxLoader3.datanode;dur=1237.023111, CDXLines.iter;dur=743.417195
+< X-App-Server: wwwb-app44
+< X-Rl: 0
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Last-Modified: Mon, 21 May 2012 14:22:20 GMT
+< Link: <http://www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20120521135528/http://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Mon, 21 May 2012 13:55:28 GMT", <https://web.archive.org/web/20120521142656/http://www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Mon, 21 May 2012 14:26:56 GMT", <https://web.archive.org/web/20120521150134/http://www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Mon, 21 May 2012 15:01:34 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< Referrer-Policy: no-referrer-when-downgrade
+< Date: Mon, 26 Jul 2021 16:33:12 GMT
+< X-Archive-Orig-Date: Mon, 21 May 2012 14:26:56 GMT
+< X-Archive-Orig-P3p: CP='NO P3P'
+< X-Na: 0
+< X-Page-Cache: MISS
+< X-Archive-Orig-Content-Length: 177
+< X-Archive-Orig-Server: Apache
+< X-Archive-Guessed-Content-Type: text/plain
+< Memento-Datetime: Mon, 21 May 2012 14:26:56 GMT
+< Content-Type: text/plain; charset=utf-8
+< X-Nid: -
+< X-Archive-Orig-Connection: close
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Tr: 5736
+< X-Archive-Orig-Etag: "41e28f-b1-4c08ca13e1f00"
+< X-Archive-Orig-Cteonnt-Length: 177
+< X-Archive-Guessed-Encoding: utf-8
+< X-Ts: 200
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20120521142656if_/http://www.huffingtonpost.com/robots.txtUS
+< Server: nginx/1.15.8

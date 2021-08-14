@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20120322022919if_/http://elections.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/plain; charset=UTF-8
+< X-Archive-Orig-Server: Apache/2.2.15 (CentOS)
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Cache-Key: httpsweb.archive.org/web/20120322022919if_/http://elections.huffingtonpost.com/robots.txtUS
+< X-Archive-Orig-Etag: "4822f-47-4bbc5352bbfa5"
+< X-Archive-Orig-Date: Thu, 22 Mar 2012 02:29:19 GMT
+< Memento-Datetime: Thu, 22 Mar 2012 02:29:19 GMT
+< X-App-Server: wwwb-app100
+< Date: Mon, 26 Jul 2021 19:00:02 GMT
+< X-Archive-Orig-Connection: close
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Na: 0
+< X-Tr: 1440
+< X-Nid: -
+< Server: nginx/1.15.8
+< X-Ts: 200
+< X-Page-Cache: MISS
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< Link: <http://elections.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://elections.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://elections.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20120131222148/http://elections.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 31 Jan 2012 22:21:48 GMT", <https://web.archive.org/web/20120321052109/http://elections.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Wed, 21 Mar 2012 05:21:09 GMT", <https://web.archive.org/web/20120322022919/http://elections.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Thu, 22 Mar 2012 02:29:19 GMT", <https://web.archive.org/web/20120322030742/http://elections.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Thu, 22 Mar 2012 03:07:42 GMT", <https://web.archive.org/web/20210723143646/https://elections.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 23 Jul 2021 14:36:46 GMT"
+< Server-Timing: PetaboxLoader3.datanode;dur=153.832420, CDXLines.iter;dur=65.284966, LoadShardBlock;dur=142.693123, PetaboxLoader3.resolve;dur=284.127596, exclusion.robots.policy;dur=0.340623, esindex;dur=0.016746, load_resource;dur=387.964801, captures_list;dur=921.951976, RedisCDXSource;dur=7.163904, exclusion.robots;dur=0.356956
+< X-Location: All
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Last-Modified: Wed, 21 Mar 2012 18:46:21 GMT
+< X-Archive-Orig-X-Varnish: 1709481796
+< X-Archive-Orig-Content-Length: 71
+< X-Archive-Src: COL-ELECTION2012-001-20120105011049676-00071-00340-crawling118/COL-ELECTION2012-012-20120322022002969-00008-31727~crawling118.us.archive.org~8443.warc.gz
+< X-Archive-Orig-Ntcoent-Length: 71
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Encoding: utf-8
+< X-Rl: 0

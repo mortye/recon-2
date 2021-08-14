@@ -1,0 +1,28 @@
+[robots] - https://mysubscriptions.huffpost.com/api/*
+[robots] - https://mysubscriptions.huffpost.com/smartystreets/*
+[robots] - https://mysubscriptions.huffpost.com/*
+[url] - [code-403] - https://mysubscriptions.huffpost.com/api/*
+[url] - [code-403] - https://mysubscriptions.huffpost.com/smartystreets/*
+[url] - [code-200] - https://login.huffpost.com?src=pseauth&client_id=dj0yJmk9N0RQZGVSSTdZNFN6JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTUx&crumb=&lang=en-US&redirect_uri=https%3A%2F%2Foidc.huffpost.com%2Fcallback&.done=https%3A%2F%2Fapi.login.huffpost.com%2Foauth2%2Fauthorize%3Fclient_id%3Ddj0yJmk9N0RQZGVSSTdZNFN6JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTUx%26language%3Den-US%26nonce%3D8YXBQfHyGDjMrlQ3GQSq4RK9nZydZX88%26redirect_uri%3Dhttps%253A%252F%252Foidc.huffpost.com%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2Bopenid2%2Bsdps-r%26src%3Dpseauth%26state%3DeyJhbGciOiJSUzI1NiIsImtpZCI6IjZmZjk0Y2RhZDExZTdjM2FjMDhkYzllYzNjNDQ4NDRiODdlMzY0ZjcifQ.eyJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vbXlzdWJzY3JpcHRpb25zLmh1ZmZwb3N0LmNvbS8qIn0.MPddkqMHFi31h0YvKHL8rwiACEiwkakBtx4wmL4Z3XrYyGAockMLbE8_oQfZM7BZ9jolW5iGSc_dVE8sjrlAuPzIVRY5B0p8x-8k-PR-zh0RhOVPZsCw2ng3Gfem9p5d9gO1X2rgSvvJBwisfhKlKFGTTDJ9-ULH_cccSX4LOJQ
+[href] - https://gstatic.com
+[href] - https://google.com
+[href] - https://s.yimg.com
+[href] - https://y.analytics.yahoo.com
+[href] - https://ucs.query.yahoo.com
+[href] - https://geo.query.yahoo.com
+[href] - https://geo.yahoo.com
+[href] - https://s.yimg.com/wm/mbr/images/huffpost-favicon-v0.0.1.ico
+[href] - https://s.yimg.com/wm/mbr/images/huffpost-apple-touch-icon-v0.0.2.png
+[href] - https://s.yimg.com/wm/mbr/1c6e04d1242a9cd52b3258d2d2ddf6effd1edeb8/huffpost-main.css
+[href] - https://www.huffpost.com/
+[href] - https://www.huffpost.com/static/faq
+[href] - https://www.yahoo-help.jp/app/answers/detail/p/565/a_id/47713?soc_src=mail&soc_trk=ma
+[href] - https://www.buzzfeed.com/about/useragreement
+[href] - https://www.buzzfeed.com/about/privacy
+[href] - https://login.huffpost.com?src=pseauth&client_id=dj0yJmk9N0RQZGVSSTdZNFN6JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTUx&crumb=&lang=en-US&redirect_uri=https%3A%2F%2Foidc.huffpost.com%2Fcallback&.done=https%3A%2F%2Fapi.login.huffpost.com%2Foauth2%2Fauthorize%3Fclient_id%3Ddj0yJmk9N0RQZGVSSTdZNFN6JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTUx%26language%3Den-US%26nonce%3D8YXBQfHyGDjMrlQ3GQSq4RK9nZydZX88%26redirect_uri%3Dhttps%253A%252F%252Foidc.huffpost.com%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2Bopenid2%2Bsdps-r%26src%3Dpseauth%26state%3DeyJhbGciOiJSUzI1NiIsImtpZCI6IjZmZjk0Y2RhZDExZTdjM2FjMDhkYzllYzNjNDQ4NDRiODdlMzY0ZjcifQ.eyJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vbXlzdWJzY3JpcHRpb25zLmh1ZmZwb3N0LmNvbS8qIn0.MPddkqMHFi31h0YvKHL8rwiACEiwkakBtx4wmL4Z3XrYyGAockMLbE8_oQfZM7BZ9jolW5iGSc_dVE8sjrlAuPzIVRY5B0p8x-8k-PR-zh0RhOVPZsCw2ng3Gfem9p5d9gO1X2rgSvvJBwisfhKlKFGTTDJ9-ULH_cccSX4LOJQ
+[javascript] - https://s.yimg.com/ss/rapid-3.53.30.js
+[javascript] - https://s.yimg.com/wm/mbr/1c6e04d1242a9cd52b3258d2d2ddf6effd1edeb8/bundle.js
+[url] - [code-200] - https://login.huffpost.com?src=pseauth&client_id=dj0yJmk9N0RQZGVSSTdZNFN6JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTUx&crumb=&lang=en-US&redirect_uri=https%3A%2F%2Foidc.huffpost.com%2Fcallback&.done=https%3A%2F%2Fapi.login.huffpost.com%2Foauth2%2Fauthorize%3Fclient_id%3Ddj0yJmk9N0RQZGVSSTdZNFN6JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTUx%26language%3Den-US%26nonce%3DqZnUMi5jZKKgNrpcaspMkzlVSzWxHQFH%26redirect_uri%3Dhttps%253A%252F%252Foidc.huffpost.com%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2Bopenid2%2Bsdps-r%26src%3Dpseauth%26state%3DeyJhbGciOiJSUzI1NiIsImtpZCI6IjZmZjk0Y2RhZDExZTdjM2FjMDhkYzllYzNjNDQ4NDRiODdlMzY0ZjcifQ.eyJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vbXlzdWJzY3JpcHRpb25zLmh1ZmZwb3N0LmNvbS9tYW5hZ2Uvc3Vic2NyaXB0aW9ucyJ9.sEYY8hstsJF66u6TqzqOEDtzd59meomi46kZn2Y43Oq2zFzlL_Q4iYOGyktIFr_3ilCJEJHgAXdT2cii-Gp-vBayxMovTTa19dRNCPMdHont19JPxK6G2JOuXll4aR2a0dZOnGMUhgDsDZ7HZk0eZ_ZJxeeJAjOljaDfXJRjcHI
+[href] - https://login.huffpost.com?src=pseauth&client_id=dj0yJmk9N0RQZGVSSTdZNFN6JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTUx&crumb=&lang=en-US&redirect_uri=https%3A%2F%2Foidc.huffpost.com%2Fcallback&.done=https%3A%2F%2Fapi.login.huffpost.com%2Foauth2%2Fauthorize%3Fclient_id%3Ddj0yJmk9N0RQZGVSSTdZNFN6JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTUx%26language%3Den-US%26nonce%3DqZnUMi5jZKKgNrpcaspMkzlVSzWxHQFH%26redirect_uri%3Dhttps%253A%252F%252Foidc.huffpost.com%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2Bopenid2%2Bsdps-r%26src%3Dpseauth%26state%3DeyJhbGciOiJSUzI1NiIsImtpZCI6IjZmZjk0Y2RhZDExZTdjM2FjMDhkYzllYzNjNDQ4NDRiODdlMzY0ZjcifQ.eyJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vbXlzdWJzY3JpcHRpb25zLmh1ZmZwb3N0LmNvbS9tYW5hZ2Uvc3Vic2NyaXB0aW9ucyJ9.sEYY8hstsJF66u6TqzqOEDtzd59meomi46kZn2Y43Oq2zFzlL_Q4iYOGyktIFr_3ilCJEJHgAXdT2cii-Gp-vBayxMovTTa19dRNCPMdHont19JPxK6G2JOuXll4aR2a0dZOnGMUhgDsDZ7HZk0eZ_ZJxeeJAjOljaDfXJRjcHI
+[url] - [code-200] - https://s.yimg.com/wm/mbr/1c6e04d1242a9cd52b3258d2d2ddf6effd1edeb8/bundle.js
+[url] - [code-200] - https://s.yimg.com/ss/rapid-3.53.30.js

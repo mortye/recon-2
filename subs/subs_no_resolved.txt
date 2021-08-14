@@ -1,0 +1,29 @@
+[!] ---- TARGET: buzzfeednews.com ---- [!] 
+[-]  *.buzzfeednews.com
+[-]  dohaforum.buzzfeednews.com
+[-]  link.buzzfeednews.com
+[-]  support.buzzfeednews.com
+[-]  www.dohaforum.buzzfeednews.com
+buzzfeednews.com
+dohaforum.buzzfeednews.com
+link.buzzfeednews.com
+support.buzzfeednews.com
+www.dohaforum.buzzfeednews.com
+bs5d4.buzzfeednews.com
+documents.buzzfeednews.com
+horizon.buzzfeednews.com
+shop.buzzfeednews.com
+stage.buzzfeednews.com
+tips.buzzfeednews.com
+www.buzzfeednews.com
+youtubes-newest-far-right-foul-mouthed-red-pilling-star-iswww.buzzfeednews.com
+zendesk1.buzzfeednews.com
+zendesk2.buzzfeednews.com
+zendesk3.buzzfeednews.com
+zendesk4.buzzfeednews.com
+cntgei7l48.buzzfeednews.com
+e2htgj7ls4.buzzfeednews.com
+mk92ez54hr.buzzfeednews.com
+13579937-www.buzzfeednews.com
+13579945-www.buzzfeednews.com
+13579949-www.buzzfeednews.com

@@ -1,0 +1,34 @@
+GET https://web.archive.org/web/20140810184446if_/http://elections.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Last-Modified: Thu, 03 Jan 2013 22:15:52 GMT
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Guessed-Encoding: utf-8
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Src: perma_cc_G7S2-7MD6/G7S2-7MD6.warc.gz
+< X-Nid: -
+< Connection: keep-alive
+< X-Archive-Orig-Etag: "161620-47-4d269b4ba33ac"
+< X-Archive-Orig-Date: Sun, 10 Aug 2014 22:44:46 GMT
+< X-Rl: 0
+< X-Na: 0
+< X-Archive-Orig-Connection: keep-alive
+< X-Archive-Guessed-Content-Type: text/plain
+< Server-Timing: captures_list;dur=713.885003, exclusion.robots;dur=0.183846, exclusion.robots.policy;dur=0.177294, RedisCDXSource;dur=6.392098, esindex;dur=0.006954, LoadShardBlock;dur=420.630788, PetaboxLoader3.datanode;dur=425.292823, CDXLines.iter;dur=47.867231, load_resource;dur=371.393851, PetaboxLoader3.resolve;dur=230.933973
+< X-Archive-Orig-Content-Length: 87
+< X-Page-Cache: MISS
+< X-Tr: 1154
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Cache-Control: public, max-age=83773
+< Cache-Control: max-age=1800
+< Memento-Datetime: Sun, 10 Aug 2014 18:44:46 GMT
+< X-Ts: 200
+< Date: Mon, 26 Jul 2021 18:04:57 GMT
+< Content-Type: text/plain; charset=UTF-8
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20140810184446if_/http://elections.huffingtonpost.com/robots.txtUS
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< Link: <http://elections.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://elections.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://elections.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20120131222148/http://elections.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 31 Jan 2012 22:21:48 GMT", <https://web.archive.org/web/20140810175834/http://elections.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Sun, 10 Aug 2014 17:58:34 GMT", <https://web.archive.org/web/20140810184446/http://elections.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Sun, 10 Aug 2014 18:44:46 GMT", <https://web.archive.org/web/20140810235549/http://elections.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Sun, 10 Aug 2014 23:55:49 GMT", <https://web.archive.org/web/20210723143646/https://elections.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 23 Jul 2021 14:36:46 GMT"
+< X-App-Server: wwwb-app208

@@ -1,0 +1,18 @@
+# Desktop robots.
+
+User-agent: *
+Disallow: /search
+Disallow: /archive/
+Disallow: /*/feed
+Disallow: /*?*page=
+
+User-agent: Googlebot
+Disallow: /entry/*?
+Disallow: /search
+Disallow: /*?*page=
+
+crawl-delay: 1
+
+Sitemap: https://www.huffingtonpost.com/sitemaps/sitemap.xml
+Sitemap: https://www.huffingtonpost.com/sitemaps/sitemap-google-news.xml
+Sitemap: https://www.huffingtonpost.com/sitemaps/sitemap-google-video.xml

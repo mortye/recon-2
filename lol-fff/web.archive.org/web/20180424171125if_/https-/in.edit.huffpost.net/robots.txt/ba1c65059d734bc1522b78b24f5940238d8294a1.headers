@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20180424171125if_/https://in.edit.huffpost.net/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< Memento-Datetime: Tue, 24 Apr 2018 17:11:25 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20180424171125if_/https://in.edit.huffpost.net/robots.txtUS
+< X-Nid: -
+< X-Archive-Orig-Date: Tue, 24 Apr 2018 17:11:26 GMT
+< X-Archive-Orig-Accept-Ranges: bytes
+< Connection: keep-alive
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-Etag: "5a9423eb-1f"
+< X-Tr: 2617
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 19:20:55 GMT
+< X-Archive-Orig-Last-Modified: Mon, 26 Feb 2018 15:12:43 GMT
+< X-Rl: 0
+< X-Archive-Orig-Content-Length: 31
+< Link: <https://in.edit.huffpost.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://in.edit.huffpost.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://in.edit.huffpost.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20180424171125/http://in.edit.huffpost.net/robots.txt>; rel="first memento"; datetime="Tue, 24 Apr 2018 17:11:25 GMT", <https://web.archive.org/web/20180424171125/https://in.edit.huffpost.net/robots.txt>; rel="memento"; datetime="Tue, 24 Apr 2018 17:11:25 GMT", <https://web.archive.org/web/20180424171126/https://in.edit.huffpost.net/robots.txt>; rel="next memento"; datetime="Tue, 24 Apr 2018 17:11:26 GMT", <https://web.archive.org/web/20190725003225/https://in.edit.huffpost.net/robots.txt>; rel="last memento"; datetime="Thu, 25 Jul 2019 00:32:25 GMT"
+< X-Archive-Src: liveweb-20180424175657/cachegw-20180424083945-wwwb-app10.us.archive.org.warc.gz
+< X-App-Server: wwwb-app39
+< Content-Type: text/plain
+< Cache-Control: max-age=1800
+< X-Location: All
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Strict-Transport-Security: max-age=2592000
+< Server-Timing: CDXLines.iter;dur=22.248426, PetaboxLoader3.datanode;dur=2167.562883, load_resource;dur=2345.268278, exclusion.robots.policy;dur=0.372562, esindex;dur=0.027729, exclusion.robots;dur=0.388484, LoadShardBlock;dur=189.344435, RedisCDXSource;dur=5.461453, PetaboxLoader3.resolve;dur=98.252254, captures_list;dur=228.858749
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Ts: 200
+< X-Archive-Orig-Server: nginx
+< X-Na: 0

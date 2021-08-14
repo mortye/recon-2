@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20210219084211if_/http://huffpost.net/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Cache-Key: httpsweb.archive.org/web/20210219084211if_/http://huffpost.net/robots.txtUS
+< Link: <http://huffpost.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://huffpost.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://huffpost.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20101225170754/http://huffpost.net/robots.txt>; rel="first memento"; datetime="Sat, 25 Dec 2010 17:07:54 GMT", <https://web.archive.org/web/20210219024249/http://huffpost.net/robots.txt>; rel="prev memento"; datetime="Fri, 19 Feb 2021 02:42:49 GMT", <https://web.archive.org/web/20210219084211/http://huffpost.net/robots.txt>; rel="memento"; datetime="Fri, 19 Feb 2021 08:42:11 GMT", <https://web.archive.org/web/20210219111257/http://huffpost.net/robots.txt>; rel="next memento"; datetime="Fri, 19 Feb 2021 11:12:57 GMT", <https://web.archive.org/web/20210724182821/https://huffpost.net/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 18:28:21 GMT"
+< Server-Timing: captures_list;dur=231.279412, CDXLines.iter;dur=17.455014, esindex;dur=0.010926, exclusion.robots.policy;dur=0.228676, load_resource;dur=397.721539, LoadShardBlock;dur=185.549004, exclusion.robots;dur=0.248915, PetaboxLoader3.datanode;dur=226.219726, RedisCDXSource;dur=0.541720, PetaboxLoader3.resolve;dur=337.731013
+< X-Tr: 648
+< X-Location: All
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Cache-Control: no-store
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Archive-Orig-Content-Length: 4381
+< X-Archive-Orig-Server: ATS
+< X-Ts: 301
+< X-Na: 0
+< X-Nid: -
+< Connection: keep-alive
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Page-Cache: MISS
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Content-Language: en
+< X-Archive-Orig-Date: Fri, 19 Feb 2021 08:42:12 GMT
+< X-Archive-Orig-Content-Security-Policy: sandbox allow-scripts; default-src 'self'; img-src https:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; report-uri http://csp.yahoo.com/beacon/csp?src=redirect
+< Location: https://web.archive.org/web/20210219084211if_/https://www.huffpost.com/
+< Cache-Control: max-age=1800
+< X-Archive-Src: yahoo.com-20210219-043002/IA-FOC-yahoo.com-20210219082249-00000.warc.gz
+< Server: nginx/1.15.8
+< Content-Type: text/html
+< Memento-Datetime: Fri, 19 Feb 2021 08:42:11 GMT
+< X-App-Server: wwwb-app101
+< X-Rl: 0
+< Date: Mon, 26 Jul 2021 17:40:28 GMT

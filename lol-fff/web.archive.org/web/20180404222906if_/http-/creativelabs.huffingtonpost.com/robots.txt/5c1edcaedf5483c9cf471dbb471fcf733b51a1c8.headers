@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20180404222906if_/http://creativelabs.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 Found
+< X-Archive-Orig-Cache-Control: max-age=600
+< X-Archive-Orig-Expires: Wed, 04 Apr 2018 22:39:06 GMT
+< X-Archive-Orig-Content-Length: 0
+< Link: <http://creativelabs.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://creativelabs.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://creativelabs.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180404222906/http://creativelabs.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Wed, 04 Apr 2018 22:29:06 GMT", <https://web.archive.org/web/20180404222906/http://creativelabs.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Wed, 04 Apr 2018 22:29:06 GMT", <https://web.archive.org/web/20180407044359/http://creativelabs.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Sat, 07 Apr 2018 04:43:59 GMT", <https://web.archive.org/web/20190218072737/https://creativelabs.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Mon, 18 Feb 2019 07:27:37 GMT"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Nid: -
+< X-Location: All
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 19:10:50 GMT
+< X-Archive-Orig-Access-Control-Allow-Origin: *
+< X-Archive-Orig-Date: Wed, 04 Apr 2018 22:29:07 GMT
+< Location: https://web.archive.org/web/20180404222906if_/http://www.huffingtonpost.com/
+< Cache-Control: max-age=1800
+< X-Ts: 302
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Access-Control-Allow-Methods: GET
+< Server-Timing: captures_list;dur=85.108421, exclusion.robots;dur=0.171648, exclusion.robots.policy;dur=0.163644, RedisCDXSource;dur=4.398010, esindex;dur=0.016482, LoadShardBlock;dur=46.501989, PetaboxLoader3.datanode;dur=52.246861, CDXLines.iter;dur=29.783464, load_resource;dur=75.600607, PetaboxLoader3.resolve;dur=33.123955
+< X-Rl: 0
+< X-Archive-Orig-Connection: close
+< X-Tr: 320
+< Connection: keep-alive
+< Memento-Datetime: Wed, 04 Apr 2018 22:29:06 GMT
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Src: liveweb-20180405045448/cachegw-20180404152228-wwwb-app14.us.archive.org.warc.gz
+< X-Cache-Key: httpsweb.archive.org/web/20180404222906if_/http://creativelabs.huffingtonpost.com/robots.txtUS
+< X-Archive-Orig-Server: AmazonS3
+< X-Archive-Orig-X-Amz-Id-2: JurEki+wAsr86URGWDtsHtGzxWM//63zcF+xFHX3QNyWtsMNlq/fWnKINK0sy5k3Gl4fTdRZFIo=
+< X-Archive-Orig-X-Amz-Request-Id: 45D831862413B072
+< X-App-Server: wwwb-app57
+< X-Na: 0

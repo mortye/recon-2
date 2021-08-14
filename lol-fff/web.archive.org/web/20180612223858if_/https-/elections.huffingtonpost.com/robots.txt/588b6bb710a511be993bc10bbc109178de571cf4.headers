@@ -1,0 +1,33 @@
+GET https://web.archive.org/web/20180612223858if_/https://elections.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-App-Server: wwwb-app202
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Date: Tue, 12 Jun 2018 22:38:58 GMT
+< X-Archive-Orig-Server: ATS
+< Cache-Control: max-age=1800
+< Connection: keep-alive
+< X-Tr: 799
+< Memento-Datetime: Tue, 12 Jun 2018 22:38:58 GMT
+< X-Archive-Src: liveweb-20180613022707/cachegw-20180612220037-wwwb-app0.us.archive.org.warc.gz
+< Date: Mon, 26 Jul 2021 18:28:10 GMT
+< X-Archive-Orig-P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+< X-Archive-Orig-Age: 0
+< X-Cache-Key: httpsweb.archive.org/web/20180612223858if_/https://elections.huffingtonpost.com/robots.txtUS
+< X-Rl: 0
+< X-Na: 0
+< X-Page-Cache: MISS
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-Cache-Control: max-age=3600, public
+< X-Archive-Orig-Connection: keep-alive
+< X-Ts: 301
+< Server: nginx/1.15.8
+< Link: <http://www.elections.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.elections.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.elections.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20120131222148/http://elections.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 31 Jan 2012 22:21:48 GMT", <https://web.archive.org/web/20180612135549/http://elections.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Tue, 12 Jun 2018 13:55:49 GMT", <https://web.archive.org/web/20180612223858/http://www.elections.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 12 Jun 2018 22:38:58 GMT", <https://web.archive.org/web/20180612224624/http://elections.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Tue, 12 Jun 2018 22:46:24 GMT", <https://web.archive.org/web/20210723143646/https://elections.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 23 Jul 2021 14:36:46 GMT"
+< X-Archive-Orig-Content-Length: 0
+< Server-Timing: captures_list;dur=391.383005, exclusion.robots;dur=0.160335, exclusion.robots.policy;dur=0.152586, RedisCDXSource;dur=5.434837, esindex;dur=0.009410, LoadShardBlock;dur=169.323746, PetaboxLoader3.datanode;dur=181.737916, CDXLines.iter;dur=47.389450, load_resource;dur=324.546871, PetaboxLoader3.resolve;dur=250.081822
+< Location: https://web.archive.org/web/20180612223858if_/https://www.huffingtonpost.com/
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Nid: -
+< X-Location: All
+< Permissions-Policy: interest-cohort=()

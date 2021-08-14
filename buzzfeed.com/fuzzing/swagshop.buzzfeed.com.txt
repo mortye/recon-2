@@ -1,0 +1,4 @@
+400 348 http://swagshop.buzzfeed.com/%c0
+400 348 http://swagshop.buzzfeed.com/%ff
+400 363 http://swagshop.buzzfeed.com/%c0%ae%c0%ae%c0%af
+400 371 http://swagshop.buzzfeed.com/servlet/%c0%ae%c0%ae%c0%af

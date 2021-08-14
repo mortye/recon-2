@@ -1,0 +1,2 @@
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+localhost,http://pgg3n5.1999999m.officevibe.com,,28,200,612,79,26,text/html; charset=utf-8,7.847346ms,

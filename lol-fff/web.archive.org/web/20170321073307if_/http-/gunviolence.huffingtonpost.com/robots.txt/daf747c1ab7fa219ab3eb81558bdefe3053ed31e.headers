@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20170321073307if_/http://gunviolence.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Link: <http://gunviolence.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://gunviolence.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://gunviolence.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20170321073307/http://gunviolence.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 21 Mar 2017 07:33:07 GMT", <https://web.archive.org/web/20170321073307/http://gunviolence.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 21 Mar 2017 07:33:07 GMT", <https://web.archive.org/web/20170616224320/http://gunviolence.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Fri, 16 Jun 2017 22:43:20 GMT", <https://web.archive.org/web/20201122170444/https://gunviolence.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 22 Nov 2020 17:04:44 GMT"
+< X-Nid: -
+< X-Archive-Guessed-Content-Type: text/html
+< X-Archive-Guessed-Charset: utf-8
+< Content-Type: text/html; charset=utf-8
+< Connection: keep-alive
+< X-Archive-Orig-Cache-Control: max-age=300
+< X-Archive-Orig-P3p: CP='NO P3P'
+< X-Cache-Key: httpsweb.archive.org/web/20170321073307if_/http://gunviolence.huffingtonpost.com/robots.txtUS
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Expires: Tue, 21 Mar 2017 07:43:07 GMT
+< X-Archive-Orig-Server: Apache
+< X-Archive-Orig-Connection: close
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Tr: 567
+< X-Rl: 0
+< X-Na: 0
+< X-Page-Cache: MISS
+< Permissions-Policy: interest-cohort=()
+< Date: Mon, 26 Jul 2021 15:20:52 GMT
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Orig-Content-Length: 2327
+< X-Archive-Src: NO404-GDELT-20170321065622-crawl816/NO404-GDELT-20170321072659-05121.warc.gz
+< X-Archive-Orig-Date: Tue, 21 Mar 2017 07:33:07 GMT
+< Memento-Datetime: Tue, 21 Mar 2017 07:33:07 GMT
+< X-Archive-Orig-X-Pad: avoid browser bug
+< X-App-Server: wwwb-app100
+< X-Ts: 200
+< X-Location: All
+< Server: nginx/1.15.8
+< Server-Timing: PetaboxLoader3.datanode;dur=246.699176, CDXLines.iter;dur=23.519801, LoadShardBlock;dur=246.676042, PetaboxLoader3.resolve;dur=71.359976, exclusion.robots.policy;dur=0.365881, esindex;dur=0.014374, load_resource;dur=236.419622, captures_list;dur=278.318103, RedisCDXSource;dur=1.264635, exclusion.robots;dur=0.381684

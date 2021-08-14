@@ -1,0 +1,49 @@
+GET https://web.archive.org/web/20180529012700if_/http://buymethat.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Archive-Orig-Date: Tue, 29 May 2018 01:27:01 GMT
+< X-Archive-Orig-X-Sorting-Hat-Featureset: default
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Archive-Orig-X-Download-Options: noopen
+< X-Archive-Orig-X-Permitted-Cross-Domain-Policies: none
+< Link: <http://buymethat.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://buymethat.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://buymethat.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180529012700/http://buymethat.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Tue, 29 May 2018 01:27:00 GMT", <https://web.archive.org/web/20180529012700/http://buymethat.buzzfeed.com/robots.txt>; rel="memento"; datetime="Tue, 29 May 2018 01:27:00 GMT", <https://web.archive.org/web/20180529012716/https://buymethat.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Tue, 29 May 2018 01:27:16 GMT", <https://web.archive.org/web/20190215112438/http://buymethat.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Fri, 15 Feb 2019 11:24:38 GMT"
+< X-App-Server: wwwb-app203
+< Content-Type: text/html; charset=utf-8
+< X-Archive-Orig-X-Sorting-Hat-Shopid: 12568171
+< X-Archive-Orig-X-Sorting-Hat-Privacylevel: default
+< X-Archive-Orig-X-Dc: chi2,gcp-us-east1
+< X-Rl: 0
+< X-Archive-Orig-X-Sorting-Hat-Podid-Cached: 0
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< Server-Timing: captures_list;dur=412.605014, exclusion.robots;dur=0.153350, exclusion.robots.policy;dur=0.147620, RedisCDXSource;dur=8.494711, esindex;dur=0.006513, LoadShardBlock;dur=387.939705, PetaboxLoader3.datanode;dur=289.850417, CDXLines.iter;dur=14.095215, load_resource;dur=372.132542, PetaboxLoader3.resolve;dur=308.779247
+< X-Na: 0
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Server: nginx
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-X-Request-Id: adb68883-b12c-43dd-b31f-61b3f2822edb
+< X-Archive-Orig-Via: 1.1 google
+< X-Archive-Orig-Alt-Svc: clear
+< X-Archive-Src: liveweb-20180529014850/cachegw-20180528230524-wwwb-app1.us.archive.org.warc.gz
+< X-Tr: 804
+< X-Cache-Key: httpsweb.archive.org/web/20180529012700if_/http://buymethat.buzzfeed.com/robots.txtUS
+< X-Archive-Orig-X-Sorting-Hat-Shopid-Cached: 0
+< X-Archive-Orig-X-Shopid: 12568171
+< Memento-Datetime: Tue, 29 May 2018 01:27:00 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Ts: 301
+< X-Nid: -
+< Date: Mon, 26 Jul 2021 18:51:27 GMT
+< X-Archive-Orig-X-Shardid: 35
+< X-Location: All
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade
+< Connection: keep-alive
+< X-Archive-Orig-X-Sorting-Hat-Section: pod
+< X-Archive-Orig-Content-Length: 102
+< Server: nginx/1.15.8
+< X-Archive-Orig-X-Sorting-Hat-Podid: 35
+< Location: https://web.archive.org/web/20180529012700if_/https://shop.buzzfeed.com/robots.txt
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=show&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Frobots&source%5Bsection%5D=storefront&source%5Buuid%5D=adb68883-b12c-43dd-b31f-61b3f2822edb
+< Cache-Control: max-age=1800

@@ -1,0 +1,25 @@
+User-agent: msnbot
+Crawl-delay: 120 
+Disallow: /*.xml$
+Disallow: /buzz/*.xml$
+Disallow: /category/*.xml$
+Disallow: /mobile/
+Disallow: *?s=mobile
+Disallow: *?s=lightbox
+Disallow: /buzzfeed
+Disallow: /contest
+Disallow: /contests
+
+User-agent: *
+Disallow: /buzz/*.xml$
+Disallow: /category/*.xml$
+Disallow: /mobile/
+Disallow: *?s=mobile
+Disallow: *?s=lightbox
+Disallow: /buzzfeed 
+Disallow: /contest
+Disallow: /contests
+
+Sitemap: http://www.buzzfeed.com/sitemap.xml
+
+

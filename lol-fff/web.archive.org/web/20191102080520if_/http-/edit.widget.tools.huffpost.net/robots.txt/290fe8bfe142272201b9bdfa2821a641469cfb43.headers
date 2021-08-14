@@ -1,0 +1,30 @@
+GET https://web.archive.org/web/20191102080520if_/http://edit.widget.tools.huffpost.net/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Archive-Orig-Connection: Close
+< X-App-Server: wwwb-app44
+< Content-Type: text/html
+< Cache-Control: max-age=1800
+< Link: <http://edit.widget.tools.huffpost.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://edit.widget.tools.huffpost.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://edit.widget.tools.huffpost.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20180630011254/http://edit.widget.tools.huffpost.net/robots.txt>; rel="first memento"; datetime="Sat, 30 Jun 2018 01:12:54 GMT", <https://web.archive.org/web/20190126233944/http://edit.widget.tools.huffpost.net/robots.txt>; rel="prev memento"; datetime="Sat, 26 Jan 2019 23:39:44 GMT", <https://web.archive.org/web/20191102080520/http://edit.widget.tools.huffpost.net/robots.txt>; rel="memento"; datetime="Sat, 02 Nov 2019 08:05:20 GMT", <https://web.archive.org/web/20200128191911/http://edit.widget.tools.huffpost.net/robots.txt>; rel="next memento"; datetime="Tue, 28 Jan 2020 19:19:11 GMT", <https://web.archive.org/web/20200128191911/http://edit.widget.tools.huffpost.net/robots.txt>; rel="last memento"; datetime="Tue, 28 Jan 2020 19:19:11 GMT"
+< X-Location: All
+< X-Nid: -
+< Server: nginx/1.15.8
+< X-Archive-Orig-Content-Length: 162
+< X-Na: 0
+< X-Page-Cache: MISS
+< Date: Mon, 26 Jul 2021 16:57:20 GMT
+< X-Ts: 301
+< Server-Timing: esindex;dur=0.023585, LoadShardBlock;dur=270.430285, load_resource;dur=90.320052, exclusion.robots;dur=0.429149, RedisCDXSource;dur=3.075887, exclusion.robots.policy;dur=0.413663, PetaboxLoader3.resolve;dur=128.830129, captures_list;dur=312.549787, PetaboxLoader3.datanode;dur=206.521745, CDXLines.iter;dur=32.353270
+< X-Tr: 446
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Connection: keep-alive
+< Memento-Datetime: Sat, 02 Nov 2019 08:05:20 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20191102080520if_/http://edit.widget.tools.huffpost.net/robots.txtUS
+< X-Rl: 0
+< X-Archive-Src: liveweb-20191103002452/cachegw-20191102002229-wwwb-app0.us.archive.org.warc.gz
+< X-Archive-Orig-Server: nginx
+< Location: https://web.archive.org/web/20191102080520if_/https://widget.tools.huffpost.net/robots.txt
+< X-Archive-Orig-Date: Sat, 02 Nov 2019 08:05:20 GMT

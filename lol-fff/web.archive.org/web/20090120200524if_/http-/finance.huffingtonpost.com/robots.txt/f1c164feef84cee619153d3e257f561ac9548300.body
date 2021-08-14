@@ -1,0 +1,3412 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app55.us.archive.org';v.server_ms=3071;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/playback.bundle.js?v=xTFGO54E" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://finance.huffingtonpost.com/robots.txt","20090120200524","https://web.archive.org/","web","/_static/",
+	      "1232481924");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=omkqRugM" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>FinancialContent.com - Stock Quotes and Business News</title>
+
+</head>
+
+<body>
+
+<div class="table_main">
+
+ <div class="top">
+<div class="headerlogo"><a href="https://web.archive.org/web/20090120200524/http://www.financialcontent.com/"><img src="https://web.archive.org/web/20090120200524im_/http://www.financialcontent.com/web2008/images/fc_logo.png" border="0"/></a></div>
+        <div style="float:right;text-align:right">
+                <div style="display:block">
+    <script type="text/javascript">
+     var m3_u = 'https://web.archive.org/web/20090120200524/http://ads.financialcontent.com/www/delivery/ajs.php';
+     var m3_r = Math.floor(Math.random()*99999999999);
+     if (!document.MAX_used) document.MAX_used = ',';
+     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+     document.write ("?zoneid=84");
+     document.write ('&amp;cb=' + m3_r);
+     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+     document.write ("&amp;loc=" + escape(window.location));
+     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+     if (document.context) document.write ("&context=" + escape(document.context));
+     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+     document.write ("'></scr"+"ipt>");
+    </script>
+   </div>
+        </div>
+        <div style="clear:both"></div>
+</div>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="fc_content">
+<style>
+
+/* Global CSS Styles */
+.fc * {
+ padding:0; 
+ border:0; 
+ margin:0; 
+ color: inherit;
+
+}
+.fc {background-color: #FFF}
+.fc, .fc TABLE, .fc TD, .fc INPUT, .fc SELECT {
+ font-family: Arial,sans-serif;
+ font-size:12px; 
+ color: #333333;
+}
+.fc SELECT{
+ background-color:#FFFFFF;
+ border: 1px solid #999999;
+}
+.fc IMG {
+ display:block;
+}
+.fc TD { empty-cells: show; }
+/* END Global CSS */
+
+.fc .data   { color:#333333; text-align: left} 
+.fc A {
+ text-decoration: none;
+ color: #34518D;
+}
+.fc A:hover{
+ text-decoration: underline;
+ color: #34518D;
+}
+
+.fc .boxspacing DIV.fctabs, .fc TABLE.title {width: 100%}
+.fc td.spacer {padding:5px;}
+
+.fc .row TD, .fc .row1 TD, .fc .row2 TD {border:0;  padding: 5px}
+.fc .row1 TD {background-color:#FFFFFF;border-bottom:solid 1px #CCCCCC; }
+.fc .row2 TD {border-bottom:solid 1px #CCCCCC; }
+.fc .rowheader {background-color: #FFFFFF}
+
+.fc .horzline   { height: 0; empty-cells: collapse;}
+.fc .box {border-width: 0; }
+.fc .tab         {}
+.fc .activetab   {background-color: #FFFFFF;  font-weight: normal;}
+.fc .bicolor {color:#000000}
+
+.fc .fcchartimg, .fc IMG.chart {margin:8px 20px 8px 10px}
+.fc .fcminichartimg { vertical-align: middle;}
+
+.fc .positive   {color:#177D17;}
+.fc .negative   {color:#993300;}
+.fc .header {
+ text-align:left;
+ font-size: 12px;
+ font-weight: bold;
+ padding: 8px 4px 2px 4px;
+ color: #B33D39;
+}
+.fc .header .timestamp {
+ color:#34518D;
+}
+.fc .headerborder {
+ border-bottom:1px solid #CCCCCC;
+}
+.fc TH {
+ font-size: 11px;
+ text-align: left;
+ font-weight: bold;
+ padding: 4px 4px 4px 4px;
+ color:#333333;
+ border-bottom: 1px solid #CCCCCC;
+}
+
+
+.fc .subhead{
+ font-size: 12px;
+ padding: 5px 5px 5px 5px;
+ font-weight: bold;
+ text-align:left;
+ text-transform:capitalize;
+}
+.fc TABLE.title{ 
+ border-top: solid 1px #CCCCCC;
+ border-bottom: solid 1px #CCCCCC; 
+ margin-bottom:0;
+}
+.fc .title TD{
+ font-size:15px; 
+ font-weight:bold;
+ color:#34518D;
+ padding:5px;
+ text-align:left;
+ text-transform:uppercase;
+}
+.fc .title TD.exchange{
+ color:#666666;
+ text-align:right;
+ font-size:11px;
+}
+.fc .rowheader td {
+ font-size:10px;
+ font-weight: bold;
+ border-bottom:1px solid #CCCCCC;
+ background-color:#FFFFFF;
+ padding: 5px;
+ text-transform: uppercase;
+}
+.fc .fcdate { color:#000000;font-weight:bold;text-align:left;}
+.fc .fcuparrow      {background: url('https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/arrows/7/up.gif') no-repeat 0% 50%}
+.fc .fcdownarrow    {background: url('https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/arrows/7/down.gif') no-repeat 0% 50%}
+.fc .fcneutralarrow {background: url('https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/arrows/7/dash.gif') no-repeat 0% 50%}
+.fc .attribution {
+ padding:0;
+ font-size: 9px;
+ text-align: right;
+ color: #999999;
+ white-space: nowrap;
+}
+.fc .morelink {
+ padding:5px 10px 5px 0;
+ text-align:right;
+}
+.fc .morelink A{
+ font-size: 11px; 
+ font-weight: bold;
+ color:#34518D;
+ background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/media/icon_more.gif);
+ background-repeat: no-repeat;
+ background-position: 0 2px;
+ padding-left: 10px;
+}
+.fc .morelink A:hover{
+ background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/media/icon_more_over.gif);
+}
+.fc .addwatchlistlink A {
+ background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/icons/icon_addwatch.gif );
+ background-repeat: no-repeat;
+ background-position: 0 2px;
+ padding-left: 13px;
+ text-transform:capitalize;
+ font-weight:normal;
+ font-size:11px;
+ color:#34518D;
+}
+.fc .addwatchlistlink A:hover{
+ background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/icons/icon_addwatch_over.gif);
+}
+/* Nav links */
+.fc .navlinks {
+ text-align:center;
+ padding:6px 0 6px 0;
+ background-color:#34518D;
+ border-top: solid 0px #34518D;
+ border-bottom: solid 0px #34518D; 
+ line-height:28px;
+}
+.fc .navlinks A.nav{
+ font-weight: bold;
+ color:#FFFFFF;
+ text-decoration:none;
+ background-color:#34518D;
+}
+.fc .navlinks A.nav:hover {
+ color:#FFFFFF; 
+ text-decoration: underline;
+}
+.fc .navlinks A.active {
+ color:#FFFFFF;
+ text-decoration: underline;
+}
+.fc .divider{
+ font-weight:normal; 
+ color:#FFFFFF;
+ margin:0 5px 0 5px;
+}
+/* END NAV LINKS*/
+
+/* SUBMENUS CSS*/
+.fc .submenus TD{
+ padding:6px 3px 6px 2px;
+ white-space: nowrap;
+}
+.fc .submenus TD A{
+ padding:3px 5px 3px 5px;
+ font-size: 10px; 
+ font-weight: bold;
+ color:#888888;
+ text-decoration:none;
+ background: #F7F7F7;
+ border: 1px solid #CCCCCC;
+ margin: -1px;
+}
+.fc .submenus TD A:hover{
+ color:#34518D; 
+ background: #F7F7F7;
+ border: 1px solid #34518D;
+ margin: -1px;
+}
+.fc .submenus .active A, .fc .submenus .active A:hover {
+ border: 0;
+ margin: 0;
+ background: #CCCCCC;
+ color:#000; 
+ font-weight:bold;
+ }
+.fc .submenus A.active{
+ color:#34518D; 
+ background: #FFFFFF;
+ border: 1px solid #34518D;
+ margin: -1px;
+}
+.fc .submenus .divider{
+ display:none;
+} 
+
+/*nav forms and symbol lookup*/	
+.fc INPUT.text, .fc INPUT.ticker {
+ border: 1px solid #999999;
+ width: 95px;
+ font-weight: normal;
+ padding:1px;
+ background-color: #FFFFFF;
+}
+.fc INPUT.go, .fc INPUT.button {
+ font-weight: bold;
+ color: #FFFFFF;
+ background-color: #34518D;
+ border: 1px outset #34518D;
+ padding:1px;
+ cursor:pointer;
+ cursor:hand;
+}
+
+.fc A.lookup  {
+ font-size:11px;
+ color: #34518D;
+ text-decoration:none;
+}
+.fc A:hover.lookup  {
+ text-decoration: underline;
+ color: #34518D;
+}
+
+
+
+
+
+/* NEW tabbed detailed quote LINKS 2007*/
+.fc .fctabs {
+ width: 100%;
+ border-bottom: solid 1px #999;
+ margin-bottom:5px;
+ margin-top:10px;
+ margin-left: auto; 
+ margin-right: auto;
+}
+.fc .fctabs .tab {
+ float:left;
+ margin-right:0;
+ margin-left: -1px;
+ border: solid 1px #CCC;
+ border-bottom: 1px solid #999;
+ background-color: #F3F3F3;
+ padding: 3px 8px 3px 8px;
+ margin-bottom: -1px;
+ position: relative;
+ z-index: 0;
+}
+.fc .fctabs .activetab {
+ background-color:#FFFFFF;
+ border: solid 1px #999;
+ border-bottom: solid 1px #FFFFFF;
+ position:relative;
+ z-index:1;
+}
+.fc .fctabs .tab:hover {
+ background-color:#FFFFFF;
+ border: solid 1px #999;
+ border-bottom: solid 1px #FFFFFF;
+ position:relative;
+ z-index:1;
+}
+.fc .fctabs A.tab {
+ font-weight: normal;
+ text-decoration:none;
+}
+.fc .fctabs A.activetab, .fc .fctabs A.tab:hover {
+ font-weight: normal;
+ color: #b33d39;
+ text-decoration:none;
+}
+.fc .fctabs A.tab:hover {
+ text-decoration: none;
+}
+
+/* END tabbed detailed quote LINKS*/
+
+
+/* Indexbrowser tabs */
+.fc .sectors .data BR{
+ margin-top:5px;
+}
+.fc .sectors .data .active{
+ text-decoration:underline;
+ background-color:#FFFFFF;
+}
+
+.fc .sectors .active{
+ background-color: #CCCCCC; 
+ border: 0;
+}
+
+/* Hover Box */
+.fc .newsHoverBox {
+ padding: 10px;
+ margin: 5px 0 0 35px;
+ border: 1px solid #000000;
+ background: #FFFFFF;
+}
+
+/* Channellist */
+.fc .channellist IMG{
+ display:inline;
+}
+.fc .channellist .image{
+ padding:10px;
+ text-align:center;
+}
+.fc .channellist .content{
+ padding:10px;
+}
+
+/* Mediachannel CSS */
+.fc .mediachannel IMG{
+ display:inline;
+ border:0;
+}
+.fc .mediachannel .label{
+ font-weight:bold;
+ padding:0;
+}
+.fc .mediachannel .sidebar {
+ float:left;
+ width:150;
+ border:0 solid #CCCCCC;
+ margin-right:12px;
+ margin-bottom:12px;
+ margin-top:5px;
+ margin-left:0;
+}
+.fc .mediachannel .image {
+ width:150;
+ vertical-align:top;
+}
+.fc .mediachannel .title .data{
+ color: #999999;
+ font-weight: bold;
+ font-size:18px;
+ margin-bottom:5px;
+ margin-top:5px;
+}
+.fc .mediachannel .channel{
+ margin-bottom:0;
+}
+.fc .mediachannel .channeltype,.fc .mediachannel .language {
+ margin-bottom:0;
+}
+.fc .mediachannel .subbutton .rss{
+ padding-right:0;
+}
+.fc .mediachannel .rssbutton .rss IMG{
+ margin-bottom:1px;
+ margin-top:-1px;
+ border:0;
+}
+/* END Mediachannel */
+
+	
+/* BEGIN Mediasearch */
+.fc .mediasearch FORM{
+ padding:10px 0 10px 0;
+ margin:0;
+}
+.fc .mediasearch INPUT.searchtxt {
+ border: 1px solid #999999;
+ width: 160px;
+ font-weight: normal;
+}
+
+.fc .mediasearch INPUT.button{
+ font-weight: normal;
+ color: #000000;
+ background-color: #CCCCCC;
+ border: 1px outset #222222;
+ cursor:pointer;
+ cursor:hand;
+}
+.fc .mediasearch SELECT{
+}
+/* END Mediasearch */
+
+
+
+
+
+/* NEW tabbed CSS for snapshot 2007*/
+.snapshot .fcsnaptabs {
+ border-bottom: 0;
+}
+.snapshot .fcsnaptabs .spacer {
+ display:none;
+}
+.snapshot .fcsnaptabs .tab {
+}
+.snapshot .fcsnaptabs .tab A {
+ border-top: solid 1px #CCC;
+ border-right: solid 1px #CCC;
+ border-bottom: solid 1px #999;
+ border-left: solid 1px #CCC;
+ display:block;
+ background-color: #F3F3F3;
+ padding: 3px 5px 3px 5px;
+ font-weight: bold;
+ font-size:11px;
+ text-decoration:none;
+ cursor:pointer;
+ cursor:hand;
+ text-align:center;
+ text-transform: uppercase;
+ position:relative;
+ z-index:0;
+ margin-right:-1px;
+}
+.snapshot .fcsnaptabs .activetab A, .snapshot .fcsnaptabs A:hover {
+ color: #b33d39;
+ background-color: #FFFFFF;
+ border-top: solid 1px #999;
+ border-right: solid 1px #999;
+ border-left: solid 1px #999;
+ border-bottom: solid 1px #FFFFFF;
+ text-decoration: none;
+ position:relative;
+ z-index:1;
+ }
+.snapshot .fcsnaptabs A:hover {
+ text-decoration: none;
+ position:relative;
+ z-index:1;
+}
+/* END tabbed CSS snapshot */
+
+.snapshot .charts .data A{
+ font-weight: bold;
+}
+.snapshot .charts .data{
+ font-weight: bold;
+ padding-left:5px;
+ padding-top:3px;
+ padding-bottom:0;
+}
+.snapshot .charts IMG{
+ margin-left:auto;
+ margin-right:auto;
+ margin-top:5px;
+ margin-bottom:5px;
+ display:block;
+}
+
+
+/* MarketUpdates css */
+.marketupdates {
+}
+.marketupdates .header {
+ display: none;
+}
+.marketupdates .headerborder {
+ border-bottom: 0px solid #000000
+}
+.marketupdates .row TD, .marketupdates .row1 TD, .marketupdates .row2 TD {border-bottom: solid 0 #CCCCCC; padding:0;}
+.marketupdates TD.data {
+ font-size: 11px;
+}
+.marketupdates TH.subhead {
+ border-bottom: solid #FFF 0;
+ padding: 3px 0 0 0;
+}
+.marketupdates TD.data A {
+ color: #333333;
+}
+.marketupdates TD.morelink {
+ text-align:left;
+ padding-top:5px;
+}
+.marketupdates .data .readmore A {
+ font-size: 11px; 
+ font-weight: bold;
+ color:#34518D;
+}
+ 
+/*get quote component within modules styles*/	
+.getquote {
+}
+.getquote H5 {
+ display:none;
+ font-size:12px; 
+ font-weight: bold; 
+ padding: 5px 5px 2px 5px; 
+ color:#000; 
+ background-color:#FFFFFF;
+ text-align:left;
+ border-top:0;
+ border-bottom: solid 1px #999999;
+}
+.getquote .box  {
+ padding:  5px 0 5px 5px;
+}
+
+/* SNAPSHOT TWO - HOME PAGE WIDGET */
+.snapshot2 { 
+}
+.snapshot2 .title .inactive, .snapshot2 .title .active{
+ display:none;
+}
+.snapshot2 DIV.chart {
+ float: right; 
+}
+.snapshot2 DIV.chart IMG{
+ vertical-align:top;
+ margin:0 0 0 10px;
+}
+.snapshot2 .quotesfloat {
+ float: right;
+ width: 135px;
+}
+.snapshot2 .quotes{
+ border-top: 1px solid #EEEEEE;
+}
+.snapshot2 .quotes TD {
+ padding:0 5px 0 5px;
+ border-bottom:1px solid #EEEEEE;
+}
+.snapshot2 .quotes TD.data {
+ font-size: 10px;
+ }
+.snapshot2 .quotes TD.data A{
+ font-size: 11px;
+ font-weight: bold;
+}
+.snapshot2 .quotes TD.data A:hover{
+ color: #BA1813;
+ text-decoration: none;
+}
+.snapshot2 .quotes .active {
+ background-color: #F3F3F3;
+ border-bottom:1px solid #EEEEEE;
+}
+.snapshot2 .quotes .ticker, .snapshot2 .quotes .changeprice {
+ text-align:left;
+}
+.snapshot2 .quotes .lastprice, .snapshot2 .quotes .changepercent {
+ text-align:right;
+}
+.snapshot2 .attribution {
+ display:none;
+}
+.snapshot2 .getquote {
+ background: transparent;
+}
+.snapshot2 .getquote .box{
+ padding: 0;
+}
+.snapshot2 .getquote INPUT.go {
+ background: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/buttons/btn_getQuote.gif) no-repeat top left;
+ width:61px;
+ height: 17px;
+ border: none;
+}
+.snapshot2 .getquote INPUT.ticker {
+ background:transparent url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/gradient/bg_search_box.png) repeat scroll left top;
+ border:1px solid #999999;
+ font-size:11px; 
+ vertical-align: bottom;
+}
+
+/*MARKETS MODULE - minimal height*/	
+
+.markets TD.data, .markets TD.label, .markets A, .markets TD.divider {
+ background-color: transparent;
+}
+.markets TD.label{
+ display:none
+}
+.markets .data, .markets .data A {
+ white-space: nowrap;
+ padding:2px;
+ margin:0px;
+ font-size:12px;
+ font-weight: bolder;
+ font-family:Arial, sans-serif;
+}
+.markets .data A {
+ font-size: 14px;
+}
+.markets .lastprice {
+ font-size: 10px;
+}
+.markets TD.divider{
+ display:none;
+}
+.markets .uparrow {background: url('https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/arrows/16/upArrow.gif') no-repeat 0% 0%; font-size: 24px; }
+.markets .downarrow {background: url('https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/arrows/16/downArrow.gif') no-repeat 0% 0%; font-size: 24px;}
+.markets .fcneutralarrow {display:none;}
+
+/* SITE CSS */
+/* CSS Document */
+
+* {
+  margin: 0;
+  padding: 0;
+  border:0;  
+}            
+
+body {
+ margin: 0px;
+ background-image: url("https://web.archive.org/web/20090120200524im_/http://www.goinvest.com/img/bg_grad.png");
+ background-repeat: repeat-x;                                     
+ background-color:#312F2C;                                        
+ font-size: 11px;                                                 
+ font-family: "Lucida Grande","Lucida Sans Unicode",verdana,geneva,sans-serif; 
+ color: #646464;                                                               
+ text-align: center;                                                           
+}                                                                              
+
+a {
+ color: #3A6EA5;
+ text-decoration:none;
+}                     
+
+a:hover {
+ color: #3A6EA5;
+ text-decoration:underline;
+}                          
+
+td{
+ vertical-align:top;
+}                   
+
+h1 {
+ color: #312F2C;
+ font-size: 13px;
+ font-weight:normal;
+ padding: 3px 0px 3px 0px; 
+ background:;              
+ border-bottom: 1px solid #B9B6B2;
+ margin-left: 0em;                
+ margin-bottom: .5em;             
+}                                 
+
+p {
+ margin-top:0em;
+ margin-bottom: 1em;
+ margin-left: .5em; 
+}                   
+
+img {
+ border: none;
+ display: block;
+}               
+
+.xheaderborder {
+ padding: 5px 5px 2px 5px;
+ border-bottom: 1px solid #312F2C;
+ background-image: url("https://web.archive.org/web/20090120200524im_/http://www.goinvest.com/img/header_grad.png");
+ background-repeat: repeat;                                           
+ background-position:bottom left;                                     
+}                                                                     
+.header {                                                             
+ font-size:12px;                                                      
+ font-weight: bold;                                                   
+ color:#FFF;                                                          
+ text-align:left;                                                     
+}                                                                     
+.top {                                                                
+background-image:url(https://web.archive.org/web/20090120200524im_/http://www.goinvest.com/img/header_grad.png);    
+background-position:left bottom;                                      
+background-repeat:repeat;                                             
+border-bottom:1px solid #312F2C;                                      
+padding:10px;                                                         
+}                                                                     
+.headerlogo {                                                         
+ float:left;                                                          
+ padding: 10px 25px 10px 15px;                                        
+ border: 1px solid black;                                             
+ background: #FFFFFF;
+ display:block;
+ margin-top:0px;
+ margin-left:0px;
+}
+
+DIV.table_main{
+ margin-top:0px;
+ margin-right:auto;
+ margin-left: auto;
+ text-align:center;
+ width:1000px;
+
+ border-top: 1px solid #312F2C;
+ border-right: 1px solid #312F2C;
+ border-bottom: 1px solid #312F2C;
+ border-left: 1px solid #312F2C;
+ background:#FFFFFF;
+}
+
+TD.fc_content{
+ padding:5px 0px 0px 0px;
+ width:100%;
+}
+
+TD.ad_right{
+ padding:10px;
+ background: #EFEFEF;
+}
+
+.content_box{
+ color: #3A6EA5;
+ font-size:14px;
+ border: solid 1px #3A6EA5;
+ background-color: #EFEFEF;
+ padding:20px;
+ width:300px;
+ margin: 20px 0px 20px 0px;
+}
+
+.footer{
+ color:#ACC5E0;
+ padding: 10px;
+ text-align:center;
+}
+.footer A{
+margin-right:10px;
+}
+
+</style>
+
+<style>
+ .fc TD {
+  empty-cells: show;
+ }
+</style>
+
+<div class="fc fcinside" style="width:100%">
+  
+
+<table width="100%" cellspacing="0" cellpadding="1" border="0" class="navheader">
+ <tr>
+  <td align="left" style="font-size: 22px; color:#272E6B; font-weight:bold; padding: 10px 0px 0px 15px;">Markets</td>
+  <td align="right" width="300px" style="padding: 10px 0px 0px 0px;">
+   <style>
+
+/* Global CSS Styles */
+.fc * {
+ padding:0; 
+ border:0; 
+ margin:0; 
+ color: inherit;
+
+}
+.fc {background-color: #FFF}
+.fc, .fc TABLE, .fc TD, .fc INPUT, .fc SELECT {
+ font-family: Arial,sans-serif;
+ font-size:12px; 
+ color: #333333;
+}
+.fc SELECT{
+ background-color:#FFFFFF;
+ border: 1px solid #999999;
+}
+.fc IMG {
+ display:block;
+}
+.fc TD { empty-cells: show; }
+/* END Global CSS */
+
+.fc .data   { color:#333333; text-align: left} 
+.fc A {
+ text-decoration: none;
+ color: #34518D;
+}
+.fc A:hover{
+ text-decoration: underline;
+ color: #34518D;
+}
+
+.fc .boxspacing DIV.fctabs, .fc TABLE.title {width: 100%}
+.fc td.spacer {padding:5px;}
+
+.fc .row TD, .fc .row1 TD, .fc .row2 TD {border:0;  padding: 5px}
+.fc .row1 TD {background-color:#FFFFFF;border-bottom:solid 1px #CCCCCC; }
+.fc .row2 TD {border-bottom:solid 1px #CCCCCC; }
+.fc .rowheader {background-color: #FFFFFF}
+
+.fc .horzline   { height: 0; empty-cells: collapse;}
+.fc .box {border-width: 0; }
+.fc .tab         {}
+.fc .activetab   {background-color: #FFFFFF;  font-weight: normal;}
+.fc .bicolor {color:#000000}
+
+.fc .fcchartimg, .fc IMG.chart {margin:8px 20px 8px 10px}
+.fc .fcminichartimg { vertical-align: middle;}
+
+.fc .positive   {color:#177D17;}
+.fc .negative   {color:#993300;}
+.fc .header {
+ text-align:left;
+ font-size: 12px;
+ font-weight: bold;
+ padding: 8px 4px 2px 4px;
+ color: #B33D39;
+}
+.fc .header .timestamp {
+ color:#34518D;
+}
+.fc .headerborder {
+ border-bottom:1px solid #CCCCCC;
+}
+.fc TH {
+ font-size: 11px;
+ text-align: left;
+ font-weight: bold;
+ padding: 4px 4px 4px 4px;
+ color:#333333;
+ border-bottom: 1px solid #CCCCCC;
+}
+
+
+.fc .subhead{
+ font-size: 12px;
+ padding: 5px 5px 5px 5px;
+ font-weight: bold;
+ text-align:left;
+ text-transform:capitalize;
+}
+.fc TABLE.title{ 
+ border-top: solid 1px #CCCCCC;
+ border-bottom: solid 1px #CCCCCC; 
+ margin-bottom:0;
+}
+.fc .title TD{
+ font-size:15px; 
+ font-weight:bold;
+ color:#34518D;
+ padding:5px;
+ text-align:left;
+ text-transform:uppercase;
+}
+.fc .title TD.exchange{
+ color:#666666;
+ text-align:right;
+ font-size:11px;
+}
+.fc .rowheader td {
+ font-size:10px;
+ font-weight: bold;
+ border-bottom:1px solid #CCCCCC;
+ background-color:#FFFFFF;
+ padding: 5px;
+ text-transform: uppercase;
+}
+.fc .fcdate { color:#000000;font-weight:bold;text-align:left;}
+.fc .fcuparrow      {background: url('https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/arrows/7/up.gif') no-repeat 0% 50%}
+.fc .fcdownarrow    {background: url('https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/arrows/7/down.gif') no-repeat 0% 50%}
+.fc .fcneutralarrow {background: url('https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/arrows/7/dash.gif') no-repeat 0% 50%}
+.fc .attribution {
+ padding:0;
+ font-size: 9px;
+ text-align: right;
+ color: #999999;
+ white-space: nowrap;
+}
+.fc .morelink {
+ padding:5px 10px 5px 0;
+ text-align:right;
+}
+.fc .morelink A{
+ font-size: 11px; 
+ font-weight: bold;
+ color:#34518D;
+ background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/media/icon_more.gif);
+ background-repeat: no-repeat;
+ background-position: 0 2px;
+ padding-left: 10px;
+}
+.fc .morelink A:hover{
+ background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/media/icon_more_over.gif);
+}
+.fc .addwatchlistlink A {
+ background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/icons/icon_addwatch.gif );
+ background-repeat: no-repeat;
+ background-position: 0 2px;
+ padding-left: 13px;
+ text-transform:capitalize;
+ font-weight:normal;
+ font-size:11px;
+ color:#34518D;
+}
+.fc .addwatchlistlink A:hover{
+ background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/icons/icon_addwatch_over.gif);
+}
+/* Nav links */
+.fc .navlinks {
+ text-align:center;
+ padding:6px 0 6px 0;
+ background-color:#34518D;
+ border-top: solid 0px #34518D;
+ border-bottom: solid 0px #34518D; 
+ line-height:28px;
+}
+.fc .navlinks A.nav{
+ font-weight: bold;
+ color:#FFFFFF;
+ text-decoration:none;
+ background-color:#34518D;
+}
+.fc .navlinks A.nav:hover {
+ color:#FFFFFF; 
+ text-decoration: underline;
+}
+.fc .navlinks A.active {
+ color:#FFFFFF;
+ text-decoration: underline;
+}
+.fc .divider{
+ font-weight:normal; 
+ color:#FFFFFF;
+ margin:0 5px 0 5px;
+}
+/* END NAV LINKS*/
+
+/* SUBMENUS CSS*/
+.fc .submenus TD{
+ padding:6px 3px 6px 2px;
+ white-space: nowrap;
+}
+.fc .submenus TD A{
+ padding:3px 5px 3px 5px;
+ font-size: 10px; 
+ font-weight: bold;
+ color:#888888;
+ text-decoration:none;
+ background: #F7F7F7;
+ border: 1px solid #CCCCCC;
+ margin: -1px;
+}
+.fc .submenus TD A:hover{
+ color:#34518D; 
+ background: #F7F7F7;
+ border: 1px solid #34518D;
+ margin: -1px;
+}
+.fc .submenus .active A, .fc .submenus .active A:hover {
+ border: 0;
+ margin: 0;
+ background: #CCCCCC;
+ color:#000; 
+ font-weight:bold;
+ }
+.fc .submenus A.active{
+ color:#34518D; 
+ background: #FFFFFF;
+ border: 1px solid #34518D;
+ margin: -1px;
+}
+.fc .submenus .divider{
+ display:none;
+} 
+
+/*nav forms and symbol lookup*/	
+.fc INPUT.text, .fc INPUT.ticker {
+ border: 1px solid #999999;
+ width: 95px;
+ font-weight: normal;
+ padding:1px;
+ background-color: #FFFFFF;
+}
+.fc INPUT.go, .fc INPUT.button {
+ font-weight: bold;
+ color: #FFFFFF;
+ background-color: #34518D;
+ border: 1px outset #34518D;
+ padding:1px;
+ cursor:pointer;
+ cursor:hand;
+}
+
+.fc A.lookup  {
+ font-size:11px;
+ color: #34518D;
+ text-decoration:none;
+}
+.fc A:hover.lookup  {
+ text-decoration: underline;
+ color: #34518D;
+}
+
+
+
+
+
+/* NEW tabbed detailed quote LINKS 2007*/
+.fc .fctabs {
+ width: 100%;
+ border-bottom: solid 1px #999;
+ margin-bottom:5px;
+ margin-top:10px;
+ margin-left: auto; 
+ margin-right: auto;
+}
+.fc .fctabs .tab {
+ float:left;
+ margin-right:0;
+ margin-left: -1px;
+ border: solid 1px #CCC;
+ border-bottom: 1px solid #999;
+ background-color: #F3F3F3;
+ padding: 3px 8px 3px 8px;
+ margin-bottom: -1px;
+ position: relative;
+ z-index: 0;
+}
+.fc .fctabs .activetab {
+ background-color:#FFFFFF;
+ border: solid 1px #999;
+ border-bottom: solid 1px #FFFFFF;
+ position:relative;
+ z-index:1;
+}
+.fc .fctabs .tab:hover {
+ background-color:#FFFFFF;
+ border: solid 1px #999;
+ border-bottom: solid 1px #FFFFFF;
+ position:relative;
+ z-index:1;
+}
+.fc .fctabs A.tab {
+ font-weight: normal;
+ text-decoration:none;
+}
+.fc .fctabs A.activetab, .fc .fctabs A.tab:hover {
+ font-weight: normal;
+ color: #b33d39;
+ text-decoration:none;
+}
+.fc .fctabs A.tab:hover {
+ text-decoration: none;
+}
+
+/* END tabbed detailed quote LINKS*/
+
+
+/* Indexbrowser tabs */
+.fc .sectors .data BR{
+ margin-top:5px;
+}
+.fc .sectors .data .active{
+ text-decoration:underline;
+ background-color:#FFFFFF;
+}
+
+.fc .sectors .active{
+ background-color: #CCCCCC; 
+ border: 0;
+}
+
+/* Hover Box */
+.fc .newsHoverBox {
+ padding: 10px;
+ margin: 5px 0 0 35px;
+ border: 1px solid #000000;
+ background: #FFFFFF;
+}
+
+/* Channellist */
+.fc .channellist IMG{
+ display:inline;
+}
+.fc .channellist .image{
+ padding:10px;
+ text-align:center;
+}
+.fc .channellist .content{
+ padding:10px;
+}
+
+/* Mediachannel CSS */
+.fc .mediachannel IMG{
+ display:inline;
+ border:0;
+}
+.fc .mediachannel .label{
+ font-weight:bold;
+ padding:0;
+}
+.fc .mediachannel .sidebar {
+ float:left;
+ width:150;
+ border:0 solid #CCCCCC;
+ margin-right:12px;
+ margin-bottom:12px;
+ margin-top:5px;
+ margin-left:0;
+}
+.fc .mediachannel .image {
+ width:150;
+ vertical-align:top;
+}
+.fc .mediachannel .title .data{
+ color: #999999;
+ font-weight: bold;
+ font-size:18px;
+ margin-bottom:5px;
+ margin-top:5px;
+}
+.fc .mediachannel .channel{
+ margin-bottom:0;
+}
+.fc .mediachannel .channeltype,.fc .mediachannel .language {
+ margin-bottom:0;
+}
+.fc .mediachannel .subbutton .rss{
+ padding-right:0;
+}
+.fc .mediachannel .rssbutton .rss IMG{
+ margin-bottom:1px;
+ margin-top:-1px;
+ border:0;
+}
+/* END Mediachannel */
+
+	
+/* BEGIN Mediasearch */
+.fc .mediasearch FORM{
+ padding:10px 0 10px 0;
+ margin:0;
+}
+.fc .mediasearch INPUT.searchtxt {
+ border: 1px solid #999999;
+ width: 160px;
+ font-weight: normal;
+}
+
+.fc .mediasearch INPUT.button{
+ font-weight: normal;
+ color: #000000;
+ background-color: #CCCCCC;
+ border: 1px outset #222222;
+ cursor:pointer;
+ cursor:hand;
+}
+.fc .mediasearch SELECT{
+}
+/* END Mediasearch */
+
+
+
+
+
+/* NEW tabbed CSS for snapshot 2007*/
+.snapshot .fcsnaptabs {
+ border-bottom: 0;
+}
+.snapshot .fcsnaptabs .spacer {
+ display:none;
+}
+.snapshot .fcsnaptabs .tab {
+}
+.snapshot .fcsnaptabs .tab A {
+ border-top: solid 1px #CCC;
+ border-right: solid 1px #CCC;
+ border-bottom: solid 1px #999;
+ border-left: solid 1px #CCC;
+ display:block;
+ background-color: #F3F3F3;
+ padding: 3px 5px 3px 5px;
+ font-weight: bold;
+ font-size:11px;
+ text-decoration:none;
+ cursor:pointer;
+ cursor:hand;
+ text-align:center;
+ text-transform: uppercase;
+ position:relative;
+ z-index:0;
+ margin-right:-1px;
+}
+.snapshot .fcsnaptabs .activetab A, .snapshot .fcsnaptabs A:hover {
+ color: #b33d39;
+ background-color: #FFFFFF;
+ border-top: solid 1px #999;
+ border-right: solid 1px #999;
+ border-left: solid 1px #999;
+ border-bottom: solid 1px #FFFFFF;
+ text-decoration: none;
+ position:relative;
+ z-index:1;
+ }
+.snapshot .fcsnaptabs A:hover {
+ text-decoration: none;
+ position:relative;
+ z-index:1;
+}
+/* END tabbed CSS snapshot */
+
+.snapshot .charts .data A{
+ font-weight: bold;
+}
+.snapshot .charts .data{
+ font-weight: bold;
+ padding-left:5px;
+ padding-top:3px;
+ padding-bottom:0;
+}
+.snapshot .charts IMG{
+ margin-left:auto;
+ margin-right:auto;
+ margin-top:5px;
+ margin-bottom:5px;
+ display:block;
+}
+
+
+/* MarketUpdates css */
+.marketupdates {
+}
+.marketupdates .header {
+ display: none;
+}
+.marketupdates .headerborder {
+ border-bottom: 0px solid #000000
+}
+.marketupdates .row TD, .marketupdates .row1 TD, .marketupdates .row2 TD {border-bottom: solid 0 #CCCCCC; padding:0;}
+.marketupdates TD.data {
+ font-size: 11px;
+}
+.marketupdates TH.subhead {
+ border-bottom: solid #FFF 0;
+ padding: 3px 0 0 0;
+}
+.marketupdates TD.data A {
+ color: #333333;
+}
+.marketupdates TD.morelink {
+ text-align:left;
+ padding-top:5px;
+}
+.marketupdates .data .readmore A {
+ font-size: 11px; 
+ font-weight: bold;
+ color:#34518D;
+}
+ 
+/*get quote component within modules styles*/	
+.getquote {
+}
+.getquote H5 {
+ display:none;
+ font-size:12px; 
+ font-weight: bold; 
+ padding: 5px 5px 2px 5px; 
+ color:#000; 
+ background-color:#FFFFFF;
+ text-align:left;
+ border-top:0;
+ border-bottom: solid 1px #999999;
+}
+.getquote .box  {
+ padding:  5px 0 5px 5px;
+}
+
+/* SNAPSHOT TWO - HOME PAGE WIDGET */
+.snapshot2 { 
+}
+.snapshot2 .title .inactive, .snapshot2 .title .active{
+ display:none;
+}
+.snapshot2 DIV.chart {
+ float: right; 
+}
+.snapshot2 DIV.chart IMG{
+ vertical-align:top;
+ margin:0 0 0 10px;
+}
+.snapshot2 .quotesfloat {
+ float: right;
+ width: 135px;
+}
+.snapshot2 .quotes{
+ border-top: 1px solid #EEEEEE;
+}
+.snapshot2 .quotes TD {
+ padding:0 5px 0 5px;
+ border-bottom:1px solid #EEEEEE;
+}
+.snapshot2 .quotes TD.data {
+ font-size: 10px;
+ }
+.snapshot2 .quotes TD.data A{
+ font-size: 11px;
+ font-weight: bold;
+}
+.snapshot2 .quotes TD.data A:hover{
+ color: #BA1813;
+ text-decoration: none;
+}
+.snapshot2 .quotes .active {
+ background-color: #F3F3F3;
+ border-bottom:1px solid #EEEEEE;
+}
+.snapshot2 .quotes .ticker, .snapshot2 .quotes .changeprice {
+ text-align:left;
+}
+.snapshot2 .quotes .lastprice, .snapshot2 .quotes .changepercent {
+ text-align:right;
+}
+.snapshot2 .attribution {
+ display:none;
+}
+.snapshot2 .getquote {
+ background: transparent;
+}
+.snapshot2 .getquote .box{
+ padding: 0;
+}
+.snapshot2 .getquote INPUT.go {
+ background: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/buttons/btn_getQuote.gif) no-repeat top left;
+ width:61px;
+ height: 17px;
+ border: none;
+}
+.snapshot2 .getquote INPUT.ticker {
+ background:transparent url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/gradient/bg_search_box.png) repeat scroll left top;
+ border:1px solid #999999;
+ font-size:11px; 
+ vertical-align: bottom;
+}
+
+/*MARKETS MODULE - minimal height*/	
+
+.markets TD.data, .markets TD.label, .markets A, .markets TD.divider {
+ background-color: transparent;
+}
+.markets TD.label{
+ display:none
+}
+.markets .data, .markets .data A {
+ white-space: nowrap;
+ padding:2px;
+ margin:0px;
+ font-size:12px;
+ font-weight: bolder;
+ font-family:Arial, sans-serif;
+}
+.markets .data A {
+ font-size: 14px;
+}
+.markets .lastprice {
+ font-size: 10px;
+}
+.markets TD.divider{
+ display:none;
+}
+.markets .uparrow {background: url('https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/arrows/16/upArrow.gif') no-repeat 0% 0%; font-size: 24px; }
+.markets .downarrow {background: url('https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/arrows/16/downArrow.gif') no-repeat 0% 0%; font-size: 24px;}
+.markets .fcneutralarrow {display:none;}
+
+/* SITE CSS */
+/* CSS Document */
+
+* {
+  margin: 0;
+  padding: 0;
+  border:0;  
+}            
+
+body {
+ margin: 0px;
+ background-image: url("https://web.archive.org/web/20090120200524im_/http://www.goinvest.com/img/bg_grad.png");
+ background-repeat: repeat-x;                                     
+ background-color:#312F2C;                                        
+ font-size: 11px;                                                 
+ font-family: "Lucida Grande","Lucida Sans Unicode",verdana,geneva,sans-serif; 
+ color: #646464;                                                               
+ text-align: center;                                                           
+}                                                                              
+
+a {
+ color: #3A6EA5;
+ text-decoration:none;
+}                     
+
+a:hover {
+ color: #3A6EA5;
+ text-decoration:underline;
+}                          
+
+td{
+ vertical-align:top;
+}                   
+
+h1 {
+ color: #312F2C;
+ font-size: 13px;
+ font-weight:normal;
+ padding: 3px 0px 3px 0px; 
+ background:;              
+ border-bottom: 1px solid #B9B6B2;
+ margin-left: 0em;                
+ margin-bottom: .5em;             
+}                                 
+
+p {
+ margin-top:0em;
+ margin-bottom: 1em;
+ margin-left: .5em; 
+}                   
+
+img {
+ border: none;
+ display: block;
+}               
+
+.xheaderborder {
+ padding: 5px 5px 2px 5px;
+ border-bottom: 1px solid #312F2C;
+ background-image: url("https://web.archive.org/web/20090120200524im_/http://www.goinvest.com/img/header_grad.png");
+ background-repeat: repeat;                                           
+ background-position:bottom left;                                     
+}                                                                     
+.header {                                                             
+ font-size:12px;                                                      
+ font-weight: bold;                                                   
+ color:#FFF;                                                          
+ text-align:left;                                                     
+}                                                                     
+.top {                                                                
+background-image:url(https://web.archive.org/web/20090120200524im_/http://www.goinvest.com/img/header_grad.png);    
+background-position:left bottom;                                      
+background-repeat:repeat;                                             
+border-bottom:1px solid #312F2C;                                      
+padding:10px;                                                         
+}                                                                     
+.headerlogo {                                                         
+ float:left;                                                          
+ padding: 10px 25px 10px 15px;                                        
+ border: 1px solid black;                                             
+ background: #FFFFFF;
+ display:block;
+ margin-top:0px;
+ margin-left:0px;
+}
+
+DIV.table_main{
+ margin-top:0px;
+ margin-right:auto;
+ margin-left: auto;
+ text-align:center;
+ width:1000px;
+
+ border-top: 1px solid #312F2C;
+ border-right: 1px solid #312F2C;
+ border-bottom: 1px solid #312F2C;
+ border-left: 1px solid #312F2C;
+ background:#FFFFFF;
+}
+
+TD.fc_content{
+ padding:5px 0px 0px 0px;
+ width:100%;
+}
+
+TD.ad_right{
+ padding:10px;
+ background: #EFEFEF;
+}
+
+.content_box{
+ color: #3A6EA5;
+ font-size:14px;
+ border: solid 1px #3A6EA5;
+ background-color: #EFEFEF;
+ padding:20px;
+ width:300px;
+ margin: 20px 0px 20px 0px;
+}
+
+.footer{
+ color:#ACC5E0;
+ padding: 10px;
+ text-align:center;
+}
+.footer A{
+margin-right:10px;
+}
+
+</style>
+
+<div class="fc markets">
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+ <tr class="row">
+  <td class="data" style="text-align:right;">
+   <div class="arrow"><span class="fcdownarrow downarrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+  </td>
+  <td class="data">
+   <div class="ticker">
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24SPX">
+     S&P; 500
+    </a>
+   </div>
+   <div style="white-space:nowrap">
+    <span class="data negative">
+     -34.74
+    </span>
+<span class="lastprice">at 815.38</span>
+   </div>
+  </td>
+  <td class="divider"><div>&nbsp;</div></td>
+  <td class="data" style="text-align:right;">
+   <div class="arrow"><span class="fcdownarrow downarrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+  </td>
+  <td class="data">
+   <div class="ticker">
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24COMP">
+     Nasdaq
+    </a>
+   </div>
+   <div style="white-space:nowrap">
+    <span class="data negative">
+     -69.38
+    </span>
+<span class="lastprice">at 1459.95</span>
+   </div>
+  </td>
+  <td class="divider"><div>&nbsp;</div></td>
+  <td class="data" style="text-align:right;">
+   <div class="arrow"><span class="fcdownarrow downarrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+  </td>
+  <td class="data">
+   <div class="ticker">
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24RUT">
+     RUS 2K
+    </a>
+   </div>
+   <div style="white-space:nowrap">
+    <span class="data negative">
+     -24.30
+    </span>
+<span class="lastprice">at 442.15</span>
+   </div>
+  </td>
+  <td class="divider"><div>&nbsp;</div></td>
+  <td class="data" style="text-align:right;">
+   <div class="arrow"><span class="fcuparrow uparrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+  </td>
+  <td class="data">
+   <div class="ticker">
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24OIL">
+     Crude Oil
+    </a>
+   </div>
+   <div style="white-space:nowrap">
+    <span class="data positive">
+     +4.45
+    </span>
+<span class="lastprice">at 38.85</span>
+   </div>
+  </td>
+ </tr>
+</table>
+
+
+</div>
+
+
+  </td>
+  <td rowspan="3" width="310px" align="right">
+    <script type="text/javascript">
+     var m3_u = 'https://web.archive.org/web/20090120200524/http://ads.financialcontent.com/www/delivery/ajs.php';
+     var m3_r = Math.floor(Math.random()*99999999999);
+     if (!document.MAX_used) document.MAX_used = ',';
+     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+     document.write ("?zoneid=160");
+     document.write ('&amp;cb=' + m3_r);
+     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+     document.write ("&amp;loc=" + escape(window.location));
+     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+     if (document.context) document.write ("&context=" + escape(document.context));
+     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+     document.write ("'></scr"+"ipt>");
+    </script>
+   </td>
+ </tr>
+  <td colspan="2">
+
+<!-- Code for Component Global Navigation -->
+<div class="navlinks">
+<table width="100%" cellspacing="0" cellpadding="0">
+ <tr>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav active" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=MarketSummary">Market Summary</a></td>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=World">World Markets</a></td>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=MarketMovers">Market Movers</a></td>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Sectors">Sectors</a></td>
+   </tr><tr>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Currency">Currencies</a></td>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Energy">Oil &amp; Energy</a></td>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Metals">Metals</a></td>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Treasury">Treasury Rates</a></td>
+   </tr><tr>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=FundFamilies">Mutual Funds</a></td>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=ETFListings">ETF Screener</a></td>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Listings">A-Z Listings</a></td>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Splits">Splits</a></td>
+   </tr><tr>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=CEO">CEO Wealthmeter</a></td>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Calc">Calculators</a></td>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Banking">Bank Rates</a></td>
+   <td width="25%" align="left" style="padding-left: 8px;"><a class="nav" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=MyWatchlist">My Watchlist</a></td>
+   </tr><tr>
+ </tr>
+</table>
+
+</div>
+
+
+<!-- End Component -->
+
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" align="center" valign="middle" height="50">
+<script>
+	function updateticker (){
+		var myticker = document.navform['Ticker'].value
+		if (myticker == 'Enter symbol'||myticker == '') {
+			myticker = ""
+			document.navform['Ticker'].value = myticker;
+		}
+	}
+</script>
+
+<div>
+   <form name="navform" onsubmit="updateticker();" action="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt" method="post">&nbsp;&nbsp;
+    <input class="ticker" type="text" name="Ticker" value="Enter symbol" size="7" onclick="this.value='';this.select()" onkeyup="this.value = this.value.toUpperCase()"/>&nbsp;
+    <input type="submit" value="Get Quote" class="go"/>&nbsp;
+    <span class="fcnavmenu">
+     <select name="Page" class="select" onchange="updateticker();this.form.submit();">
+      <option value="QUOTE">Detailed Quote</option>
+      <option value="NEWS">News</option>
+      <option value="CHART">Chart</option>
+      <option value="SEC">SEC Filings</option>
+      <option value="PROFILE">Profile</option>
+      <option value="HISTORICAL">Historical</option>
+     </select>&nbsp;&nbsp;<a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=LOOKUP" class="lookup">Symbol&nbsp;Lookup</a>
+    </span>
+ </form>
+ </div>
+
+  </td>
+ </tr>
+</table>
+
+<div>&nbsp;</div>
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+ <tr>
+  <td valign="top" width="99%">
+
+
+ <div class="boxspacing" style="background-color: #FFFFFF;">
+
+
+  <table width="100%" cellspacing="0" cellpadding="0" border="0" class="headerborder">
+  <tr>
+   <td width="100%" class="header">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  <td class="header" style="padding: 0px">Market Summary</td>
+  <td style="padding: 0px; text-align: right" class="header timestamp">03:05 PM EST</td>
+ </tr>
+</table>
+</td>
+  </tr>
+ </table>
+<div class="headerspacing"></div>
+
+<script>
+ var tickers = new Array();
+ var intervals = new Array();
+   intervals[0] = '1';
+   intervals[1] = '92';
+   intervals[2] = '183';
+   intervals[3] = '366';
+
+   tickers[0] = '$NYA';
+   tickers[1] = '$COMP';
+   tickers[2] = '$RUT';
+   tickers[3] = '$SPX';
+ var currentticker =  '$NYA';
+ var currentinterval = 1;
+ function SwitchSummaryChart(pos){
+  for (i=0; i<tickers.length;  i++ ) {
+   document.getElementById('summarytab'+i).className = 'tab';
+  }
+  document.getElementById('summarytab'+pos).className = 'tab activetab';
+  document.getElementById('fcsummarychart').src = 'https://web.archive.org/web/20090120200524/http://chart.financialcontent.com/Chart?width=350&vucolor=008000&bvcolor=FFFFFF&gtcolor=FFFFA0&Account=robots.txt&bgcolor=null&gbcolor=EEEE00&Client=robots.txt&brcolor=666666&pvcolor=F46D3C&ibcolor=null&vdcolor=FF0000&volume=0&fillalpha=80&height=150&lncolor=0066FF&arcolor=null&txcolor=666666&itcolor=D4D4D4&grcolor=BBBBBB&type=0&shcolor=BBBBBB&shwidth=2&ticker=' + tickers[pos] + '&interval=' + currentinterval;
+  currentticker = tickers[pos];
+ }
+	
+ function UpdateChartInterval(interval) {
+  for (i = 0; i <= (intervals.length - 1 ); i++) {
+   document.getElementById('interval'+ intervals[i]).className = '';
+  }
+  document.getElementById('fcsummarychart').src = 'https://web.archive.org/web/20090120200524/http://chart.financialcontent.com/Chart?width=350&vucolor=008000&bvcolor=FFFFFF&gtcolor=FFFFA0&Account=robots.txt&bgcolor=null&gbcolor=EEEE00&Client=robots.txt&brcolor=666666&pvcolor=F46D3C&ibcolor=null&vdcolor=FF0000&volume=0&fillalpha=80&height=150&lncolor=0066FF&arcolor=null&txcolor=666666&itcolor=D4D4D4&grcolor=BBBBBB&type=0&shcolor=BBBBBB&shwidth=2&ticker=' + currentticker + '&interval=' + interval;
+  document.getElementById('interval'+interval).className= 'active';
+  currentinterval = interval;
+ }
+</script>
+<div class="fctabs">
+  <a id="summarytab0" class="tab activetab" href="javascript: SwitchSummaryChart(0)"><div nowrap="nowrap">NYSE</div></a>
+  <a id="summarytab1" class="tab " href="javascript: SwitchSummaryChart(1)"><div nowrap="nowrap">Nasdaq</div></a>
+  <a id="summarytab2" class="tab " href="javascript: SwitchSummaryChart(2)"><div nowrap="nowrap">RUS 2K</div></a>
+  <a id="summarytab3" class="tab " href="javascript: SwitchSummaryChart(3)"><div nowrap="nowrap">S&P; 500</div></a>
+ <div style="clear:both"></div>
+</div>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="box media">
+ <tr>
+  <td width="1%" valign="top" class="chart">
+   <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+     <td>
+      <a id="fcsummarycharurl" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24NYA">
+       <img id="fcsummarychart" class="chart" style="border: 0px;" src="https://web.archive.org/web/20090120200524im_/http://chart.financialcontent.com/Chart?width=350&amp;vucolor=008000&amp;bvcolor=FFFFFF&amp;ticker=%24NYA>color=FFFFA0&amp;Account=robots.txt&amp;bgcolor=null&amp;gbcolor=EEEE00&amp;Client=robots.txt&amp;brcolor=666666&amp;pvcolor=F46D3C&amp;ibcolor=null&amp;vdcolor=FF0000&amp;volume=0&amp;fillalpha=80&amp;interval=1&amp;height=150&amp;lncolor=0066FF&amp;arcolor=null&amp;txcolor=666666&amp;itcolor=D4D4D4&amp;grcolor=BBBBBB&amp;type=0&amp;shcolor=BBBBBB&amp;shwidth=2"></img>
+      </a>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <table border="0" cellpadding="0" cellspacing="0" class="submenus" style="margin-left:auto;margin-right:auto;">
+       <tr>
+        <td class="label">
+         <a id="interval1" class="active" href="javascript:UpdateChartInterval('1')">Intraday</a>
+        </td>
+         <td class="label divider"> | </td>
+        <td class="label">
+         <a id="interval92" class="" href="javascript:UpdateChartInterval('92')">3 Month</a>
+        </td>
+         <td class="label divider"> | </td>
+        <td class="label">
+         <a id="interval183" class="" href="javascript:UpdateChartInterval('183')">6 Month</a>
+        </td>
+         <td class="label divider"> | </td>
+        <td class="label">
+         <a id="interval366" class="" href="javascript:UpdateChartInterval('366')">1 Year</a>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+   </table>
+  </td>
+  <td style="vertical-align:top;align:left;">
+   <table cellpadding="0" cellspacing="0" border="0" width="100%" class="box media">
+    <tr>
+     <th class="data" width="2%">&nbsp;</th>
+     <th class="data" width="32%">Index</th>
+     <th class="data" width="32%">Last</th>
+     <th class="data" width="34%" nowrap="nowrap">Change&nbsp;&nbsp;(%)</th>
+
+    </tr>
+    <tr class="row1">
+     <td class="data"><span class="fcdownarrow downarrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+     <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24NYA" style="white-space:nowrap">NYSE</a></td>
+     <td class="data">5117.26</td>
+     <td class="data negative" nowrap="nowrap">-270.24&nbsp;&nbsp;(-5.02%)</td>
+ 
+    </tr>
+    <tr class="row2">
+     <td class="data"><span class="fcdownarrow downarrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+     <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24COMP" style="white-space:nowrap">Nasdaq</a></td>
+     <td class="data">1459.95</td>
+     <td class="data negative" nowrap="nowrap">-69.38&nbsp;&nbsp;(-4.54%)</td>
+ 
+    </tr>
+    <tr class="row1">
+     <td class="data"><span class="fcdownarrow downarrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+     <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24RUT" style="white-space:nowrap">RUS 2K</a></td>
+     <td class="data">442.15</td>
+     <td class="data negative" nowrap="nowrap">-24.30&nbsp;&nbsp;(-5.21%)</td>
+ 
+    </tr>
+    <tr class="row2">
+     <td class="data"><span class="fcdownarrow downarrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+     <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24SPX" style="white-space:nowrap">S&P; 500</a></td>
+     <td class="data">815.38</td>
+     <td class="data negative" nowrap="nowrap">-34.74&nbsp;&nbsp;(-4.09%)</td>
+ 
+    </tr>
+    <tr class="row1">
+     <td class="data"><span class="fcdownarrow downarrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+     <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24XAX" style="white-space:nowrap">AMEX</a></td>
+     <td class="data">1343.14</td>
+     <td class="data negative" nowrap="nowrap">-40.11&nbsp;&nbsp;(-2.90%)</td>
+ 
+    </tr>
+    <tr class="row2">
+     <td class="data"><span class="fcuparrow uparrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+     <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24OIL" style="white-space:nowrap">Crude Oil</a></td>
+     <td class="data">38.85</td>
+     <td class="data positive" nowrap="nowrap">+4.45&nbsp;&nbsp;(+12.94%)</td>
+ 
+    </tr>
+    <tr class="row">
+     <td class="morelink" colspan="5">
+      <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=MajorIndices">More Major Indices</a>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+
+
+
+<div class="boxspacing"></div>
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  <td style="width:50%;vertical-align:top;">
+      <table width="100%" cellspacing="0" cellpadding="0" border="0" class="headerborder">
+  <tr>
+   <td width="100%" class="header">Market Updates</td>
+  </tr>
+ </table>
+<div class="headerspacing"></div>
+
+    
+<table width="100%" border="0" cellpadding="2" cellspacing="0">
+ <tr class="row1">
+  <th class="subhead" valign="top">
+   Markets Tumble Over Deepening Global Economic Crisis&nbsp;-&nbsp;<span class="pubdate">01/20/09</span>
+  </th>
+ </tr>
+ <tr class="row1">
+  <td class="data" valign="top"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?GUID=7738114&amp;Page=MediaViewer" target="_self">British bank RBS' warned that its losses for 2008 may reach $41 billion sparking oncerns of a deepening global economic crisis.  The Dow slumped 183 points to 8098 while Nasdaq skidded 59 points to 1470.
+</a>
+  </td>
+ </tr>
+ <tr class="row2">
+  <th class="subhead" valign="top">
+   Banking Loss Fears Weigh Down Markets&nbsp;-&nbsp;<span class="pubdate">01/20/09</span>
+  </th>
+ </tr>
+ <tr class="row2">
+  <td class="data" valign="top"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?GUID=7737771&amp;Page=MediaViewer" target="_self">Fears of further banking losses sent the markets tumbling on the inauguration day of President Barack Obama.  The Dow plunged 115 points to 8166 while Nasdaq plummeted 37 points to 1492.
+</a>
+  </td>
+ </tr>
+ <tr class="row1">
+  <th class="subhead" valign="top">
+   U. S. Markets Closed&nbsp;-&nbsp;<span class="pubdate">01/19/09</span>
+  </th>
+ </tr>
+ <tr class="row1">
+  <td class="data" valign="top"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?GUID=7727320&amp;Page=MediaViewer" target="_self">The U. S. markets are closed in observance of the Martin Luther King Jr. holiday.</a>
+  </td>
+ </tr>
+ <tr class="row">
+  <td class="morelink"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=MAJORINDICES" target="_self">More Market Updates</a></td>
+ </tr>
+</table>
+
+   <div class="boxspacing"></div>
+      <table width="100%" cellspacing="0" cellpadding="0" border="0" class="headerborder">
+  <tr>
+   <td width="100%" class="header">Currencies</td>
+  </tr>
+ </table>
+<div class="headerspacing"></div>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tr>
+  <th colspan="2" align="left" width="15%">&nbsp;</th>
+  <th align="left" class="label"><div style="height: 14px; line-height:11px; padding-left: 20px; padding-top: 2px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_usa.png); background-repeat: no-repeat;">USD</div></th>
+  <th align="left" class="label"><div style="height: 14px; line-height:11px; padding-left: 20px; padding-top: 2px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_eu.png); background-repeat: no-repeat;">EUR</div></th>
+  <th align="left" class="label"><div style="height: 14px; line-height:11px; padding-left: 20px; padding-top: 2px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_japan.png); background-repeat: no-repeat;">JPY</div></th>
+  <th align="left" class="label"><div style="height: 14px; line-height:11px; padding-left: 20px; padding-top: 2px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_canada.png); background-repeat: no-repeat;">CAD</div></th>
+ </tr>
+ <tr class="row1">
+  <th class="label" style="border-width:0px"><div style="height: 14px; line-height:11px; padding-left: 20px; padding-top: 2px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_usa.png); background-repeat: no-repeat; white-space: nowrap">1 USD</div></th>
+  <th style="border-width:0px; padding-left:0px">=</th>
+
+  <td class="data">1.000
+
+  <td class="data">0.776
+
+  <td class="data">89.825
+
+  <td class="data">1.265
+ </tr> 
+ <tr class="row2">
+  <th class="label" style="border-width:0px"><div style="height: 14px; line-height:11px; padding-left: 20px; padding-top: 2px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_eu.png); background-repeat: no-repeat; white-space: nowrap">1 EUR</div></th>
+  <th style="border-width:0px; padding-left:0px">=</th>
+
+  <td class="data">1.289
+
+  <td class="data">1.000
+
+  <td class="data">115.799
+
+  <td class="data">1.631
+ </tr> 
+ <tr class="row1">
+  <th class="label" style="border-width:0px"><div style="height: 14px; line-height:11px; padding-left: 20px; padding-top: 2px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_japan.png); background-repeat: no-repeat; white-space: nowrap">1 JPY</div></th>
+  <th style="border-width:0px; padding-left:0px">=</th>
+
+  <td class="data">0.011
+
+  <td class="data">0.009
+
+  <td class="data">1.000
+
+  <td class="data">0.014
+ </tr> 
+ <tr class="row2">
+  <th class="label" style="border-width:0px"><div style="height: 14px; line-height:11px; padding-left: 20px; padding-top: 2px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_canada.png); background-repeat: no-repeat; white-space: nowrap">1 CAD</div></th>
+  <th style="border-width:0px; padding-left:0px">=</th>
+
+  <td class="data">0.790
+
+  <td class="data">0.613
+
+  <td class="data">70.997
+
+  <td class="data">1.000
+ </tr> 
+ <tr class="row"><td colspan="6" class="morelink"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=CURRENCY">More Currencies</a></td></tr>
+</table>
+
+
+   <div class="boxspacing"></div>
+     <table width="100%" cellspacing="0" cellpadding="0" border="0" class="headerborder">
+  <tr>
+   <td width="100%" class="header">Foreign Markets</td>
+  </tr>
+ </table>
+<div class="headerspacing"></div>
+
+   <table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tr>
+ <th class="data">&nbsp;</th>
+  <th class="data">Index</th>
+  <th class="data">Last</th>
+  <th class="data">Change (%)</th>
+ </tr>
+
+ <tr class="row1">
+  <td class="data"><div style="display: inline; height: 18px; padding:1px; padding-left: 14px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_canada.png); background-repeat: no-repeat;"></div></td>
+  <td align="left">
+   <a style="white-space:nowrap;" target="" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24TORN">TSX</a>
+   </td>
+  <td class="data">8695.28</td>
+  <td class="data negative" nowrap="nowrap">-146.20 (-1.65%)</td>
+ </tr>
+
+ <tr class="row2">
+  <td class="data"><div style="display: inline; height: 18px; padding:1px; padding-left: 14px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_mexico.png); background-repeat: no-repeat;"></div></td>
+  <td align="left">
+   <a style="white-space:nowrap;" target="" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24MXX">Bolsa</a>
+   </td>
+  <td class="data">20000.41</td>
+  <td class="data negative" nowrap="nowrap">-393.00 (-1.93%)</td>
+ </tr>
+
+ <tr class="row1">
+  <td class="data"><div style="display: inline; height: 18px; padding:1px; padding-left: 14px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_great_britain.png); background-repeat: no-repeat;"></div></td>
+  <td align="left">
+   <a style="white-space:nowrap;" target="" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24FTSE">FTSE</a>
+   </td>
+  <td class="data">4073.17</td>
+  <td class="data negative" nowrap="nowrap">-35.30 (-0.86%)</td>
+ </tr>
+
+ <tr class="row2">
+  <td class="data"><div style="display: inline; height: 18px; padding:1px; padding-left: 14px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_germany.png); background-repeat: no-repeat;"></div></td>
+  <td align="left">
+   <a style="white-space:nowrap;" target="" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24DAX">DAX</a>
+   </td>
+  <td class="data">4245.37</td>
+  <td class="data negative" nowrap="nowrap">-70.77 (-1.64%)</td>
+ </tr>
+
+ <tr class="row1">
+  <td class="data"><div style="display: inline; height: 18px; padding:1px; padding-left: 14px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_japan.png); background-repeat: no-repeat;"></div></td>
+  <td align="left">
+   <a style="white-space:nowrap;" target="" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24N225">NIKKEI</a>
+   </td>
+  <td class="data">8065.79</td>
+  <td class="data negative" nowrap="nowrap">-191.06 (-2.31%)</td>
+ </tr>
+
+ <tr class="row2">
+  <td class="data"><div style="display: inline; height: 18px; padding:1px; padding-left: 14px; background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/flags/16x16/shadow/flag_hong_kong.png); background-repeat: no-repeat;"></div></td>
+  <td align="left">
+   <a style="white-space:nowrap;" target="" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24HSI">HSI</a>
+   </td>
+  <td class="data">12959.77</td>
+  <td class="data negative" nowrap="nowrap">-380.22 (-2.85%)</td>
+ </tr>
+ <tr class="row">
+  <td class="morelink" colspan="4">
+   <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=WORLD">More Foreign Markets</a> 
+  </td>
+ </tr>
+</table>
+
+
+   <div class="boxspacing"></div>
+      <table width="100%" cellspacing="0" cellpadding="0" border="0" class="headerborder">
+  <tr>
+   <td width="100%" class="header">Commodities</td>
+  </tr>
+ </table>
+<div class="headerspacing"></div>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tr>
+  <th class="data" width="10%">&nbsp;</th>
+  <th class="data" width="30%">Commodity</th>
+  <th class="data" width="30%">Price</td>
+   <th class="data" nowrap="nowrap">Change (%)</th>
+ </tr>
+
+ <tr class="row1">
+  <td width="10%" class="data"><span class="fcuparrow uparrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+  <td width="25%" class="data"><a target="" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24OIL">Crude Oil</a></td>
+  <td width="25%" class="data">38.85</td>
+
+  
+  <td nowrap="nowrap" width="40%" class="data positive">
+   +4.45 (+12.94%)
+  </td>
+  
+ </tr>
+
+ <tr class="row2">
+  <td width="10%" class="data"><span class="fcuparrow uparrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+  <td width="25%" class="data"><a target="" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24GAS">Gasoline</a></td>
+  <td width="25%" class="data">115.00</td>
+
+  
+  <td nowrap="nowrap" width="40%" class="data positive">
+   +1.20 (+1.05%)
+  </td>
+  
+ </tr>
+
+ <tr class="row1">
+  <td width="10%" class="data"><span class="fcuparrow uparrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+  <td width="25%" class="data"><a target="" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24GLD">Gold</a></td>
+  <td width="25%" class="data">854.60</td>
+
+  
+  <td nowrap="nowrap" width="40%" class="data positive">
+   +17.00 (+2.03%)
+  </td>
+  
+ </tr>
+
+ <tr class="row2">
+  <td width="10%" class="data"><span class="fcuparrow uparrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+  <td width="25%" class="data"><a target="" href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=%24PLN">Platinum</a></td>
+  <td width="25%" class="data">944.00</td>
+
+  
+  <td nowrap="nowrap" width="40%" class="data positive">
+   +30.00 (+3.28%)
+  </td>
+  
+ </tr>
+ <tr class="row">
+  <td class="morelink" colspan="2">
+   <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Energy">More Energy</a> 
+  </td>
+  <td class="morelink" colspan="2">
+   <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Metals">More Metals</a> 
+  </td>
+ </tr> 
+</table>
+
+
+   <div class="boxspacing"></div>
+  </td>
+  <td class="spacer">&nbsp;</td>
+  <td style="width:50%;vertical-align:top;">
+     <table width="100%" cellspacing="0" cellpadding="0" border="0" class="headerborder">
+  <tr>
+   <td width="100%" class="header">Market Movers</td>
+  </tr>
+ </table>
+<div class="headerspacing"></div>
+
+   <style>
+.changebar .negative{
+ height: 10px;
+ background-color:red;
+}
+.changebar .positive{
+ height: 10px;
+ background-color:green;
+}
+</style>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+
+ <tr><th class="subhead" colspan="4">Percent Gainers</th></tr>
+ <tr>
+  <th class="data">Symbol</td>
+  <th class="data" width="99%">Name</td>
+  <th class="data" colspan="2">Change %</td>
+ </tr>
+ <tr class="row1">
+  <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=ZOOM">ZOOM</a></td>
+  <td class="data" nowrap="nowrap" width="99%"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=ZOOM">Zoom Technologies, I...</a></td>
+  <td nowrap="nowrap" style="text-align: right" class="data positive">+102.00%</td>
+  <td class="changebar" align="left" width="50"><div class="positive" style="width: 50px;font-size:1px;"></div></td>
+ </tr>
+ <tr class="row2">
+  <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=FFHS">FFHS</a></td>
+  <td class="data" nowrap="nowrap" width="99%"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=FFHS">First Franklin Corp</a></td>
+  <td nowrap="nowrap" style="text-align: right" class="data positive">+66.78%</td>
+  <td class="changebar" align="left" width="50"><div class="positive" style="width: 32px;font-size:1px;"></div></td>
+ </tr>
+ <tr class="row1">
+  <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=TSCC">TSCC</a></td>
+  <td class="data" nowrap="nowrap" width="99%"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=TSCC">Technology Solutions...</a></td>
+  <td nowrap="nowrap" style="text-align: right" class="data positive">+44.72%</td>
+  <td class="changebar" align="left" width="50"><div class="positive" style="width: 21px;font-size:1px;"></div></td>
+ </tr>
+ <tr class="row2">
+  <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=QGP">QGP</a></td>
+  <td class="data" nowrap="nowrap" width="99%"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=QGP">QUANTUM GROUP, Inc.</a></td>
+  <td nowrap="nowrap" style="text-align: right" class="data positive">+39.94%</td>
+  <td class="changebar" align="left" width="50"><div class="positive" style="width: 19px;font-size:1px;"></div></td>
+ </tr>
+ <tr class="row1">
+  <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=WAIN">WAIN</a></td>
+  <td class="data" nowrap="nowrap" width="99%"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=WAIN">Wainwright Bank &amp; Tr...</a></td>
+  <td nowrap="nowrap" style="text-align: right" class="data positive">+38.31%</td>
+  <td class="changebar" align="left" width="50"><div class="positive" style="width: 18px;font-size:1px;"></div></td>
+ </tr>
+
+
+ <tr><th class="subhead" colspan="4">Percent Losers</th></tr>
+ <tr>
+  <th class="data">Symbol</td>
+  <th class="data" width="99%">Name</td>
+  <th class="data" colspan="2">Change %</td>
+ </tr>
+ <tr class="row1">
+  <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=APPY">APPY</a></td>
+  <td class="data" nowrap="nowrap" width="99%"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=APPY">AspenBio Pharma, Inc.</a></td>
+  <td class="changebar" align="right" width="50"><div class="negative" style="float:right;text-align:right;width: 41px;font-size:1px;"></div><div style="clear:both"/></td>
+  <td nowrap="nowrap" class="data negative">-84.80%</td>
+ </tr>
+ <tr class="row2">
+  <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=RBS">RBS</a></td>
+  <td class="data" nowrap="nowrap" width="99%"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=RBS">THE ROYAL BANK OF SC...</a></td>
+  <td class="changebar" align="right" width="50"><div class="negative" style="float:right;text-align:right;width: 34px;font-size:1px;"></div><div style="clear:both"/></td>
+  <td nowrap="nowrap" class="data negative">-69.59%</td>
+ </tr>
+ <tr class="row1">
+  <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=AIB">AIB</a></td>
+  <td class="data" nowrap="nowrap" width="99%"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=AIB">ALLIED IRISH BANKS, ...</a></td>
+  <td class="changebar" align="right" width="50"><div class="negative" style="float:right;text-align:right;width: 29px;font-size:1px;"></div><div style="clear:both"/></td>
+  <td nowrap="nowrap" class="data negative">-59.75%</td>
+ </tr>
+ <tr class="row2">
+  <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=RBS-PM">RBS-PM</a></td>
+  <td class="data" nowrap="nowrap" width="99%"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=RBS-PM">ROYAL BANK OF SCOTLA...</a></td>
+  <td class="changebar" align="right" width="50"><div class="negative" style="float:right;text-align:right;width: 28px;font-size:1px;"></div><div style="clear:both"/></td>
+  <td nowrap="nowrap" class="data negative">-58.26%</td>
+ </tr>
+ <tr class="row1">
+  <td class="data"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=RBS-PQ">RBS-PQ</a></td>
+  <td class="data" nowrap="nowrap" width="99%"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=QUOTE&amp;Ticker=RBS-PQ">ROYAL BANK OF SCOTLA...</a></td>
+  <td class="changebar" align="right" width="50"><div class="negative" style="float:right;text-align:right;width: 27px;font-size:1px;"></div><div style="clear:both"/></td>
+  <td nowrap="nowrap" class="data negative">-56.50%</td>
+ </tr>
+
+ <tr class="row"><td colspan="4" class="morelink"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?STicker=%24MM%3AVA&amp;Page=MARKETMOVERS">More Market Movers</a></td></tr>
+</table>
+
+
+
+
+
+   <div class="boxspacing"></div>   
+      <table width="100%" cellspacing="0" cellpadding="0" border="0" class="headerborder">
+  <tr>
+   <td width="100%" class="header">Market Diary</td>
+  </tr>
+ </table>
+<div class="headerspacing"></div>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tr>
+  <th class="data" width="25%">Exchange:</th>
+  <th class="data" width="15%"><span class="fcuparrow uparrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></th>
+  <th class="data" width="15%"><span class="fcdownarrow downarrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></th>
+  <th class="data" width="15%"><span class="fcneutralarrow neutralarrow">&nbsp;&nbsp;&nbsp;&nbsp;</span></th>
+  <th class="data" width="15%">High</th>
+  <th class="data" width="15%">Low</th>
+ </tr>
+ <tr class="row1">
+  <td class="data" width="25%">NYSE</td>
+  <td class="data" width="15%">13%</td>
+  <td class="data" width="15%">84%</td>
+  <td class="data" width="15%">1%</td>
+  <td class="data" width="15%">8</td>
+  <td class="data" width="15%">140</td>
+ </tr>
+ <tr class="row2">
+  <td class="data" width="25%">AMEX</td>
+  <td class="data" width="15%">33%</td>
+  <td class="data" width="15%">57%</td>
+  <td class="data" width="15%">8%</td>
+  <td class="data" width="15%">0</td>
+  <td class="data" width="15%">11</td>
+ </tr>
+ <tr class="row1">
+  <td class="data" width="25%">NASD</td>
+  <td class="data" width="15%">16%</td>
+  <td class="data" width="15%">79%</td>
+  <td class="data" width="15%">3%</td>
+  <td class="data" width="15%">6</td>
+  <td class="data" width="15%">117</td>
+ </tr>
+ <tr class="row2">
+  <td class="data" width="25%">OTC</td>
+  <td class="data" width="15%">27%</td>
+  <td class="data" width="15%">43%</td>
+  <td class="data" width="15%">28%</td>
+  <td class="data" width="15%">60</td>
+  <td class="data" width="15%">268</td>
+ </tr>
+ <tr class="row1">
+  <td class="data" width="25%">ALL</td>
+  <td class="data" width="15%">18%</td>
+  <td class="data" width="15%">75%</td>
+  <td class="data" width="15%">6%</td>
+  <td class="data" width="15%">74</td>
+  <td class="data" width="15%">536</td>
+ </tr>
+ <tr class="row"><td colspan="6" class="morelink"><a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=MajorIndices">More Market Diary</a></td></tr>
+</table>
+
+   <div class="boxspacing"></div>
+     <table width="100%" cellspacing="0" cellpadding="0" border="0" class="headerborder">
+  <tr>
+   <td width="100%" class="header">CEO Wealthmeter</td>
+  </tr>
+ </table>
+<div class="headerspacing"></div>
+
+   
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tr class="row1">
+  <td class="data">
+   <div style="float:left">
+    <img src="https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/ceo/small/default.gif"/> 
+   </div>
+   <div class="spacer" style="float:left">&nbsp;</div>
+   <div style="float:left;vertical-align:top;margin-left:10px">
+    <span class="fcuparrow uparrow">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="data positive">+3.24M (+6.85%)</span><br/>
+    Holdings: 43.92M<br/>
+    Salary: 11.28M
+   </div>
+  </td>
+ </tr>
+ <tr class="row2">
+  <td class="data">
+   <div style="float:left;">
+    <div style="float:left">James L. Mann&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    <div style="float:right">SunGard Data Systems Inc</div>
+   </div>
+   <div style="clear:both">
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Quote&amp;Ticker=SDS">SDS</a> |
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=News&amp;Ticker=SDS">News</a> |
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Chart&amp;Ticker=SDS">Chart</a> |
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Profile&amp;Ticker=SDS">Profile</a>
+   </div>
+  </td>
+ </tr>
+ <tr class="row1">
+  <td class="data">
+   <div style="float:left">
+    <img src="https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/ceo/small/ITWO.gif"/> 
+   </div>
+   <div class="spacer" style="float:left">&nbsp;</div>
+   <div style="float:left;vertical-align:top;margin-left:10px">
+    <span class="fcuparrow uparrow">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="data positive">+2.32M (+0.32%)</span><br/>
+    Holdings: 719.00M<br/>
+    Salary: 285.87K
+   </div>
+  </td>
+ </tr>
+ <tr class="row2">
+  <td class="data">
+   <div style="float:left;">
+    <div style="float:left">Sanjiv S. Sidhu&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    <div style="float:right">i2 Technologies Inc</div>
+   </div>
+   <div style="clear:both">
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Quote&amp;Ticker=ITWO">ITWO</a> |
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=News&amp;Ticker=ITWO">News</a> |
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Chart&amp;Ticker=ITWO">Chart</a> |
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Profile&amp;Ticker=ITWO">Profile</a>
+   </div>
+  </td>
+ </tr>
+ <tr class="row1">
+  <td class="data">
+   <div style="float:left">
+    <img src="https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/ceo/small/default.gif"/> 
+   </div>
+   <div class="spacer" style="float:left">&nbsp;</div>
+   <div style="float:left;vertical-align:top;margin-left:10px">
+    <span class="fcuparrow uparrow">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="data positive">+602.15K (+50.25%)</span><br/>
+    Holdings: 1.19M<br/>
+    Salary: 225.23K
+   </div>
+  </td>
+ </tr>
+ <tr class="row2">
+  <td class="data">
+   <div style="float:left;">
+    <div style="float:left">Frank Manning, Ph.D.&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    <div style="float:right">Zoom Technologies Inc</div>
+   </div>
+   <div style="clear:both">
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Quote&amp;Ticker=ZOOM">ZOOM</a> |
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=News&amp;Ticker=ZOOM">News</a> |
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Chart&amp;Ticker=ZOOM">Chart</a> |
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=Profile&amp;Ticker=ZOOM">Profile</a>
+   </div>
+  </td>
+ </tr>
+ <tr class="row">
+  <td class="morelink" colspan="3">
+   <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=CEO">More CEO Wealthmeter</a>
+  </td>
+ </tr>
+</table>
+
+    
+     <table width="100%" cellspacing="0" cellpadding="0" border="0" class="headerborder">
+  <tr>
+   <td width="100%" class="header">My Portfolio</td>
+  </tr>
+ </table>
+<div class="headerspacing"></div>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tr><th class="subhead" colspan="4">Log In</th></tr>
+ <tr class="row">
+  <td valign="top">
+   <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <form method="post" action="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=LOGIN&amp;Action=login">
+    <tr>
+     <td class="data" width="1%" nowrap="nowrap">Username:</td>
+     <td class="data" colspan="2" width="1%" align="left"><input type="text" name="login" size="40" class="text" style="width:100px"/></td>
+    </tr>
+    <tr>
+     <td class="data" width="1%" nowrap="nowrap">Password:</td>
+     <td class="data" width="1%" align="left"><input type="password" name="password" size="30" class="text" style="width:100px;"/></td>
+     <td class="data"><input type="submit" name="Log In" value="Log In" class="button"/></td>
+    </tr>
+    </form>
+    <tr>
+     <td class="morelink" colspan="3">
+      <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=LOGIN">Create Portfolio</a>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+
+      
+      <table width="100%" cellspacing="0" cellpadding="0" border="0" class="headerborder">
+  <tr>
+   <td width="100%" class="header">Local Bank Rates</td>
+  </tr>
+ </table>
+<div class="headerspacing"></div>
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="box fcinside">
+ <form method="post" action="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=BankingRates">
+  <tr class="row">
+   <td class="data" width="1%" nowrap="nowrap">Enter ZIP Code:</td>
+   <td class="data" width="1%" align="left"><input type="text" name="ZIP" class="text" style="width: 50px;"/></td>
+   <td class="data" align="left"><input type="submit" id="searchratesbutton" name="Get Rates" value="Check Rates" class="button"/></td>
+  </tr>	 
+  <tr class="row">
+   <td colspan="3" class="morelink">
+    <a href="https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?Page=BankingRates">More Local Bank Rates</a>
+   </td>
+  </tr>
+ </form>
+</table>
+<div class="attribution">Bank rate data provided by BankingMyWay.com</div>
+
+
+ 
+  </td>
+ </tr>
+</table>
+
+
+
+ </div>
+  </td>
+  <td valign="top">
+    <script type="text/javascript">
+     var m3_u = 'https://web.archive.org/web/20090120200524/http://ads.financialcontent.com/www/delivery/ajs.php';
+     var m3_r = Math.floor(Math.random()*99999999999);
+     if (!document.MAX_used) document.MAX_used = ',';
+     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+     document.write ("?zoneid=83");
+     document.write ('&amp;cb=' + m3_r);
+     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+     document.write ("&amp;loc=" + escape(window.location));
+     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+     if (document.context) document.write ("&context=" + escape(document.context));
+     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+     document.write ("'></scr"+"ipt>");
+    </script>
+   <br/><br/>
+    <script type="text/javascript">
+     var m3_u = 'https://web.archive.org/web/20090120200524/http://ads.financialcontent.com/www/delivery/ajs.php';
+     var m3_r = Math.floor(Math.random()*99999999999);
+     if (!document.MAX_used) document.MAX_used = ',';
+     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+     document.write ("?zoneid=161");
+     document.write ('&amp;cb=' + m3_r);
+     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+     document.write ("&amp;loc=" + escape(window.location));
+     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+     if (document.context) document.write ("&context=" + escape(document.context));
+     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+     document.write ("'></scr"+"ipt>");
+    </script>
+   </td>
+ </tr>
+</table>
+
+
+<style> 
+.footerattribution {
+ text-align:center;
+ font-family:Verdana;
+ font-size: 10px; 
+ font-weight: normal; 
+ color: #888;
+ margin-top: 5px;
+}
+.footerattribution A {
+ font-family:Verdana;
+ font-size: 10px; 
+ color:#444;
+ font-weight: normal; 
+ text-decoration:none;
+}
+.footerattribution A:hover{
+ font-family:Verdana;
+ font-size: 10px; 
+ color:#44;
+ font-weight: normal; 
+ text-decoration:underline;
+}
+
+</style>
+<div class="footerattribution">
+<center>
+Powered By: <a href="https://web.archive.org/web/20090120200524/http://www.financialcontent.com/" style="font-weight:bold">FinancialContent Services, Inc.</a><br/>
+Nasdaq quotes delayed at least 15 minutes. <br/>
+NYMEX &amp; COMEX data is delayed at least 30 minutes. <br/>
+All other data is delayed at least 20 minutes. <br/>
+By accessing this page, you agree to the following 
+<a href="https://web.archive.org/web/20090120200524/http://www.financialcontent.com/web2008/tos.php" target="_new">terms and conditions</a>.<br/>
+<a href="https://web.archive.org/web/20090120200524/http://www.marketminute.com/">Stock News</a> provided by <a href="https://web.archive.org/web/20090120200524/http://www.marketminute.com/">MarketMinute.com</a>
+<br/>
+Conference calls info supplied by OpenCompany<br/>
+Fundamental data supplied by Mergent, Inc.<br/>
+Stock quote data supplied by Telekurs<br/>
+</center>
+</div>
+
+</div>
+
+</td>
+  </tr>
+</table>
+</div>
+
+<div class="footer">
+        <!--<div>
+        <a href="index.shtml">Home</a>
+    <a href="about.shtml">About - Mission Statement</a>
+        <a href="expertise.shtml">Areas of Expertise</a>
+        <a href="experience.shtml">Transaction Experience</a>
+    <a href="contact.shtml">Contact</a>
+        </div>-->
+
+<div>&copy; Copyright
+      <script>var now = new Date();document.write(now.getFullYear())</script>
+   FinancialContent, Inc.
+</div>
+</div>
+
+</body>
+</html>
+
+
+<script>
+ setTimeout("document.location.href='https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/freelunch2?Client=freelunch2'", 1000 * 300);
+</script>
+
+<script>
+function findPos(obj) {
+        var curleft = curtop = 0;
+        if (obj.offsetParent) {
+                curleft = obj.offsetLeft
+                curtop = obj.offsetTop
+                while (obj = obj.offsetParent) {
+                        curleft += obj.offsetLeft
+                        curtop += obj.offsetTop
+                }
+        }
+        return {y:curtop,x:curleft};
+}
+
+
+function format(number,decimals) {
+  var i,d;
+
+  // set default values
+  if(number=="") number=parseInt("0");
+  if(decimals=="") decimals=parseInt("2");
+
+  // round number to specified number of decimals
+  number=""+Math.round(number*Math.pow(10,decimals))*Math.pow(10,-decimals);
+
+  // find index of decimal point
+  d=number.indexOf(".");
+
+  // if no decimal point, number is an integer
+  // pad number with trailing zeros
+  if(d==-1) {
+    number=number+".";
+    for(i=0;i<decimals;i++)
+      number=number+"0";
+    return number;
+  }
+
+  // if decimal point is first index
+  // pad number with leading zero
+  if(d==0) {
+    number="0"+number;
+    d++;
+  }
+
+  // if first index is negative sign
+  // pad number with leading zero
+  if(d==1 && number.substring(0,1)=="-") {
+    number="-0" + number.substring(1,number.length);
+    d++;
+  }
+
+  // truncate number to desired length
+  number=number.substring(0,d+decimals+1);
+
+  // if number is shorter than desired length
+  // pad number with trailing zeros
+  while(number.length<=d+decimals)
+    number=number+"0";
+  return number;
+}
+
+function addSymbolToWatchlist (ticker) {
+ return _addSymbolToCookie('fc_watchlist',ticker);
+}
+function delSymbolFromWatchlist (ticker) {
+ return _delSymbolFromCookie('fc_watchlist',ticker);
+}
+function getSymbolsFromWatchlist () {
+ return _getSymbolsFromCookie('fc_watchlist');
+}
+
+function addSymbolToRecentStocks (ticker) {
+ return _addSymbolToCookie('fc_recent_stocks',ticker);
+}
+function delSymbolFromRecentStocks (ticker) {
+ return _delSymbolFromCookie('fc_recent_stocks',ticker);
+}
+function getSymbolsFromRecentStocks () {
+ return _getSymbolsFromCookie('fc_recent_stocks');
+}
+
+function _addSymbolToCookie (cookieName,ticker) {
+ var stocks = getCookie(cookieName).split(',');
+ stocks.push(ticker);
+
+ var stockHash = new Array();
+ for (var i = 0; i < stocks.length; i++) {
+  stockHash[stocks[i]] = 1;
+ }
+ 
+ var newstocks = '';
+ for (var ticker in stockHash) {
+  if (ticker.length > 0) {
+   newstocks += ticker + ',';
+  }
+ }
+ setCookie(cookieName,newstocks.toUpperCase());
+}
+
+function _delSymbolFromCookie (cookieName,ticker) {
+ var stocks = getCookie(cookieName).toUpperCase().split(',');
+ var newstocks = '';
+ for (var i = 0; i < stocks.length; i++) {
+  if (ticker.toUpperCase() != stocks[i]) {
+   newstocks += stocks[i] + ',';
+  }
+ }
+ setCookie(cookieName,newstocks.toUpperCase());
+}
+
+function _getSymbolsFromCookie (cookieName) {
+ return getCookie(cookieName).toUpperCase().split(',');
+}
+
+function getCookie(name) {
+  var dc = document.cookie;
+  var prefix = name + "=";
+  var begin = dc.indexOf("; " + prefix);
+  if (begin == -1) {
+    begin = dc.indexOf(prefix);
+    if (begin != 0) return "";
+  } else
+    begin += 2;
+  var end = document.cookie.indexOf(";", begin);
+  if (end == -1)
+    end = dc.length;
+  return unescape(dc.substring(begin + prefix.length, end));
+}
+function setCookie(name, value) {
+  var curCookie = name + "=" + value + '; expires=Sun, 17-Jan-2038 19:14:07 GMT; path=/';
+  document.cookie = curCookie;
+}
+
+
+</script>
+
+<script>
+ function hoverableOver(el) {
+  el.oldClassName = el.className;
+  el.className += ' hover';
+ }
+
+ function hoverableOut (el) {
+  el.className = el.oldClassName;
+ }
+
+ function findHoverables(el) {
+  var nodes = el.childNodes;
+  var i;
+  var hoverMenu;
+  for (i in nodes) {
+   var node = nodes[i];
+   if(node.childNodes && node.childNodes.length > 0) {
+    findHoverables(node);
+   }
+   if (node.getAttribute && node.getAttribute('hoverable') == 'true') {
+    node.setAttribute('hoverable','processed');
+    addHoverListeners(node);
+   }
+   if (node.getAttribute && node.getAttribute('hoverMenu') != null) {
+    var hoverMenuName = node.getAttribute('hoverMenu');
+    var hoverMenu;
+    if (hoverMenuName == '_next') {
+     var n = node;
+     while ((n = n.nextSibling) && (n.nodeType != 1)) {};
+     hoverMenu = n;
+    } else {
+     hoverMenu = document.getElementById(hoverMenuName);
+    }
+    node.removeAttribute('hoverMenu');
+    if (hoverMenu) {
+     addHoverMenuListeners(node,hoverMenu);
+    }
+   }
+
+  }
+ }
+
+ function addHoverListeners (el) {
+  if (el.addEventListener) {
+   el.addEventListener ("mouseover",function() {hoverableOver(el)},false);
+   el.addEventListener ("mouseout",function() {hoverableOut(el)},false);
+  } else if (el.attachEvent) {
+   el.attachEvent ("onmouseover",function() {hoverableOver(el)});
+   el.attachEvent ("onmouseout",function() {hoverableOut(el)});
+  } else {
+   el.onmouseover = function() {hoverableOver(el)};
+   el.onmouseout = function() {hoverableOut(el)}; 
+  }
+ }
+
+ var currentHoverMenu;
+ 
+ function addHoverMenuListeners (el, menu) {
+ with(menu) {
+  var overFunc = function () {
+   if (currentHoverMenu != null && currentHoverMenu != menu) {
+    currentHoverMenu.style.display = 'none';
+   }
+   currentHoverMenu = menu;
+   menu.hoverClose = 0;
+   menu.style.display = '';
+  };
+  var outRealFunc = function () {
+   if (menu.hoverClose == 1) { 
+    menu.style.display = 'none';
+   }
+  };
+  var outFunc = function () {
+   menu.hoverClose = 1;
+   setTimeout( outRealFunc, 300);
+  };
+  _hoverableAddListeners(el,overFunc,outFunc);
+  _hoverableAddListeners(menu,overFunc,outFunc);
+  }
+ }
+
+ function _hoverableAddListeners (el,overFunc, outFunc) {
+  if (el.addEventListener) {
+   el.addEventListener ("mouseover",overFunc,false);
+   el.addEventListener ("mouseout",outFunc,false);
+  } else if (el.attachEvent) {
+   el.attachEvent ("onmouseover",overFunc);
+   el.attachEvent ("onmouseout",outFunc);
+  } else {
+   el.onmouseover = overFunc;
+   el.onmouseout = outFunc; 
+  }
+ }
+
+
+ setTimeout("findHoverables(document.body)",1);
+ setTimeout("findHoverables(document.body)",2000);
+ setTimeout("findHoverables(document.body)",5000);
+ setTimeout("findHoverables(document.body)",25000);
+</script>
+
+
+<style>
+ .tp_outer {
+  width: 252px;
+  xoverflow:hidden;
+ }
+ .tp_outer * {
+  
+ }
+ .tp_top {
+  background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/tickerpopup/box2/top.png);
+  background-repeat: no-repeat;
+  height: 31px;
+ }
+ .tp_middle {
+  background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/tickerpopup/box2/middle.png);
+  background-repeat: repeat-y;
+  padding: 0px 8px 0px 2px;
+ }
+ .tp_bottom {
+  background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/tickerpopup/box2/bottom.png);
+  background-repeat: no-repeat;
+  height: 18px;
+ }
+
+ .tp_middle_table {
+  position:relative;
+  margin-top: -10px;
+  margin-bottom: 0px
+ }
+ .tp_middle_table2 TH {
+  text-align:right;
+  padding: 6px 6px 3px 6px;
+ }
+ .tp_middle_table2 TD {
+  text-align:left;
+  padding: 2px 6px 2px 2px;
+ }
+ .tp_hd {
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+ }
+ .tp_quoterow {
+  font-weight: bold;
+  text-align: center;
+  padding: 2px 8px 8px 8px;
+  border-bottom: 1px solid #AAA;
+ }
+ .tp_links TD {
+  text-align: center;
+  border-top: 1px solid #AAA;
+  border-bottom: 1px solid #AAA;
+  background: #EEE;
+ }
+ .tp_links A {
+  font-weight: bold;
+  display: block;
+  padding: 6px;
+ }
+ .tp_quote {
+  margin: 0 auto;
+  text-align: left;
+  white-space: nowrap;
+ }
+ .tp_chart {
+  text-align: center;
+ }
+
+</style>
+<!--[if lt IE 7.]>
+<style>
+ .tp_top {
+  background-image: none;
+  filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://images.financialcontent.com/studio-5.0/tickerpopup/box2/top.png', sizingMethod='scale');
+ }
+ .tp_middle {
+  background-image: none;
+  filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://images.financialcontent.com/studio-5.0/tickerpopup/box2/middle.png', sizingMethod='scale');
+  height: 100px;
+ }
+ .tp_bottom {
+  background-image: none;
+  filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://images.financialcontent.com/studio-5.0/tickerpopup/box2/bottom.png', sizingMethod='scale');
+ }
+</style>
+<![endif]-->
+
+<script>
+var tp_ticker;
+var tp_close = 0;
+var tp_timer;
+
+function tickerOver (tickerPopupLink) {
+ tp_close = 0;
+
+ tp_ticker = tickerPopupLink.innerHTML;
+ 
+ var tickerpopup = document.getElementById('tickerpopup');
+ tickerpopup.style.display = 'block';
+ 
+ var position = findPos(tickerPopupLink);
+ tickerpopup.style.top = position.y + tickerPopupLink.offsetHeight + "px";
+ if (position.x > 25) {
+  tickerpopup.style.left = position.x - 25 + "px";
+ } else {
+  tickerpopup.style.left = "0px";
+ }
+
+ var headTag = document.getElementsByTagName("head").item(0);
+ var scriptTag = document.createElement("script");
+ scriptTag.src = 'https://web.archive.org/web/20090120200524/http://feeds.financialcontent.com/JSQuote?Account=tickerpopup&Callback=tickerPopupQuoteCallback&Ticker=' + tp_ticker;
+
+ headTag.appendChild( scriptTag );
+
+ document.getElementById('tp_chart').src = 'https://web.archive.org/web/20090120200524/http://chart.financialcontent.com/Chart?width=200&height=100&interval=1&shwidth=0&type=0&volume=0&bgcolor=null&grcolor=BBBBBB&lncolor=666666&brcolor=666666&shcolor=BBBBBB&txcolor=666666&itcolor=D4D4D4&pvcolor=F46D3C&bvcolor=FFFFFF&gtcolor=666666&gbcolor=FFFFFF&vucolor=008000&vdcolor=FF0000&ibcolor=null&arcolor=null&fillalpha=40&ticker=' + tp_ticker;
+}
+
+function tickerOut (tickerPopupLink) {
+ if (tp_timer) {
+  clearTimeout(tp_timer);
+ }
+ tp_close = 1;
+ tp_timer = setTimeout("tickerClose()",700);
+}
+
+function tickerClose () {
+ if (tp_close) {
+  var tickerpopup = document.getElementById('tickerpopup');
+  tickerpopup.style.display = 'none';
+ }
+}
+
+function tickerPopupQuoteCallback (quotes) {
+ for (var q in quotes) {
+  var quote = quotes[q];
+  tickerPopupSetQuote(quote);
+  return;
+ }
+
+ tickerPopupSetQuote({ Name: tp_ticker});
+}
+
+function tickerPopupLink (page) {
+ location.href = "https://web.archive.org/web/20090120200524/http://finance.huffingtonpost.com/robots.txt?&Page=" + page + "&Ticker=" + tp_ticker;
+ return null;
+}
+
+function tickerPopupSetQuote(quote) {
+  document.getElementById('tp_header').innerHTML = quote['Name'];
+
+  if (quote['Last'] > 0 && quote['PrevClose'] > 0) {
+   var changePrice = quote['Last'] - quote['PrevClose'];
+   var changePercent = changePrice * 100 / quote['Last'];
+  
+   changePrice = format(changePrice,2);
+   changePercent = format(changePercent,2);
+
+   var tp_quotes = document.getElementById('tp_quote').getElementsByTagName('span');
+   tp_quotes[0].innerHTML = quote['Last'];
+   tp_quotes[1].innerHTML = changePrice;
+   tp_quotes[2].innerHTML = changePercent;
+   tp_quotes[3].innerHTML = quote['Open'];
+   tp_quotes[4].innerHTML = quote['Low'];
+   tp_quotes[5].innerHTML = quote['High'];
+  }
+}
+
+function fixTickerAnchors () {
+ var anchors = document.getElementsByName('tickerLink');
+ for (var i = 0; i < anchors.length; i++) {
+  addTickerListeners(anchors[i]);
+  anchors[i].name = 'tickerLinkFixed';
+ }
+}
+
+ function addTickerListeners (el) {
+  if (el.addEventListener) {
+   el.addEventListener ("mouseover",function() {tickerOver(el)},false);
+   el.addEventListener ("mouseout",function() {tickerOut(el)},false);
+  } else if (el.attachEvent) {
+   el.attachEvent ("onmouseover",function() {tickerOver(el)});
+   el.attachEvent ("onmouseout",function() {tickerOut(el)});
+  } else {
+   el.onmouseover = function() {tickerOver(el)};
+   el.onmouseout = function() {tickerOut(el)};
+  }
+ }
+
+
+setTimeout('fixTickerAnchors()',10);
+setTimeout('fixTickerAnchors()',1000);
+setTimeout('fixTickerAnchors()',3000);
+setTimeout('fixTickerAnchors()',5000);
+setTimeout('fixTickerAnchors()',10000);
+
+</script>
+<div class="fc tp_outer" id="tickerpopup" style="display:none; position:absolute;" onmouseover="tp_close = 0;" onmouseout="tickerOut(this)">
+ <div class="tp_top"></div>
+ <div class="tp_middle">
+   <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tp_middle_table">
+    <tr>
+     <td colspan="6" class="tp_hd" id="tp_header">COMPANY NAME
+	</td>
+    </tr>
+    <tr class="tp_links">
+     <td>&nbsp;</td>
+     <td class="tp_link">
+      <a href="javascript:" onclick="return tickerPopupLink('QUOTE')">Quote</a>
+     </td>
+     <td class="tp_link">
+      <a href="javascript:" onclick="return tickerPopupLink('NEWS')">News</a>
+     </td>
+     <td class="tp_link">
+      <a href="javascript:" onclick="return tickerPopupLink('CHART')">Chart</a>
+     </td>
+     <td class="tp_link">
+      <a href="javascript:" onclick="return tickerPopupLink('PROFILE')">Profile</a>
+     </td>
+     <td>&nbsp;</td>
+    </tr>
+   </table>
+   <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tp_middle_table2">
+    <tr>
+     <td colspan="6">
+      <table border="0" cellpadding="0" cellspacing="0" id="tp_quote" class="tp_quote">
+       <tr> 
+        <th>Last:</th>
+        <td><span/></td>
+        <th>Change:</th>
+        <td><span> </span> (<span> </span>%)</td>
+       </tr>
+       <tr>
+        <th>Open:</th>
+        <td><span/></td>
+        <th>Range:</th>
+        <td><span> </span>&nbsp;-&nbsp;<span> </span></td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td colspan="6" class="tp_chart"><img id="tp_chart" style="margin:0 auto"/></td>
+    </tr>
+   </table>
+ </div>
+ <div class="tp_bottom"></div>
+</div>
+
+
+<script>
+ var email_url;
+ var email_title;
+ 
+ function emailAFriend (element,url,title) {
+  var emailbox = document.getElementById('emailbox');
+  var emailtitle = document.getElementById('emailtitle');
+  emailtitle.innerHTML = title;
+  email_title = title;
+  email_url = url;
+  
+  var emailsubmit = document.getElementById('email_submit');
+  emailsubmit.disabled = 0;
+  emailsubmit.value = 'Send Email';
+  
+  var position = findPos(element);
+  emailbox.style.top = position.y + element.offsetHeight + "px";
+  emailbox.style.left = position.x + "px";
+  emailbox.style.display = 'block';
+ }
+
+ function closeEmailBox () {
+  document.getElementById('emailbox').style.display = 'none';
+  return false;
+ }
+
+ function emailAFriendSubmit () {
+  var script_src = 'https://web.archive.org/web/20090120200524/http://dev.studio-5.financialcontent.com?Method=email';
+  script_src += '&EmailTitle='
+  script_src += escape(email_title);
+  script_src += '&EmailURL='
+  script_src += escape(email_url);
+  script_src += '&EmailYourName='
+  script_src += escape(document.getElementById('email_yourname').value);
+  script_src += '&EmailYourEmail='
+  script_src += escape(document.getElementById('email_youremail').value);
+  script_src += '&EmailFriendsEmail='
+  script_src += escape(document.getElementById('email_friendsemail').value);
+  script_src += '&EmailMessage='
+  script_src += escape(document.getElementById('email_message').value);
+
+  //alert(script_src);
+  
+  var emailsubmit = document.getElementById('email_submit');
+  emailsubmit.disabled = 1;
+  emailsubmit.value = 'Sending...';
+ 
+  var headTag = document.getElementsByTagName("head").item(0);
+  var scriptTag = document.createElement("script");
+  scriptTag.src = script_src;
+  headTag.appendChild( scriptTag );
+
+ }
+ function emailAFriendCallback (stat) {
+  alert(stat);
+  closeEmailBox();
+ }
+</script>
+<!-- EMAIL POP DIV -->
+<div class="emailbox" id="emailbox">
+	<div class="closewindow icon_closewin"><a href="#" onclick="return closeEmailBox()">close window</a></div>
+	<div class="emailbox_title">E-mail Article to a Friend</div>
+
+	<div style="clear:both"></div>
+	<div class="emailtitle" id="emailtitle"></div>
+	<form style="padding: 0px; margin: 0px;" onsubmit="emailAFriendSubmit(this); return false;">
+	<input type="text" id="email_yourname" value="Your Name" class="info"/><br>
+	<input type="text" id="email_youremail" value="Your Email" class="info"/><br>
+	<input type="text" id="email_friendsemail" value="Friend's Email" class="info"/><br>
+	<textarea id="email_message" class="textarea"></textarea><br>
+	<input type="submit" id="email_submit" name="Send" value="Send" class="send_email"/>
+
+	</form>
+</div>
+<style>
+/* EMAIL A FRIEND POP DIV WINDOW */
+.emailbox {
+ display:none;
+ position:absolute;
+ z-index: 100000;
+ margin:15px;
+ width: 300px;
+ padding: 10px;
+ border: 1px solid #646464;
+ background: #F7F7F7;
+ }
+ 
+.emailbox_title{
+ font-family:verdana,arial,sans-serif;
+ font-size:10px; 
+ font-weight:bold;
+ color:#646464;
+ padding:4px 5px 4px 26px;
+ line-height: 20px;
+ border: solid #B4B4B4 1px;
+ background-image: url(/web/20090120200524im_/http://finance.huffingtonpost.com/images/icon_email.gif);
+ background-repeat: no-repeat;
+ background-position: 5px 8px;
+ background-color:#FFFFFF;
+}
+.emailtitle{
+ font-family:verdana,arial,sans-serif;
+ font-size:11px; 
+ font-weight:normal;
+ color:#000000;
+ margin: 10px 0px 10px 0px;
+}
+.emailbox INPUT.info{
+ font-family:verdana,arial,sans-serif;
+ font-size: 11px;
+ color:#646464;
+ border: 1px solid #646464;
+ width: 200px;
+ font-weight: normal;
+ padding:2px;
+ margin-bottom:5px;
+}
+
+.emailbox TEXTAREA.textarea{
+ font-family:verdana,arial,sans-serif;
+ font-size: 11px;
+ font-weight: normal;
+ color:#646464;
+ overflow:auto;
+ border: 1px solid #646464;
+ padding:2px;
+ margin-bottom:5px;
+ width:295px;
+ height:100px;
+}
+.emailbox INPUT.send_email {
+ font-family:verdana,arial,sans-serif;
+ font-size: 11px;
+ font-weight: normal;
+ color: #000000;
+ background-color: #EEEEEE;
+ border: 1px outset #646464;
+ cursor:pointer;
+ cursor:hand;
+ padding:2px;
+}
+/* CLOSE POP DIV WINDOW */
+.closewindow{
+ margin:5px 2px 0px 0px;
+ float:right;
+} 
+ 
+.closewindow A{
+ font-family:verdana,arial,sans-serif;
+ font-size:9px; 
+ font-weight:normal;
+ color:#646464;
+ text-decoration:none;  
+ padding:5px;
+}
+.closewindow A:hover{ 
+ color:#000; 
+ text-decoration: underline;
+} 
+ 
+.icon_closewin a{
+ background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/media/icon_closewin.gif);
+ background-repeat: no-repeat;
+ background-position: 5px 4px;
+ padding-left: 26px;
+}
+.icon_closewin a:hover{
+ background-image: url(https://web.archive.org/web/20090120200524im_/http://images.financialcontent.com/studio-5.0/media/icon_closewin_over.gif);
+ background-repeat: no-repeat;
+ background-position: 5px 4px;
+ padding-left: 26px;
+}
+</style>
+
+<style>
+ #fc_popup {
+  z-index:10000;
+  position: absolute; 
+  display: none; 
+  top: 35px; 
+  left: 35px; 
+  background: white; 
+  border: 1px solid #AAA;
+  padding: 0px;
+  margin: 0px;
+  overflow:hidden;
+ }
+ #fc_popup_title {
+  z-index:91000;
+  height: 24px; 
+  vertical-align: middle; 
+  line-height: 24px; 
+  text-align: right; 
+  background-color: #CCC; 
+  border-bottom: 1px solid #AAA;
+ }
+ #fc_popup_iframe {
+  z-index:92000;
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+  background-color: #FFFFFF;
+ }
+</style>
+
+<div id="fc_popup" class="fc">
+ <div id="fc_popup_title"><a href="#" onclick="closeFCPopup(); return false">CLOSE WINDOW</a>&nbsp;&nbsp;</div>
+ <iframe id="fc_popup_iframe"></iframe>
+</div>
+
+<script>
+
+function openFCPopup (url) {
+ document.getElementById('fc_popup_iframe').src = url;
+ document.getElementById('fc_popup').style.display = 'block';
+ //alert(fc_popup.innerHTML);
+ return false;
+}
+
+function closeFCPopup () {
+ document.getElementById('fc_popup_iframe').src = '';
+ document.getElementById('fc_popup').style.display = 'none';
+ return false;
+}
+
+ function findPopables() {
+  var nodes = document.getElementsByTagName('A');
+  var i;
+  for (i in nodes) {
+   var node = nodes[i];
+   if (node.getAttribute && node.getAttribute('popable') == 'true') {
+    eval("node.onclick = function () { openFCPopup('" + node.href + "'); return false; }");
+   }
+  }
+ }
+
+setTimeout('findPopables()',10);
+
+
+
+var popupTimer = null;
+function runPopupTimer() {
+ if (popupTimer != null) clearTimeout(popupTimer);
+ calcPopupPosition();
+ 
+ popupTimer = setTimeout('runPopupTimer()',1000);
+}
+runPopupTimer();
+
+function calcPopupPosition() {
+ var fc_popup = document.getElementById('fc_popup');
+ var fc_popup_iframe = document.getElementById('fc_popup_iframe');
+
+ var windowSize = getWindowDimensions();
+ var scrollOffset = getScrollOffset();
+ 
+ fc_popup.style.top = (scrollOffset.y + 35) + "px";
+ fc_popup.style.left = (scrollOffset.x + 35) +"px";
+ 
+ fc_popup.style.width = (windowSize.x - 35 - 35) + "px";
+ fc_popup_iframe.style.width = (windowSize.x - 35 - 35) + "px";
+ fc_popup_iframe.style.height = (windowSize.y - 35 - 61) + "px";
+}
+
+function getWindowDimensions() {
+var x,y;
+if (self.innerHeight) // all except Explorer
+{
+	x = self.innerWidth;
+	y = self.innerHeight;
+}
+else if (document.documentElement && document.documentElement.clientHeight)
+	// Explorer 6 Strict Mode
+{
+	x = document.documentElement.clientWidth;
+	y = document.documentElement.clientHeight;
+}
+else if (document.body) // other Explorers
+{
+	x = document.body.clientWidth;
+	y = document.body.clientHeight;
+}
+
+return {x: x, y: y};
+}
+
+function getScrollOffset() {
+var x,y;
+if (self.pageYOffset) // all except Explorer
+{
+	x = self.pageXOffset;
+	y = self.pageYOffset;
+}
+else if (document.documentElement && document.documentElement.scrollTop)
+	// Explorer 6 Strict
+{
+	x = document.documentElement.scrollLeft;
+	y = document.documentElement.scrollTop;
+}
+else if (document.body) // all other Explorers
+{
+	x = document.body.scrollLeft;
+	y = document.body.scrollTop;
+}
+
+return {x: x, y: y};
+}
+
+
+window.onscroll = calcPopupPosition;
+window.onresize = calcPopupPosition;
+</script>
+
+<!--
+     FILE ARCHIVED ON 20:05:24 Jan 20, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:59:45 Jul 26, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 1716.747
+  exclusion.robots: 0.336
+  exclusion.robots.policy: 0.323
+  RedisCDXSource: 5.094
+  esindex: 0.011
+  LoadShardBlock: 1684.34 (3)
+  PetaboxLoader3.datanode: 848.671 (4)
+  CDXLines.iter: 23.418 (3)
+  PetaboxLoader3.resolve: 2135.317 (2)
+  load_resource: 1339.52
+-->

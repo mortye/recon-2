@@ -1,0 +1,327 @@
+[
+    {
+        "arguments": "/home/morty/tools/Tools/dnsrecon/dnsrecon.py -d buzzfeed.com -a -j subdomains/zonetransfer.json",
+        "date": "2021-07-21 09:52:42.653000",
+        "type": "ScanInfo"
+    },
+    {
+        "ns_server": "205.251.192.166",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5303:f700::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5306:1200::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5305:5700::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.197.87",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.198.18",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.195.247",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5300:a600::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "address": "205.251.197.87",
+        "domain": "buzzfeed.com",
+        "mname": "ns-1367.awsdns-42.org",
+        "type": "SOA"
+    },
+    {
+        "address": "2600:9000:5305:5700::1",
+        "domain": "buzzfeed.com",
+        "mname": "ns-1367.awsdns-42.org",
+        "type": "SOA"
+    },
+    {
+        "Version": "",
+        "address": "205.251.195.247",
+        "domain": "buzzfeed.com",
+        "recursive": "True",
+        "target": "ns-1015.awsdns-62.net",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5303:f700::1",
+        "domain": "buzzfeed.com",
+        "recursive": "False",
+        "target": "ns-1015.awsdns-62.net",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "205.251.197.87",
+        "domain": "buzzfeed.com",
+        "recursive": "True",
+        "target": "ns-1367.awsdns-42.org",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5305:5700::1",
+        "domain": "buzzfeed.com",
+        "recursive": "False",
+        "target": "ns-1367.awsdns-42.org",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "205.251.198.18",
+        "domain": "buzzfeed.com",
+        "recursive": "True",
+        "target": "ns-1554.awsdns-02.co.uk",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5306:1200::1",
+        "domain": "buzzfeed.com",
+        "recursive": "False",
+        "target": "ns-1554.awsdns-02.co.uk",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "205.251.192.166",
+        "domain": "buzzfeed.com",
+        "recursive": "True",
+        "target": "ns-166.awsdns-20.com",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5300:a600::1",
+        "domain": "buzzfeed.com",
+        "recursive": "False",
+        "target": "ns-166.awsdns-20.com",
+        "type": "NS"
+    },
+    {
+        "address": "64.233.184.27",
+        "domain": "buzzfeed.com",
+        "exchange": "aspmx4.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "142.250.153.27",
+        "domain": "buzzfeed.com",
+        "exchange": "aspmx5.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "64.233.186.26",
+        "domain": "buzzfeed.com",
+        "exchange": "alt1.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "209.85.202.27",
+        "domain": "buzzfeed.com",
+        "exchange": "aspmx3.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "64.233.186.27",
+        "domain": "buzzfeed.com",
+        "exchange": "aspmx2.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "173.194.207.26",
+        "domain": "buzzfeed.com",
+        "exchange": "aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "209.85.202.27",
+        "domain": "buzzfeed.com",
+        "exchange": "alt2.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "2a00:1450:400c:c0b::1a",
+        "domain": "buzzfeed.com",
+        "exchange": "aspmx4.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "2a00:1450:4013:c16::1a",
+        "domain": "buzzfeed.com",
+        "exchange": "aspmx5.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "2800:3f0:4003:c00::1a",
+        "domain": "buzzfeed.com",
+        "exchange": "alt1.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "2a00:1450:400b:c00::1a",
+        "domain": "buzzfeed.com",
+        "exchange": "aspmx3.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "2800:3f0:4003:c00::1a",
+        "domain": "buzzfeed.com",
+        "exchange": "aspmx2.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "2607:f8b0:400d:c0b::1a",
+        "domain": "buzzfeed.com",
+        "exchange": "aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "2a00:1450:400b:c00::1b",
+        "domain": "buzzfeed.com",
+        "exchange": "alt2.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "54.192.101.86",
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "type": "A"
+    },
+    {
+        "address": "54.192.101.22",
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "type": "A"
+    },
+    {
+        "address": "54.192.101.33",
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "type": "A"
+    },
+    {
+        "address": "54.192.101.37",
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "type": "A"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "globalsign-domain-verification=wvdz6fqNpGYoUxoyCbEUOYrkz-Z8Nh2zXAoS8lsLRh",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "docusign=341d12f2-1af7-4ee4-811e-c9f64a7ea304",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "dropbox-domain-verification=qqtc01ox8n54",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "adobe-idp-site-verification=82dd13381f860472d15ec91a855861633ea9e0f4588d09975b00c1706738826b",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "status-page-domain-verification=9ns310zfq6gq",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "MS=ms58340428",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "have-i-been-pwned-verification=da11cf5dfccbcda70de5ab22262c3804",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "google-site-verification=H3jFHrTyfApayeoRYwc98LSOR3U3ogkR9Sk3qyPqKfg",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "apple-domain-verification=iel8aKeA2aVjpi4w",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "fkq78y1b81112ybncqql5m7mhszq0gt8",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "v=spf1 include:_spf.google.com include:mailgun.org include:aspmx.sailthru.com include:spf1.buzzfeed.com ip4:52.222.62.51 ip4:52.222.73.120 ip4:52.222.73.83 ip4:52.222.75.85 ip4:54.186.193.102 ip4:23.21.109.197 ip4:23.21.109.212 -all",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "_globalsign-domain-verification=rxc48ocR2PhwobuGALz3D9ljNu6LWDgGmlBkqwbt5g",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "apple-domain-verification=QbcAyK97gEW6u0eK",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "facebook-domain-verification=vm5i55h3uxgjns1oyn95c19dqr3d19",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "buzzfeed.com",
+        "strings": "_globalsign-domain-verification=f-B_7ErtvSe_2e1SkhSsTab6DQA-AVd2vcvY3gqskQ",
+        "type": "TXT"
+    },
+    {
+        "domain": "buzzfeed.com",
+        "name": "_dmarc.buzzfeed.com",
+        "strings": "v=DMARC1; p=quarantine;pct=100; rua=mailto:buzzfeed+dmarc@buzzfeed.com,mailto:z81afvrt@ag.dmarcian.com; ruf=mailto:buzzfeed+dmarc@buzzfeed.com,mailto:z81afvrt@fr.dmarcian.com",
+        "type": "TXT"
+    }
+]

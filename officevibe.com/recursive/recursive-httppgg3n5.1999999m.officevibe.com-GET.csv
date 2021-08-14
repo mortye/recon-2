@@ -1,0 +1,13 @@
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+..;/manager/text,http://pgg3n5.1999999m.officevibe.com/..;/manager/text,,27608,404,197,10,10,text/html;charset=iso-8859-1,8.653158ms,
+..;/html,http://pgg3n5.1999999m.officevibe.com/..;/html,,36075,404,197,10,10,text/html;charset=iso-8859-1,7.8955ms,
+..;/admin,http://pgg3n5.1999999m.officevibe.com/..;/admin,,40580,404,197,10,10,text/html;charset=iso-8859-1,8.150222ms,
+..;/manager/html,http://pgg3n5.1999999m.officevibe.com/..;/manager/html,,62359,404,197,10,10,text/html;charset=iso-8859-1,10.147131ms,
+..;/examples/websocket/index.xhtml,http://pgg3n5.1999999m.officevibe.com/..;/examples/websocket/index.xhtml,,72582,404,197,10,10,text/html;charset=iso-8859-1,7.937639ms,
+..;/examples/servlets/index.html,http://pgg3n5.1999999m.officevibe.com/..;/examples/servlets/index.html,,106688,404,197,10,10,text/html;charset=iso-8859-1,9.605938ms,
+..;/www,http://pgg3n5.1999999m.officevibe.com/..;/www,,130247,404,197,10,10,text/html;charset=iso-8859-1,10.336829ms,
+..;,http://pgg3n5.1999999m.officevibe.com/..;,,130429,404,197,10,10,text/html;charset=iso-8859-1,8.542168ms,
+..;/examples/jsp/index.html,http://pgg3n5.1999999m.officevibe.com/..;/examples/jsp/index.html,,137656,404,197,10,10,text/html;charset=iso-8859-1,8.157907ms,
+..;/..;,http://pgg3n5.1999999m.officevibe.com/..;/..;,,180963,404,197,10,10,text/html;charset=iso-8859-1,10.527896ms,
+..;/console,http://pgg3n5.1999999m.officevibe.com/..;/console,,208900,404,197,10,10,text/html;charset=iso-8859-1,8.427565ms,
+..;/x,http://pgg3n5.1999999m.officevibe.com/..;/x,,235811,404,197,10,10,text/html;charset=iso-8859-1,9.556432ms,

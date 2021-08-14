@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20110723055126if_/http://images.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Server: nginx/1.15.8
+< X-Cache-Key: httpsweb.archive.org/web/20110723055126if_/http://images.huffingtonpost.com/robots.txtUS
+< X-Page-Cache: MISS
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Redirect-Reason: found capture at 20110723085545
+< X-Tr: 3923
+< X-Rl: 0
+< Date: Mon, 26 Jul 2021 16:00:19 GMT
+< Connection: keep-alive
+< Location: https://web.archive.org/web/20110723085545if_/http://images.huffingtonpost.com/robots.txt
+< X-Location: All
+< X-Nid: -
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 0
+< Server-Timing: load_resource;dur=271.115069, CDXLines.iter;dur=184.612468, LoadShardBlock;dur=517.392191, exclusion.robots.policy;dur=0.233557, esindex;dur=0.014245, captures_list;dur=3316.834634, PetaboxLoader3.datanode;dur=171.896471, RedisCDXSource;dur=6.079651, exclusion.robots;dur=0.243457, PetaboxLoader3.resolve;dur=197.628587
+< X-App-Server: wwwb-app105
+< X-Ts: 302

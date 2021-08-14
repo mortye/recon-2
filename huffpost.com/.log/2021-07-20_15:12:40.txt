@@ -1,0 +1,101 @@
+Warning: Output is not a terminal (fd=1).
+Traceback (most recent call last):
+  File "theHarvester.py", line 7, in <module>
+    from theHarvester import __main__
+  File "/home/morty/tools/Tools/theHarvester/theHarvester/__main__.py", line 4, in <module>
+    from theHarvester.discovery import dnssearch, takeover, shodansearch
+  File "/home/morty/tools/Tools/theHarvester/theHarvester/discovery/takeover.py", line 1, in <module>
+    from theHarvester.lib.core import *
+  File "/home/morty/tools/Tools/theHarvester/theHarvester/lib/core.py", line 6, in <module>
+    import aiohttp
+ModuleNotFoundError: No module named 'aiohttp'
+jq: error (at <stdin>:99): Cannot iterate over null (null)
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+cat: .tmp/analytics_subs_resolved.txt: No such file or directory
+cat: .tmp/output_cloud.txt: No such file or directory
+failed to parse url http://e.huffpost.com/%22%3C%= [parse "http://e.huffpost.com/%22%3C%=": invalid URL escape "%="]
+failed to parse url http://e.huffpost.com/%22/images/headshots/skinny/%3C%= [parse "http://e.huffpost.com/%22/images/headshots/skinny/%3C%=": invalid URL escape "%="]
+failed to parse url http://e.huffpost.com/%22http://e.huffpost.com/elections/images/%3C%= [parse "http://e.huffpost.com/%22http://e.huffpost.com/elections/images/%3C%=": invalid URL escape "%="]
+failed to parse url http://e.huffpost.com/election-2012/images/headshots/county/%3C%=%20candidate.last_name.toLowerCase()%20% [parse "http://e.huffpost.com/election-2012/images/headshots/county/%3C%=%20candidate.last_name.toLowerCase()%20%": invalid URL escape "%=%"]
+failed to parse url http://e.huffpost.com/elections/assets/3C%=%20slug%20 [parse "http://e.huffpost.com/elections/assets/3C%=%20slug%20": invalid URL escape "%=%"]
+failed to parse url http://e.huffpost.com/elections/assets/3C%=%20twitter_url%20 [parse "http://e.huffpost.com/elections/assets/3C%=%20twitter_url%20": invalid URL escape "%=%"]
+failed to parse url http://e.huffpost.com/elections/assets/3C%=%20url%20 [parse "http://e.huffpost.com/elections/assets/3C%=%20url%20": invalid URL escape "%=%"]
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/3.225.174.173/443: Connection timed out
+Fatal error: Can't connect to "3.225.174.173:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/34.199.147.118/443: Connection timed out
+Fatal error: Can't connect to "34.199.147.118:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/34.210.221.36/443: Connection timed out
+Fatal error: Can't connect to "34.210.221.36:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/34.214.155.242/443: Connection timed out
+Fatal error: Can't connect to "34.214.155.242:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.200.251.124/443: Connection timed out
+Fatal error: Can't connect to "52.200.251.124:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.4.52.199/443: Connection timed out
+Fatal error: Can't connect to "52.4.52.199:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.86.107.13/443: Connection timed out
+Fatal error: Can't connect to "52.86.107.13:443"
+Make sure a firewall is not between you and your scanning target!

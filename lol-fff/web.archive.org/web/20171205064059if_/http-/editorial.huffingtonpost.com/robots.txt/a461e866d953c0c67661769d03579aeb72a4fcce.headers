@@ -1,0 +1,32 @@
+GET https://web.archive.org/web/20171205064059if_/http://editorial.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Src: liveweb-20171205203337/cachegw-20171205054020-wwwb-app0.us.archive.org.warc.gz
+< X-Na: 0
+< Date: Mon, 26 Jul 2021 16:00:28 GMT
+< X-Archive-Orig-Vary: Host,Accept-Encoding
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Guessed-Content-Type: text/html
+< Memento-Datetime: Tue, 05 Dec 2017 06:40:59 GMT
+< X-Nid: -
+< X-App-Server: wwwb-app103
+< X-Ts: 200
+< Link: <http://editorial.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://editorial.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://editorial.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20071013003918/http://editorial.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Sat, 13 Oct 2007 00:39:18 GMT", <https://web.archive.org/web/20171122011449/http://editorial.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Wed, 22 Nov 2017 01:14:49 GMT", <https://web.archive.org/web/20171205064059/http://editorial.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 05 Dec 2017 06:40:59 GMT", <https://web.archive.org/web/20171207073851/http://editorial.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Thu, 07 Dec 2017 07:38:51 GMT", <https://web.archive.org/web/20201118125622/https://editorial.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Wed, 18 Nov 2020 12:56:22 GMT"
+< Server-Timing: load_resource;dur=136.973718, exclusion.robots.policy;dur=0.331581, LoadShardBlock;dur=254.993191, captures_list;dur=348.580645, CDXLines.iter;dur=25.582088, PetaboxLoader3.resolve;dur=99.791008, RedisCDXSource;dur=24.307226, PetaboxLoader3.datanode;dur=263.434704, esindex;dur=0.016329, exclusion.robots;dur=0.349873
+< X-Location: All
+< X-Rl: 0
+< Connection: keep-alive
+< X-Archive-Orig-Date: Tue, 05 Dec 2017 06:40:59 GMT
+< X-Archive-Orig-P3p: CP='NO P3P'
+< X-Archive-Orig-Connection: Close
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< X-Archive-Orig-Server: Apache
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Guessed-Charset: utf-8
+< Content-Type: text/html; charset=utf-8
+< X-Archive-Orig-Content-Length: 450
+< X-Tr: 523
+< X-Cache-Key: httpsweb.archive.org/web/20171205064059if_/http://editorial.huffingtonpost.com/robots.txtUS

@@ -1,0 +1,6 @@
+302 235 http://edittraining.buzzfeed.com/%2e/admin
+302 236 http://edittraining.buzzfeed.com/./admin/.
+302 243 http://edittraining.buzzfeed.com/.nsf/../winnt/win.ini
+302 245 http://edittraining.buzzfeed.com/./web-inf/web.xml
+302 246 http://edittraining.buzzfeed.com/.//web-inf/web.xml
+302 253 http://edittraining.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess

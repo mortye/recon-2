@@ -1,0 +1,2 @@
+[2021-07-21 06:05:51] [unauthenticated-cache-purge] [http] [low] https://production-hector.use1.huffpo.net
+[2021-07-21 06:05:51] [unauthenticated-cache-purge] [http] [low] https://qa-kraken.use1.huffpo.net

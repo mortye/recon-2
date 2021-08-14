@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20180503211621if_/https://elections.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Archive-Orig-Date: Thu, 03 May 2018 21:16:22 GMT
+< Cache-Control: max-age=1800
+< X-Page-Cache: MISS
+< Server-Timing: captures_list;dur=852.663916, exclusion.robots;dur=0.694976, exclusion.robots.policy;dur=0.258285, RedisCDXSource;dur=1.747878, esindex;dur=0.008010, LoadShardBlock;dur=405.137630, PetaboxLoader3.datanode;dur=398.147075, CDXLines.iter;dur=63.583262, load_resource;dur=235.102629, PetaboxLoader3.resolve;dur=154.104299
+< X-Cache-Key: httpsweb.archive.org/web/20180503211621if_/https://elections.huffingtonpost.com/robots.txtUS
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/html; charset=iso-8859-1
+< Connection: keep-alive
+< Location: https://web.archive.org/web/20180503211621if_/http://elections.huffingtonpost.com/
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Na: 0
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Src: liveweb-20180504053139/cachegw-20180503193800-wwwb-app10.us.archive.org.warc.gz
+< X-Location: All
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 18:41:49 GMT
+< X-Archive-Orig-Connection: Keep-Alive
+< Link: <http://www.elections.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.elections.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.elections.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20120131222148/http://elections.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 31 Jan 2012 22:21:48 GMT", <https://web.archive.org/web/20180503211556/http://elections.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Thu, 03 May 2018 21:15:56 GMT", <https://web.archive.org/web/20180503211621/http://www.elections.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Thu, 03 May 2018 21:16:21 GMT", <https://web.archive.org/web/20180504013327/http://elections.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Fri, 04 May 2018 01:33:27 GMT", <https://web.archive.org/web/20210723143646/https://elections.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 23 Jul 2021 14:36:46 GMT"
+< X-Archive-Orig-Keep-Alive: timeout=15, max=9983
+< Memento-Datetime: Thu, 03 May 2018 21:16:21 GMT
+< X-App-Server: wwwb-app204
+< X-Nid: -
+< X-Archive-Orig-Server: Apache
+< X-Archive-Orig-Content-Length: 243
+< X-Ts: 301
+< X-Tr: 1135

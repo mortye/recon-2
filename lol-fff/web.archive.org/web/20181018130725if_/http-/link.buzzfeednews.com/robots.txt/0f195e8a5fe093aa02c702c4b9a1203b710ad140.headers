@@ -1,0 +1,34 @@
+GET https://web.archive.org/web/20181018130725if_/http://link.buzzfeednews.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Connection: close
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Permissions-Policy: interest-cohort=()
+< X-Cache-Key: httpsweb.archive.org/web/20181018130725if_/http://link.buzzfeednews.com/robots.txtUS
+< X-Archive-Orig-Last-Modified: Mon, 17 Oct 2016 18:37:47 GMT
+< X-Archive-Src: liveweb-20181019002340/cachegw-20181018002045-wwwb-app14.us.archive.org.warc.gz
+< X-App-Server: wwwb-app12
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< Memento-Datetime: Thu, 18 Oct 2018 13:07:25 GMT
+< Link: <http://link.buzzfeednews.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://link.buzzfeednews.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://link.buzzfeednews.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20181018130725/http://link.buzzfeednews.com/robots.txt>; rel="first memento"; datetime="Thu, 18 Oct 2018 13:07:25 GMT", <https://web.archive.org/web/20181018130725/http://link.buzzfeednews.com/robots.txt>; rel="memento"; datetime="Thu, 18 Oct 2018 13:07:25 GMT", <https://web.archive.org/web/20181110091407/http://link.buzzfeednews.com/robots.txt>; rel="next memento"; datetime="Sat, 10 Nov 2018 09:14:07 GMT", <https://web.archive.org/web/20190625233004/http://link.buzzfeednews.com/robots.txt>; rel="last memento"; datetime="Tue, 25 Jun 2019 23:30:04 GMT"
+< X-Ts: 200
+< X-Archive-Orig-Date: Thu, 18 Oct 2018 13:07:25 GMT
+< X-Archive-Orig-Content-Length: 77
+< Content-Type: text/plain; charset=UTF-8
+< X-Rl: 0
+< X-Na: 0
+< X-Page-Cache: MISS
+< Date: Mon, 26 Jul 2021 19:14:26 GMT
+< X-Archive-Orig-Server: Apache
+< Connection: keep-alive
+< X-Tr: 2075
+< Referrer-Policy: no-referrer-when-downgrade
+< Cache-Control: max-age=1800
+< Server-Timing: esindex;dur=0.015759, exclusion.robots.policy;dur=0.452523, PetaboxLoader3.datanode;dur=137.240911, captures_list;dur=236.989871, load_resource;dur=1808.125905, LoadShardBlock;dur=181.981227, cdx.remote;dur=0.111162, exclusion.robots;dur=0.468111, PetaboxLoader3.resolve;dur=1669.296666, CDXLines.iter;dur=18.522182
+< X-Location: All
+< X-Nid: -
+< Server: nginx/1.15.8
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Vary: Accept-Encoding

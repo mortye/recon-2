@@ -1,0 +1,6 @@
+200 41 https://horizon.buzzfeed.com/robots.txt
+200 43 https://horizon.buzzfeed.com/horizon
+403 213 https://horizon.buzzfeed.com/server-info
+403 215 https://horizon.buzzfeed.com/server-status
+403 215 https://horizon.buzzfeed.com/server-status?full
+403 215 https://horizon.buzzfeed.com/server-status?full&showmodulestate

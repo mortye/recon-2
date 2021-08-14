@@ -1,0 +1,37 @@
+GET https://web.archive.org/web/20180529012624if_/http://calendar.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Page-Cache: MISS
+< X-Archive-Orig-Server: GSE
+< X-Archive-Src: liveweb-20180529083220/cachegw-20180528185316-wwwb-app0.us.archive.org.warc.gz
+< X-Cache-Key: httpsweb.archive.org/web/20180529012624if_/http://calendar.buzzfeed.com/robots.txtUS
+< X-Na: 0
+< Date: Mon, 26 Jul 2021 18:59:38 GMT
+< X-Rl: 0
+< X-Archive-Orig-Expires: Tue, 29 May 2018 01:26:26 GMT
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< Server-Timing: captures_list;dur=156.042849, exclusion.robots;dur=0.209051, exclusion.robots.policy;dur=0.201046, RedisCDXSource;dur=2.078011, esindex;dur=0.011114, LoadShardBlock;dur=129.967555, PetaboxLoader3.datanode;dur=73.761347, CDXLines.iter;dur=20.714156, load_resource;dur=292.681822, PetaboxLoader3.resolve;dur=257.643834
+< X-Ts: 200
+< X-Archive-Orig-Pragma: no-cache
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-App-Server: wwwb-app202
+< X-Location: All
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-X-Frame-Options: SAMEORIGIN
+< X-Archive-Orig-Connection: close
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Encoding: utf-8
+< Content-Type: text/plain
+< Connection: keep-alive
+< X-Archive-Orig-Date: Tue, 29 May 2018 01:26:26 GMT
+< Link: <http://calendar.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://calendar.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://calendar.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180529012624/http://calendar.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Tue, 29 May 2018 01:26:24 GMT", <https://web.archive.org/web/20180529012624/http://calendar.buzzfeed.com/robots.txt>; rel="memento"; datetime="Tue, 29 May 2018 01:26:24 GMT", <https://web.archive.org/web/20180622214402/http://calendar.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Fri, 22 Jun 2018 21:44:02 GMT", <https://web.archive.org/web/20190214223946/http://calendar.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Thu, 14 Feb 2019 22:39:46 GMT"
+< X-Tr: 467
+< X-Nid: -
+< X-Archive-Orig-Cache-Control: private, max-age=0
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< X-Archive-Orig-Content-Length: 123
+< Server: nginx/1.15.8
+< X-Archive-Guessed-Content-Type: text/plain
+< Memento-Datetime: Tue, 29 May 2018 01:26:24 GMT
+< Permissions-Policy: interest-cohort=()

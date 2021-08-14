@@ -1,0 +1,39 @@
+GET https://web.archive.org/web/20180124205157if_/https://www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: perma_cc_F6XD-A3JA/F6XD-A3JA.warc.gz
+< X-Location: All
+< Permissions-Policy: interest-cohort=()
+< Date: Mon, 26 Jul 2021 17:15:58 GMT
+< Content-Type: text/plain
+< Connection: keep-alive
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Ts: 200
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< X-Archive-Orig-Etag: "5a68af67-3de+gzip"
+< X-Archive-Orig-Server: ECD (dca/53D9)
+< Memento-Datetime: Wed, 24 Jan 2018 20:51:57 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: exclusion.robots;dur=1.387321, exclusion.robots.policy;dur=1.300487, RedisCDXSource;dur=6.058342, esindex;dur=0.057359, LoadShardBlock;dur=1649.346683, PetaboxLoader3.datanode;dur=1453.462464, CDXLines.iter;dur=417.214296, load_resource;dur=155.340929, PetaboxLoader3.resolve;dur=130.899931
+< X-Nid: -
+< X-Na: 0
+< X-Archive-Orig-Age: 74
+< X-Archive-Orig-Strict-Transport-Security: max-age=300;
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-Content-Length: 377
+< X-Tr: 2331
+< X-Cache-Key: httpsweb.archive.org/web/20180124205157if_/https://www.huffingtonpost.com/robots.txtUS
+< X-Archive-Orig-Content-Security-Policy-Report-Only: default-src 'self' data: https: blob:; script-src 'self' data: 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' data: https:; worker-src * blob:; report-uri https://huffpost.report-uri.io/r/default/csp/reportOnly;
+< X-Archive-Orig-X-Ec-Lua: 19365-geo
+< X-Archive-Orig-Last-Modified: Wed, 24 Jan 2018 16:08:07 GMT
+< X-Archive-Orig-X-Cache: HIT
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Date: Wed, 24 Jan 2018 20:51:57 GMT
+< Cache-Control: max-age=1800
+< Link: <https://www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20180124204429/https://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Wed, 24 Jan 2018 20:44:29 GMT", <https://web.archive.org/web/20180124205157/https://www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Wed, 24 Jan 2018 20:51:57 GMT", <https://web.archive.org/web/20180124205317/http://www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Wed, 24 Jan 2018 20:53:17 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< X-App-Server: wwwb-app56

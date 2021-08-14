@@ -1,0 +1,10 @@
+200 15086 https://buzzfeed-brand.buzzfeed.com/favicon.ico
+200 1902 https://buzzfeed-brand.buzzfeed.com/index
+200 1902 https://buzzfeed-brand.buzzfeed.com/index.html
+200 411 https://buzzfeed-brand.buzzfeed.com/manifest.json
+200 417 https://buzzfeed-brand.buzzfeed.com/browserconfig.xml
+200 555 https://buzzfeed-brand.buzzfeed.com/feed
+200 555 https://buzzfeed-brand.buzzfeed.com/feed.xml
+301 162 https://buzzfeed-brand.buzzfeed.com/assets
+301 162 https://buzzfeed-brand.buzzfeed.com/pages
+301 162 https://buzzfeed-brand.buzzfeed.com/uploads

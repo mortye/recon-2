@@ -1,0 +1,110 @@
+Warning: Output is not a terminal (fd=1).
+Traceback (most recent call last):
+  File "theHarvester.py", line 7, in <module>
+    from theHarvester import __main__
+  File "/home/morty/tools/Tools/theHarvester/theHarvester/__main__.py", line 4, in <module>
+    from theHarvester.discovery import dnssearch, takeover, shodansearch
+  File "/home/morty/tools/Tools/theHarvester/theHarvester/discovery/takeover.py", line 1, in <module>
+    from theHarvester.lib.core import *
+  File "/home/morty/tools/Tools/theHarvester/theHarvester/lib/core.py", line 6, in <module>
+    import aiohttp
+ModuleNotFoundError: No module named 'aiohttp'
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+cat: .tmp/permute1_recursive.txt: No such file or directory
+cat: .tmp/permute2_recursive_tmp.txt: No such file or directory
+cat: .tmp/brute_recursive.txt: No such file or directory
+cat: .tmp/analytics_subs_resolved.txt: No such file or directory
+cat: .tmp/output_cloud.txt: No such file or directory
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/173.193.133.94/443: Connection timed out
+Fatal error: Can't connect to "173.193.133.94:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/192.161.154.1/443: Connection timed out
+Fatal error: Can't connect to "192.161.154.1:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/208.82.15.3/443: Connection timed out
+Fatal error: Can't connect to "208.82.15.3:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/34.203.126.16/443: Connection timed out
+Fatal error: Can't connect to "34.203.126.16:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/50.59.128.230/443: Connection timed out
+Fatal error: Can't connect to "50.59.128.230:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.216.132.146/443: Connection timed out
+Fatal error: Can't connect to "52.216.132.146:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.216.205.122/443: Connection timed out
+Fatal error: Can't connect to "52.216.205.122:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.216.29.11/443: Connection timed out
+Fatal error: Can't connect to "52.216.29.11:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.217.32.155/443: Connection timed out
+Fatal error: Can't connect to "52.217.32.155:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.217.44.19/443: Connection timed out
+Fatal error: Can't connect to "52.217.44.19:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.3.15.185/443: Connection timed out
+Fatal error: Can't connect to "52.3.15.185:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.4.135.32/443: Connection timed out
+Fatal error: Can't connect to "52.4.135.32:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.7.101.15/443: Connection timed out
+Fatal error: Can't connect to "52.7.101.15:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.7.89.175/443: Connection timed out
+Fatal error: Can't connect to "52.7.89.175:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/52.70.79.61/443: Connection timed out
+Fatal error: Can't connect to "52.70.79.61:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/54.88.133.207/443: Connection timed out
+Fatal error: Can't connect to "54.88.133.207:443"
+Make sure a firewall is not between you and your scanning target!
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Connection timed out
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/96.88.17.185/443: Connection timed out
+Fatal error: Can't connect to "96.88.17.185:443"
+Make sure a firewall is not between you and your scanning target!

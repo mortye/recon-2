@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20180322043426if_/http://bento.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://web.archive.org/web/20180322043426if_/https://bento.buzzfeed.com/
+< X-Archive-Src: liveweb-20180322110627/cachegw-20180322033300-wwwb-app11.us.archive.org.warc.gz
+< X-Ts: 301
+< X-Cache-Key: httpsweb.archive.org/web/20180322043426if_/http://bento.buzzfeed.com/robots.txtUS
+< X-Na: 0
+< Connection: keep-alive
+< X-Archive-Orig-X-Cache-Hits: 0
+< Cache-Control: max-age=1800
+< Memento-Datetime: Thu, 22 Mar 2018 04:34:26 GMT
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Retry-After: 0
+< X-Archive-Orig-X-Served-By: cache-sjc3128-SJC
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Nid: -
+< X-Rl: 0
+< X-Page-Cache: MISS
+< X-Archive-Orig-Content-Length: 0
+< X-Archive-Orig-Connection: close
+< Server: nginx/1.15.8
+< X-Archive-Orig-X-Cache: HIT
+< X-Tr: 396
+< X-Archive-Orig-Date: Thu, 22 Mar 2018 04:34:27 GMT
+< Server-Timing: load_resource;dur=120.329827, exclusion.robots.policy;dur=0.377595, LoadShardBlock;dur=136.060102, captures_list;dur=244.918064, CDXLines.iter;dur=27.693316, PetaboxLoader3.resolve;dur=63.724976, RedisCDXSource;dur=24.428201, PetaboxLoader3.datanode;dur=141.653173, esindex;dur=0.073333, exclusion.robots;dur=0.394579
+< X-Archive-Orig-Server: Varnish
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Via: 1.1 varnish
+< Link: <http://bento.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://bento.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://bento.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160318194947/https://bento.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Fri, 18 Mar 2016 19:49:47 GMT", <https://web.archive.org/web/20180322043207/https://bento.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Thu, 22 Mar 2018 04:32:07 GMT", <https://web.archive.org/web/20180322043426/http://bento.buzzfeed.com/robots.txt>; rel="memento"; datetime="Thu, 22 Mar 2018 04:34:26 GMT", <https://web.archive.org/web/20180322082444/https://bento.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Thu, 22 Mar 2018 08:24:44 GMT", <https://web.archive.org/web/20210423005127/https://bento.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Fri, 23 Apr 2021 00:51:27 GMT"
+< X-App-Server: wwwb-app103
+< X-Location: All
+< Date: Mon, 26 Jul 2021 15:58:16 GMT

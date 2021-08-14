@@ -1,0 +1,12 @@
+Adobe InDesign 15.1 (Macintosh)
+Adobe PDF Library 15.0
+Adobe InDesign 15.0 (Macintosh)
+RAD PDF 3.14.1.0 - https://www.radpdf.com
+PDFescape Online - https://www.pdfescape.com
+GPL Ghostscript 9.26
+Adobe InDesign CC 13.1 (Macintosh)
+Adobe InDesign 16.1 (Macintosh)
+Adobe InDesign 16.0 (Macintosh)
+Adobe InDesign 14.0 (Macintosh)
+macOS Version 10.14.5 (assemblage 18F132) Quartz PDFContext
+macOS Version 10.15.5 (assemblage 19F101) Quartz PDFContext, AppendMode 1.1

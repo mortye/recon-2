@@ -1,0 +1,13 @@
+13.225.206.118 tips.buzzfeednews.com
+13.225.206.45 shop.buzzfeednews.com
+13.248.148.52 horizon.buzzfeednews.com
+151.101.130.114 buzzfeednews.com
+151.101.2.114 documents.buzzfeednews.com
+151.101.2.114 stage.buzzfeednews.com
+151.101.2.114 www.buzzfeednews.com
+192.161.154.1 zendesk1.buzzfeednews.com
+192.161.154.1 zendesk2.buzzfeednews.com
+192.161.154.1 zendesk3.buzzfeednews.com
+192.161.154.1 zendesk4.buzzfeednews.com
+23.227.38.74 support.buzzfeednews.com
+3.226.166.212 link.buzzfeednews.com

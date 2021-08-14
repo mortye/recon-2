@@ -1,0 +1,88 @@
+Domain
+
+   Domain         officevibe.com
+   Words in       office vibe
+   IP Address     [6]104.155.161.74
+                  [7]104.155.161.74 abuse reports
+   IP Geolocation US United States, California, Mountain View [8]map
+
+Registrant
+
+   from last whois record
+   Name         [9]Guillaume Roy is associated with 44 domains
+   Organization Officevibe
+   Private      no
+   [INS: :INS]
+
+Whois
+
+   last record, updated : 2016-01-26
+   ajax-loader
+   querying the whois server...
+   Domain Name: OFFICEVIBE.COM
+   Registrar URL: http://www.godaddy.com
+   Registrant Name: Guillaume Roy
+   Registrant Organization: Officevibe
+   Name Server: NS75.DOMAINCONTROL.COM
+   Name Server: NS76.DOMAINCONTROL.COM
+   DNSSEC: unsigned
+
+Other TLDs
+
+   [10]officevibe.ar
+   [11]officevibe.at
+   [12]officevibe.co
+   [13]officevibe.biz
+   [14]officevibe.ca
+   [15]officevibe.cn
+   [16]officevibe.net
+   [17]officevibe.de
+   [18]officevibe.info
+   [19]officevibe.eu
+   [20]officevibe.hu
+   [21]officevibe.dk
+   [22]officevibe.cz
+   [23]officevibe.kr
+   [24]officevibe.org
+   [25]officevibe.ru
+   [26]officevibe.us
+   [27]officevibe.nl
+   [28]officevibe.xyz
+   [29]officevibe.za
+   [30]officevibe.ro
+   [31]officevibe.ua
+   [32]officevibe.se
+
+Nameservers
+
+A Records
+
+   Type
+   Hostname
+   Address
+   TTL
+   Class
+   A officevibe.com [33]104.155.161.74 600 IN
+
+AAAA Records
+
+   No AAAA record found
+
+MX Records
+
+   Type
+   Hostname Address Preference TTL Class
+   MX officevibe.com officevibe-com.mail.protection.outlook.com 0 3600 IN
+
+CNAME Records
+
+   No CNAME record found
+
+History
+
+   Date       Status         Name Server
+   2013-01-27 Deleted        name-services.com
+   2012-12-16 Transferred to name-services.com
+   [INS: :INS]
+   [34]domainbigdata.com
+

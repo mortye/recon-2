@@ -1,0 +1,4 @@
+# Mapi robots.
+
+User-agent: *
+Disallow: /

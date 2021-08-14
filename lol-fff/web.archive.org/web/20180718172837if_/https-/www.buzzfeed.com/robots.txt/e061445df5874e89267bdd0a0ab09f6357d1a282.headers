@@ -1,0 +1,46 @@
+GET https://web.archive.org/web/20180718172837if_/https://www.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Server-Timing: cdx.remote;dur=0.675641, LoadShardBlock;dur=950.275311, exclusion.robots;dur=1.761179, PetaboxLoader3.resolve;dur=133.046413, esindex;dur=0.077732, CDXLines.iter;dur=428.742224, load_resource;dur=279.228540, PetaboxLoader3.datanode;dur=434.418213, exclusion.robots.policy;dur=1.670536
+< X-Location: All
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Tr: 2019
+< X-Rl: 0
+< X-Nid: -
+< X-Archive-Orig-Set-Cookie: bf-geo-country=US; expires=Thu, 19 Jul 2018 17:28:37 GMT; path=/; domain=.buzzfeed.com;
+< X-Archive-Orig-Content-Security-Policy: upgrade-insecure-requests
+< X-Archive-Orig-X-Timer: S1531934917.321022,VS0,VE1
+< Cache-Control: max-age=1800
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Etag: "5b4f30f9-4b0"
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Cache-Key: httpsweb.archive.org/web/20180718172837if_/https://www.buzzfeed.com/robots.txtUS
+< Memento-Datetime: Wed, 18 Jul 2018 17:28:37 GMT
+< Content-Type: text/plain
+< X-Archive-Orig-Last-Modified: Wed, 18 Jul 2018 12:22:17 GMT
+< X-Archive-Orig-X-Served-By: cache-pao17431-PAO
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Page-Cache: MISS
+< X-Archive-Orig-Age: 4695
+< X-Archive-Orig-Connection: close
+< Link: <https://www.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://www.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20020921163523/http://buzzfeed.com:80/robots.txt>; rel="first memento"; datetime="Sat, 21 Sep 2002 16:35:23 GMT", <https://web.archive.org/web/20180718153624/https://www.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Wed, 18 Jul 2018 15:36:24 GMT", <https://web.archive.org/web/20180718172837/https://www.buzzfeed.com/robots.txt>; rel="memento"; datetime="Wed, 18 Jul 2018 17:28:37 GMT", <https://web.archive.org/web/20180718183137/https://www.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Wed, 18 Jul 2018 18:31:37 GMT", <https://web.archive.org/web/20210725033235/https://www.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 03:32:35 GMT"
+< X-App-Server: wwwb-app13
+< X-Archive-Orig-X-Frame-Options: SAMEORIGIN
+< X-Archive-Orig-Strict-Transport-Security: max-age=31536000; preload
+< X-Archive-Orig-X-Cache: HIT
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< Connection: keep-alive
+< X-Archive-Orig-Cache-Control: no-cache, no-store, must-revalidate
+< X-Archive-Orig-Via: 1.1 varnish
+< X-Archive-Orig-Server: nginx
+< X-Archive-Orig-X-Cache-Hits: 1
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Ts: 200
+< X-Archive-Src: fiverr.com-20170307-074151/IA-FOC-fiverr.com-20180718155548-00008.warc.gz
+< X-Na: 0
+< Date: Mon, 26 Jul 2021 15:03:20 GMT
+< X-Archive-Orig-Content-Length: 1200
+< X-Archive-Orig-Date: Wed, 18 Jul 2018 17:28:37 GMT
+< X-Archive-Guessed-Encoding: utf-8

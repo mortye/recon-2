@@ -1,0 +1,305 @@
+[
+    {
+        "arguments": "/home/morty/tools/Tools/dnsrecon/dnsrecon.py -d huffingtonpost.com -a -j subdomains/zonetransfer.json",
+        "date": "2021-07-20 11:26:56.252860",
+        "type": "ScanInfo"
+    },
+    {
+        "ns_server": "13.225.66.11",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5307:d600::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.193.31",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5301:1f00::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5304:b500::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "13.225.66.24",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "13.225.66.118",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.199.214",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5302:2f00::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.196.181",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.194.47",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "13.225.66.22",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "address": "13.225.66.22",
+        "domain": "huffingtonpost.com",
+        "mname": "huffingtonpost.com",
+        "type": "SOA"
+    },
+    {
+        "address": "13.225.66.118",
+        "domain": "huffingtonpost.com",
+        "mname": "huffingtonpost.com",
+        "type": "SOA"
+    },
+    {
+        "address": "13.225.66.24",
+        "domain": "huffingtonpost.com",
+        "mname": "huffingtonpost.com",
+        "type": "SOA"
+    },
+    {
+        "address": "13.225.66.11",
+        "domain": "huffingtonpost.com",
+        "mname": "huffingtonpost.com",
+        "type": "SOA"
+    },
+    {
+        "Version": "",
+        "address": "205.251.199.214",
+        "domain": "huffingtonpost.com",
+        "recursive": "True",
+        "target": "ns-2006.awsdns-58.co.uk",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5307:d600::1",
+        "domain": "huffingtonpost.com",
+        "recursive": "False",
+        "target": "ns-2006.awsdns-58.co.uk",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "205.251.196.181",
+        "domain": "huffingtonpost.com",
+        "recursive": "True",
+        "target": "ns-1205.awsdns-22.org",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5304:b500::1",
+        "domain": "huffingtonpost.com",
+        "recursive": "False",
+        "target": "ns-1205.awsdns-22.org",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "205.251.194.47",
+        "domain": "huffingtonpost.com",
+        "recursive": "True",
+        "target": "ns-559.awsdns-05.net",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5302:2f00::1",
+        "domain": "huffingtonpost.com",
+        "recursive": "False",
+        "target": "ns-559.awsdns-05.net",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "205.251.193.31",
+        "domain": "huffingtonpost.com",
+        "recursive": "True",
+        "target": "ns-287.awsdns-35.com",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5301:1f00::1",
+        "domain": "huffingtonpost.com",
+        "recursive": "False",
+        "target": "ns-287.awsdns-35.com",
+        "type": "NS"
+    },
+    {
+        "address": "142.250.153.26",
+        "domain": "huffingtonpost.com",
+        "exchange": "alt4.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "173.194.204.27",
+        "domain": "huffingtonpost.com",
+        "exchange": "aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "209.85.202.27",
+        "domain": "huffingtonpost.com",
+        "exchange": "alt2.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "64.233.184.26",
+        "domain": "huffingtonpost.com",
+        "exchange": "alt3.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "64.233.186.27",
+        "domain": "huffingtonpost.com",
+        "exchange": "alt1.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "2a00:1450:4013:c16::1a",
+        "domain": "huffingtonpost.com",
+        "exchange": "alt4.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "2607:f8b0:400d:c02::1b",
+        "domain": "huffingtonpost.com",
+        "exchange": "aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "2a00:1450:400b:c00::1a",
+        "domain": "huffingtonpost.com",
+        "exchange": "alt2.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "2a00:1450:400c:c0b::1a",
+        "domain": "huffingtonpost.com",
+        "exchange": "alt3.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "2800:3f0:4003:c00::1a",
+        "domain": "huffingtonpost.com",
+        "exchange": "alt1.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "13.225.66.22",
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "type": "A"
+    },
+    {
+        "address": "13.225.66.118",
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "type": "A"
+    },
+    {
+        "address": "13.225.66.24",
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "type": "A"
+    },
+    {
+        "address": "13.225.66.11",
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "type": "A"
+    },
+    {
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "strings": "_amazonses.huffingtonpost.com:Ymj5A72/0+8fWyJoUb4+sbAmempNyKaefa5cPtM7+fo=",
+        "type": "TXT"
+    },
+    {
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "strings": "facebook-domain-verification=g0p5wv14z89jccwlf5dsz1kprzffff",
+        "type": "TXT"
+    },
+    {
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "strings": "dropbox-domain-verification=uncn7ru3lk5v",
+        "type": "TXT"
+    },
+    {
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "strings": "spf2.0/pra include:_spf.createsend.com include:aspmx.sailthru.com include:_spf.google.com include:amazonses.com ip4:74.205.21.242 ip4:149.174.0.0/16 ip4:64.236.0.0/16 ip4:204.29.186.0/23 ~all",
+        "type": "TXT"
+    },
+    {
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "strings": "sjvw8kcp29jmrzqy6w30vj9xxcw0l2lt",
+        "type": "TXT"
+    },
+    {
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "strings": "google-site-verification=2gqirxtTfQnbuBxqItMEYhPDLHI3aETO2cuv4TZ5gI4",
+        "type": "TXT"
+    },
+    {
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "strings": "v=spf1 include:_ipspf.yahoo.com -all",
+        "type": "TXT"
+    },
+    {
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "strings": "v=spf1 mx include:_spf.createsend.com include:aspmx.sailthru.com include:_spf.google.com include:amazonses.com ip4:74.205.21.242 ip4:149.174.0.0/16 ip4:64.236.0.0/16 ip4:204.29.186.0/23 ip4:148.163.135.35/32 ip4:148.163.139.55/32 ~all",
+        "type": "TXT"
+    },
+    {
+        "domain": "huffingtonpost.com",
+        "name": "huffingtonpost.com",
+        "strings": "docusign=803bb1d1-ca00-4828-9d0d-958294911d50",
+        "type": "TXT"
+    },
+    {
+        "domain": "huffingtonpost.com",
+        "name": "_dmarc.huffingtonpost.com",
+        "strings": "v=DMARC1; p=none; rua=mailto:spwxn9fu@ag.dmarcian.com; ruf=mailto:spwxn9fu@ag.dmarcian.com; rf=afrf",
+        "type": "TXT"
+    },
+    {
+        "domain": "huffingtonpost.com",
+        "name": "_domainkey.huffingtonpost.com",
+        "strings": "t=y; o=~",
+        "type": "TXT"
+    }
+]

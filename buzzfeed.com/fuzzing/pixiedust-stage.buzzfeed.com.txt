@@ -1,0 +1,15 @@
+200 2 https://pixiedust-stage.buzzfeed.com/health
+301 41 https://pixiedust-stage.buzzfeed.com/%2e/admin
+301 41 https://pixiedust-stage.buzzfeed.com/./admin/.
+301 42 https://pixiedust-stage.buzzfeed.com/secret/.
+301 49 https://pixiedust-stage.buzzfeed.com/.nsf/../winnt/win.ini
+301 51 https://pixiedust-stage.buzzfeed.com/.//web-inf/web.xml
+301 51 https://pixiedust-stage.buzzfeed.com/./web-inf/web.xml
+301 52 https://pixiedust-stage.buzzfeed.com/admin//phpmyadmin
+301 53 https://pixiedust-stage.buzzfeed.com/vpn/../vpns/cfg/smb.conf
+301 59 https://pixiedust-stage.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess
+301 62 https://pixiedust-stage.buzzfeed.com/extjs/resources//charts.swf
+301 76 https://pixiedust-stage.buzzfeed.com/content/../libs/foundation/components/text/text.jsp
+301 87 https://pixiedust-stage.buzzfeed.com/citrix//accessplatform/auth/clientscripts/cookies.js
+400 44 https://pixiedust-stage.buzzfeed.com/events
+403 162 https://pixiedust-stage.buzzfeed.com/nginx_status

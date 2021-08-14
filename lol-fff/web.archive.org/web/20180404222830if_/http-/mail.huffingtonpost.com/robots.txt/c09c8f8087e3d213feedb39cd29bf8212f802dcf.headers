@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20180404222830if_/http://mail.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=iso-8859-1
+< X-Archive-Orig-Connection: Keep-Alive
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Ts: 302
+< X-Nid: -
+< X-Tr: 649
+< Date: Mon, 26 Jul 2021 17:05:43 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20180404222830if_/http://mail.huffingtonpost.com/robots.txtUS
+< X-Rl: 0
+< Server: nginx/1.15.8
+< X-Archive-Orig-Date: Wed, 04 Apr 2018 22:28:31 GMT
+< Connection: keep-alive
+< Cache-Control: max-age=1800
+< Location: https://web.archive.org/web/20180404222830if_/http://mail.teamaol.com/
+< X-Archive-Orig-Keep-Alive: timeout=15, max=9992
+< Memento-Datetime: Wed, 04 Apr 2018 22:28:30 GMT
+< Server-Timing: captures_list;dur=131.108367, exclusion.robots;dur=0.219088, exclusion.robots.policy;dur=0.210606, RedisCDXSource;dur=2.558613, esindex;dur=0.007319, LoadShardBlock;dur=106.654353, PetaboxLoader3.datanode;dur=76.870304, CDXLines.iter;dur=19.516193, load_resource;dur=479.928215, PetaboxLoader3.resolve;dur=430.226106
+< X-Location: All
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Server: Apache
+< X-Archive-Orig-Content-Length: 208
+< Link: <http://mail.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://mail.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://mail.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180404222830/http://mail.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Wed, 04 Apr 2018 22:28:30 GMT", <https://web.archive.org/web/20180404222830/http://mail.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Wed, 04 Apr 2018 22:28:30 GMT", <https://web.archive.org/web/20180407211744/http://mail.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Sat, 07 Apr 2018 21:17:44 GMT", <https://web.archive.org/web/20190802111933/http://mail.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 02 Aug 2019 11:19:33 GMT"
+< X-Archive-Src: liveweb-20180405031320/cachegw-20180404131458-wwwb-app7.us.archive.org.warc.gz
+< X-App-Server: wwwb-app200
+< X-Na: 0
+< Permissions-Policy: interest-cohort=()

@@ -1,0 +1,6 @@
+302 231 http://helpdesk.buzzfeed.com/%2e/admin
+302 232 http://helpdesk.buzzfeed.com/./admin/.
+302 239 http://helpdesk.buzzfeed.com/.nsf/../winnt/win.ini
+302 241 http://helpdesk.buzzfeed.com/./web-inf/web.xml
+302 242 http://helpdesk.buzzfeed.com/.//web-inf/web.xml
+302 249 http://helpdesk.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess

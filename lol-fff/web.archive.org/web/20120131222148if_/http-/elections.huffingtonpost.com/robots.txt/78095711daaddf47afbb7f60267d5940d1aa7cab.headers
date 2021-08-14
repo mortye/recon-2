@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20120131222148if_/http://elections.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/plain; charset=UTF-8
+< X-Archive-Orig-Content-Length: 204
+< X-Ts: 200
+< X-Page-Cache: MISS
+< Connection: keep-alive
+< X-Archive-Orig-Connection: close
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Nid: -
+< X-Archive-Orig-Date: Tue, 31 Jan 2012 22:21:49 GMT
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: COL-ELECTION2012-001-20120106144219304-00321-01080-crawling118/COL-ELECTION2012-004-20120131220747252-00796-12502~crawling118.us.archive.org~8443.warc.gz
+< X-App-Server: wwwb-app202
+< X-Cache-Key: httpsweb.archive.org/web/20120131222148if_/http://elections.huffingtonpost.com/robots.txtUS
+< X-Archive-Orig-Ntcoent-Length: 204
+< X-Tr: 1998
+< Server: nginx/1.15.8
+< Memento-Datetime: Tue, 31 Jan 2012 22:21:48 GMT
+< Server-Timing: captures_list;dur=1697.090602, exclusion.robots;dur=0.237859, exclusion.robots.policy;dur=0.227278, RedisCDXSource;dur=1.562003, esindex;dur=0.009563, LoadShardBlock;dur=1296.632011, PetaboxLoader3.datanode;dur=1113.377552, CDXLines.iter;dur=54.334441, load_resource;dur=268.207817, PetaboxLoader3.resolve;dur=203.274112
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< Date: Mon, 26 Jul 2021 14:46:46 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-Last-Modified: Wed, 30 Nov 2011 21:03:38 GMT
+< X-Location: All
+< X-Rl: 0
+< X-Na: 0
+< X-Archive-Orig-Server: Apache/2.2.15 (CentOS)
+< X-Archive-Orig-Etag: "46147-cc-4b2fa11ea704b"
+< X-Archive-Orig-X-Varnish: 1246711662
+< Link: <http://elections.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://elections.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://elections.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20120131222148/http://elections.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Tue, 31 Jan 2012 22:21:48 GMT", <https://web.archive.org/web/20120131222148/http://elections.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 31 Jan 2012 22:21:48 GMT", <https://web.archive.org/web/20120201194514/http://elections.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Wed, 01 Feb 2012 19:45:14 GMT", <https://web.archive.org/web/20210723143646/https://elections.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 23 Jul 2021 14:36:46 GMT"

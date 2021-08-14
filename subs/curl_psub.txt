@@ -1,0 +1,6 @@
+stage.buzzfeednews.com
+link.buzzfeednews.com
+tips.buzzfeednews.com
+documents.buzzfeednews.com
+support.buzzfeednews.com
+www.buzzfeednews.com

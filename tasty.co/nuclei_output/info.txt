@@ -1,0 +1,11 @@
+[2021-07-20 10:24:11] [tech-detect:nginx] [http] [info] https://api.tasty.co
+[2021-07-20 10:24:12] [basic-auth-detection] [http] [info] https://stage.tasty.co
+[2021-07-20 10:24:12] [detect-sentry] [http] [info] https://tasty.co [https://206e086ef8374b44b2dccb62d15b3479@sentry.io/1411213]
+[2021-07-20 10:24:12] [generic-tokens] [http] [info] https://tasty.co [key="6LfLj3cUAAAAAGP64Tcvsoy3_QftH6_TNkp4HfqV",key":"cookware",key":"kitchen_tips_and_skills",key":"tricks",key":"6LfLj3cUAAAAAGP64Tcvsoy3_QftH6_TNkp4HfqV",key":"dc7cae83-2bc8-40f8-b7f0-6a097fbcfc20",key":"popular",key":"diet",key":"recipes",key":"food_hacks",key":"meal_plans",key":"key_live_fjxFwLIQySSP0Knqj8TguddmEBgP5CnI",key":"cookbooks",key":"ingredients",key":"meals",key":"cuisine",key":"appliance_cooking",key":"shop",key":"right_now"]
+[2021-07-20 10:24:13] [aws-bucket-service] [http] [info] https://vid.tasty.co
+[2021-07-20 10:24:13] [nameserver-detection:aws-route53] [dns] [info] https://tasty.co
+[2021-07-20 10:24:13] [tech-detect:nginx] [http] [info] https://api-stage.tasty.co
+[2021-07-20 10:24:16] [s3-detect] [http] [info] https://vid.tasty.co/%c0
+[2021-07-20 10:24:19] [mx-service-detector:Google Apps] [dns] [info] https://tasty.co
+[2021-07-20 10:24:21] [nameserver-detection:dnsmadeeasy] [dns] [info] https://link.tasty.co
+[2021-07-20 10:24:37] [nameserver-detection:dnsmadeeasy] [dns] [info] https://horizon.tasty.co

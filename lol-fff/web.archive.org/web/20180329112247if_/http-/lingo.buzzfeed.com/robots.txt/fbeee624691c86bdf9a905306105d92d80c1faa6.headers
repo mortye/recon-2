@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20180329112247if_/http://lingo.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Content-Type: text/plain; charset=utf-8
+< Location: https://web.archive.org/web/20180329112253if_/https://lingo.buzzfeed.com/robots.txt
+< Server-Timing: load_resource;dur=227.047086, exclusion.robots.policy;dur=0.343980, LoadShardBlock;dur=57.660972, captures_list;dur=91.209091, CDXLines.iter;dur=26.104103, PetaboxLoader3.resolve;dur=119.996645, RedisCDXSource;dur=1.971959, PetaboxLoader3.datanode;dur=119.254159, esindex;dur=0.013592, exclusion.robots;dur=0.359837
+< X-App-Server: wwwb-app103
+< X-Ts: 302
+< X-Rl: 0
+< X-Na: 0
+< X-Page-Cache: MISS
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Connection: keep-alive
+< X-Archive-Redirect-Reason: found capture at 20180329112253
+< X-Tr: 338
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 15:44:22 GMT
+< Content-Length: 0
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20180329112247if_/http://lingo.buzzfeed.com/robots.txtUS
+< Permissions-Policy: interest-cohort=()

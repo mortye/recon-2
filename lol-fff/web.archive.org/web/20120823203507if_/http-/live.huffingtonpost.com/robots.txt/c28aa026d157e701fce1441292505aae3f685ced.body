@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /font/
+Disallow: /images/
+Disallow: /LivePlayer/
+Disallow: /styles/
+Disallow: /Framey/
+Disallow: /_ns_/
+Disallow: /_uac/
+Disallow: /js/
+Disallow: /Core/
+Disallow: /HPSNPlayer/
+Disallow: /fixtures/
+Disallow: /Framey/
+Disallow: version.txt

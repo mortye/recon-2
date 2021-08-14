@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20180529012335if_/http://abeagle-stage.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< X-Page-Cache: MISS
+< X-Nid: -
+< Server-Timing: CDXLines.iter;dur=21.239224, PetaboxLoader3.datanode;dur=1663.006920, load_resource;dur=1748.755037, exclusion.robots.policy;dur=0.442061, esindex;dur=0.011731, exclusion.robots;dur=0.464444, LoadShardBlock;dur=101.258501, RedisCDXSource;dur=5.180292, PetaboxLoader3.resolve;dur=97.010238, captures_list;dur=131.622308
+< X-Location: All
+< Connection: keep-alive
+< X-Ts: 302
+< X-Tr: 1902
+< X-Rl: 0
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Date: Mon, 26 Jul 2021 18:25:00 GMT
+< Content-Length: 0
+< X-Archive-Redirect-Reason: found capture at 20180529012342
+< X-App-Server: wwwb-app39
+< X-Cache-Key: httpsweb.archive.org/web/20180529012335if_/http://abeagle-stage.buzzfeed.com/robots.txtUS
+< Server: nginx/1.15.8
+< Content-Type: text/plain; charset=utf-8
+< Location: https://web.archive.org/web/20180529012342if_/https://abeagle-stage.buzzfeed.com/robots.txt
+< Permissions-Policy: interest-cohort=()

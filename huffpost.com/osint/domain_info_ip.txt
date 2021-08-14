@@ -1,0 +1,153 @@
+   IP Address    13.225.61.108
+   IP Reputation [6]Check abuses from 13.225.61.108
+   NetRange      13.200.0.0 - 13.239.255.255
+   Organization  Amazon Technologies Inc.
+   Name
+   Geolocation   [US.png] United States, Connecticut, Norwalk
+   [INS: :INS]
+
+Website using this ip : 13.225.61.108
+
+   [7]weblogssl.com [8]huffpost.com [9]grupoenergiadebogota.net
+   [10]facialinstitute.com [11]bondico.com [12]boatjump.com
+   [13]tictrac.com [14]tatey.com [15]mirakkong.com [16]proipsi.com
+   [17]tpcoservice.com [18]motorcyclenerd.com [19]janahealthcare.com
+   [INS: :INS]
+
+Whois 13.225.61.108
+
+   Amazon Technologies Inc. AT-88-Z (NET-13-200-0-0-1) 13.200.0.0 -
+   13.239.255.255
+   Amazon Corporate Services Pty Ltd AMAZO-SYD (NET-13-210-0-0-1)
+   13.210.0.0 - 13.211.255.255
+     *
+          + [20]IP
+          + [21]Domains on same ip
+          + [22]Whois IP
+
+
+
+#######################################################################
+
+
+   IP Address    13.225.66.18
+   IP Reputation [6]Check abuses from 13.225.66.18
+   NetRange      13.200.0.0 - 13.239.255.255
+   Organization  Amazon Technologies Inc.
+   Name
+   Geolocation   [US.png] United States, Connecticut, Norwalk
+   [INS: :INS]
+
+Website using this ip : 13.225.66.18
+
+   [7]seroja.com.au [8]simplydoideas.co.uk [9]buildom.de [10]aione.co.kr
+   [11]jingleballticketstampa.com [12]snmpsoft.com [13]dancray.net
+   [14]hongkongpost.hk
+   [INS: :INS]
+
+Whois 13.225.66.18
+
+   Amazon Technologies Inc. AT-88-Z (NET-13-200-0-0-1) 13.200.0.0 -
+   13.239.255.255
+   Amazon Corporate Services Pty Ltd AMAZO-SYD (NET-13-210-0-0-1)
+   13.210.0.0 - 13.211.255.255
+     *
+          + [15]IP
+          + [16]Domains on same ip
+          + [17]Whois IP
+
+
+
+#######################################################################
+
+
+   IP Address    13.225.66.85
+   IP Reputation [6]Check abuses from 13.225.66.85
+   NetRange      13.200.0.0 - 13.239.255.255
+   Organization  Amazon Technologies Inc.
+   Name
+   Geolocation   [US.png] United States, Connecticut, Norwalk
+   [INS: :INS]
+
+Website using this ip : 13.225.66.85
+
+   [7]drakefootballcamps.com [8]thisgroup.ch [9]zouggla.com
+   [10]tomstrailerandrv.com [11]proteopedia.org [12]rmocc.com
+   [INS: :INS]
+
+Whois 13.225.66.85
+
+   Amazon Technologies Inc. AT-88-Z (NET-13-200-0-0-1) 13.200.0.0 -
+   13.239.255.255
+   Amazon Corporate Services Pty Ltd AMAZO-SYD (NET-13-210-0-0-1)
+   13.210.0.0 - 13.211.255.255
+     *
+          + [13]IP
+          + [14]Domains on same ip
+          + [15]Whois IP
+
+
+
+#######################################################################
+
+
+   IP Address    13.225.66.7
+   IP Reputation [6]Check abuses from 13.225.66.7
+   NetRange      13.200.0.0 - 13.239.255.255
+   Organization  Amazon Technologies Inc.
+   Name
+   Geolocation   [US.png] United States, Connecticut, Norwalk
+   [INS: :INS]
+
+Website using this ip : 13.225.66.7
+
+   [7]srvcdesk-uat.com [8]op-kulku.fi [9]westbrowardeyecare.com
+   [10]studiobernina.com [11]flowersbyfairytales.com [12]edlea.net
+   [INS: :INS]
+
+Whois 13.225.66.7
+
+   Amazon Technologies Inc. AT-88-Z (NET-13-200-0-0-1) 13.200.0.0 -
+   13.239.255.255
+   Amazon Corporate Services Pty Ltd AMAZO-SYD (NET-13-210-0-0-1)
+   13.210.0.0 - 13.211.255.255
+     *
+          + [13]IP
+          + [14]Domains on same ip
+          + [15]Whois IP
+
+
+
+#######################################################################
+
+
+   IP Address    13.225.66.73
+   IP Reputation [6]Check abuses from 13.225.66.73
+   NetRange      13.200.0.0 - 13.239.255.255
+   Organization  Amazon Technologies Inc.
+   Name
+   Geolocation   [US.png] United States, Connecticut, Norwalk
+   [INS: :INS]
+
+Website using this ip : 13.225.66.73
+
+   [7]codemagic.io [8]farmjournalsales.com [9]dgeq.qc.ca [10]klook.com
+   [11]jotel.net
+   [INS: :INS]
+
+Whois 13.225.66.73
+
+   Amazon Technologies Inc. AT-88-Z (NET-13-200-0-0-1) 13.200.0.0 -
+   13.239.255.255
+   Amazon Corporate Services Pty Ltd AMAZO-SYD (NET-13-210-0-0-1)
+   13.210.0.0 - 13.211.255.255
+     *
+          + [12]IP
+          + [13]Domains on same ip
+          + [14]Whois IP
+
+
+
+#######################################################################
+
+

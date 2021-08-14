@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20180424171514if_/https://es.edit.huffpost.net/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Etag: "5a9423eb-1f"
+< Server-Timing: PetaboxLoader3.datanode;dur=112.025468, CDXLines.iter;dur=25.755741, LoadShardBlock;dur=272.197876, PetaboxLoader3.resolve;dur=24.593700, exclusion.robots.policy;dur=0.442534, esindex;dur=0.017698, load_resource;dur=98.438718, captures_list;dur=310.374765, RedisCDXSource;dur=0.762844, exclusion.robots;dur=0.459616
+< X-Ts: 200
+< X-Location: All
+< X-Rl: 0
+< Connection: keep-alive
+< X-Archive-Orig-Content-Length: 31
+< X-Archive-Orig-Strict-Transport-Security: max-age=2592000
+< X-Archive-Orig-Connection: close
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< X-Cache-Key: httpsweb.archive.org/web/20180424171514if_/https://es.edit.huffpost.net/robots.txtUS
+< X-Nid: -
+< Memento-Datetime: Tue, 24 Apr 2018 17:15:14 GMT
+< X-App-Server: wwwb-app100
+< X-Archive-Orig-Date: Tue, 24 Apr 2018 17:15:15 GMT
+< X-Archive-Orig-Last-Modified: Mon, 26 Feb 2018 15:12:43 GMT
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< X-Tr: 431
+< X-Na: 0
+< X-Page-Cache: MISS
+< Content-Type: text/plain
+< X-Archive-Orig-Server: nginx
+< X-Archive-Orig-Accept-Ranges: bytes
+< Referrer-Policy: no-referrer-when-downgrade
+< Date: Mon, 26 Jul 2021 18:25:13 GMT
+< Link: <https://es.edit.huffpost.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://es.edit.huffpost.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://es.edit.huffpost.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20180424171514/http://es.edit.huffpost.net/robots.txt>; rel="first memento"; datetime="Tue, 24 Apr 2018 17:15:14 GMT", <https://web.archive.org/web/20180424171514/https://es.edit.huffpost.net/robots.txt>; rel="memento"; datetime="Tue, 24 Apr 2018 17:15:14 GMT", <https://web.archive.org/web/20180424171515/https://es.edit.huffpost.net/robots.txt>; rel="next memento"; datetime="Tue, 24 Apr 2018 17:15:15 GMT", <https://web.archive.org/web/20210226180758/https://es.edit.huffpost.net/robots.txt>; rel="last memento"; datetime="Fri, 26 Feb 2021 18:07:58 GMT"
+< X-Archive-Src: liveweb-20180424175657/cachegw-20180424083945-wwwb-app10.us.archive.org.warc.gz

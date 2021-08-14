@@ -1,0 +1,38 @@
+GET https://web.archive.org/web/20180731110150if_/http://www2.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Cache-Key: httpsweb.archive.org/web/20180731110150if_/http://www2.huffingtonpost.com/robots.txtUS
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Src: liveweb-20180731143939/cachegw-20180731103855-wwwb-app52.us.archive.org.warc.gz
+< Link: <http://www2.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www2.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www2.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20180731110119/https://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Tue, 31 Jul 2018 11:01:19 GMT", <https://web.archive.org/web/20180731110150/http://www2.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 31 Jul 2018 11:01:50 GMT", <https://web.archive.org/web/20180731112852/http://www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Tue, 31 Jul 2018 11:28:52 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< Server-Timing: RedisCDXSource;dur=215.627186, load_resource;dur=514.967593, exclusion.robots.policy;dur=1.326995, PetaboxLoader3.datanode;dur=1021.402273, LoadShardBlock;dur=1001.409383, CDXLines.iter;dur=431.182263, PetaboxLoader3.resolve;dur=220.618131, exclusion.robots;dur=1.407475, esindex;dur=0.063765
+< X-Ts: 200
+< X-Location: All
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-Content-Length: 3388
+< X-Archive-Orig-Age: 0
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< Date: Mon, 26 Jul 2021 14:52:43 GMT
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< X-Nid: -
+< Connection: keep-alive
+< X-Archive-Orig-P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+< X-Archive-Guessed-Charset: utf-8
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Tr: 2289
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Date: Tue, 31 Jul 2018 11:01:50 GMT
+< X-Archive-Orig-Cache-Control: max-age=3600, public
+< X-Archive-Orig-Connection: close
+< X-Archive-Guessed-Content-Type: text/html
+< X-Rl: 0
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-App-Server: wwwb-app104
+< X-Archive-Orig-Server: ATS
+< Memento-Datetime: Tue, 31 Jul 2018 11:01:50 GMT

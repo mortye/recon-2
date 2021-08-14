@@ -1,0 +1,37 @@
+GET https://web.archive.org/web/20210221042424if_/http://www2.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-App-Server: wwwb-app13
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Date: Sun, 21 Feb 2021 04:24:24 GMT
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< Content-Type: text/html; charset=UTF-8
+< X-Cache-Key: httpsweb.archive.org/web/20210221042424if_/http://www2.huffingtonpost.com/robots.txtUS
+< X-Archive-Orig-Content-Length: 4438
+< X-Archive-Guessed-Charset: utf-8
+< Server-Timing: cdx.remote;dur=0.697771, LoadShardBlock;dur=2075.415602, exclusion.robots;dur=1.766441, PetaboxLoader3.resolve;dur=125.306280, esindex;dur=0.071175, CDXLines.iter;dur=210.074281, load_resource;dur=173.902774, PetaboxLoader3.datanode;dur=351.100203, exclusion.robots.policy;dur=1.665596
+< X-Nid: -
+< X-Archive-Orig-Server: ATS
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Src: huffingtonpost.com-20210221-041412/IA-FOC-huffingtonpost.com-20210221041322-00100.warc.gz
+< X-Rl: 0
+< X-Archive-Orig-P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Na: 0
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 16:34:15 GMT
+< X-Archive-Orig-Age: 0
+< X-Ts: 200
+< X-Location: All
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Cache-Control: max-age=3600, public
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Orig-Content-Security-Policy: sandbox allow-scripts; default-src 'self'; img-src https:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; report-uri http://csp.yahoo.com/beacon/csp?src=redirect
+< X-Tr: 2716
+< Connection: keep-alive
+< X-Archive-Guessed-Content-Type: text/html
+< Memento-Datetime: Sun, 21 Feb 2021 04:24:24 GMT
+< Link: <http://www2.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www2.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www2.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20210221042359/https://www2.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Sun, 21 Feb 2021 04:23:59 GMT", <https://web.archive.org/web/20210221042424/http://www2.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Sun, 21 Feb 2021 04:24:24 GMT", <https://web.archive.org/web/20210221045541/https://www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Sun, 21 Feb 2021 04:55:41 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"

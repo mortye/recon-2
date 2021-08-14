@@ -1,0 +1,46 @@
+GET https://web.archive.org/web/20180517202450if_/https://www.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Tr: 1128
+< X-Archive-Orig-Last-Modified: Fri, 11 May 2018 10:53:07 GMT
+< X-Archive-Orig-Cache-Control: no-cache, no-store, must-revalidate
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Set-Cookie: bf-geo-country=US; expires=Fri, 18 May 2018 20:24:50 GMT; path=/; domain=.buzzfeed.com;
+< X-Archive-Orig-Content-Security-Policy: upgrade-insecure-requests
+< X-Archive-Orig-Vary: Accept-Encoding
+< Link: <https://www.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://www.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://www.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20020921163523/http://buzzfeed.com:80/robots.txt>; rel="first memento"; datetime="Sat, 21 Sep 2002 16:35:23 GMT", <https://web.archive.org/web/20180517193901/https://www.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Thu, 17 May 2018 19:39:01 GMT", <https://web.archive.org/web/20180517202450/https://www.buzzfeed.com/robots.txt>; rel="memento"; datetime="Thu, 17 May 2018 20:24:50 GMT", <https://web.archive.org/web/20180517204212/http://www.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Thu, 17 May 2018 20:42:12 GMT", <https://web.archive.org/web/20210725033235/https://www.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 03:32:35 GMT"
+< X-Location: All
+< X-Page-Cache: MISS
+< X-Archive-Orig-X-Frame-Options: SAMEORIGIN
+< X-Archive-Orig-Strict-Transport-Security: max-age=120; preload
+< X-Archive-Orig-X-Served-By: cache-pao17425-PAO
+< X-App-Server: wwwb-app200
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Date: Mon, 26 Jul 2021 18:10:06 GMT
+< X-Archive-Orig-Server: nginx
+< X-Archive-Orig-Etag: "5af57613-496"
+< X-Archive-Guessed-Content-Type: text/plain
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Rl: 0
+< X-Archive-Orig-Via: 1.1 varnish
+< X-Archive-Orig-X-Cache-Hits: 0
+< Server-Timing: exclusion.robots;dur=1.307116, exclusion.robots.policy;dur=1.221056, RedisCDXSource;dur=9.521336, esindex;dur=0.048384, LoadShardBlock;dur=556.086945, PetaboxLoader3.resolve;dur=240.275373, PetaboxLoader3.datanode;dur=283.278117, CDXLines.iter;dur=348.969894, load_resource;dur=110.283501
+< X-Nid: -
+< Server: nginx/1.15.8
+< X-Archive-Orig-Age: 0
+< X-Archive-Orig-X-Cache: MISS
+< X-Cache-Key: httpsweb.archive.org/web/20180517202450if_/https://www.buzzfeed.com/robots.txtUS
+< Memento-Datetime: Thu, 17 May 2018 20:24:50 GMT
+< X-Ts: 200
+< X-Archive-Orig-Content-Length: 1174
+< X-Archive-Orig-X-Timer: S1526588691.739667,VS0,VE65
+< Cache-Control: max-age=1800
+< Content-Type: text/plain
+< Connection: keep-alive
+< X-Archive-Orig-Date: Thu, 17 May 2018 20:24:50 GMT
+< X-Archive-Orig-Connection: close
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: NO404-GDELT-20180517191112-crawl409/NO404-GDELT-20180517202340-25711.warc.gz
+< Permissions-Policy: interest-cohort=()

@@ -1,0 +1,33 @@
+GET https://web.archive.org/web/20090710004631if_/http://www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Ts: 200
+< X-Page-Cache: MISS
+< X-Archive-Orig-Date: Fri, 10 Jul 2009 00:46:31 GMT
+< X-Rl: 0
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Encoding: utf-8
+< Memento-Datetime: Fri, 10 Jul 2009 00:46:31 GMT
+< Link: <http://www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20090709082429/http://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Thu, 09 Jul 2009 08:24:29 GMT", <https://web.archive.org/web/20090710004631/http://www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Fri, 10 Jul 2009 00:46:31 GMT", <https://web.archive.org/web/20090711023016/http://www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Sat, 11 Jul 2009 02:30:16 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< X-Cache-Key: httpsweb.archive.org/web/20090710004631if_/http://www.huffingtonpost.com/robots.txtUS
+< X-Nid: -
+< Content-Type: text/plain
+< X-Archive-Orig-Last-Modified: Thu, 09 Jul 2009 01:27:08 GMT
+< X-Na: 0
+< X-Archive-Orig-Connection: close
+< X-Archive-Src: ARCHIVEIT-779-20090306005434-00000-crawling10-c/ARCHIVEIT-779-20090710004539-00040-crawling01.us.archive.org.warc.gz
+< X-Location: All
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Tr: 1862
+< X-Archive-Orig-Etag: "4bb445b-ca-46e3bc10fb300"
+< X-Archive-Orig-Content-Length: 202
+< X-Archive-Guessed-Content-Type: text/plain
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< X-Archive-Orig-Server: Apache/2.2.8 (Unix) PHP/5.2.5
+< X-App-Server: wwwb-app201
+< Date: Mon, 26 Jul 2021 17:13:30 GMT
+< Server-Timing: exclusion.robots;dur=1.262277, exclusion.robots.policy;dur=1.191618, RedisCDXSource;dur=37.512659, esindex;dur=0.052273, LoadShardBlock;dur=1230.601835, PetaboxLoader3.datanode;dur=519.531746, CDXLines.iter;dur=352.115610, load_resource;dur=102.491937, PetaboxLoader3.resolve;dur=50.646551

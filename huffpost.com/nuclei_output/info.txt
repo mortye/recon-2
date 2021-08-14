@@ -1,0 +1,70 @@
+[2021-07-20 16:01:06] [addeventlistener-detect] [http] [info] https://guce.huffpost.com
+[2021-07-20 16:01:06] [tech-detect:cloudflare] [http] [info] https://support.huffpost.com
+[2021-07-20 16:01:07] [addeventlistener-detect] [http] [info] https://qa.www.huffpost.com
+[2021-07-20 16:01:07] [addeventlistener-detect] [http] [info] https://staging.preview.www.huffpost.com
+[2021-07-20 16:01:07] [generic-tokens] [http] [info] https://login.huffpost.com [KeyPrefix = "login-landing-",Key:login-landing-next"]
+[2021-07-20 16:01:07] [jwt-token] [http] [info] https://beta.www.huffpost.com [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiIvIiwiaWF0IjoxNjI2Nzk2ODY2LCJleHAiOjE2MjY4MDQwNjZ9.DQGRKKGmgU4mPZ5fvzKo0bhvbOvJdR8OEpeAlP3gFys]
+[2021-07-20 16:01:08] [jwt-token] [http] [info] https://qa.www.huffpost.com [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiIvIiwiaWF0IjoxNjI2Nzk2ODY3LCJleHAiOjE2MjY4MDQwNjd9.aHsDexARsZ0rpahsSMTcYjgYFinpuENqT4QpcbqKrtc]
+[2021-07-20 16:01:08] [keycloak-openid-config] [http] [info] https://stage.oidc.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:08] [tech-detect:lighttpd] [http] [info] https://checkout.huffpost.com
+[2021-07-20 16:01:08] [tech-detect:nginx] [http] [info] https://sli.huffpost.com
+[2021-07-20 16:01:08] [tech-detect:nginx] [http] [info] https://staging.preview.m.huffpost.com
+[2021-07-20 16:01:09] [addeventlistener-detect] [http] [info] https://beta.www.huffpost.com
+[2021-07-20 16:01:09] [jwt-token] [http] [info] https://preview.www.huffpost.com [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiIvIiwiaWF0IjoxNjI2Nzk2ODY3LCJleHAiOjE2MjY4MDQwNjd9._YrvkKtQdZKc4xFq-gTXl8xpN1HUKFlDi1rQN0QR1Pc]
+[2021-07-20 16:01:09] [jwt-token] [http] [info] https://qa.preview.www.huffpost.com [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiIvIiwiaWF0IjoxNjI2Nzk2ODY3LCJleHAiOjE2MjY4MDQwNjd9.aHsDexARsZ0rpahsSMTcYjgYFinpuENqT4QpcbqKrtc]
+[2021-07-20 16:01:09] [jwt-token] [http] [info] https://staging.preview.www.huffpost.com [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiIvIiwiaWF0IjoxNjI2Nzk2ODY3LCJleHAiOjE2MjY4MDQwNjd9.aHsDexARsZ0rpahsSMTcYjgYFinpuENqT4QpcbqKrtc]
+[2021-07-20 16:01:09] [nameserver-detection:aws-route53] [dns] [info] https://qa.www.huffpost.com
+[2021-07-20 16:01:09] [nameserver-detection:aws-route53] [dns] [info] https://staging.preview.www.huffpost.com
+[2021-07-20 16:01:09] [nameserver-detection:dnsmadeeasy] [dns] [info] https://link.huffpost.com
+[2021-07-20 16:01:09] [tech-detect:nginx] [http] [info] https://api-public.huffpost.com
+[2021-07-20 16:01:10] [dns-waf-detect:cloudflare] [dns] [info] https://auth.stage.huffpost.com
+[2021-07-20 16:01:10] [jwt-token] [http] [info] https://beta.preview.www.huffpost.com [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiIvIiwiaWF0IjoxNjI2Nzk2ODY3LCJleHAiOjE2MjY4MDQwNjd9.HznTvPNhWsLetMpyZ9yKQmDCAulu1uE4X-mVM8aoLas]
+[2021-07-20 16:01:11] [addeventlistener-detect] [http] [info] https://qa.preview.www.huffpost.com
+[2021-07-20 16:01:11] [oidc-detect] [http] [info] https://login-stage.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:11] [oidc-detect] [http] [info] https://stage.api.login.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:11] [oidc-detect] [http] [info] https://stage.login.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:12] [addeventlistener-detect] [http] [info] https://beta.preview.www.huffpost.com
+[2021-07-20 16:01:12] [addeventlistener-detect] [http] [info] https://preview.www.huffpost.com
+[2021-07-20 16:01:13] [nameserver-detection:aws-route53] [dns] [info] https://stage.api.login.huffpost.com
+[2021-07-20 16:01:14] [keycloak-openid-config] [http] [info] https://api.login.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:16] [tech-detect:comscore] [http] [info] https://beta.www.huffpost.com
+[2021-07-20 16:01:16] [tech-detect:comscore] [http] [info] https://qa.preview.www.huffpost.com
+[2021-07-20 16:01:16] [tech-detect:express] [http] [info] https://qa.preview.www.huffpost.com
+[2021-07-20 16:01:16] [tech-detect:google-font-api] [http] [info] https://beta.www.huffpost.com
+[2021-07-20 16:01:16] [tech-detect:google-font-api] [http] [info] https://qa.preview.www.huffpost.com
+[2021-07-20 16:01:17] [tech-detect:comscore] [http] [info] https://beta.preview.www.huffpost.com
+[2021-07-20 16:01:17] [tech-detect:comscore] [http] [info] https://preview.www.huffpost.com
+[2021-07-20 16:01:17] [tech-detect:express] [http] [info] https://beta.preview.www.huffpost.com
+[2021-07-20 16:01:17] [tech-detect:express] [http] [info] https://preview.www.huffpost.com
+[2021-07-20 16:01:17] [tech-detect:google-font-api] [http] [info] https://beta.preview.www.huffpost.com
+[2021-07-20 16:01:17] [tech-detect:google-font-api] [http] [info] https://preview.www.huffpost.com
+[2021-07-20 16:01:18] [nameserver-detection:aws-route53] [dns] [info] https://beta.preview.www.huffpost.com
+[2021-07-20 16:01:18] [nameserver-detection:aws-route53] [dns] [info] https://beta.www.huffpost.com
+[2021-07-20 16:01:18] [nameserver-detection:aws-route53] [dns] [info] https://huffpost.com
+[2021-07-20 16:01:18] [nameserver-detection:aws-route53] [dns] [info] https://offers.huffpost.com
+[2021-07-20 16:01:18] [nameserver-detection:aws-route53] [dns] [info] https://preview.www.huffpost.com
+[2021-07-20 16:01:18] [nameserver-detection:aws-route53] [dns] [info] https://qa.preview.www.huffpost.com
+[2021-07-20 16:01:20] [tech-detect:nginx] [http] [info] https://preview.m.huffpost.com
+[2021-07-20 16:01:21] [nameserver-detection:aws-route53] [dns] [info] https://stage.oidc.huffpost.com
+[2021-07-20 16:01:25] [oidc-detect] [http] [info] https://api-stage.login.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:25] [oidc-detect] [http] [info] https://auth.stage.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:26] [nameserver-detection:aws-route53] [dns] [info] https://preview.m.huffpost.com
+[2021-07-20 16:01:26] [nameserver-detection:cloudflare] [dns] [info] https://auth.stage.huffpost.com
+[2021-07-20 16:01:27] [keycloak-openid-config] [http] [info] https://login-stage.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:27] [keycloak-openid-config] [http] [info] https://stage.login.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:29] [mx-service-detector:Google Apps] [dns] [info] https://huffpost.com
+[2021-07-20 16:01:34] [nameserver-detection:aws-route53] [dns] [info] https://staging.preview.m.huffpost.com
+[2021-07-20 16:01:35] [oidc-detect] [http] [info] https://api.login.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:35] [oidc-detect] [http] [info] https://stage.oidc.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:39] [tech-detect:lighttpd] [http] [info] https://link.huffpost.com
+[2021-07-20 16:01:39] [tech-detect:ms-httpapi] [http] [info] https://subscribe.huffpost.com
+[2021-07-20 16:01:40] [nameserver-detection:aws-route53] [dns] [info] https://guce.huffpost.com
+[2021-07-20 16:01:40] [nameserver-detection:aws-route53] [dns] [info] https://stage.login.huffpost.com
+[2021-07-20 16:01:42] [keycloak-openid-config] [http] [info] https://stage.api.login.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:45] [keycloak-openid-config] [http] [info] https://api-stage.login.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:45] [keycloak-openid-config] [http] [info] https://auth.stage.huffpost.com/.well-known/openid-configuration
+[2021-07-20 16:01:45] [tech-detect:comscore] [http] [info] https://qa.www.huffpost.com
+[2021-07-20 16:01:45] [tech-detect:google-font-api] [http] [info] https://qa.www.huffpost.com
+[2021-07-20 16:01:46] [tech-detect:comscore] [http] [info] https://staging.preview.www.huffpost.com
+[2021-07-20 16:01:46] [tech-detect:express] [http] [info] https://staging.preview.www.huffpost.com
+[2021-07-20 16:01:46] [tech-detect:google-font-api] [http] [info] https://staging.preview.www.huffpost.com

@@ -1,0 +1,45 @@
+GET https://web.archive.org/web/20160522054818if_/https://games-stage.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Content-Length: 22
+< Memento-Datetime: Sun, 22 May 2016 05:48:18 GMT
+< X-Archive-Orig-Cache-Control: max-age=604800
+< Connection: keep-alive
+< X-Archive-Orig-Last-Modified: Mon, 16 May 2016 21:14:45 GMT
+< X-Archive-Orig-X-Cache-Hits: 1
+< Cache-Control: max-age=1800
+< Server-Timing: captures_list;dur=357.144829, exclusion.robots;dur=0.319564, exclusion.robots.policy;dur=0.304615, RedisCDXSource;dur=1.736695, esindex;dur=0.010583, LoadShardBlock;dur=287.103267, PetaboxLoader3.datanode;dur=76.693050, CDXLines.iter;dur=32.967098, PetaboxLoader3.resolve;dur=722.346160, load_resource;dur=707.671608
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< X-Archive-Orig-Server: AmazonS3
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-X-Amz-Meta-Mode: 33188
+< X-Archive-Orig-X-Amz-Request-Id: 37448F139DBC6FFB
+< X-Archive-Orig-X-Served-By: cache-sjc3131-SJC
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Ts: 200
+< X-Na: 0
+< Date: Mon, 26 Jul 2021 18:09:27 GMT
+< X-Archive-Src: NO404-GDELT-20160522054205-crawl409/NO404-GDELT-20160522054800-02152.warc.gz
+< X-Tr: 1091
+< X-Cache-Key: httpsweb.archive.org/web/20160522054818if_/https://games-stage.buzzfeed.com/robots.txtUS
+< X-Archive-Orig-X-Cache: HIT
+< X-Archive-Orig-X-Amz-Id-2: A8pFQeMYui+esNMO0phbt2k7zuTZ9KEsIuDHtlauEpK7702+M4BuOKBqWVTm04Z0Zq+rEbIETNs=
+< X-Archive-Orig-Date: Sun, 22 May 2016 05:48:18 GMT
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-Vary: Accept-Encoding, X-BF-Origin
+< X-Archive-Guessed-Encoding: utf-8
+< Link: <https://games-stage.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://games-stage.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://games-stage.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160118074932/http://games-stage.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Mon, 18 Jan 2016 07:49:32 GMT", <https://web.archive.org/web/20160520052234/https://games-stage.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Fri, 20 May 2016 05:22:34 GMT", <https://web.archive.org/web/20160522054818/https://games-stage.buzzfeed.com/robots.txt>; rel="memento"; datetime="Sun, 22 May 2016 05:48:18 GMT", <https://web.archive.org/web/20160523063338/https://games-stage.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Mon, 23 May 2016 06:33:38 GMT", <https://web.archive.org/web/20210724212127/https://games-stage.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 21:21:27 GMT"
+< X-Rl: 0
+< Content-Type: text/plain
+< X-Nid: -
+< X-Page-Cache: MISS
+< X-Archive-Orig-Etag: "5d2cb4da7f70c2970de053abf21658e7"
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Via: 1.1 varnish
+< X-Archive-Guessed-Content-Type: text/plain
+< X-App-Server: wwwb-app201
+< X-Archive-Orig-X-Timer: S1463896098.362008,VS0,VE0
+< X-Location: All
+< X-Archive-Orig-Age: 119688

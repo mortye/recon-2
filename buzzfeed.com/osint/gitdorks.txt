@@ -1,0 +1,79 @@
+[+] (77) DORK = "access_key" | https://github.com/search?q=buzzfeed.com+%22access_key%22&s=indexed&type=Code&o=desc
+[+] (44096) DORK = "amazonaws" | https://github.com/search?q=buzzfeed.com+%22amazonaws%22&s=indexed&type=Code&o=desc
+[+] (1) DORK = "apiSecret" | https://github.com/search?q=buzzfeed.com+%22apiSecret%22&s=indexed&type=Code&o=desc
+[+] (1179) DORK = "api_key" | https://github.com/search?q=buzzfeed.com+%22api_key%22&s=indexed&type=Code&o=desc
+[+] (4) DORK = "api_secret" | https://github.com/search?q=buzzfeed.com+%22api_secret%22&s=indexed&type=Code&o=desc
+[+] (604) DORK = "apikey" | https://github.com/search?q=buzzfeed.com+%22apikey%22&s=indexed&type=Code&o=desc
+[+] (1) DORK = "app_key" | https://github.com/search?q=buzzfeed.com+%22app_key%22&s=indexed&type=Code&o=desc
+[+] (4) DORK = "app_secret" | https://github.com/search?q=buzzfeed.com+%22app_secret%22&s=indexed&type=Code&o=desc
+[+] (511) DORK = "appkey" | https://github.com/search?q=buzzfeed.com+%22appkey%22&s=indexed&type=Code&o=desc
+[+] (64) DORK = "application_key" | https://github.com/search?q=buzzfeed.com+%22application_key%22&s=indexed&type=Code&o=desc
+[+] (3816) DORK = "appspot" | https://github.com/search?q=buzzfeed.com+%22appspot%22&s=indexed&type=Code&o=desc
+[+] (7952) DORK = "auth" | https://github.com/search?q=buzzfeed.com+%22auth%22&s=indexed&type=Code&o=desc
+[+] (3) DORK = "aws_access_key_id" | https://github.com/search?q=buzzfeed.com+%22aws_access_key_id%22&s=indexed&type=Code&o=desc
+[+] (12) DORK = "client_secret" | https://github.com/search?q=buzzfeed.com+%22client_secret%22&s=indexed&type=Code&o=desc
+[+] (22347) DORK = "cloudfront" | https://github.com/search?q=buzzfeed.com+%22cloudfront%22&s=indexed&type=Code&o=desc
+[+] (17075) DORK = "config" | https://github.com/search?q=buzzfeed.com+%22config%22&s=indexed&type=Code&o=desc
+[+] (78) DORK = "consumer_key" | https://github.com/search?q=buzzfeed.com+%22consumer_key%22&s=indexed&type=Code&o=desc
+[+] (2219) DORK = "credentials" | https://github.com/search?q=buzzfeed.com+%22credentials%22&s=indexed&type=Code&o=desc
+[+] (8) DORK = "db_password" | https://github.com/search?q=buzzfeed.com+%22db_password%22&s=indexed&type=Code&o=desc
+[+] (1) DORK = "db_username" | https://github.com/search?q=buzzfeed.com+%22db_username%22&s=indexed&type=Code&o=desc
+[+] (2) DORK = "dbpasswd" | https://github.com/search?q=buzzfeed.com+%22dbpasswd%22&s=indexed&type=Code&o=desc
+[+] (4) DORK = "dbuser" | https://github.com/search?q=buzzfeed.com+%22dbuser%22&s=indexed&type=Code&o=desc
+[+] (87) DORK = "dotfiles" | https://github.com/search?q=buzzfeed.com+%22dotfiles%22&s=indexed&type=Code&o=desc
+[+] (643) DORK = "firebase" | https://github.com/search?q=buzzfeed.com+%22firebase%22&s=indexed&type=Code&o=desc
+[+] (1191) DORK = "ftp" | https://github.com/search?q=buzzfeed.com+%22ftp%22&s=indexed&type=Code&o=desc
+[+] (1491) DORK = "gitlab" | https://github.com/search?q=buzzfeed.com+%22gitlab%22&s=indexed&type=Code&o=desc
+[+] (2905) DORK = "herokuapp" | https://github.com/search?q=buzzfeed.com+%22herokuapp%22&s=indexed&type=Code&o=desc
+[+] (11720) DORK = "internal" | https://github.com/search?q=buzzfeed.com+%22internal%22&s=indexed&type=Code&o=desc
+[+] (16534) DORK = "login" | https://github.com/search?q=buzzfeed.com+%22login%22&s=indexed&type=Code&o=desc
+[+] (6617) DORK = "mailchimp" | https://github.com/search?q=buzzfeed.com+%22mailchimp%22&s=indexed&type=Code&o=desc
+[+] (16261) DORK = "mysql" | https://github.com/search?q=buzzfeed.com+%22mysql%22&s=indexed&type=Code&o=desc
+[+] (20) DORK = "node_env" | https://github.com/search?q=buzzfeed.com+%22node_env%22&s=indexed&type=Code&o=desc
+[+] (1) DORK = "npmrc _auth" | https://github.com/search?q=buzzfeed.com+%22npmrc+_auth%22&s=indexed&type=Code&o=desc
+[+] (24) DORK = "oauth_token" | https://github.com/search?q=buzzfeed.com+%22oauth_token%22&s=indexed&type=Code&o=desc
+[+] (17457) DORK = "pass" | https://github.com/search?q=buzzfeed.com+%22pass%22&s=indexed&type=Code&o=desc
+[+] (2046) DORK = "passwords" | https://github.com/search?q=buzzfeed.com+%22passwords%22&s=indexed&type=Code&o=desc
+[+] (2) DORK = "pem private" | https://github.com/search?q=buzzfeed.com+%22pem+private%22&s=indexed&type=Code&o=desc
+[+] (126) DORK = "preprod" | https://github.com/search?q=buzzfeed.com+%22preprod%22&s=indexed&type=Code&o=desc
+[+] (16) DORK = "private_key" | https://github.com/search?q=buzzfeed.com+%22private_key%22&s=indexed&type=Code&o=desc
+[+] (35507) DORK = "prod" | https://github.com/search?q=buzzfeed.com+%22prod%22&s=indexed&type=Code&o=desc
+[+] (613) DORK = "pwd" | https://github.com/search?q=buzzfeed.com+%22pwd%22&s=indexed&type=Code&o=desc
+[+] (2) DORK = "redis_password" | https://github.com/search?q=buzzfeed.com+%22redis_password%22&s=indexed&type=Code&o=desc
+[+] (16006) DORK = "secret" | https://github.com/search?q=buzzfeed.com+%22secret%22&s=indexed&type=Code&o=desc
+[+] (11) DORK = "secret_key" | https://github.com/search?q=buzzfeed.com+%22secret_key%22&s=indexed&type=Code&o=desc
+[+] (17) DORK = "secret_token" | https://github.com/search?q=buzzfeed.com+%22secret_token%22&s=indexed&type=Code&o=desc
+[+] (6944) DORK = "secrets" | https://github.com/search?q=buzzfeed.com+%22secrets%22&s=indexed&type=Code&o=desc
+[+] (19233) DORK = "secure" | https://github.com/search?q=buzzfeed.com+%22secure%22&s=indexed&type=Code&o=desc
+[+] (23) DORK = "send.keys" | https://github.com/search?q=buzzfeed.com+%22send.keys%22&s=indexed&type=Code&o=desc
+[+] (14) DORK = "send_keys" | https://github.com/search?q=buzzfeed.com+%22send_keys%22&s=indexed&type=Code&o=desc
+[+] (1) DORK = "sendkeys" | https://github.com/search?q=buzzfeed.com+%22sendkeys%22&s=indexed&type=Code&o=desc
+[+] (1) DORK = "sshpass" | https://github.com/search?q=buzzfeed.com+%22sshpass%22&s=indexed&type=Code&o=desc
+[+] (3652) DORK = "staging" | https://github.com/search?q=buzzfeed.com+%22staging%22&s=indexed&type=Code&o=desc
+[+] (1879) DORK = "stg" | https://github.com/search?q=buzzfeed.com+%22stg%22&s=indexed&type=Code&o=desc
+[+] (8222) DORK = "token" | https://github.com/search?q=buzzfeed.com+%22token%22&s=indexed&type=Code&o=desc
+[+] (3) DORK = "x-api-key" | https://github.com/search?q=buzzfeed.com+%22x-api-key%22&s=indexed&type=Code&o=desc
+[+] (1) DORK = "xoxp" | https://github.com/search?q=buzzfeed.com+%22xoxp%22&s=indexed&type=Code&o=desc
+[+] (11) DORK = extension:cfg | https://github.com/search?q=buzzfeed.com+extension%3Acfg&s=indexed&type=Code&o=desc
+[+] (2) DORK = extension:exs | https://github.com/search?q=buzzfeed.com+extension%3Aexs&s=indexed&type=Code&o=desc
+[+] (15) DORK = extension:ini | https://github.com/search?q=buzzfeed.com+extension%3Aini&s=indexed&type=Code&o=desc
+[+] (6) DORK = extension:properties | https://github.com/search?q=buzzfeed.com+extension%3Aproperties&s=indexed&type=Code&o=desc
+[+] (131) DORK = extension:sh | https://github.com/search?q=buzzfeed.com+extension%3Ash&s=indexed&type=Code&o=desc
+[+] (288) DORK = extension:sql mysql dump | https://github.com/search?q=buzzfeed.com+extension%3Asql+mysql+dump&s=indexed&type=Code&o=desc
+[+] (128) DORK = extension:sql mysql dump password | https://github.com/search?q=buzzfeed.com+extension%3Asql+mysql+dump+password&s=indexed&type=Code&o=desc
+[+] (1) DORK = extension:zsh | https://github.com/search?q=buzzfeed.com+extension%3Azsh&s=indexed&type=Code&o=desc
+[+] (65) DORK = filename:.history | https://github.com/search?q=buzzfeed.com+filename%3A.history&s=indexed&type=Code&o=desc
+[+] (8) DORK = filename:bash | https://github.com/search?q=buzzfeed.com+filename%3Abash&s=indexed&type=Code&o=desc
+[+] (50) DORK = filename:config | https://github.com/search?q=buzzfeed.com+filename%3Aconfig&s=indexed&type=Code&o=desc
+[+] (19) DORK = filename:connections | https://github.com/search?q=buzzfeed.com+filename%3Aconnections&s=indexed&type=Code&o=desc
+[+] (12) DORK = filename:constants | https://github.com/search?q=buzzfeed.com+filename%3Aconstants&s=indexed&type=Code&o=desc
+[+] (7) DORK = filename:credentials | https://github.com/search?q=buzzfeed.com+filename%3Acredentials&s=indexed&type=Code&o=desc
+[+] (144) DORK = filename:database | https://github.com/search?q=buzzfeed.com+filename%3Adatabase&s=indexed&type=Code&o=desc
+[+] (9) DORK = filename:environment | https://github.com/search?q=buzzfeed.com+filename%3Aenvironment&s=indexed&type=Code&o=desc
+[+] (1) DORK = filename:gitconfig | https://github.com/search?q=buzzfeed.com+filename%3Agitconfig&s=indexed&type=Code&o=desc
+[+] (442) DORK = filename:global | https://github.com/search?q=buzzfeed.com+filename%3Aglobal&s=indexed&type=Code&o=desc
+[+] (65) DORK = filename:history | https://github.com/search?q=buzzfeed.com+filename%3Ahistory&s=indexed&type=Code&o=desc
+[+] (7) DORK = filename:spec | https://github.com/search?q=buzzfeed.com+filename%3Aspec&s=indexed&type=Code&o=desc
+[+] (550) DORK = language:yaml -filename:travis | https://github.com/search?q=buzzfeed.com+language%3Ayaml+-filename%3Atravis&s=indexed&type=Code&o=desc
+[+] (2) DORK = path:sites databases password | https://github.com/search?q=buzzfeed.com+path%3Asites+databases+password&s=indexed&type=Code&o=desc
+[+] (16311) DORK = private -language:java | https://github.com/search?q=buzzfeed.com+private+-language%3Ajava&s=indexed&type=Code&o=desc

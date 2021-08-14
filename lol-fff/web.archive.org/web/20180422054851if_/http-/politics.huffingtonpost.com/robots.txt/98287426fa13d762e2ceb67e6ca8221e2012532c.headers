@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20180422054851if_/http://politics.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Archive-Orig-Keep-Alive: timeout=15, max=9940
+< Memento-Datetime: Sun, 22 Apr 2018 05:48:51 GMT
+< X-Archive-Src: liveweb-20180422172215/cachegw-20180422001335-wwwb-app4.us.archive.org.warc.gz
+< X-Cache-Key: httpsweb.archive.org/web/20180422054851if_/http://politics.huffingtonpost.com/robots.txtUS
+< X-Nid: -
+< Server: nginx/1.15.8
+< Connection: keep-alive
+< Content-Type: text/html; charset=iso-8859-1
+< X-Archive-Orig-Date: Sun, 22 Apr 2018 05:48:52 GMT
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Rl: 0
+< Permissions-Policy: interest-cohort=()
+< Location: https://web.archive.org/web/20180422054851if_/http://www.huffingtonpost.com/politics/
+< Link: <http://politics.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://politics.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://politics.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180422054851/http://politics.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Sun, 22 Apr 2018 05:48:51 GMT", <https://web.archive.org/web/20180422054851/http://politics.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Sun, 22 Apr 2018 05:48:51 GMT", <https://web.archive.org/web/20180710234814/http://politics.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Tue, 10 Jul 2018 23:48:14 GMT", <https://web.archive.org/web/20190802114342/http://politics.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 02 Aug 2019 11:43:42 GMT"
+< X-Tr: 1944
+< X-App-Server: wwwb-app200
+< X-Ts: 301
+< X-Page-Cache: MISS
+< Date: Mon, 26 Jul 2021 16:10:33 GMT
+< X-Location: All
+< X-Na: 0
+< X-Archive-Orig-Server: Apache
+< X-Archive-Orig-Content-Length: 247
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-Connection: Keep-Alive
+< Cache-Control: max-age=1800
+< Server-Timing: captures_list;dur=1196.203433, exclusion.robots;dur=0.208049, exclusion.robots.policy;dur=0.196093, RedisCDXSource;dur=1.579366, esindex;dur=0.007279, LoadShardBlock;dur=1171.294863, PetaboxLoader3.datanode;dur=97.025713, CDXLines.iter;dur=20.422982, load_resource;dur=711.391866, PetaboxLoader3.resolve;dur=654.903958

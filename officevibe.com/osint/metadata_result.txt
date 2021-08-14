@@ -1,0 +1,277 @@
+
+SuccessStory_Nautilus.pdf
+-------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/09/SuccessStory_Nautilus.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20200917154559-04'00'
+|_ ModDate: D:20200917154601-04'00'
+|_ Creator: Adobe InDesign 15.1 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+Nintex_Manager.pdf
+------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/10/Nintex_Manager.pdf
+Status code: 200
+Search engines: google
+|_ CreationDate: D:20200625150332-04'00'
+|_ ModDate: D:20200625150334-04'00'
+|_ Creator: Adobe InDesign 15.0 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+CampMinder_Manager.pdf
+----------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/10/CampMinder_Manager.pdf
+Status code: 200
+Search engines: google
+|_ CreationDate: D:20200702131845-04'00'
+|_ ModDate: D:20200702131847-04'00'
+|_ Creator: Adobe InDesign 15.1 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+Employee_recognition_Guide.pdf
+------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2021/01/Employee_recognition_Guide.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20200918130417-04'00'
+|_ ModDate: D:20200918130642-04'00'
+|_ Creator: Adobe InDesign 15.1 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+OV_ToolBox_Onbording_v02.pdf
+----------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/05/OV_ToolBox_Onbording_v02.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20200514141806-04'00'
+|_ ModDate: D:20200529195223Z
+|_ Producer: RAD PDF 3.14.1.0 - https://www.radpdf.com
+|_ Creator: PDFescape Online - https://www.pdfescape.com
+
+Employee_Feedback_Demystified-Guide.pdf
+---------------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2021/02/Employee_Feedback_Demystified-Guide.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20210204201747-05'00'
+|_ ModDate: D:20210204202112-05'00'
+|_ Creator: Adobe InDesign 15.1 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+AdministrationDeCompte.pdf
+--------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2018/04/AdministrationDeCompte.pdf
+Status code: 200
+Search engines: google
+|_ No metadata found
+
+leadership-guide.pdf
+--------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2021/01/leadership-guide.pdf
+Status code: 200
+Search engines: google
+|_ CreationDate: D:20210118212900Z00'00'
+|_ ModDate: D:20210118212900Z00'00'
+|_ Producer: GPL Ghostscript 9.26
+|_ Creator: Adobe InDesign CC 13.1 (Macintosh)
+
+SuccessStory_Nolk.pdf
+---------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/09/SuccessStory_Nolk.pdf
+Status code: 200
+Search engines: google
+|_ CreationDate: D:20200812120319-04'00'
+|_ ModDate: D:20200812120321-04'00'
+|_ Creator: Adobe InDesign 15.1 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+Officevibe-4StepsPowerfulCommunication_Guide.pdf
+------------------------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/11/05154931/Officevibe-4StepsPowerfulCommunication_Guide.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20210505154846-04'00'
+|_ ModDate: D:20210505154847-04'00'
+|_ Creator: Adobe InDesign 16.1 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+OV_1-1Meeting-Guide_Interactif.pdf
+----------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2021/02/OV_1-1Meeting-Guide_Interactif.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20210201152333-05'00'
+|_ ModDate: D:20210201152701-05'00'
+|_ Creator: Adobe InDesign 15.1 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+Managing-emotions-workplace.pdf
+-------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2021/01/Managing-emotions-workplace.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20200930090937-04'00'
+|_ ModDate: D:20200930091132-04'00'
+|_ Creator: Adobe InDesign 15.1 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+Setting-meaningful-goals-that-stick_v2.pdf
+------------------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/05/Setting-meaningful-goals-that-stick_v2.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20200430194929-04'00'
+|_ ModDate: D:20200529195907Z
+|_ Producer: RAD PDF 3.14.1.0 - https://www.radpdf.com
+|_ Creator: PDFescape Online - https://www.pdfescape.com
+
+Effective-communication-guide-managers.pdf
+------------------------------------------
+URL: https://officevibe.com/wp-content/uploads/2020/11/Effective-communication-guide-managers.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20201116160814-05'00'
+|_ ModDate: D:20201116160815-05'00'
+|_ Creator: Adobe InDesign 15.1 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+1-on-1-Guide-2020.pdf
+---------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/04/1-on-1-Guide-2020.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20201124111843-05'00'
+|_ ModDate: D:20201124111847-05'00'
+|_ Creator: Adobe InDesign 16.0 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+Remote-work-collaboration-guide-1.pdf
+-------------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/04/Remote-work-collaboration-guide-1.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20200316094910-04'00'
+|_ ModDate: D:20200316094910-04'00'
+|_ Creator: Adobe InDesign 15.0 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+Interview-questions-for-managers-1.pdf
+--------------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/04/Interview-questions-for-managers-1.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20200408070537-04'00'
+|_ ModDate: D:20200408070538-04'00'
+|_ Creator: Adobe InDesign 15.0 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+Emotional-intelligence-guide-practice-exercises-1.pdf
+-----------------------------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/04/Emotional-intelligence-guide-practice-exercises-1.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20180704170424-04'00'
+|_ ModDate: D:20180704170427-04'00'
+|_ Creator: Adobe InDesign CC 13.1 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+The-complete-guide-for-new-managers-1.pdf
+-----------------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/04/The-complete-guide-for-new-managers-1.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20190529145222-04'00'
+|_ ModDate: D:20190529145238-04'00'
+|_ Creator: Adobe InDesign 14.0 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+Officevibe-better-feedback-framework-for-managers-and-teams-1.pdf
+-----------------------------------------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/04/Officevibe-better-feedback-framework-for-managers-and-teams-1.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20200423114242-04'00'
+|_ ModDate: D:20200423114243-04'00'
+|_ Creator: Adobe InDesign 15.0 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+Team-collaboration-guide-meeting-framework-1.pdf
+------------------------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/04/Team-collaboration-guide-meeting-framework-1.pdf
+Status code: 200
+Search engines: google
+|_ CreationDate: D:20200313170314Z00'00'
+|_ ModDate: D:20200313170314Z00'00'
+|_ Producer: macOS Version 10.14.5 (assemblage 18F132) Quartz PDFContext
+|_ Creator: Adobe InDesign 15.0 (Macintosh)
+
+Officevibe-5-Essential-tips-for-managers-with-remote-teams.pdf
+--------------------------------------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2021/01/Officevibe-5-Essential-tips-for-managers-with-remote-teams.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20200529151702-04'00'
+|_ ModDate: D:20200529151702-04'00'
+|_ Creator: Adobe InDesign 15.0 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+New-manager-checklist-the-first-30-days-1.pdf
+---------------------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/04/New-manager-checklist-the-first-30-days-1.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20200408161040-04'00'
+|_ ModDate: D:20200408161041-04'00'
+|_ Creator: Adobe InDesign 15.0 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+OV_How-to-manage-your-emotions-at-work_Tool_Interactif.pdf
+----------------------------------------------------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/09/OV_How-to-manage-your-emotions-at-work_Tool_Interactif.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20201005161647-04'00'
+|_ ModDate: D:20201005202027Z00'00'
+|_ Creator: Adobe InDesign 15.1 (Macintosh)
+|_ Producer: macOS Version 10.15.5 (assemblage 19F101) Quartz PDFContext, AppendMode 1.1
+|_ Trapped: /False
+
+Nintex_HR.pdf
+-------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/10/Nintex_HR.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20200625150254-04'00'
+|_ ModDate: D:20200625150255-04'00'
+|_ Creator: Adobe InDesign 15.0 (Macintosh)
+|_ Producer: Adobe PDF Library 15.0
+|_ Trapped: /False
+
+CampMinder_HR.pdf
+-----------------
+URL: https://assets.officevibe.com/wp-content/uploads/2020/09/CampMinder_HR.pdf
+Status code: 200
+Search engines: bing
+|_ CreationDate: D:20200917185103Z00'00'
+|_ ModDate: D:20200917185103Z00'00'
+|_ Producer: GPL Ghostscript 9.26
+|_ Creator: Adobe InDesign 15.1 (Macintosh)

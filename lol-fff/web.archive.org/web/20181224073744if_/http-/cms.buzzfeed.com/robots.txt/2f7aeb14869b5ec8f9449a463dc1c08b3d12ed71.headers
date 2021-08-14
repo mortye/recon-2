@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20181224073744if_/http://cms.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Connection: keep-alive
+< X-Tr: 966
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20181224073744if_/http://cms.buzzfeed.com/robots.txtUS
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 17:45:10 GMT
+< Content-Type: text/plain; charset=utf-8
+< X-Archive-Redirect-Reason: found capture at 20181224145429
+< Permissions-Policy: interest-cohort=()
+< X-Nid: -
+< Server-Timing: captures_list;dur=238.424565, exclusion.robots;dur=0.273940, exclusion.robots.policy;dur=0.261601, RedisCDXSource;dur=0.731087, esindex;dur=0.011115, LoadShardBlock;dur=148.133339, PetaboxLoader3.datanode;dur=172.262413, CDXLines.iter;dur=33.348821, PetaboxLoader3.resolve;dur=584.559249, load_resource;dur=705.611206
+< X-App-Server: wwwb-app57
+< X-Ts: 302
+< X-Rl: 0
+< X-Page-Cache: MISS
+< Content-Length: 0
+< Location: https://web.archive.org/web/20181224145429if_/https://cms.buzzfeed.com/robots.txt
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade

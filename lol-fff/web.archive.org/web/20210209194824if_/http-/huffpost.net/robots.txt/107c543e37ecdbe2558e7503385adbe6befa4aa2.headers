@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20210209194824if_/http://huffpost.net/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Ts: 301
+< Connection: keep-alive
+< X-Archive-Orig-Content-Language: en
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< X-App-Server: wwwb-app56
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20210209194824if_/http://huffpost.net/robots.txtUS
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Server: ATS
+< Server-Timing: captures_list;dur=378.945790, exclusion.robots;dur=0.391690, exclusion.robots.policy;dur=0.379553, RedisCDXSource;dur=0.953451, esindex;dur=0.012000, LoadShardBlock;dur=330.352125, PetaboxLoader3.datanode;dur=677.642103, CDXLines.iter;dur=18.982097, PetaboxLoader3.resolve;dur=1190.455691, load_resource;dur=1606.454195
+< Location: https://web.archive.org/web/20210209194824if_/https://www.huffpost.com/
+< X-Archive-Orig-Cache-Control: no-store
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Archive-Orig-Content-Length: 4381
+< Date: Mon, 26 Jul 2021 18:23:36 GMT
+< X-Page-Cache: MISS
+< Content-Type: text/html
+< X-Archive-Orig-Date: Tue, 09 Feb 2021 19:48:25 GMT
+< X-Archive-Orig-Content-Security-Policy: sandbox allow-scripts; default-src 'self'; img-src https:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; report-uri http://csp.yahoo.com/beacon/csp?src=redirect
+< Memento-Datetime: Tue, 09 Feb 2021 19:48:24 GMT
+< Link: <http://huffpost.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://huffpost.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://huffpost.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20101225170754/http://huffpost.net/robots.txt>; rel="first memento"; datetime="Sat, 25 Dec 2010 17:07:54 GMT", <https://web.archive.org/web/20210209011316/http://huffpost.net/robots.txt>; rel="prev memento"; datetime="Tue, 09 Feb 2021 01:13:16 GMT", <https://web.archive.org/web/20210209194824/http://huffpost.net/robots.txt>; rel="memento"; datetime="Tue, 09 Feb 2021 19:48:24 GMT", <https://web.archive.org/web/20210209235048/http://huffpost.net/robots.txt>; rel="next memento"; datetime="Tue, 09 Feb 2021 23:50:48 GMT", <https://web.archive.org/web/20210724182821/https://huffpost.net/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 18:28:21 GMT"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Tr: 2033
+< Server: nginx/1.15.8
+< X-Nid: -
+< X-Rl: 0
+< Cache-Control: max-age=1800
+< X-Archive-Src: yahoo.com-20210209-145732/IA-FOC-yahoo.com-20210209194158-00000.warc.gz
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade

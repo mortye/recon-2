@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20190202073013if_/http://buzzen.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Server: nginx/1.15.8
+< Content-Type: text/plain; charset=utf-8
+< Server-Timing: load_resource;dur=108.000679, CDXLines.iter;dur=35.063283, LoadShardBlock;dur=132.028365, exclusion.robots.policy;dur=0.377947, esindex;dur=0.014246, captures_list;dur=173.867727, PetaboxLoader3.datanode;dur=87.621679, RedisCDXSource;dur=0.783450, exclusion.robots;dur=0.396801, PetaboxLoader3.resolve;dur=41.696483
+< X-Location: All
+< X-Page-Cache: MISS
+< X-App-Server: wwwb-app105
+< X-Ts: 302
+< X-Rl: 0
+< X-Nid: -
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< Date: Mon, 26 Jul 2021 17:56:39 GMT
+< Content-Length: 0
+< X-Archive-Redirect-Reason: found capture at 20190202073014
+< Location: https://web.archive.org/web/20190202073014if_/https://buzzen.buzzfeed.com/robots.txt
+< X-Tr: 292
+< Connection: keep-alive
+< X-Cache-Key: httpsweb.archive.org/web/20190202073013if_/http://buzzen.buzzfeed.com/robots.txtUS

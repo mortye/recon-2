@@ -1,0 +1,36 @@
+GET https://web.archive.org/web/20170208215116if_/http://www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Date: Mon, 26 Jul 2021 19:03:50 GMT
+< X-Archive-Orig-Age: 361
+< X-App-Server: wwwb-app57
+< X-Ts: 200
+< X-Cache-Key: httpsweb.archive.org/web/20170208215116if_/http://www.huffingtonpost.com/robots.txtUS
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< X-Archive-Orig-Server: ECD (mdw/1225)
+< Cache-Control: max-age=1800
+< Link: <http://www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20170208212659/http://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Wed, 08 Feb 2017 21:26:59 GMT", <https://web.archive.org/web/20170208215116/http://www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Wed, 08 Feb 2017 21:51:16 GMT", <https://web.archive.org/web/20170208220153/http://huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Wed, 08 Feb 2017 22:01:53 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Date: Wed, 08 Feb 2017 21:51:16 GMT
+< Memento-Datetime: Wed, 08 Feb 2017 21:51:16 GMT
+< X-Tr: 7028
+< X-Location: All
+< X-Archive-Orig-X-Cache: HIT
+< Connection: keep-alive
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Src: perma_cc_Q9UD-97TQ/Q9UD-97TQ.warc.gz
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Guessed-Encoding: utf-8
+< X-Na: 0
+< Content-Type: text/plain
+< X-Archive-Orig-Last-Modified: Wed, 08 Feb 2017 21:14:37 GMT
+< X-Archive-Orig-Content-Length: 326
+< Server-Timing: exclusion.robots;dur=1.504873, exclusion.robots.policy;dur=1.417207, RedisCDXSource;dur=50.180499, esindex;dur=0.062123, LoadShardBlock;dur=6204.751037, PetaboxLoader3.datanode;dur=5833.894381, CDXLines.iter;dur=423.974595, load_resource;dur=224.941002, PetaboxLoader3.resolve;dur=182.396540
+< X-Rl: 0
+< X-Nid: -
+< X-Archive-Orig-Etag: "589b8a3d-2f2+gzip"
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Page-Cache: MISS

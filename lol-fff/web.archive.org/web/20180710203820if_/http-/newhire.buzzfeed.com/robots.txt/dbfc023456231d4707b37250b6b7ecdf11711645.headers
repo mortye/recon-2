@@ -1,0 +1,37 @@
+GET https://web.archive.org/web/20180710203820if_/http://newhire.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Guessed-Encoding: utf-8
+< Server-Timing: captures_list;dur=171.569575, exclusion.robots;dur=0.184800, exclusion.robots.policy;dur=0.177728, RedisCDXSource;dur=5.119807, esindex;dur=0.008153, LoadShardBlock;dur=144.378739, PetaboxLoader3.datanode;dur=81.085387, CDXLines.iter;dur=18.763407, load_resource;dur=181.820007, PetaboxLoader3.resolve;dur=76.358048
+< X-Na: 0
+< X-Archive-Orig-Expires: Tue, 10 Jul 2018 20:38:21 GMT
+< Memento-Datetime: Tue, 10 Jul 2018 20:38:20 GMT
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Pragma: no-cache
+< X-Archive-Orig-X-Frame-Options: SAMEORIGIN
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< Cache-Control: max-age=1800
+< X-App-Server: wwwb-app201
+< X-Page-Cache: MISS
+< Connection: keep-alive
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-Server: GSE
+< X-Archive-Orig-Connection: close
+< X-Archive-Src: liveweb-20180710205535/cachegw-20180710195234-wwwb-app15.us.archive.org.warc.gz
+< X-Location: All
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 16:20:02 GMT
+< X-Archive-Orig-Cache-Control: private, max-age=0
+< X-Rl: 0
+< Link: <http://newhire.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://newhire.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://newhire.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180710203820/http://newhire.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Tue, 10 Jul 2018 20:38:20 GMT", <https://web.archive.org/web/20180710203820/http://newhire.buzzfeed.com/robots.txt>; rel="memento"; datetime="Tue, 10 Jul 2018 20:38:20 GMT", <https://web.archive.org/web/20180711140221/http://newhire.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Wed, 11 Jul 2018 14:02:21 GMT", <https://web.archive.org/web/20190215020048/http://newhire.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Fri, 15 Feb 2019 02:00:48 GMT"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Ts: 200
+< X-Tr: 365
+< X-Archive-Orig-Content-Length: 122
+< X-Archive-Guessed-Content-Type: text/plain
+< Content-Type: text/plain
+< X-Archive-Orig-Date: Tue, 10 Jul 2018 20:38:21 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20180710203820if_/http://newhire.buzzfeed.com/robots.txtUS
+< X-Nid: -

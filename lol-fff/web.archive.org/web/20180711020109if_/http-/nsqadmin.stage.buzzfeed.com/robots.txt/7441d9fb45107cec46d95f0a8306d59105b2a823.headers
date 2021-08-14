@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20180711020109if_/http://nsqadmin.stage.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Cache-Control: max-age=1800
+< Server-Timing: CDXLines.iter;dur=21.543120, PetaboxLoader3.datanode;dur=184.500825, load_resource;dur=197.210942, exclusion.robots.policy;dur=0.367668, esindex;dur=0.015400, exclusion.robots;dur=0.383236, LoadShardBlock;dur=87.274018, RedisCDXSource;dur=1.004191, PetaboxLoader3.resolve;dur=59.095151, captures_list;dur=114.299270
+< X-Page-Cache: MISS
+< Content-Type: text/plain; charset=utf-8
+< Link: <http://nsqadmin.stage.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://nsqadmin.stage.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://nsqadmin.stage.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180711020109/http://nsqadmin.stage.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Wed, 11 Jul 2018 02:01:09 GMT", <https://web.archive.org/web/20180711020109/http://nsqadmin.stage.buzzfeed.com/robots.txt>; rel="memento"; datetime="Wed, 11 Jul 2018 02:01:09 GMT", <https://web.archive.org/web/20180712034901/http://nsqadmin.stage.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Thu, 12 Jul 2018 03:49:01 GMT", <https://web.archive.org/web/20190317212813/http://nsqadmin.stage.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 17 Mar 2019 21:28:13 GMT"
+< X-Archive-Orig-Date: Wed, 11 Jul 2018 02:01:09 GMT
+< X-Archive-Guessed-Encoding: utf-8
+< X-App-Server: wwwb-app39
+< X-Rl: 0
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Orig-Connection: Close
+< X-Ts: 200
+< Connection: keep-alive
+< X-Archive-Orig-Content-Length: 25
+< Memento-Datetime: Wed, 11 Jul 2018 02:01:09 GMT
+< X-Tr: 341
+< Date: Mon, 26 Jul 2021 19:14:46 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Src: liveweb-20180711043324/cachegw-20180711004144-wwwb-app52.us.archive.org.warc.gz
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20180711020109if_/http://nsqadmin.stage.buzzfeed.com/robots.txtUS
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Server: nginx

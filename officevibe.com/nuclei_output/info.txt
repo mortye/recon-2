@@ -1,0 +1,73 @@
+[2021-08-07 18:10:28] [aws-bucket-service] [http] [info] https://assets.officevibe.com
+[2021-08-07 18:10:28] [generic-tokens] [http] [info] https://app.officevibe.com [Key":"lcELzQFevChdDMNDbYHLcA",Key":"60794a8b-e88a-40d3-8965-e734d3560dd8",Key":"6LcZ5XgUAAAAAMLJ6w5E4qWofjvxBtM7MWdMmvoB"]
+[2021-08-07 18:10:28] [generic-tokens] [http] [info] https://sandbox.officevibe.com [Key":"pfRNq2W4GGTbF5QjD2UTQ",Key":"336ec57a-0aa5-47e4-b148-6e2b2be05146",Key":"6Lf26HgUAAAAAJ9RVMh6uHToVbQTyf3O4dXxa1h3"]
+[2021-08-07 18:10:28] [nameserver-detection:azure] [dns] [info] https://app-preprod.officevibe.com
+[2021-08-07 18:10:28] [nameserver-detection:azure] [dns] [info] https://sandbox.officevibe.com
+[2021-08-07 18:10:28] [tech-detect:ms-iis] [http] [info] https://overlord.officevibe.com
+[2021-08-07 18:10:29] [dns-waf-detect:cloudflare] [dns] [info] https://www.officevibe.com
+[2021-08-07 18:10:29] [tech-detect:cloudflare] [http] [info] http://pgg3n5.1999999m.officevibe.com
+[2021-08-07 18:10:29] [tech-detect:ms-iis] [http] [info] https://app-preprod.officevibe.com
+[2021-08-07 18:10:29] [tech-detect:nginx] [http] [info] https://ftp.officevibe.com
+[2021-08-07 18:10:29] [tech-detect:react] [http] [info] http://pgg3n5.1999999m.officevibe.com
+[2021-08-07 18:10:30] [apache-version-detect] [http] [info] http://www2.officevibe.com [Apache]
+[2021-08-07 18:10:30] [tech-detect:cloudflare] [http] [info] https://hs.officevibe.com
+[2021-08-07 18:10:30] [tech-detect:google-tag-manager] [http] [info] https://hs.officevibe.com
+[2021-08-07 18:10:30] [tech-detect:wordpress] [http] [info] https://hs.officevibe.com
+[2021-08-07 18:10:31] [addeventlistener-detect] [http] [info] https://officevibe.com
+[2021-08-07 18:10:32] [favicon-detection:microsoft-outlook] [http] [info] http://autodiscover.officevibe.com/favicon.ico
+[2021-08-07 18:10:32] [tech-detect:ms-httpapi] [http] [info] https://cdn-sbox.officevibe.com
+[2021-08-07 18:10:33] [wordpress-xmlrpc-listmethods] [http] [info] https://officevibe.com/xmlrpc.php
+[2021-08-07 18:10:35] [aspx-debug-mode] [http] [info] https://enterpriseenrollment.officevibe.com/Foobar-debug.aspx
+[2021-08-07 18:10:35] [tech-detect:ms-iis] [http] [info] https://overlord-sandbox.officevibe.com
+[2021-08-07 18:10:35] [tech-detect:ms-iis] [http] [info] https://survey-preprod-sandbox.officevibe.com
+[2021-08-07 18:10:36] [dns-waf-detect:cloudflare] [dns] [info] https://hs.officevibe.com
+[2021-08-07 18:10:37] [tech-detect:angular] [http] [info] https://api.officevibe.com
+[2021-08-07 18:10:37] [tech-detect:angularjs] [http] [info] https://api.officevibe.com
+[2021-08-07 18:10:37] [tech-detect:cloudflare] [http] [info] https://api.officevibe.com
+[2021-08-07 18:10:37] [tech-detect:cloudflare] [http] [info] https://help.officevibe.com
+[2021-08-07 18:10:37] [tech-detect:google-font-api] [http] [info] https://api.officevibe.com
+[2021-08-07 18:10:37] [tech-detect:ms-iis] [http] [info] https://overlord-preprod-sandbox.officevibe.com
+[2021-08-07 18:10:37] [tech-detect:ms-iis] [http] [info] https://overlord-preprod.officevibe.com
+[2021-08-07 18:10:38] [tech-detect:ms-httpapi] [http] [info] https://cdn.officevibe.com
+[2021-08-07 18:10:38] [tech-detect:ms-iis] [http] [info] https://app-preprod-sandbox.officevibe.com
+[2021-08-07 18:10:39] [tech-detect:google-tag-manager] [http] [info] https://www.officevibe.com
+[2021-08-07 18:10:39] [tech-detect:nginx] [http] [info] https://www.officevibe.com
+[2021-08-07 18:10:39] [tech-detect:wordpress] [http] [info] https://www.officevibe.com
+[2021-08-07 18:10:39] [tech-detect:wp-rocket] [http] [info] https://www.officevibe.com
+[2021-08-07 18:10:39] [tech-detect:yoast-seo] [http] [info] https://www.officevibe.com
+[2021-08-07 18:10:40] [mx-service-detector:Office 365] [dns] [info] https://ftp.officevibe.com
+[2021-08-07 18:10:40] [nameserver-detection:azure] [dns] [info] https://survey-preprod.officevibe.com
+[2021-08-07 18:10:41] [nameserver-detection:azure] [dns] [info] https://enterpriseenrollment.officevibe.com
+[2021-08-07 18:10:41] [nameserver-detection:azure] [dns] [info] https://overlord-sandbox.officevibe.com
+[2021-08-07 18:10:41] [nameserver-detection:azure] [dns] [info] https://survey-preprod-sandbox.officevibe.com
+[2021-08-07 18:10:43] [nameserver-detection:aws-route53] [dns] [info] https://assets.officevibe.com
+[2021-08-07 18:10:43] [nameserver-detection:azure] [dns] [info] https://survey.officevibe.com
+[2021-08-07 18:10:43] [tech-detect:google-tag-manager] [http] [info] https://officevibe.com
+[2021-08-07 18:10:43] [tech-detect:nginx] [http] [info] https://officevibe.com
+[2021-08-07 18:10:43] [tech-detect:wordpress] [http] [info] https://officevibe.com
+[2021-08-07 18:10:43] [tech-detect:wp-rocket] [http] [info] https://officevibe.com
+[2021-08-07 18:10:43] [tech-detect:yoast-seo] [http] [info] https://officevibe.com
+[2021-08-07 18:10:48] [nameserver-detection:azure] [dns] [info] https://app.officevibe.com
+[2021-08-07 18:10:48] [nameserver-detection:azure] [dns] [info] https://overlord.officevibe.com
+[2021-08-07 18:10:48] [nameserver-detection:cloudflare] [dns] [info] https://hs.officevibe.com
+[2021-08-07 18:10:49] [starttls-mail-detect] [network] [info] pgg3n5.1999999m.officevibe.com:25
+[2021-08-07 18:10:50] [mx-service-detector:Office 365] [dns] [info] https://officevibe.com
+[2021-08-07 18:10:50] [package-json] [http] [info] https://officevibe.com/package.json
+[2021-08-07 18:10:50] [wordpress-xmlrpc-file] [http] [info] https://officevibe.com/xmlrpc.php
+[2021-08-07 18:10:51] [nginx-version] [http] [info] https://officevibe.com [nginx]
+[2021-08-07 18:10:52] [tech-detect:apache] [http] [info] http://www2.officevibe.com
+[2021-08-07 18:10:52] [tech-detect:ms-iis] [http] [info] https://survey-preprod.officevibe.com
+[2021-08-07 18:10:59] [dns-waf-detect:cloudflare] [dns] [info] https://api.officevibe.com
+[2021-08-07 18:10:59] [smtp-service-detection] [network] [info] pgg3n5.1999999m.officevibe.com:25
+[2021-08-07 18:11:01] [cname-service-detector:zendesk] [dns] [info] https://help.officevibe.com
+[2021-08-07 18:11:01] [nameserver-detection:aws-route53] [dns] [info] https://help.officevibe.com
+[2021-08-07 18:11:01] [nameserver-detection:azure] [dns] [info] https://overlord-preprod-sandbox.officevibe.com
+[2021-08-07 18:11:01] [nameserver-detection:azure] [dns] [info] https://overlord-preprod.officevibe.com
+[2021-08-07 18:11:01] [nameserver-detection:cloudflare] [dns] [info] https://api.officevibe.com
+[2021-08-07 18:11:02] [swagger-api] [http] [info] https://api.officevibe.com/swagger.json
+[2021-08-07 18:11:07] [nameserver-detection:azure] [dns] [info] https://app-preprod-sandbox.officevibe.com
+[2021-08-07 18:11:07] [nameserver-detection:azure] [dns] [info] https://survey-sandbox.officevibe.com
+[2021-08-07 18:11:07] [nameserver-detection:cloudflare] [dns] [info] https://www.officevibe.com
+[2021-08-07 18:11:08] [composer-config:composer.json] [http] [info] https://officevibe.com/vendor/composer/installed.json
+[2021-08-07 18:11:21] [wp-license-file] [http] [info] https://officevibe.com/license.txt
+[2021-08-07 18:11:53] [s3-detect] [http] [info] https://assets.officevibe.com/%c0

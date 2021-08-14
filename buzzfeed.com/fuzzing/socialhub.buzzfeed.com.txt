@@ -1,0 +1,6 @@
+302 232 http://socialhub.buzzfeed.com/%2e/admin
+302 233 http://socialhub.buzzfeed.com/./admin/.
+302 240 http://socialhub.buzzfeed.com/.nsf/../winnt/win.ini
+302 242 http://socialhub.buzzfeed.com/./web-inf/web.xml
+302 243 http://socialhub.buzzfeed.com/.//web-inf/web.xml
+302 250 http://socialhub.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess

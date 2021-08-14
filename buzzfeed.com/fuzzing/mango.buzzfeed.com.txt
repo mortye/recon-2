@@ -1,0 +1,15 @@
+200 99678 https://mango.buzzfeed.com/favicon.ico
+301 39 https://mango.buzzfeed.com//out
+301 41 https://mango.buzzfeed.com/%2e/admin
+301 41 https://mango.buzzfeed.com/./admin/.
+301 42 https://mango.buzzfeed.com/secret/.
+301 49 https://mango.buzzfeed.com/.nsf/../winnt/win.ini
+301 51 https://mango.buzzfeed.com/.//web-inf/web.xml
+301 51 https://mango.buzzfeed.com/./web-inf/web.xml
+301 52 https://mango.buzzfeed.com/admin//phpmyadmin
+301 53 https://mango.buzzfeed.com/vpn/../vpns/cfg/smb.conf
+301 55 https://mango.buzzfeed.com//cfide/administrator
+301 59 https://mango.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess
+301 62 https://mango.buzzfeed.com/extjs/resources//charts.swf
+301 76 https://mango.buzzfeed.com/content/../libs/foundation/components/text/text.jsp
+301 87 https://mango.buzzfeed.com/citrix//accessplatform/auth/clientscripts/cookies.js

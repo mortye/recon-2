@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20180711114436if_/http://dashbird-stage.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Server-Timing: captures_list;dur=161.996837, exclusion.robots;dur=1.104235, exclusion.robots.policy;dur=0.321556, RedisCDXSource;dur=8.494580, esindex;dur=0.013548, LoadShardBlock;dur=127.698529, PetaboxLoader3.datanode;dur=183.228719, CDXLines.iter;dur=21.386545, load_resource;dur=149.746300, PetaboxLoader3.resolve;dur=45.368030
+< X-Page-Cache: MISS
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 0
+< Connection: keep-alive
+< Location: https://web.archive.org/web/20180711114438if_/https://dashbird-stage.buzzfeed.com/robots.txt
+< X-Ts: 302
+< X-Tr: 323
+< X-Archive-Redirect-Reason: found capture at 20180711114438
+< X-App-Server: wwwb-app57
+< X-Cache-Key: httpsweb.archive.org/web/20180711114436if_/http://dashbird-stage.buzzfeed.com/robots.txtUS
+< X-Rl: 0
+< X-Na: 0
+< Date: Mon, 26 Jul 2021 16:23:48 GMT
+< X-Location: All
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade

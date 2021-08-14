@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20210325140444if_/http://huffpost.net/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Rl: 0
+< X-Archive-Orig-Cache-Control: no-store
+< X-Tr: 410
+< Location: https://web.archive.org/web/20210325140444if_/https://www.huffpost.com/
+< Memento-Datetime: Thu, 25 Mar 2021 14:04:44 GMT
+< Server-Timing: captures_list;dur=93.834896, exclusion.robots;dur=0.201423, exclusion.robots.policy;dur=0.190024, RedisCDXSource;dur=0.502331, esindex;dur=0.007080, LoadShardBlock;dur=55.787691, PetaboxLoader3.datanode;dur=119.125092, CDXLines.iter;dur=16.938600, load_resource;dur=290.186088, PetaboxLoader3.resolve;dur=73.121353
+< X-Cache-Key: httpsweb.archive.org/web/20210325140444if_/http://huffpost.net/robots.txtUS
+< X-Archive-Orig-Date: Thu, 25 Mar 2021 14:04:44 GMT
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< X-Archive-Orig-Content-Security-Policy: sandbox allow-scripts; default-src 'self'; img-src https:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; report-uri http://csp.yahoo.com/beacon/csp?src=redirect
+< X-Page-Cache: MISS
+< X-Nid: -
+< X-App-Server: wwwb-app57
+< Connection: keep-alive
+< X-Archive-Orig-Content-Language: en
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< Date: Mon, 26 Jul 2021 19:13:56 GMT
+< X-Location: All
+< Permissions-Policy: interest-cohort=()
+< X-Ts: 301
+< X-Na: 0
+< Cache-Control: max-age=1800
+< Link: <http://huffpost.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://huffpost.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://huffpost.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20101225170754/http://huffpost.net/robots.txt>; rel="first memento"; datetime="Sat, 25 Dec 2010 17:07:54 GMT", <https://web.archive.org/web/20210324164557/http://huffpost.net/robots.txt>; rel="prev memento"; datetime="Wed, 24 Mar 2021 16:45:57 GMT", <https://web.archive.org/web/20210325140444/http://huffpost.net/robots.txt>; rel="memento"; datetime="Thu, 25 Mar 2021 14:04:44 GMT", <https://web.archive.org/web/20210325142417/http://huffpost.net/robots.txt>; rel="next memento"; datetime="Thu, 25 Mar 2021 14:24:17 GMT", <https://web.archive.org/web/20210724182821/https://huffpost.net/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 18:28:21 GMT"
+< X-Archive-Src: ARCHIVEIT-10363-DAILY-JOB1387604-SEED1549309-20210324-00000/ARCHIVEIT-10363-DAILY-JOB1387604-SEED1549309-20210324194224549-00000-h3.warc.gz
+< X-Archive-Orig-Content-Length: 4381
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/html
+< X-Archive-Orig-Server: ATS
+< X-Archive-Orig-X-Frame-Options: DENY
+< Server: nginx/1.15.8

@@ -1,0 +1,34 @@
+GET https://web.archive.org/web/20161213033439if_/https://abeagle-public.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Server: TornadoServer/4.3
+< Server-Timing: captures_list;dur=506.610348, exclusion.robots;dur=0.346081, exclusion.robots.policy;dur=0.333622, RedisCDXSource;dur=2.065438, esindex;dur=0.011759, LoadShardBlock;dur=290.402762, PetaboxLoader3.resolve;dur=176.173847, PetaboxLoader3.datanode;dur=119.419609, CDXLines.iter;dur=78.021488, load_resource;dur=113.799717
+< X-Cache-Key: httpsweb.archive.org/web/20161213033439if_/https://abeagle-public.buzzfeed.com/robots.txtUS
+< X-Archive-Orig-Content-Length: 26
+< Memento-Datetime: Tue, 13 Dec 2016 03:34:39 GMT
+< X-App-Server: wwwb-app206
+< X-Na: 0
+< X-Location: All
+< Date: Mon, 26 Jul 2021 16:13:34 GMT
+< X-Archive-Orig-Etag: "f71d20196d4caf35b6a670db8c70b03d"
+< Cache-Control: max-age=1800
+< Link: <https://abeagle-public.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://abeagle-public.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://abeagle-public.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20161011102808/https://abeagle-public.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Tue, 11 Oct 2016 10:28:08 GMT", <https://web.archive.org/web/20161212134724/https://abeagle-public.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Mon, 12 Dec 2016 13:47:24 GMT", <https://web.archive.org/web/20161213033439/https://abeagle-public.buzzfeed.com/robots.txt>; rel="memento"; datetime="Tue, 13 Dec 2016 03:34:39 GMT", <https://web.archive.org/web/20161213134819/https://abeagle-public.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Tue, 13 Dec 2016 13:48:19 GMT", <https://web.archive.org/web/20210725001149/https://abeagle-public.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 00:11:49 GMT"
+< Server: nginx/1.15.8
+< X-Archive-Orig-Last-Modified: Wed, 07 Dec 2016 09:41:06 GMT
+< X-Archive-Orig-Connection: Close
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Connection: keep-alive
+< X-Tr: 662
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: top_domains-07500-20161212-181723/IA-FOC-top_domains-07500-20161213032957-00001.warc.gz
+< X-Ts: 200
+< X-Page-Cache: MISS
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< Content-Type: text/plain
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Date: Tue, 13 Dec 2016 03:34:40 GMT

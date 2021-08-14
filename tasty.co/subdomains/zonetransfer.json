@@ -1,0 +1,249 @@
+[
+    {
+        "arguments": "/home/morty/tools/Tools/dnsrecon/dnsrecon.py -d tasty.co -a -j subdomains/zonetransfer.json",
+        "date": "2021-07-20 09:57:36.062921",
+        "type": "ScanInfo"
+    },
+    {
+        "ns_server": "205.251.197.5",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5306:ac00::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.193.228",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5305:500::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.198.172",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5302:e00::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "205.251.194.14",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2600:9000:5301:e400::1",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "address": "205.251.194.14",
+        "domain": "tasty.co",
+        "mname": "ns-526.awsdns-01.net",
+        "type": "SOA"
+    },
+    {
+        "address": "2600:9000:5302:e00::1",
+        "domain": "tasty.co",
+        "mname": "ns-526.awsdns-01.net",
+        "type": "SOA"
+    },
+    {
+        "Version": "",
+        "address": "205.251.194.14",
+        "domain": "tasty.co",
+        "recursive": "True",
+        "target": "ns-526.awsdns-01.net",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5302:e00::1",
+        "domain": "tasty.co",
+        "recursive": "False",
+        "target": "ns-526.awsdns-01.net",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "205.251.193.228",
+        "domain": "tasty.co",
+        "recursive": "True",
+        "target": "ns-484.awsdns-60.com",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5301:e400::1",
+        "domain": "tasty.co",
+        "recursive": "False",
+        "target": "ns-484.awsdns-60.com",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "205.251.197.5",
+        "domain": "tasty.co",
+        "recursive": "True",
+        "target": "ns-1285.awsdns-32.org",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5305:500::1",
+        "domain": "tasty.co",
+        "recursive": "False",
+        "target": "ns-1285.awsdns-32.org",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "205.251.198.172",
+        "domain": "tasty.co",
+        "recursive": "True",
+        "target": "ns-1708.awsdns-21.co.uk",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2600:9000:5306:ac00::1",
+        "domain": "tasty.co",
+        "recursive": "False",
+        "target": "ns-1708.awsdns-21.co.uk",
+        "type": "NS"
+    },
+    {
+        "address": "172.217.197.26",
+        "domain": "tasty.co",
+        "exchange": "aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "64.233.186.26",
+        "domain": "tasty.co",
+        "exchange": "aspmx2.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "209.85.202.26",
+        "domain": "tasty.co",
+        "exchange": "alt2.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "205.251.243.46",
+        "domain": "tasty.co",
+        "exchange": "inbound-smtp.us-east-1.amazonaws.com",
+        "type": "MX"
+    },
+    {
+        "address": "64.233.184.27",
+        "domain": "tasty.co",
+        "exchange": "aspmx4.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "209.85.202.27",
+        "domain": "tasty.co",
+        "exchange": "aspmx3.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "64.233.186.26",
+        "domain": "tasty.co",
+        "exchange": "alt1.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "2607:f8b0:400d:c0f::1a",
+        "domain": "tasty.co",
+        "exchange": "aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "2a00:1450:400b:c00::1a",
+        "domain": "tasty.co",
+        "exchange": "alt2.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "2a00:1450:400c:c0b::1b",
+        "domain": "tasty.co",
+        "exchange": "aspmx4.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "2a00:1450:400b:c00::1a",
+        "domain": "tasty.co",
+        "exchange": "aspmx3.googlemail.com",
+        "type": "MX"
+    },
+    {
+        "address": "2800:3f0:4003:c00::1b",
+        "domain": "tasty.co",
+        "exchange": "alt1.aspmx.l.google.com",
+        "type": "MX"
+    },
+    {
+        "address": "151.101.130.114",
+        "domain": "tasty.co",
+        "name": "tasty.co",
+        "type": "A"
+    },
+    {
+        "address": "151.101.2.114",
+        "domain": "tasty.co",
+        "name": "tasty.co",
+        "type": "A"
+    },
+    {
+        "address": "151.101.194.114",
+        "domain": "tasty.co",
+        "name": "tasty.co",
+        "type": "A"
+    },
+    {
+        "address": "151.101.66.114",
+        "domain": "tasty.co",
+        "name": "tasty.co",
+        "type": "A"
+    },
+    {
+        "domain": "tasty.co",
+        "name": "tasty.co",
+        "strings": "facebook-domain-verification=wnxffnnz9s62x9n0313h4spummukxn",
+        "type": "TXT"
+    },
+    {
+        "domain": "tasty.co",
+        "name": "tasty.co",
+        "strings": "google-site-verification=WQx5JDNrd5xxA65YLmpyQZ2K7ucPrUCmq4WqMQ0eo10",
+        "type": "TXT"
+    },
+    {
+        "domain": "tasty.co",
+        "name": "tasty.co",
+        "strings": "_globalsign-domain-verification=rxc48ocR2PhwobuGALz3D9ljNu6LWDgGmlBkqwbt5g",
+        "type": "TXT"
+    },
+    {
+        "domain": "tasty.co",
+        "name": "tasty.co",
+        "strings": "v=spf1 include:_spf.google.com include:amazonses.com -all",
+        "type": "TXT"
+    },
+    {
+        "domain": "tasty.co",
+        "name": "_dmarc.tasty.co",
+        "strings": "v=DMARC1; p=quarantine;pct=100;",
+        "type": "TXT"
+    }
+]

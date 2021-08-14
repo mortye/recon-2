@@ -1,0 +1,243 @@
+[
+    {
+        "arguments": "/home/morty/tools/Tools/dnsrecon/dnsrecon.py -d officevibe.com -a -j subdomains/zonetransfer.json",
+        "date": "2021-08-07 17:45:50.099122",
+        "type": "ScanInfo"
+    },
+    {
+        "ns_server": "97.74.107.48",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2603:5:22b4::30",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "2603:5:21b4::30",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "ns_server": "173.201.75.48",
+        "type": "info",
+        "zone_transfer": "failed"
+    },
+    {
+        "address": "97.74.107.48",
+        "domain": "officevibe.com",
+        "mname": "ns75.domaincontrol.com",
+        "type": "SOA"
+    },
+    {
+        "address": "2603:5:21b4::30",
+        "domain": "officevibe.com",
+        "mname": "ns75.domaincontrol.com",
+        "type": "SOA"
+    },
+    {
+        "Version": "",
+        "address": "97.74.107.48",
+        "domain": "officevibe.com",
+        "recursive": "True",
+        "target": "ns75.domaincontrol.com",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2603:5:21b4::30",
+        "domain": "officevibe.com",
+        "recursive": "False",
+        "target": "ns75.domaincontrol.com",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "173.201.75.48",
+        "domain": "officevibe.com",
+        "recursive": "True",
+        "target": "ns76.domaincontrol.com",
+        "type": "NS"
+    },
+    {
+        "Version": "",
+        "address": "2603:5:22b4::30",
+        "domain": "officevibe.com",
+        "recursive": "False",
+        "target": "ns76.domaincontrol.com",
+        "type": "NS"
+    },
+    {
+        "address": "104.47.60.36",
+        "domain": "officevibe.com",
+        "exchange": "officevibe-com.mail.protection.outlook.com",
+        "type": "MX"
+    },
+    {
+        "address": "104.155.161.74",
+        "domain": "officevibe.com",
+        "name": "officevibe.com",
+        "type": "A"
+    },
+    {
+        "domain": "officevibe.com",
+        "name": "officevibe.com",
+        "strings": "google-site-verification=Qjju-B0v0lOxOl_lKdnMyKYRpuZLq1c_IKDywUG2N0g",
+        "type": "TXT"
+    },
+    {
+        "domain": "officevibe.com",
+        "name": "officevibe.com",
+        "strings": "pjl9n37r9klc1x0bts4n4m25xd04gwwx",
+        "type": "TXT"
+    },
+    {
+        "domain": "officevibe.com",
+        "name": "officevibe.com",
+        "strings": "google-site-verification=pZMLNc9JbhsTWhIaZZdDXSJYS0mGwdNdcpHM_CrhqRs",
+        "type": "TXT"
+    },
+    {
+        "domain": "officevibe.com",
+        "name": "officevibe.com",
+        "strings": "v=spf1 mx include:spf.mandrillapp.com include:spf.protection.outlook.com include:1999999.spf07.hubspotemail.net include:mail.zendesk.com  include:spf.mail.intercom.io a:mail.officevibe.com -all",
+        "type": "TXT"
+    },
+    {
+        "domain": "officevibe.com",
+        "name": "officevibe.com",
+        "strings": "MS=ms12982601",
+        "type": "TXT"
+    },
+    {
+        "domain": "officevibe.com",
+        "name": "officevibe.com",
+        "strings": "google-site-verification=aWJS2EMkpUdSvHcDtK0dlWi_co0-XgiN6jXZUQGhj-0",
+        "type": "TXT"
+    },
+    {
+        "domain": "officevibe.com",
+        "name": "officevibe.com",
+        "strings": "v=verifydomain MS=6549079",
+        "type": "TXT"
+    },
+    {
+        "domain": "officevibe.com",
+        "name": "officevibe.com",
+        "strings": "h1-domain-verification=tkVTgpmNkztGJyxUtYdhLmkMHGd4teB4Bn4vRwX1uexTeG6E",
+        "type": "TXT"
+    },
+    {
+        "domain": "officevibe.com",
+        "name": "officevibe.com",
+        "strings": "knowbe4-site-verification=202238da328178ca7d43c0b17dd480d3",
+        "type": "TXT"
+    },
+    {
+        "domain": "officevibe.com",
+        "name": "officevibe.com",
+        "strings": "google-site-verification=LN_WfRdVN_sO0odyqh0FEcOQrZNh8K5Qr5hjYEfQfWs",
+        "type": "TXT"
+    },
+    {
+        "domain": "officevibe.com",
+        "name": "officevibe.com",
+        "strings": "ZOOM_verify_niXNFdP0SraD20hS_L4OaQ",
+        "type": "TXT"
+    },
+    {
+        "domain": "officevibe.com",
+        "name": "_dmarc.officevibe.com",
+        "strings": "v=DMARC1; p=quarantine; pct=100; rua=mailto:re+fjf83g2jaze@dmarc.postmarkapp.com; ri=86400; adkim=r; aspf=r;",
+        "type": "TXT"
+    },
+    {
+        "address": "52.112.67.139",
+        "domain": "officevibe.com",
+        "name": "_sip._tls.officevibe.com",
+        "port": "443",
+        "target": "sipdir.online.lync.com",
+        "type": "SRV"
+    },
+    {
+        "address": "2603:1037:0:2::b",
+        "domain": "officevibe.com",
+        "name": "_sip._tls.officevibe.com",
+        "port": "443",
+        "target": "sipdir.online.lync.com",
+        "type": "SRV"
+    },
+    {
+        "address": "2603:1037:0:4::b",
+        "domain": "officevibe.com",
+        "name": "_sip._tls.officevibe.com",
+        "port": "443",
+        "target": "sipdir.online.lync.com",
+        "type": "SRV"
+    },
+    {
+        "address": "2603:1037::b",
+        "domain": "officevibe.com",
+        "name": "_sip._tls.officevibe.com",
+        "port": "443",
+        "target": "sipdir.online.lync.com",
+        "type": "SRV"
+    },
+    {
+        "address": "2603:1037:0:7::b",
+        "domain": "officevibe.com",
+        "name": "_sip._tls.officevibe.com",
+        "port": "443",
+        "target": "sipdir.online.lync.com",
+        "type": "SRV"
+    },
+    {
+        "address": "2603:1037:0:5::b",
+        "domain": "officevibe.com",
+        "name": "_sip._tls.officevibe.com",
+        "port": "443",
+        "target": "sipdir.online.lync.com",
+        "type": "SRV"
+    },
+    {
+        "address": "2603:1037:0:c::f",
+        "domain": "officevibe.com",
+        "name": "_sip._tls.officevibe.com",
+        "port": "443",
+        "target": "sipdir.online.lync.com",
+        "type": "SRV"
+    },
+    {
+        "address": "2603:1037:0:15::c",
+        "domain": "officevibe.com",
+        "name": "_sip._tls.officevibe.com",
+        "port": "443",
+        "target": "sipdir.online.lync.com",
+        "type": "SRV"
+    },
+    {
+        "address": "2603:1037:0:e::f",
+        "domain": "officevibe.com",
+        "name": "_sip._tls.officevibe.com",
+        "port": "443",
+        "target": "sipdir.online.lync.com",
+        "type": "SRV"
+    },
+    {
+        "address": "52.112.67.139",
+        "domain": "officevibe.com",
+        "name": "_sipfederationtls._tcp.officevibe.com",
+        "port": "5061",
+        "target": "sipfed.online.lync.com",
+        "type": "SRV"
+    },
+    {
+        "address": "2603:1037:0:a::b",
+        "domain": "officevibe.com",
+        "name": "_sipfederationtls._tcp.officevibe.com",
+        "port": "5061",
+        "target": "sipfed.online.lync.com",
+        "type": "SRV"
+    }
+]

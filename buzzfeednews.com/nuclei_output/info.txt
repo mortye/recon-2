@@ -1,0 +1,17 @@
+[2021-07-20 10:55:09] [aws-bucket-service] [http] [info] https://documents.buzzfeednews.com
+[2021-07-20 10:55:10] [addeventlistener-detect] [http] [info] https://support.buzzfeednews.com
+[2021-07-20 10:55:10] [generic-tokens] [http] [info] https://support.buzzfeednews.com [token = document,token: session_token ,token = match,key = trekkie,Key:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9",Token":"635a9512e5ab746f38995b67de68d530"]
+[2021-07-20 10:55:10] [herokuapp-detect] [http] [info] https://support.buzzfeednews.com [sailshopify-webhooks-prod.herokuapp.com]
+[2021-07-20 10:55:10] [nameserver-detection:dnsmadeeasy] [dns] [info] https://horizon.buzzfeednews.com
+[2021-07-20 10:55:10] [tech-detect:cloudflare] [http] [info] https://shop.buzzfeednews.com
+[2021-07-20 10:55:10] [tech-detect:shopify] [http] [info] https://shop.buzzfeednews.com
+[2021-07-20 10:55:11] [mx-service-detector:Google Apps] [dns] [info] https://buzzfeednews.com
+[2021-07-20 10:55:11] [nameserver-detection:aws-route53] [dns] [info] https://buzzfeednews.com
+[2021-07-20 10:55:12] [s3-detect] [http] [info] https://documents.buzzfeednews.com/%c0
+[2021-07-20 10:55:13] [basic-auth-detection] [http] [info] https://stage.buzzfeednews.com
+[2021-07-20 10:55:13] [detect-sentry] [http] [info] https://www.buzzfeednews.com [https://3b18c15d8cff4a829dc7411438039cda@sentry.io/1242877]
+[2021-07-20 10:55:14] [nameserver-detection:dnsmadeeasy] [dns] [info] https://link.buzzfeednews.com
+[2021-07-20 10:55:15] [nameserver-detection:aws-route53] [dns] [info] https://shop.buzzfeednews.com
+[2021-07-20 10:55:15] [nameserver-detection:nsone] [dns] [info] https://support.buzzfeednews.com
+[2021-07-20 10:55:16] [tech-detect:cloudflare] [http] [info] https://support.buzzfeednews.com
+[2021-07-20 10:55:16] [tech-detect:shopify] [http] [info] https://support.buzzfeednews.com

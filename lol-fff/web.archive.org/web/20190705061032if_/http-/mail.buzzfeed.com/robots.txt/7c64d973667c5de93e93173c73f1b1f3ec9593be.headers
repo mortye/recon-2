@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20190705061032if_/http://mail.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< Memento-Datetime: Fri, 05 Jul 2019 06:10:32 GMT
+< X-Na: 0
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Server: ghs
+< X-Location: All
+< Link: <http://mail.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://mail.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://mail.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180425181803/http://mail.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Wed, 25 Apr 2018 18:18:03 GMT", <https://web.archive.org/web/20180722125942/http://mail.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Sun, 22 Jul 2018 12:59:42 GMT", <https://web.archive.org/web/20190705061032/http://mail.buzzfeed.com/robots.txt>; rel="memento"; datetime="Fri, 05 Jul 2019 06:10:32 GMT", <https://web.archive.org/web/20190705061032/http://mail.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Fri, 05 Jul 2019 06:10:32 GMT"
+< Referrer-Policy: no-referrer-when-downgrade
+< Location: https://web.archive.org/web/20190705061032if_/https://mail.google.com/a/buzzfeed.com
+< X-Archive-Src: SURVEY-20190701155336-crawl837/SURVEY-20190703153151-00033.warc.gz
+< Date: Mon, 26 Jul 2021 15:03:40 GMT
+< X-Archive-Orig-X-Xss-Protection: 0
+< X-Archive-Orig-X-Frame-Options: SAMEORIGIN
+< Server: nginx/1.15.8
+< X-App-Server: wwwb-app31
+< X-Cache-Key: httpsweb.archive.org/web/20190705061032if_/http://mail.buzzfeed.com/robots.txtUS
+< X-Page-Cache: MISS
+< X-Nid: -
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-Date: Fri, 05 Jul 2019 06:10:32 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: exclusion.robots;dur=0.333703, RedisCDXSource;dur=24.642290, captures_list;dur=190.698918, exclusion.robots.policy;dur=0.320216, PetaboxLoader3.datanode;dur=150.869437, PetaboxLoader3.resolve;dur=65.353389, CDXLines.iter;dur=15.824199, LoadShardBlock;dur=147.321085, esindex;dur=0.010871, load_resource;dur=358.444187
+< X-Ts: 301
+< X-Tr: 625
+< X-Rl: 0
+< Connection: keep-alive
+< Cache-Control: max-age=1800
+< X-Archive-Orig-Content-Length: 235

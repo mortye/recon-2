@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20180404222914if_/http://accounts.staging.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Content-Type: text/plain; charset=utf-8
+< X-App-Server: wwwb-app201
+< X-Rl: 0
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< Location: https://web.archive.org/web/20180404222916if_/https://accounts.staging.huffingtonpost.com/robots.txt
+< X-Ts: 302
+< X-Tr: 757
+< X-Cache-Key: httpsweb.archive.org/web/20180404222914if_/http://accounts.staging.huffingtonpost.com/robots.txtUS
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 15:34:05 GMT
+< Server-Timing: captures_list;dur=415.760948, exclusion.robots;dur=0.181040, exclusion.robots.policy;dur=0.173776, RedisCDXSource;dur=4.768616, esindex;dur=0.007119, LoadShardBlock;dur=391.946794, PetaboxLoader3.datanode;dur=264.758080, CDXLines.iter;dur=16.471273, load_resource;dur=318.873204, PetaboxLoader3.resolve;dur=153.170313
+< X-Page-Cache: MISS
+< X-Nid: -
+< Content-Length: 0
+< X-Archive-Redirect-Reason: found capture at 20180404222916
+< X-Location: All

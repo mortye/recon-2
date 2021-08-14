@@ -1,0 +1,2 @@
+[2021-07-20 12:46:56] [unauthenticated-cache-purge] [http] [low] https://origin-qa.www.huffingtonpost.com
+[2021-07-20 12:46:57] [unauthenticated-cache-purge] [http] [low] https://origin-img.huffingtonpost.com

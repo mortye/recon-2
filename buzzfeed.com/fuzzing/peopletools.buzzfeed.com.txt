@@ -1,0 +1,6 @@
+302 234 http://peopletools.buzzfeed.com/%2e/admin
+302 235 http://peopletools.buzzfeed.com/./admin/.
+302 242 http://peopletools.buzzfeed.com/.nsf/../winnt/win.ini
+302 244 http://peopletools.buzzfeed.com/./web-inf/web.xml
+302 245 http://peopletools.buzzfeed.com/.//web-inf/web.xml
+302 252 http://peopletools.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess

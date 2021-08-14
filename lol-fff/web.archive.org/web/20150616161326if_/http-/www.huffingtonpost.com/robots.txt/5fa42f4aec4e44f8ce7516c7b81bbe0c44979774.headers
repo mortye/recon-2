@@ -1,0 +1,34 @@
+GET https://web.archive.org/web/20150616161326if_/http://www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Guessed-Content-Type: text/plain
+< Content-Type: text/plain; charset=utf-8
+< Connection: keep-alive
+< Link: <http://www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20150616153808/http://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Tue, 16 Jun 2015 15:38:08 GMT", <https://web.archive.org/web/20150616161326/http://www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 16 Jun 2015 16:13:26 GMT", <https://web.archive.org/web/20150616165644/http://huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Tue, 16 Jun 2015 16:56:44 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< X-Cache-Key: httpsweb.archive.org/web/20150616161326if_/http://www.huffingtonpost.com/robots.txtUS
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< X-Archive-Orig-Etag: "68e5-20c-518a4a47e5840"-gzip
+< X-Nid: -
+< X-Archive-Orig-P3p: CP='NO P3P'
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: NO404-WP-20150616105456-crawl344/NO404-WP-20150616140442-01573.warc.gz
+< X-Location: All
+< Permissions-Policy: interest-cohort=()
+< Date: Mon, 26 Jul 2021 17:15:15 GMT
+< X-Archive-Orig-Date: Tue, 16 Jun 2015 16:13:26 GMT
+< Server-Timing: cdx.remote;dur=0.740882, LoadShardBlock;dur=2433.928462, exclusion.robots;dur=1.945928, PetaboxLoader3.resolve;dur=85.190399, esindex;dur=0.087466, CDXLines.iter;dur=430.247840, load_resource;dur=249.832744, PetaboxLoader3.datanode;dur=838.128902, exclusion.robots.policy;dur=1.840454
+< X-Na: 0
+< Memento-Datetime: Tue, 16 Jun 2015 16:13:26 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-Content-Length: 524
+< X-Archive-Orig-Connection: close
+< X-Page-Cache: MISS
+< X-App-Server: wwwb-app13
+< X-Tr: 3415
+< X-Ts: 200
+< X-Archive-Orig-Last-Modified: Tue, 16 Jun 2015 15:58:17 GMT
+< X-Archive-Orig-Server: Apache

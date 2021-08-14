@@ -1,0 +1,32 @@
+<!DOCTYPE html> <html lang="en"> <head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app103.us.archive.org';v.server_ms=496;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/playback.bundle.js?v=xTFGO54E" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://editorial.huffingtonpost.com/robots.txt","20171205064059","https://web.archive.org/","web","/_static/",
+	      "1512456059");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=omkqRugM" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+ <meta charset="UTF-8"> <script> function onload() {var oldurl = window.location.href; var newurl = oldurl.replace(/\#.*$/, '') + (window.location.search ? '&' : '?') + '_hash_expr_='; if (location.hash) {newurl += encodeURIComponent(location.hash);} else if (oldurl.endsWith('#')) {newurl += encodeURIComponent('#');} window.location.assign(newurl);} </script> </head> <body onload="onload()"> </body> </html> <!--
+     FILE ARCHIVED ON 06:40:59 Dec 05, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:00:28 Jul 26, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  load_resource: 136.973
+  exclusion.robots.policy: 0.331
+  LoadShardBlock: 254.993 (3)
+  captures_list: 348.58
+  CDXLines.iter: 25.582 (3)
+  PetaboxLoader3.resolve: 99.791 (2)
+  RedisCDXSource: 24.307
+  PetaboxLoader3.datanode: 263.434 (4)
+  exclusion.robots: 0.349
+  esindex: 0.016
+-->

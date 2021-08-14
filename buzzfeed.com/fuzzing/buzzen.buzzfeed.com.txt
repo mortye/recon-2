@@ -1,0 +1,11 @@
+302 230 https://buzzen.buzzfeed.com/%2e/admin
+302 231 https://buzzen.buzzfeed.com/./admin/.
+302 232 https://buzzen.buzzfeed.com/secret/.
+302 238 https://buzzen.buzzfeed.com/.nsf/../winnt/win.ini
+302 240 https://buzzen.buzzfeed.com/./web-inf/web.xml
+302 241 https://buzzen.buzzfeed.com/.//web-inf/web.xml
+302 242 https://buzzen.buzzfeed.com/vpn/../vpns/cfg/smb.conf
+302 248 https://buzzen.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess
+302 265 https://buzzen.buzzfeed.com/content/../libs/foundation/components/text/text.jsp
+400 1662 https://buzzen.buzzfeed.com/trace.axd::$data
+400 1662 https://buzzen.buzzfeed.com/web.config::$data

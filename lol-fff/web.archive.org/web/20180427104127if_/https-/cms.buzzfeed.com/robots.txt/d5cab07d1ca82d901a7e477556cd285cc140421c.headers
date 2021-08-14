@@ -1,0 +1,36 @@
+GET https://web.archive.org/web/20180427104127if_/https://cms.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 302 Found
+< X-Cache-Key: httpsweb.archive.org/web/20180427104127if_/https://cms.buzzfeed.com/robots.txtUS
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Server: Varnish
+< X-Archive-Orig-Content-Length: 0
+< X-Archive-Orig-X-Served-By: cache-pao17432-PAO
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-App-Server: wwwb-app31
+< X-Rl: 0
+< X-Archive-Orig-X-Timer: S1524825687.157556,VS0,VE2
+< Link: <https://cms.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://cms.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://cms.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180427104127/https://cms.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Fri, 27 Apr 2018 10:41:27 GMT", <https://web.archive.org/web/20180427104127/https://cms.buzzfeed.com/robots.txt>; rel="memento"; datetime="Fri, 27 Apr 2018 10:41:27 GMT", <https://web.archive.org/web/20180427231348/https://cms.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Fri, 27 Apr 2018 23:13:48 GMT", <https://web.archive.org/web/20210724191429/https://cms.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 19:14:29 GMT"
+< X-Archive-Src: buzzfeed.com-20180427-054851/IA-FOC-buzzfeed.com-20180427103126-00006.warc.gz
+< X-Archive-Orig-X-Cache-Hits: 0
+< X-Archive-Orig-X-Cache: HIT
+< Memento-Datetime: Fri, 27 Apr 2018 10:41:27 GMT
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Server-Timing: exclusion.robots;dur=0.379014, RedisCDXSource;dur=1.561261, captures_list;dur=493.150542, exclusion.robots.policy;dur=0.363223, PetaboxLoader3.datanode;dur=243.330047, PetaboxLoader3.resolve;dur=27.276000, CDXLines.iter;dur=31.063250, LoadShardBlock;dur=245.835956, esindex;dur=0.019144, load_resource;dur=90.068598
+< X-Tr: 624
+< X-Location: All
+< X-Na: 0
+< X-Archive-Orig-Connection: close
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 17:29:17 GMT
+< X-Archive-Orig-Retry-After: 0
+< X-Archive-Orig-Date: Fri, 27 Apr 2018 10:41:27 GMT
+< X-Ts: 302
+< X-Page-Cache: MISS
+< Cache-Control: max-age=1800
+< Connection: keep-alive
+< Location: https://web.archive.org/web/20180427104127if_/https://www.buzzfeed.com/cms
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Via: 1.1 varnish

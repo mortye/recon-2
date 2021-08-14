@@ -1,0 +1,16 @@
+# Cambria robots
+
+User-agent: *
+Disallow: /*?*page=
+Disallow: /member
+
+User-agent: Googlebot
+Allow: /
+
+crawl-delay: 1
+
+# archives
+Sitemap: https://www.huffpost.com/sitemaps/sitemap.xml
+Sitemap: https://www.huffpost.com/sitemaps/sitemap-google-news.xml
+Sitemap: https://www.huffpost.com/sitemaps/sitemap-google-video.xml
+Sitemap: https://www.huffpost.com/sitemaps/sections.xml

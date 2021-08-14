@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /backstage/
+Disallow: /blackberry/
+Disallow: /users/becomeFan.php
+Disallow: /users/logout/
+Disallow: /contact/pop/

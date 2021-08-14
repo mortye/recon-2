@@ -1,0 +1,7 @@
+User-agent: Mail.RU_Bot/RSS/2.0
+Disallow: /
+
+User-agent: *
+Sitemap: http://elections.huffingtonpost.com/sitemap.xml
+Sitemap: http://elections.huffingtonpost.com/2016/primaries/sitemap.txt
+

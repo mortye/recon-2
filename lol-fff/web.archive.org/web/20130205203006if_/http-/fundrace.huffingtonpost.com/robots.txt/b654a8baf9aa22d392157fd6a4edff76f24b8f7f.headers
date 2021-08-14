@@ -1,0 +1,29 @@
+GET https://web.archive.org/web/20130205203006if_/http://fundrace.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=1800
+< X-Archive-Src: live-20130205083547658-00842-20130205160827084/live-20130205154708293-00856.arc.gz
+< X-Rl: 0
+< X-Na: 0
+< X-Archive-Orig-Date: Tue, 05 Feb 2013 20:30:06 GMT
+< X-Archive-Orig-Content-Length: 247
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Location: All
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< X-Archive-Orig-Server: Apache
+< Memento-Datetime: Tue, 05 Feb 2013 20:30:06 GMT
+< Server-Timing: captures_list;dur=1027.919613, exclusion.robots;dur=0.325885, exclusion.robots.policy;dur=0.313521, RedisCDXSource;dur=2.500514, esindex;dur=0.018770, LoadShardBlock;dur=860.028233, PetaboxLoader3.datanode;dur=380.381985, CDXLines.iter;dur=84.072208, load_resource;dur=212.320350, PetaboxLoader3.resolve;dur=149.732774
+< X-App-Server: wwwb-app55
+< X-Ts: 301
+< X-Cache-Key: httpsweb.archive.org/web/20130205203006if_/http://fundrace.huffingtonpost.com/robots.txtUS
+< X-Page-Cache: MISS
+< Content-Type: text/html; charset=iso-8859-1
+< Location: https://web.archive.org/web/20130205203006if_/http://www.huffingtonpost.com/politics/
+< Link: <http://fundrace.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://fundrace.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://fundrace.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20070806194950/http://fundrace.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Mon, 06 Aug 2007 19:49:50 GMT", <https://web.archive.org/web/20130204104048/http://fundrace.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Mon, 04 Feb 2013 10:40:48 GMT", <https://web.archive.org/web/20130205203006/http://fundrace.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 05 Feb 2013 20:30:06 GMT", <https://web.archive.org/web/20130207010949/http://fundrace.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Thu, 07 Feb 2013 01:09:49 GMT", <https://web.archive.org/web/20210716220755/https://fundrace.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 16 Jul 2021 22:07:55 GMT"
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 16:03:06 GMT
+< X-Tr: 1264

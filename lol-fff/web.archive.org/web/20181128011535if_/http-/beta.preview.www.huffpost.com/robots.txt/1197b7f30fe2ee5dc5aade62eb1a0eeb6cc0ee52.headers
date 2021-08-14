@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20181128011535if_/http://beta.preview.www.huffpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Na: 0
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Date: Mon, 26 Jul 2021 16:41:31 GMT
+< Connection: keep-alive
+< Link: <http://beta.preview.www.huffpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://beta.preview.www.huffpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://beta.preview.www.huffpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20181128011535/http://beta.preview.www.huffpost.com/robots.txt>; rel="first memento"; datetime="Wed, 28 Nov 2018 01:15:35 GMT", <https://web.archive.org/web/20181128011535/http://beta.preview.www.huffpost.com/robots.txt>; rel="memento"; datetime="Wed, 28 Nov 2018 01:15:35 GMT", <https://web.archive.org/web/20190209161921/http://beta.preview.www.huffpost.com/robots.txt>; rel="next memento"; datetime="Sat, 09 Feb 2019 16:19:21 GMT", <https://web.archive.org/web/20190802083751/http://beta.preview.www.huffpost.com/robots.txt>; rel="last memento"; datetime="Fri, 02 Aug 2019 08:37:51 GMT"
+< X-Tr: 508
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-Cache-Control: max-age=300,s-maxage=300
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< X-Archive-Orig-Date: Wed, 28 Nov 2018 01:15:35 GMT
+< X-Archive-Orig-X-Powered-By: Express
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Cache-Key: httpsweb.archive.org/web/20181128011535if_/http://beta.preview.www.huffpost.com/robots.txtUS
+< X-Page-Cache: MISS
+< Content-Type: text/plain; charset=UTF-8
+< X-Archive-Orig-Last-Modified: Tue, 27 Nov 2018 18:18:35 GMT
+< X-Archive-Orig-Etag: W/"ea-1675664f078"
+< X-App-Server: wwwb-app56
+< X-Rl: 0
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: captures_list;dur=286.086181, exclusion.robots;dur=0.234028, exclusion.robots.policy;dur=0.225683, RedisCDXSource;dur=1.381344, esindex;dur=0.008965, LoadShardBlock;dur=255.838909, PetaboxLoader3.datanode;dur=74.297451, CDXLines.iter;dur=24.591372, PetaboxLoader3.resolve;dur=295.675674, load_resource;dur=168.953213
+< X-Ts: 200
+< X-Location: All
+< Memento-Datetime: Wed, 28 Nov 2018 01:15:35 GMT
+< X-Archive-Src: liveweb-20181128232958/cachegw-20181128002048-wwwb-app4.us.archive.org.warc.gz
+< X-Archive-Orig-Content-Length: 234
+< X-Archive-Orig-Accept-Ranges: bytes
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Encoding: utf-8

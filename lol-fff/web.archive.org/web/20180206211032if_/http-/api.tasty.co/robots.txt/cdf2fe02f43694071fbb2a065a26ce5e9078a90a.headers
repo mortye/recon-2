@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20180206211032if_/http://api.tasty.co/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< X-Location: All
+< Content-Type: text/plain; charset=utf-8
+< Server-Timing: exclusion.robots;dur=0.322503, RedisCDXSource;dur=11.942925, captures_list;dur=228.131954, exclusion.robots.policy;dur=0.311007, PetaboxLoader3.datanode;dur=186.595462, PetaboxLoader3.resolve;dur=117.461058, CDXLines.iter;dur=16.916306, LoadShardBlock;dur=196.229277, esindex;dur=0.007422, load_resource;dur=367.418384
+< X-Tr: 624
+< X-Cache-Key: httpsweb.archive.org/web/20180206211032if_/http://api.tasty.co/robots.txtUS
+< X-Page-Cache: MISS
+< X-Nid: -
+< X-Archive-Redirect-Reason: found capture at 20180206211033
+< Location: https://web.archive.org/web/20180206211033if_/https://api.tasty.co/robots.txt
+< X-Ts: 302
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< Connection: keep-alive
+< X-Rl: 0
+< Date: Mon, 26 Jul 2021 15:06:04 GMT
+< Content-Length: 0
+< X-App-Server: wwwb-app31

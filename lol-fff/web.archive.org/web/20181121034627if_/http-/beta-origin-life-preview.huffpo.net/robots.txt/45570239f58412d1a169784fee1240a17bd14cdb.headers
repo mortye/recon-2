@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20181121034627if_/http://beta-origin-life-preview.huffpo.net/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Connection: close
+< Memento-Datetime: Wed, 21 Nov 2018 03:46:27 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20181121034627if_/http://beta-origin-life-preview.huffpo.net/robots.txtUS
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Date: Wed, 21 Nov 2018 03:46:27 GMT
+< X-Tr: 693
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< Content-Type: text/plain; charset=UTF-8
+< X-Archive-Orig-Cache-Control: max-age=300,s-maxage=300
+< X-Archive-Orig-Last-Modified: Mon, 19 Nov 2018 18:28:53 GMT
+< X-Archive-Orig-Etag: W/"ea-1672d3b7e88"
+< X-Ts: 200
+< X-Rl: 0
+< Connection: keep-alive
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: liveweb-20181122002524/cachegw-20181121002049-wwwb-app52.us.archive.org.warc.gz
+< X-Archive-Orig-X-Powered-By: Express
+< Cache-Control: max-age=1800
+< Link: <http://beta-origin-life-preview.huffpo.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://beta-origin-life-preview.huffpo.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://beta-origin-life-preview.huffpo.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20181121034627/http://beta-origin-life-preview.huffpo.net/robots.txt>; rel="first memento"; datetime="Wed, 21 Nov 2018 03:46:27 GMT", <https://web.archive.org/web/20181121034627/http://beta-origin-life-preview.huffpo.net/robots.txt>; rel="memento"; datetime="Wed, 21 Nov 2018 03:46:27 GMT", <https://web.archive.org/web/20181125015320/http://beta-origin-life-preview.huffpo.net/robots.txt>; rel="next memento"; datetime="Sun, 25 Nov 2018 01:53:20 GMT", <https://web.archive.org/web/20190219142501/http://beta-origin-life-preview.huffpo.net/robots.txt>; rel="last memento"; datetime="Tue, 19 Feb 2019 14:25:01 GMT"
+< Server-Timing: captures_list;dur=415.099331, exclusion.robots;dur=0.283862, exclusion.robots.policy;dur=0.270811, RedisCDXSource;dur=3.754471, esindex;dur=0.008550, LoadShardBlock;dur=386.468936, PetaboxLoader3.datanode;dur=179.595755, CDXLines.iter;dur=20.128710, load_resource;dur=258.870198, PetaboxLoader3.resolve;dur=169.734926
+< Date: Mon, 26 Jul 2021 18:16:34 GMT
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Guessed-Content-Type: text/plain
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Location: All
+< X-Archive-Orig-Content-Length: 234
+< X-App-Server: wwwb-app55
+< X-Na: 0

@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20191212053154if_/https://edit.highline.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 Found
+< Server-Timing: captures_list;dur=158.462128, exclusion.robots;dur=0.360408, exclusion.robots.policy;dur=0.346053, RedisCDXSource;dur=6.927562, esindex;dur=0.013349, LoadShardBlock;dur=108.805525, PetaboxLoader3.datanode;dur=86.470936, CDXLines.iter;dur=37.227310, load_resource;dur=85.692257, PetaboxLoader3.resolve;dur=45.487625
+< X-Location: All
+< X-Nid: -
+< Location: https://web.archive.org/web/20191212053154if_/https://id.b2b.oath.com:443/identity/cdcservlet?realm=aolcorporate&goto=https%3A%2F%2Fedit.highline.huffingtonpost.com%3A443%2Frobots.txt&RequestID=1576128715049&MajorVersion=1&MinorVersion=0&ProviderID=https%3A%2F%2Fedit.highline.huffingtonpost.com%3A443%2Famagent%3FRealm%3D%2Faolcorporate&IssueInstant=2019-12-12T05%3A31%3A55Z
+< X-Ts: 302
+< X-Cache-Key: httpsweb.archive.org/web/20191212053154if_/https://edit.highline.huffingtonpost.com/robots.txtUS
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Set-Cookie: _B2BID=;Max-Age=0;Expires=Thu, 01-Jan-1970 00:00:01 GMT;Path=/;Secure;HttpOnly
+< X-Rl: 0
+< X-Page-Cache: MISS
+< X-Archive-Orig-Date: Thu, 12 Dec 2019 05:31:55 GMT
+< Content-Type: text/html; charset=iso-8859-1
+< X-Archive-Orig-Content-Length: 537
+< Cache-Control: max-age=1800
+< Memento-Datetime: Thu, 12 Dec 2019 05:31:54 GMT
+< X-App-Server: wwwb-app28
+< Server: nginx/1.15.8
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-Server: Apache
+< Link: <https://edit.highline.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://edit.highline.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://edit.highline.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180405044743/http://edit.highline.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Thu, 05 Apr 2018 04:47:43 GMT", <https://web.archive.org/web/20190802113555/https://edit.highline.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Fri, 02 Aug 2019 11:35:55 GMT", <https://web.archive.org/web/20191212053154/https://edit.highline.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Thu, 12 Dec 2019 05:31:54 GMT", <https://web.archive.org/web/20191212053154/https://edit.highline.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Thu, 12 Dec 2019 05:31:54 GMT"
+< X-Tr: 623
+< X-Na: 0
+< Permissions-Policy: interest-cohort=()
+< Date: Mon, 26 Jul 2021 18:25:55 GMT
+< Connection: keep-alive
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Src: liveweb-20191213003135/cachegw-20191212024654-wwwb-app4.us.archive.org.warc.gz

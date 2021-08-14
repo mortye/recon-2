@@ -1,0 +1,2 @@
+200 3 https://feeds.buzzfeed.com/health
+400 71 https://feeds.buzzfeed.com/echo

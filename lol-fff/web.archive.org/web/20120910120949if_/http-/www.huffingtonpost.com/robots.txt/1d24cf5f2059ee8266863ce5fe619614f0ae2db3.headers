@@ -1,0 +1,36 @@
+GET https://web.archive.org/web/20120910120949if_/http://www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Src: live-20120910055621093-03255-20120910123913388/live-20120910110441416-03262.arc.gz
+< X-Location: All
+< Connection: keep-alive
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Orig-Content-Length: 288
+< X-Archive-Orig-Connection: keep-alive
+< Cache-Control: max-age=1800
+< Link: <http://www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20120910113939/http://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Mon, 10 Sep 2012 11:39:39 GMT", <https://web.archive.org/web/20120910120949/http://www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Mon, 10 Sep 2012 12:09:49 GMT", <https://web.archive.org/web/20120910130553/http://www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Mon, 10 Sep 2012 13:05:53 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< X-Nid: -
+< X-Archive-Orig-Last-Modified: Mon, 10 Sep 2012 11:52:31 GMT
+< X-Tr: 1605
+< X-Cache-Key: httpsweb.archive.org/web/20120910120949if_/http://www.huffingtonpost.com/robots.txtUS
+< X-Page-Cache: MISS
+< Content-Type: text/plain; charset=utf-8
+< Server-Timing: exclusion.robots;dur=1.272038, exclusion.robots.policy;dur=1.199787, RedisCDXSource;dur=15.822871, esindex;dur=0.049297, LoadShardBlock;dur=832.675440, PetaboxLoader3.resolve;dur=133.639870, PetaboxLoader3.datanode;dur=354.735700, CDXLines.iter;dur=359.775374, load_resource;dur=239.526189
+< X-App-Server: wwwb-app200
+< X-Rl: 0
+< X-Archive-Orig-Ntcoent-Length: 288
+< X-Archive-Orig-P3p: CP='NO P3P'
+< X-Archive-Orig-Etag: "d98004-120-4c95797aeddc0"
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 15:32:56 GMT
+< X-Archive-Orig-Date: Mon, 10 Sep 2012 12:09:49 GMT
+< Memento-Datetime: Mon, 10 Sep 2012 12:09:49 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Server: Apache
+< X-Ts: 200

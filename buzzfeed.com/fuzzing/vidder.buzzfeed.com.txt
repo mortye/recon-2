@@ -1,0 +1,15 @@
+200 0 https://vidder.buzzfeed.com/ping
+200 25 https://vidder.buzzfeed.com/robots.txt
+301 0 https://vidder.buzzfeed.com/.//web-inf/web.xml
+301 0 https://vidder.buzzfeed.com/./admin/.
+301 0 https://vidder.buzzfeed.com/./web-inf/web.xml
+301 0 https://vidder.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess
+301 0 https://vidder.buzzfeed.com/.nsf/../winnt/win.ini
+301 0 https://vidder.buzzfeed.com//cfide/administrator
+301 0 https://vidder.buzzfeed.com//out
+301 0 https://vidder.buzzfeed.com/admin//phpmyadmin
+301 0 https://vidder.buzzfeed.com/citrix//accessplatform/auth/clientscripts/cookies.js
+301 0 https://vidder.buzzfeed.com/content/../libs/foundation/components/text/text.jsp
+301 0 https://vidder.buzzfeed.com/extjs/resources//charts.swf
+301 0 https://vidder.buzzfeed.com/secret/.
+301 0 https://vidder.buzzfeed.com/vpn/../vpns/cfg/smb.conf

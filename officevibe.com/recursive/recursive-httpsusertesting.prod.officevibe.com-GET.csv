@@ -1,0 +1,4 @@
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+favicon.ico,https://usertesting.prod.officevibe.com/favicon.ico,,51376,200,26315,13381,258,image/x-icon,47.168828ms,
+index_backup.html,https://usertesting.prod.officevibe.com/index_backup.html,,94582,200,1764,342,44,text/html,38.556054ms,
+robots.txt,https://usertesting.prod.officevibe.com/robots.txt,,242470,200,72,4,4,text/plain,48.875117ms,

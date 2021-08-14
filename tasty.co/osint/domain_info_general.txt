@@ -1,0 +1,251 @@
+Domain
+
+   Domain         tasty.co
+   Words in       tasty
+   Date creation  2010-07-20
+   Web age        11 years
+   IP Address     [6]151.101.130.114
+                  [7]151.101.130.114 abuse reports
+   IP Geolocation US United States, California, San Francisco [8]map
+
+Registrant
+
+   from last whois record
+   Organization [9]Buzzfeed Inc  is associated with 99 domains
+   Email
+   State        NY
+   Country      US United States [10]map
+   Phone        +1.2083895740
+   Fax          +1.2083895740
+   Private      no
+   [INS: :INS]
+
+Whois
+
+   last record, updated : 2020-04-04
+   ajax-loader
+   querying the whois server...
+   Domain Name: tasty.co
+   Registry Domain ID: D1137890-CO
+   Registrar-Reseller Name: Name Services
+   Registrar-Reseller URL: www.nameservices.co
+   Registrar WHOIS Server:
+   Registrar URL: www.markmonitor.com
+   Updated Date: 2018-02-19T19:57:56Z
+   Creation Date: 2010-07-20T18:00:56Z
+   Registry Expiry Date: 2020-07-19T23:59:59Z
+   Registrar: MarkMonitor, Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints(at)markmonitor.com
+   Registrar Abuse Contact Phone: +1.2083895740
+   Domain Status: clientDeleteProhibited
+   https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientUpdateProhibited
+   https://icann.org/epp#clientUpdateProhibited
+   Domain Status: clientTransferProhibited
+   https://icann.org/epp#clientTransferProhibited
+   Registry Registrant ID:
+   Registrant Name:
+   Registrant Organization: BuzzFeed, Inc.
+   Registrant Street:
+   Registrant Street:
+   Registrant Street:
+   Registrant City:
+   Registrant State/Province: NY
+   Registrant Postal Code:
+   Registrant Country: US
+   Registrant Phone:
+   Registrant Phone Ext:
+   Registrant Fax:
+   Registrant Fax Ext:
+   Registrant Email: Please query the RDDS service of the Registrar of
+   Record identified in this output for information on how to contact the
+   Registrant, Admin, or Tech contact of the queried domain name.
+   Registry Admin ID:
+   Admin Name:
+   Admin Organization:
+   Admin Street:
+   Admin Street:
+   Admin Street:
+   Admin City:
+   Admin State/Province:
+   Admin Postal Code:
+   Admin Country:
+   Admin Phone:
+   Admin Phone Ext:
+   Admin Fax:
+   Admin Fax Ext:
+   Admin Email: Please query the RDDS service of the Registrar of Record
+   identified in this output for information on how to contact the
+   Registrant, Admin, or Tech contact of the queried domain name.
+   Registry Tech ID:
+   Tech Name:
+   Tech Organization:
+   Tech Street:
+   Tech Street:
+   Tech Street:
+   Tech City:
+   Tech State/Province:
+   Tech Postal Code:
+   Tech Country:
+   Tech Phone:
+   Tech Phone Ext:
+   Tech Fax:
+   Tech Fax Ext:
+   Tech Email: Please query the RDDS service of the Registrar of Record
+   identified in this output for information on how to contact the
+   Registrant, Admin, or Tech contact of the queried domain name.
+   Name Server: ns-1285.awsdns-32.org
+   Name Server: ns-484.awsdns-60.com
+   Name Server: ns-526.awsdns-01.net
+   Name Server: ns-1708.awsdns-21.co.uk
+   DNSSEC: unsigned
+
+Other TLDs
+
+   [11]tasty.africa
+   [12]tasty.agency
+   [13]tasty.az
+   [14]tasty.at
+   [15]tasty.ar
+   [16]tasty.bike
+   [17]tasty.biz
+   [18]tasty.ca
+   [19]tasty.ch
+   [20]tasty.catering
+   [21]tasty.buzz
+   [22]tasty.cc
+   [23]tasty.cards
+   [24]tasty.cash
+   [25]tasty.com.tw
+   [26]tasty.com
+   [27]tasty.com.co
+   [28]tasty.com.hk
+   [29]tasty.eu
+   [30]tasty.dk
+   [31]tasty.cz
+   [32]tasty.es
+   [33]tasty.de
+   [34]tasty.com.sv
+   [35]tasty.com.es
+   [36]tasty.cool
+   [37]tasty.digital
+   [38]tasty.email
+   [39]tasty.earth
+   [40]tasty.family
+   [41]tasty.net
+   [42]tasty.org
+   [43]tasty.info
+   [44]tasty.lk
+   [45]tasty.name
+   [46]tasty.ir
+   [47]tasty.hu
+   [48]tasty.fr
+   [49]tasty.no
+   [50]tasty.kr
+   [51]tasty.it
+   [52]tasty.in
+   [53]tasty.lv
+   [54]tasty.jp
+   [55]tasty.nl
+   [56]tasty.ma
+   [57]tasty.ltd
+   [58]tasty.life
+   [59]tasty.live
+   [60]tasty.pet
+   [61]tasty.gift
+   [62]tasty.house
+   [63]tasty.farm
+   [64]tasty.photo
+   [65]tasty.land
+   [66]tasty.pictures
+   [67]tasty.media
+   [68]tasty.pizza
+   [69]tasty.online
+   [70]tasty.guru
+   [71]tasty.marketing
+   [72]tasty.love
+   [73]tasty.us
+   [74]tasty.pl
+   [75]tasty.ru
+   [76]tasty.se
+   [77]tasty.tw
+   [78]tasty.tk
+   [79]tasty.uk
+   [80]tasty.trade
+   [81]tasty.pro
+   [82]tasty.za
+   [83]tasty.ua
+   [84]tasty.world
+   [85]tasty.today
+   [86]tasty.ro
+   [87]tasty.tech
+   [88]tasty.place
+   [89]tasty.tours
+   [90]tasty.promo
+   [91]tasty.store
+   [92]tasty.space
+   [93]tasty.supplies
+   [94]tasty.rocks
+   [95]tasty.town
+   [96]tasty.tokyo
+   [97]tasty.services
+   [98]tasty.toys
+   [99]tasty.technology
+   [100]tasty.social
+   [101]tasty.team
+   [102]tasty.sexy
+   [103]tasty.website
+   [104]tasty.recipes
+   [105]tasty.studio
+
+Nameservers
+
+A Records
+
+   Type
+   Hostname
+   Address
+   TTL
+   Class
+   A tasty.co [106]151.101.130.114 300 IN
+   A tasty.co [107]151.101.66.114 300 IN
+   A tasty.co [108]151.101.2.114 300 IN
+   A tasty.co [109]151.101.194.114 300 IN
+
+AAAA Records
+
+   No AAAA record found
+
+MX Records
+
+   Type
+   Hostname Address Preference TTL Class
+   MX tasty.co aspmx.l.google.com 1 1800 IN
+   MX tasty.co alt1.aspmx.l.google.com 5 1800 IN
+   MX tasty.co alt2.aspmx.l.google.com 5 1800 IN
+   MX tasty.co aspmx2.googlemail.com 10 1800 IN
+   MX tasty.co aspmx3.googlemail.com 10 1800 IN
+   MX tasty.co aspmx4.googlemail.com 10 1800 IN
+   MX tasty.co inbound-smtp.us-east-1.amazonaws.com 20 1800 IN
+
+CNAME Records
+
+   No CNAME record found
+
+History
+
+   Date       Status         Name Server
+   2017-06-09 Transferred to awsdns-60.com
+   2017-05-09 Transferred to domaincontrol.com
+   2016-12-26 Transferred to afternic.com
+   2016-11-03 Transferred to dnspod.net
+   2015-08-24 Transferred to name-services.com
+   2015-07-26 Transferred to neustar.biz
+   2014-08-10 Transferred to name-services.com
+   2014-07-26 Transferred to neustar.biz
+   2014-07-14 Deleted        name-services.com
+   2014-06-07 New            name-services.com
+   [INS: :INS]
+   [110]domainbigdata.com
+

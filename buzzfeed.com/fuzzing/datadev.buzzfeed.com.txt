@@ -1,0 +1,7 @@
+200 0 https://datadev.buzzfeed.com/soap
+400 0 https://datadev.buzzfeed.com/%2e%2e;/test
+400 0 https://datadev.buzzfeed.com/..;
+400 348 https://datadev.buzzfeed.com/%c0
+400 348 https://datadev.buzzfeed.com/%ff
+400 363 https://datadev.buzzfeed.com/%c0%ae%c0%ae%c0%af
+400 371 https://datadev.buzzfeed.com/servlet/%c0%ae%c0%ae%c0%af

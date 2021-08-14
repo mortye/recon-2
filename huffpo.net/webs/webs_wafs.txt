@@ -1,0 +1,6 @@
+https://origin-staging-pollster.huffpo.net;AWS Elastic Load Balancer (Amazon)
+https://staging-athena-autoscale-content-varnish.use1.huffpo.net;CacheWall (Varnish)
+https://content.huffingtonpost.com.amp.huffpo.net;CacheWall (Varnish)
+https://production-athena-autoscale-content-varnish.use1.huffpo.net;CacheWall (Varnish)
+https://production-athena-content.use1.huffpo.net;CacheWall (Varnish)
+https://qa-athena-autoscale-content-varnish.use1.huffpo.net;CacheWall (Varnish)

@@ -1,0 +1,37 @@
+GET https://web.archive.org/web/20200917190013if_/http://big.assets.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Etag: "f71d20196d4caf35b6a670db8c70b03d"
+< X-Archive-Orig-Connection: close
+< Memento-Datetime: Thu, 17 Sep 2020 19:00:13 GMT
+< X-Archive-Src: GDELT-20200917181614-crawl501/GDELT-20200917184628-01242.warc.gz
+< X-Archive-Orig-Last-Modified: Thu, 17 Sep 2020 17:18:30 GMT
+< X-Archive-Guessed-Encoding: utf-8
+< X-Ts: 200
+< X-Tr: 1620
+< Server: nginx/1.15.8
+< Content-Type: text/plain
+< Connection: keep-alive
+< X-Archive-Orig-X-Amz-Version-Id: wKcLYybBOMrQ6Y0.KE938sWmqF8X7l4X
+< X-Nid: -
+< Date: Mon, 26 Jul 2021 18:36:27 GMT
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20200917190013if_/http://big.assets.huffingtonpost.com/robots.txtUS
+< X-Na: 0
+< Cache-Control: max-age=1800
+< X-Archive-Guessed-Content-Type: text/plain
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-X-Amz-Request-Id: B56D61F4F59567B0
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Page-Cache: MISS
+< X-Archive-Orig-Cache-Control: max-age=86400
+< X-Archive-Orig-Date: Thu, 17 Sep 2020 19:00:14 GMT
+< X-Archive-Orig-Server: AmazonS3
+< Server-Timing: captures_list;dur=1382.700228, exclusion.robots;dur=0.341143, exclusion.robots.policy;dur=0.330967, RedisCDXSource;dur=0.776863, esindex;dur=0.010109, LoadShardBlock;dur=53.217484, PetaboxLoader3.datanode;dur=101.484322, CDXLines.iter;dur=197.277606, load_resource;dur=140.479609, PetaboxLoader3.resolve;dur=33.958338
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Rl: 0
+< X-Archive-Orig-X-Amz-Id-2: Cgzk5YezI8uzsecXKer4kQl2ZW/lZsFAfTwD2xg8zVSHikL0hkr0tnlvSZoAr51kL9uUNC88fS8=
+< X-Archive-Orig-Content-Length: 26
+< Link: <http://big.assets.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://big.assets.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://big.assets.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20071115133201/http://big.assets.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Thu, 15 Nov 2007 13:32:01 GMT", <https://web.archive.org/web/20200917132728/http://big.assets.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Thu, 17 Sep 2020 13:27:28 GMT", <https://web.archive.org/web/20200917190013/http://big.assets.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Thu, 17 Sep 2020 19:00:13 GMT", <https://web.archive.org/web/20200917194035/https://big.assets.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Thu, 17 Sep 2020 19:40:35 GMT", <https://web.archive.org/web/20210725023744/https://big.assets.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:37:44 GMT"
+< X-App-Server: wwwb-app56

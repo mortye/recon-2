@@ -1,0 +1,33 @@
+GET https://web.archive.org/web/20111003195915if_/http://www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< X-Cache-Key: httpsweb.archive.org/web/20111003195915if_/http://www.huffingtonpost.com/robots.txtUS
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< X-Archive-Orig-Etag: "42bff5b-c0-4ae6a2ff20840"
+< Cache-Control: max-age=1800
+< Memento-Datetime: Mon, 03 Oct 2011 19:59:15 GMT
+< X-Rl: 0
+< X-Page-Cache: MISS
+< Date: Mon, 26 Jul 2021 15:36:54 GMT
+< Connection: keep-alive
+< X-Archive-Orig-Content-Length: 192
+< X-Na: 0
+< Link: <http://www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20111003131312/http://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Mon, 03 Oct 2011 13:13:12 GMT", <https://web.archive.org/web/20111003195915/http://www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Mon, 03 Oct 2011 19:59:15 GMT", <https://web.archive.org/web/20111003195916/http://huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Mon, 03 Oct 2011 19:59:16 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< Server-Timing: LoadShardBlock;dur=1514.906362, load_resource;dur=294.306475, RedisCDXSource;dur=69.759022, esindex;dur=0.095903, CDXLines.iter;dur=384.044244, PetaboxLoader3.resolve;dur=80.019279, exclusion.robots;dur=1.813325, PetaboxLoader3.datanode;dur=1173.023938, exclusion.robots.policy;dur=1.723833
+< X-Tr: 2400
+< X-Archive-Orig-Last-Modified: Mon, 03 Oct 2011 19:43:21 GMT
+< X-App-Server: wwwb-app102
+< X-Ts: 200
+< Content-Type: text/plain; charset=utf-8
+< X-Archive-Orig-Server: Apache
+< X-Nid: -
+< X-Archive-Orig-Date: Mon, 03 Oct 2011 19:59:15 GMT
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-Connection: keep-alive
+< X-Archive-Src: live-20111003191058572-00920-20111003230329536/live-20111003195436019-00003.arc.gz
+< X-Location: All

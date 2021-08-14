@@ -1,0 +1,36 @@
+GET https://web.archive.org/web/20120426061316if_/http://www.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Cache-Key: httpsweb.archive.org/web/20120426061316if_/http://www.buzzfeed.com/robots.txtUS
+< X-Archive-Orig-Last-Modified: Wed, 25 Apr 2012 23:43:58 GMT
+< X-Archive-Src: ARCHIVEIT-2749-DAILY-MKBLJZ-00001/ARCHIVEIT-2749-DAILY-MKBLJZ-20120426060738-00155-crawling203.us.archive.org-6681.warc.gz
+< X-App-Server: wwwb-app101
+< X-Ts: 200
+< X-Rl: 0
+< X-Archive-Orig-Etag: "302846a-354-71ed0b80"
+< X-Archive-Orig-Vary: Accept-Encoding,User-Agent
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Location: All
+< X-Archive-Orig-Date: Thu, 26 Apr 2012 06:13:10 GMT
+< X-Archive-Orig-Server: Apache/2.2.3 (CentOS)
+< Referrer-Policy: no-referrer-when-downgrade
+< Connection: keep-alive
+< X-Tr: 2079
+< X-Na: 0
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< Link: <http://www.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20020921163523/http://buzzfeed.com:80/robots.txt>; rel="first memento"; datetime="Sat, 21 Sep 2002 16:35:23 GMT", <https://web.archive.org/web/20120426002257/http://buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Thu, 26 Apr 2012 00:22:57 GMT", <https://web.archive.org/web/20120426061316/http://www.buzzfeed.com/robots.txt>; rel="memento"; datetime="Thu, 26 Apr 2012 06:13:16 GMT", <https://web.archive.org/web/20120426082027/http://www.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Thu, 26 Apr 2012 08:20:27 GMT", <https://web.archive.org/web/20210725033235/https://www.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 03:32:35 GMT"
+< Content-Type: text/plain; charset=UTF-8
+< X-Archive-Orig-X-Buzzfeed: feedt5
+< Cache-Control: max-age=1800
+< Memento-Datetime: Thu, 26 Apr 2012 06:13:16 GMT
+< Server-Timing: CDXLines.iter;dur=354.971053, esindex;dur=0.105026, exclusion.robots.policy;dur=1.563707, load_resource;dur=637.652593, LoadShardBlock;dur=929.557040, exclusion.robots;dur=1.672245, PetaboxLoader3.datanode;dur=750.040211, RedisCDXSource;dur=42.323765, PetaboxLoader3.resolve;dur=584.170942
+< X-Page-Cache: MISS
+< Date: Mon, 26 Jul 2021 18:45:55 GMT
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Content-Length: 852
+< X-Archive-Orig-Connection: close

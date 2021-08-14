@@ -1,0 +1,38 @@
+GET https://web.archive.org/web/20180713044546if_/http://cgnk.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Guessed-Content-Type: text/html
+< X-Archive-Src: liveweb-20180713051929/cachegw-20180713002045-wwwb-app1.us.archive.org.warc.gz
+< X-Tr: 276
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< Link: <http://cgnk.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://cgnk.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://cgnk.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180423110806/http://cgnk.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Mon, 23 Apr 2018 11:08:06 GMT", <https://web.archive.org/web/20180712034145/http://cgnk.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Thu, 12 Jul 2018 03:41:45 GMT", <https://web.archive.org/web/20180713044546/http://cgnk.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Fri, 13 Jul 2018 04:45:46 GMT", <https://web.archive.org/web/20190122183808/http://cgnk.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Tue, 22 Jan 2019 18:38:08 GMT", <https://web.archive.org/web/20190802111209/http://cgnk.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 02 Aug 2019 11:12:09 GMT"
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20180713044546if_/http://cgnk.huffingtonpost.com/robots.txtUS
+< Connection: keep-alive
+< Memento-Datetime: Fri, 13 Jul 2018 04:45:46 GMT
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Orig-Age: 0
+< Server: nginx/1.15.8
+< X-Archive-Orig-Content-Length: 3388
+< Server-Timing: load_resource;dur=172.908427, CDXLines.iter;dur=22.757617, LoadShardBlock;dur=37.229020, exclusion.robots.policy;dur=0.392908, esindex;dur=0.016683, captures_list;dur=65.925905, PetaboxLoader3.datanode;dur=80.098196, RedisCDXSource;dur=0.862514, exclusion.robots;dur=0.410773, PetaboxLoader3.resolve;dur=91.575921
+< X-App-Server: wwwb-app105
+< X-Ts: 200
+< X-Rl: 0
+< X-Na: 0
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Date: Fri, 13 Jul 2018 04:45:46 GMT
+< X-Archive-Orig-Cache-Control: max-age=3600, public
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Archive-Orig-Connection: close
+< X-Archive-Guessed-Charset: utf-8
+< X-Page-Cache: MISS
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< X-Archive-Orig-Server: ATS
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Date: Mon, 26 Jul 2021 18:24:44 GMT

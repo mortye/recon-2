@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20181115192405if_/http://bento.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 16:33:56 GMT
+< X-Archive-Redirect-Reason: found capture at 20181115152231
+< Server-Timing: captures_list;dur=239.109533, exclusion.robots;dur=0.148089, exclusion.robots.policy;dur=0.136360, RedisCDXSource;dur=45.788444, esindex;dur=0.008856, LoadShardBlock;dur=135.541373, PetaboxLoader3.datanode;dur=203.037359, CDXLines.iter;dur=24.831331, load_resource;dur=545.079606, PetaboxLoader3.resolve;dur=330.891023
+< X-App-Server: wwwb-app200
+< X-Cache-Key: httpsweb.archive.org/web/20181115192405if_/http://bento.buzzfeed.com/robots.txtUS
+< X-Rl: 0
+< X-Ts: 302
+< X-Location: All
+< Connection: keep-alive
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 0
+< Location: https://web.archive.org/web/20181115152231if_/https://bento.buzzfeed.com/robots.txt
+< X-Tr: 803
+< X-Na: 0
+< X-Nid: -

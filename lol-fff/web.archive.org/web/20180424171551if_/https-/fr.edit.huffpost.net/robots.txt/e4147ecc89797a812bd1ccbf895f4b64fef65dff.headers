@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20180424171551if_/https://fr.edit.huffpost.net/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Cache-Key: httpsweb.archive.org/web/20180424171551if_/https://fr.edit.huffpost.net/robots.txtUS
+< X-Archive-Orig-Date: Tue, 24 Apr 2018 17:15:52 GMT
+< Connection: keep-alive
+< X-Archive-Orig-Strict-Transport-Security: max-age=2592000
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Date: Mon, 26 Jul 2021 16:01:03 GMT
+< X-Archive-Orig-Content-Length: 31
+< X-Archive-Orig-Server: nginx
+< X-Archive-Guessed-Encoding: utf-8
+< X-Archive-Src: liveweb-20180424175657/cachegw-20180424083945-wwwb-app10.us.archive.org.warc.gz
+< Server-Timing: CDXLines.iter;dur=17.469276, PetaboxLoader3.datanode;dur=332.727385, load_resource;dur=145.966684, exclusion.robots.policy;dur=0.345703, esindex;dur=0.016991, exclusion.robots;dur=0.361325, LoadShardBlock;dur=314.765796, RedisCDXSource;dur=17.820539, PetaboxLoader3.resolve;dur=59.647700, captures_list;dur=359.849944
+< Server: nginx/1.15.8
+< X-Tr: 558
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Connection: close
+< X-Archive-Guessed-Content-Type: text/plain
+< Permissions-Policy: interest-cohort=()
+< Link: <https://fr.edit.huffpost.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://fr.edit.huffpost.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://fr.edit.huffpost.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20180424171551/http://fr.edit.huffpost.net/robots.txt>; rel="first memento"; datetime="Tue, 24 Apr 2018 17:15:51 GMT", <https://web.archive.org/web/20180424171551/https://fr.edit.huffpost.net/robots.txt>; rel="memento"; datetime="Tue, 24 Apr 2018 17:15:51 GMT", <https://web.archive.org/web/20180424171553/https://fr.edit.huffpost.net/robots.txt>; rel="next memento"; datetime="Tue, 24 Apr 2018 17:15:53 GMT", <https://web.archive.org/web/20200824202018/https://fr.edit.huffpost.net/robots.txt>; rel="last memento"; datetime="Mon, 24 Aug 2020 20:20:18 GMT"
+< X-Location: All
+< X-Rl: 0
+< X-Archive-Orig-Accept-Ranges: bytes
+< Cache-Control: max-age=1800
+< Memento-Datetime: Tue, 24 Apr 2018 17:15:51 GMT
+< X-Na: 0
+< X-Page-Cache: MISS
+< X-Archive-Orig-Etag: "5a9423eb-1f"
+< X-Archive-Orig-Last-Modified: Mon, 26 Feb 2018 15:12:43 GMT
+< X-App-Server: wwwb-app39
+< X-Ts: 200
+< X-Nid: -
+< Content-Type: text/plain

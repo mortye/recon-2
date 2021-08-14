@@ -1,0 +1,39 @@
+GET https://web.archive.org/web/20170919001408if_/http://www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Age: 493
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Tr: 1777
+< X-Nid: -
+< Server: nginx/1.15.8
+< Connection: keep-alive
+< X-Archive-Orig-X-Ec-Lua: 19365-geo
+< X-Archive-Orig-X-Ec-Lua: 19365-geo
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< X-App-Server: wwwb-app31
+< X-Cache-Key: httpsweb.archive.org/web/20170919001408if_/http://www.huffingtonpost.com/robots.txtUS
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/plain
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Last-Modified: Mon, 18 Sep 2017 19:45:51 GMT
+< Link: <http://www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20170918231602/http://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Mon, 18 Sep 2017 23:16:02 GMT", <https://web.archive.org/web/20170919001408/http://www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 19 Sep 2017 00:14:08 GMT", <https://web.archive.org/web/20170919002032/http://www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Tue, 19 Sep 2017 00:20:32 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< X-Location: All
+< X-Archive-Orig-Content-Length: 366
+< Cache-Control: max-age=1800
+< Server-Timing: exclusion.robots;dur=2.164127, RedisCDXSource;dur=83.175645, PetaboxLoader3.datanode;dur=883.191124, exclusion.robots.policy;dur=2.060439, PetaboxLoader3.resolve;dur=92.627792, CDXLines.iter;dur=400.326164, LoadShardBlock;dur=1020.310826, esindex;dur=0.168636, load_resource;dur=122.870862
+< X-Rl: 0
+< X-Na: 0
+< X-Page-Cache: MISS
+< Memento-Datetime: Tue, 19 Sep 2017 00:14:08 GMT
+< X-Ts: 200
+< Date: Mon, 26 Jul 2021 16:47:24 GMT
+< X-Archive-Orig-Server: ECD (lga/13D3)
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Etag: "59c0226f-39a+gzip"
+< X-Archive-Orig-X-Cache: HIT
+< X-Archive-Orig-Date: Tue, 19 Sep 2017 00:14:08 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Src: perma_cc_3G59-BUSF/3G59-BUSF.warc.gz

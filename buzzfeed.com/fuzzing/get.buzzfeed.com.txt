@@ -1,0 +1,5 @@
+400 0 http://get.buzzfeed.com/%2e%2e;/test
+400 0 http://get.buzzfeed.com/..;
+400 348 http://get.buzzfeed.com/%c0
+400 348 http://get.buzzfeed.com/%ff
+400 363 http://get.buzzfeed.com/%c0%ae%c0%ae%c0%af

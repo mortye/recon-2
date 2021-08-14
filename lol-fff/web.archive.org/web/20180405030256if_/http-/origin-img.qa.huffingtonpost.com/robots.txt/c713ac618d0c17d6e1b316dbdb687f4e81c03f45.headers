@@ -1,0 +1,31 @@
+GET https://web.archive.org/web/20180405030256if_/http://origin-img.qa.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Date: Thu, 05 Apr 2018 03:02:56 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Referrer-Policy: no-referrer-when-downgrade
+< Server-Timing: captures_list;dur=163.652792, exclusion.robots;dur=0.283173, exclusion.robots.policy;dur=0.272020, RedisCDXSource;dur=0.650423, esindex;dur=0.009080, LoadShardBlock;dur=131.995905, PetaboxLoader3.datanode;dur=111.967698, CDXLines.iter;dur=27.071248, load_resource;dur=120.238591, PetaboxLoader3.resolve;dur=55.297545
+< X-Ts: 200
+< X-Location: All
+< X-Archive-Orig-Cache-Control: public, max-age=31536000
+< X-Archive-Orig-Connection: Close
+< X-Archive-Guessed-Encoding: utf-8
+< X-Cache-Key: httpsweb.archive.org/web/20180405030256if_/http://origin-img.qa.huffingtonpost.com/robots.txtUS
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 16:28:28 GMT
+< Memento-Datetime: Thu, 05 Apr 2018 03:02:56 GMT
+< X-Archive-Src: liveweb-20180405115606/cachegw-20180405024435-wwwb-app6.us.archive.org.warc.gz
+< X-Page-Cache: MISS
+< Connection: keep-alive
+< Link: <http://origin-img.qa.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://origin-img.qa.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://origin-img.qa.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180405030256/http://origin-img.qa.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Thu, 05 Apr 2018 03:02:56 GMT", <https://web.archive.org/web/20180405030256/http://origin-img.qa.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Thu, 05 Apr 2018 03:02:56 GMT", <https://web.archive.org/web/20180407211844/http://origin-img.qa.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Sat, 07 Apr 2018 21:18:44 GMT", <https://web.archive.org/web/20190802102846/http://origin-img.qa.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 02 Aug 2019 10:28:46 GMT"
+< X-Rl: 0
+< X-Na: 0
+< X-Archive-Orig-Content-Length: 0
+< Cache-Control: max-age=1800
+< X-App-Server: wwwb-app57
+< X-Tr: 302
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Age: 0

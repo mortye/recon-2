@@ -1,0 +1,36 @@
+GET https://web.archive.org/web/20140630170949if_/http://www.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Last-Modified: Wed, 07 May 2014 13:54:33 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20140630170949if_/http://www.buzzfeed.com/robots.txtUS
+< X-Page-Cache: MISS
+< Date: Mon, 26 Jul 2021 18:29:06 GMT
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Server: Apache/2.2.17 (Ubuntu)
+< X-Archive-Orig-Date: Mon, 30 Jun 2014 21:09:49 GMT
+< X-Archive-Guessed-Content-Type: text/plain
+< Referrer-Policy: no-referrer-when-downgrade
+< Connection: keep-alive
+< X-Archive-Orig-Etag: "65deb-2e0-4f8cfb4476d88"
+< X-Archive-Orig-Content-Length: 282
+< X-Archive-Guessed-Encoding: utf-8
+< Link: <http://www.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20020921163523/http://buzzfeed.com:80/robots.txt>; rel="first memento"; datetime="Sat, 21 Sep 2002 16:35:23 GMT", <https://web.archive.org/web/20140630164241/http://buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Mon, 30 Jun 2014 16:42:41 GMT", <https://web.archive.org/web/20140630170949/http://www.buzzfeed.com/robots.txt>; rel="memento"; datetime="Mon, 30 Jun 2014 17:09:49 GMT", <https://web.archive.org/web/20140630174913/http://www.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Mon, 30 Jun 2014 17:49:13 GMT", <https://web.archive.org/web/20210725033235/https://www.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 03:32:35 GMT"
+< Server-Timing: exclusion.robots;dur=1.238964, exclusion.robots.policy;dur=1.165786, RedisCDXSource;dur=149.360259, esindex;dur=0.056840, LoadShardBlock;dur=1365.281158, PetaboxLoader3.datanode;dur=1296.295341, CDXLines.iter;dur=311.640101, load_resource;dur=48.277194, PetaboxLoader3.resolve;dur=27.961224
+< X-Archive-Orig-X-Buzzfeed: webdr02
+< Cache-Control: max-age=1800
+< X-Tr: 1968
+< X-Rl: 0
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Memento-Datetime: Mon, 30 Jun 2014 17:09:49 GMT
+< X-App-Server: wwwb-app206
+< X-Na: 0
+< Permissions-Policy: interest-cohort=()
+< Content-Type: text/plain
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Src: perma_cc_8JEB-D6Q6/8JEB-D6Q6.warc.gz
+< X-Ts: 200
+< X-Location: All
+< X-Nid: -
+< Server: nginx/1.15.8
+< X-Archive-Orig-Connection: keep-alive

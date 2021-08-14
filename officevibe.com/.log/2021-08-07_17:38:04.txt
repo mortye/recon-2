@@ -1,0 +1,70 @@
+Warning: Output is not a terminal (fd=1).
+Traceback (most recent call last):
+  File "theHarvester.py", line 7, in <module>
+    from theHarvester import __main__
+  File "/home/morty/tools/Tools/theHarvester/theHarvester/__main__.py", line 4, in <module>
+    from theHarvester.discovery import dnssearch, takeover, shodansearch
+  File "/home/morty/tools/Tools/theHarvester/theHarvester/discovery/takeover.py", line 1, in <module>
+    from theHarvester.lib.core import *
+  File "/home/morty/tools/Tools/theHarvester/theHarvester/lib/core.py", line 6, in <module>
+    import aiohttp
+ModuleNotFoundError: No module named 'aiohttp'
+2021/08/07 17:50:35 rpc error: code = Unknown desc = connection() error occured during connection handshake: dial tcp: lookup localhost: device or resource busy
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+
+▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄  ▄▀▀█▄   ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄ 
+█         █      █ █    █  ▐ ▐ ▄▀ ▀▄ █    █  ▐ █      █ █   █   █ 
+█    ▀▄▄  █      █ ▐   █       █▄▄▄█ ▐   █     █      █ ▐  █▀▀█▀  
+█     █ █ ▀▄    ▄▀    █       ▄▀   █    █      ▀▄    ▄▀  ▄▀    █  
+▐▀▄▄▄▄▀ ▐   ▀▀▀▀    ▄▀       █   ▄▀   ▄▀         ▀▀▀▀   █     █   
+▐                  █         ▐   ▐   █                  ▐     ▐   												   
+																																																		
+	> By @JosueEncinar
+	> Version 0.6b
+	> Domain/subdomain permutator
+
+[i] Working in progress
+cat: .tmp/subdomains_dns_resolved.txt: No such file or directory
+cat: .tmp/analytics_subs_resolved.txt: No such file or directory
+cat: .tmp/output_cloud.txt: No such file or directory
+cat: .tmp/probed_uncommon_ports_tmp.txt: No such file or directory
+/home/morty/tools/Tools/testssl.sh/testssl.sh: connect: Interrupted system call
+/home/morty/tools/Tools/testssl.sh/testssl.sh: line 10904: /dev/tcp/167.89.105.72/443: Interrupted system call

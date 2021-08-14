@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20210317215056if_/http://huffpost.net/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Content-Language: en
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< Link: <http://huffpost.net/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://huffpost.net/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://huffpost.net/robots.txt>; rel="timegate", <https://web.archive.org/web/20101225170754/http://huffpost.net/robots.txt>; rel="first memento"; datetime="Sat, 25 Dec 2010 17:07:54 GMT", <https://web.archive.org/web/20210317134333/http://huffpost.net/robots.txt>; rel="prev memento"; datetime="Wed, 17 Mar 2021 13:43:33 GMT", <https://web.archive.org/web/20210317215056/http://huffpost.net/robots.txt>; rel="memento"; datetime="Wed, 17 Mar 2021 21:50:56 GMT", <https://web.archive.org/web/20210318050749/http://huffpost.net/robots.txt>; rel="next memento"; datetime="Thu, 18 Mar 2021 05:07:49 GMT", <https://web.archive.org/web/20210724182821/https://huffpost.net/robots.txt>; rel="last memento"; datetime="Sat, 24 Jul 2021 18:28:21 GMT"
+< X-Tr: 530
+< X-Nid: -
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< X-Archive-Src: ARCHIVEIT-10363-DAILY-JOB1383376-SEED1549309-20210317-00000/ARCHIVEIT-10363-DAILY-JOB1383376-SEED1549309-20210317180852863-00000-h3.warc.gz
+< X-Page-Cache: MISS
+< X-Archive-Orig-Date: Wed, 17 Mar 2021 21:50:56 GMT
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Cache-Key: httpsweb.archive.org/web/20210317215056if_/http://huffpost.net/robots.txtUS
+< X-Rl: 0
+< X-Na: 0
+< X-Location: All
+< Connection: keep-alive
+< X-Archive-Orig-Cache-Control: no-store
+< Location: https://web.archive.org/web/20210317215056if_/https://www.huffpost.com/
+< Memento-Datetime: Wed, 17 Mar 2021 21:50:56 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: RedisCDXSource;dur=0.708918, captures_list;dur=246.109953, exclusion.robots.policy;dur=0.369084, PetaboxLoader3.datanode;dur=185.041287, LoadShardBlock;dur=160.445990, CDXLines.iter;dur=21.700388, PetaboxLoader3.resolve;dur=159.098862, exclusion.robots;dur=0.383263, load_resource;dur=201.902127, esindex;dur=0.012808
+< X-Ts: 301
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 14:46:43 GMT
+< X-Archive-Orig-Server: ATS
+< X-Archive-Orig-Content-Length: 4381
+< Cache-Control: max-age=1800
+< Content-Type: text/html
+< X-Archive-Orig-Content-Security-Policy: sandbox allow-scripts; default-src 'self'; img-src https:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; report-uri http://csp.yahoo.com/beacon/csp?src=redirect
+< X-App-Server: wwwb-app104

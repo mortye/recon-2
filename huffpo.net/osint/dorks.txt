@@ -1,0 +1,282 @@
+
+# .git folder (https://www.google.com/search?q=inurl%3A%5C%22%2F.git%5C%22%20huffpo.net%20-github)
+no results
+
+# Code share sites (https://www.google.com/search?q=site%3Asharecode.io%20%7C%20site%3Acontrolc.com%20%7C%20site%3Acodepad.co%20%7Csite%3Aideone.com%20%7C%20site%3Acodebeautify.org%20%7C%20site%3Ajsdelivr.com%20%7C%20site%3Acodeshare.io%20%7C%20site%3Acodepen.io%20%7C%20site%3Arepl.it%20%7C%20site%3Ajsfiddle.net%20%22huffpo%22)
+-- 10 results --
+
+Edit fiddle - JSFiddle - Code Playground
+https://jsfiddle.net/mapbox/oaL3edwv/
+
+Midterm Project - CodePen
+https://codepen.io/lexipjohnson/details/VYBpzy
+
+Midterm Project - CodePen
+https://codepen.io/lexipjohnson/details/MYBVxx
+
+Toggle Navigation (adapted from Brad Frost) - CodePen
+https://codepen.io/mattpusateri/pen/hpbrw?css-preprocessor=sass
+
+A Pen by Daniel Booth - CodePen
+https://codepen.io/Splynta/full/xGZopV
+
+Midterm Project - CodePen
+https://codepen.io/lexipjohnson/pen/MYBVxx
+
+Douglas Adams Tribute Page - CodePen
+https://codepen.io/meredithmatthews/full/RrOreN/
+
+Douglas Adams Tribute Page - CodePen
+https://codepen.io/meredithmatthews/pen/RrOreN
+
+Multiple small iframe examples - CodePen
+https://codepen.io/kjoypayton/pen/EygxLv
+
+News article layout w/ media elements - CodePen
+https://codepen.io/nickbottomley/full/vuEdp
+
+# Backup files (https://www.google.com/search?q=site%3Ahuffpo.net%20ext%3Abkf%20%7C%20ext%3Abkp%20%7C%20ext%3Abak%20%7C%20ext%3Aold%20%7C%20ext%3Abackup)
+no results
+
+# Exposed documents (https://www.google.com/search?q=site%3Ahuffpo.net%20ext%3Adoc%20%7C%20ext%3Adocx%20%7C%20ext%3Aodt%20%7C%20ext%3Apdf%20%7C%20ext%3Artf%20%7C%20ext%3Asxw%20%7C%20ext%3Apsw%20%7C%20ext%3Appt%20%7C%20ext%3Apptx%20%7C%20ext%3Apps%20%7C%20ext%3Acsv)
+no results
+
+# Wordpress files (https://www.google.com/search?q=site%3Ahuffpo.net%20inurl%3Awp-content%20%7C%20inurl%3Awp-includes)
+no results
+
+# Login pages (https://www.google.com/search?q=site%3Ahuffpo.net%20inurl%3Asignup%20%7C%20inurl%3Aregister%20%7C%20intitle%3ASignup)
+no results
+
+# Sub-subdomains (https://www.google.com/search?q=site%3A*.*.huffpo.net)
+no results
+
+# Pastebin-like sites (https://www.google.com/search?q=site%3Ajustpaste.it%20%7C%20site%3Aheypasteit.com%20%7C%20site%3Apastebin.com%20%22huffpo%22)
+-- 9 results --
+
+Share Text & Images the Easy Way - JustPaste.it
+https://justpaste.it/gangof500
+
+[PDF] The Gang of 500 snapshot (Defined as the 500 ... - JustPaste.it
+https://justpaste.it/jppdf/gangof500
+
+Daily #Breaking #AlternativeNews 09 Nov 2017 - JustPaste.it
+https://justpaste.it/1dbog
+
+(To the tune of "Cult of Personality")https://www.youtube.com/watch ...
+https://pastebin.com/dXVeD3fL
+
+Jessie Singal is in no position to talk about ethics. - Pastebin.com
+https://pastebin.com/PbuFtUmj
+
+Barrett Brown Pat Frey Chat #4 - Pastebin.com
+https://pastebin.com/WGdG5cBD
+
+Updated: New World Order Daily News 01 May 2016-News Not ...
+https://justpaste.it/uvhc
+
+Cuck List - Pastebin.com
+https://pastebin.com/79frDv20
+
+Top terms in John Podesta's sent emails (1st data pass) - Pastebin ...
+https://pastebin.com/3WRMEETY
+
+# Subdomains (https://www.google.com/search?q=site%3A*.huffpo.net)
+no results
+
+# Config files (https://www.google.com/search?q=site%3Ahuffpo.net%20ext%3Axml%20%7C%20ext%3Aconf%20%7C%20ext%3Acnf%20%7C%20ext%3Areg%20%7C%20ext%3Ainf%20%7C%20ext%3Ardp%20%7C%20ext%3Acfg%20%7C%20ext%3Atxt%20%7C%20ext%3Aora%20%7C%20ext%3Aenv%20%7C%20ext%3Aini)
+no results
+
+# Jenkins (https://www.google.com/search?q=intitle%3A%5C%22Dashboard%20%5BJenkins%5D%5C%22%20%22huffpo%22)
+-- 1 results --
+
+&#9655; ci.blockchain.Thoughtworks.cn : Dashboard [Jenkins]
+https://thoughtworks.cn.ipaddress.com/ci.blockchain.thoughtworks.cn
+
+# GitLab/GitHub/Bitbucket (https://www.google.com/search?q=site%3Agithub.com%20%7C%20site%3Agitlab.com%20%7C%20site%3Abitbucket.org%20%22huffpo%22)
+-- 10 results --
+
+jquery-slideshow/huffpo-photo-gallery.scss at master · aolarchive ...
+https://github.com/aol/jquery-slideshow/blob/master/assets/scss/huffpo-photo-gallery.scss
+
+Count departments, positions and names in HuffPo masthead · GitHub
+https://gist.github.com/paulmwatson/1888214
+
+userstyle-huffpo-hide-stuff · GitHub
+https://gist.github.com/murrayjbrown/11210130
+
+Not working: AOLhtml5 / Huffpo · Issue #179 · Eloston/disable-html5 ...
+https://github.com/Eloston/disable-html5-autoplay/issues/179
+
+pear2/Services_HuffPo - GitHub
+https://github.com/pear2/Services_HuffPo
+
+2020 Elections, a Nano-NaNoGenMo Novel · Issue #68 - GitHub
+https://github.com/NaNoGenMo/2020/issues/68
+
+shaneshifflett/metanews: for now, scrape huffpo front page ... - GitHub
+https://github.com/shaneshifflett/metanews
+
+huffpostdata/pollster-models: HuffPost Pollster models - GitHub
+https://github.com/huffpostdata/pollster-models
+
+MusicRecs/newsrx.cfg at master · NUKnightLab/MusicRecs · GitHub
+https://github.com/NUKnightLab/MusicRecs/blob/master/newsrx.cfg
+
+halfout/vote: Do we like who we are voting for? Can we fix ... - GitHub
+https://github.com/halfout/vote
+
+# Other 3rd parties sites (https://www.google.com/search?q=site%3Agitter.im%20%7C%20site%3Apapaly.com%20%7C%20site%3Aproductforums.google.com%20%7C%20site%3Acoggle.it%20%7C%20site%3Areplt.it%20%7C%20site%3Aycombinator.com%20%7C%20site%3Alibraries.io%20%7C%20site%3Anpm.runkit.com%20%7C%20site%3Anpmjs.com%20%7C%20site%3Ascribd.com%20%22huffpo%22)
+no results
+
+# PHP errors (https://www.google.com/search?q=site%3Ahuffpo.net%20%5C%22PHP%20Parse%20error%5C%22%20%7C%20%5C%22PHP%20Warning%5C%22%20%7C%20%5C%22PHP%20Error%5C%22)
+no results
+
+# Traefik (https://www.google.com/search?q=intitle%3Atraefik%20inurl%3A8080%2Fdashboard%20%22huffpo%22)
+no results
+
+# Apache Struts RCE (https://www.google.com/search?q=site%3Ahuffpo.net%20ext%3Aaction%20%7C%20ext%3Astruts%20%7C%20ext%3Ado)
+no results
+
+# Database files (https://www.google.com/search?q=site%3Ahuffpo.net%20ext%3Asql%20%7C%20ext%3Adbf%20%7C%20ext%3Amdb)
+no results
+
+# Cloud buckets S3/GCP (https://www.google.com/search?q=site%3A.s3.amazonaws.com%20%7C%20site%3Astorage.googleapis.com%20%7C%20site%3Aamazonaws.com%20%22huffpo%22)
+-- 10 results --
+
+Inside Lydia Polgreen's mission to make HuffPo a must-read - Digiday
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/inside-lydia-polgreens-mission-make-huffpo-must-read/
+
+How HuffPo woos Facebook hoppers with personalization - Digiday
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/huffpo-woos-facebook-hoppers-personalization/
+
+HuffPo's Twist on Sponsored Content - Digiday
+http://ec2-34-225-151-148.compute-1.amazonaws.com/?p=33148
+
+HuffPo Launches iPad-Only Magazine - Digiday
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/huffpo-launches-ipad-only-magazine/
+
+HuffPo: Banners Are Here to Stay - Digiday
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/huffpo-banners-are-here-to-stay/
+
+HuffPo Goes All-In with Facebook Sharing - Digiday
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/huffpo-goes-all-in-with-facebook-sharing/
+
+HuffPo's Escape from Banner Commoditization - Digiday
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/huffington-post-live-launches/
+
+HuffPo's $30M Bet on Video - Digiday
+http://ec2-34-225-151-148.compute-1.amazonaws.com/video/huffpo%E2%80%99s-30m-bet-on-streaming-video/
+
+HuffPo's Video Bet: Reach the 'Participation Generation' - Digiday
+http://ec2-34-225-151-148.compute-1.amazonaws.com/media/huffpos-video-bet-reach-the-participation-generation/
+
+HuffPo visitors targeted with malvertising, infected with ransomware ...
+https://awseb-awseb-dkvdioe2idg1-2084259797.us-west-2.elb.amazonaws.com/2015/01/07/huffpo-visitors-targeted-with-malvertising-infected-with-ransomware/
+
+# Stackoverflow (https://www.google.com/search?q=site%3Astackoverflow.com%20%22huffpo.net%22)
+-- 10 results --
+
+System.NullReferenceException with The Huffington post website ...
+https://stackoverflow.com/questions/13371617/system-nullreferenceexception-with-the-huffington-post-website
+
+facebook fan pages and related open graph objects - Stack Overflow
+https://stackoverflow.com/questions/7570671/facebook-fan-pages-and-related-open-graph-objects?rq=1
+
+is there any plugin to make kind of HuffPost image gallery for Drupal ...
+https://stackoverflow.com/questions/21048153/is-there-any-plugin-to-make-kind-of-huffpost-image-gallery-for-drupal-7
+
+Python requests (Ubuntu): first requests.packages.urllib3 ...
+https://stackoverflow.com/questions/46232544/python-requests-ubuntu-first-requests-packages-urllib3-connectionpool-get-res
+
+Why does Response.Write() only write the first element in list ...
+https://stackoverflow.com/questions/14390438/why-does-response-write-only-write-the-first-element-in-list
+
+RSS feed scraping with Python - Stack Overflow
+https://stackoverflow.com/questions/9252653/rss-feed-scraping-with-python
+
+regex - RSS feed scraping with Python - Stack Overflow
+https://stackoverflow.com/questions/9252653/rss-feed-scraping-with-python/9253306
+
+Flash Boys: A Wall Street Revolt: Lewis, Michael: 9780393351590 ...
+https://rads.stackoverflow.com/amzn/click/com/0393351599
+
+Here Comes Everybody: The Power of Organizing Without ...
+http://rads.stackoverflow.com/amzn/click/1594201536
+
+responsive design - is there any plugin to make kind of HuffPost ...
+http://stackoverflow.com/questions/21048153/is-there-any-plugin-to-make-kind-of-huffpost-image-gallery-for-drupal-7
+
+# Project management sites (https://www.google.com/search?q=site%3Atrello.com%20%7C%20site%3A*.atlassian.net%20%22huffpo%22)
+-- 10 results --
+
+HuffPo on Kirkpatrick For US Senate - Trello
+https://trello.com/c/K2lFXSM9/109-huffpo
+
+Ingestion Bug - Are our share counts for huffpo / CBS sports correct ...
+https://trello.com/c/Fl97R2zc/42-ingestion-bug-are-our-share-counts-for-huffpo-cbs-sports-correct
+
+articles interested in writing like letters to the editor (huffpo) and ...
+https://trello.com/c/H6NWM4YJ/597-articles-interested-in-writing-like-letters-to-the-editor-huffpo-and-getting-other-big-name-interviews-richi-manchanda-other-big
+
+Short Term Roadmap - Trello
+https://trello.com/b/OnoMU55S/short-term-roadmap
+
+Battlefronts - Trello
+https://trello.com/b/fcJQLunB/battlefronts
+
+Blissed Communications: Client Messaging, Story & Content ... - Trello
+https://trello.com/b/tXsCk0Qv/blissed-communications-client-messaging-story-content-marketing
+
+IRIS.TV - Atlassian
+https://iristv.atlassian.net/wiki/spaces/API/pages/57678139/Vidible+Player+Plugin+HTML+Installation?showComments=true&showCommentArea=true
+
+GoShow - Trello
+https://trello.com/b/5Hojh9OX/goshow
+
+Vidible Player Plugin HTML Installation - Atlassian
+https://iristv.atlassian.net/wiki/spaces/API/pages/57678139/Vidible+Player+Plugin+HTML+Installation
+
+Research & data - Trello
+https://trello.com/b/y7dkp4bH/research-data
+
+# Open redirects (https://www.google.com/search?q=site%3Ahuffpo.net%20inurl%3Aredir%20%7C%20inurl%3Aurl%20%7C%20inurl%3Aredirect%20%7C%20inurl%3Areturn%20%7C%20inurl%3Asrc%3Dhttp%20%7C%20inurl%3Ar%3Dhttp)
+no results
+
+# SQL errors (https://www.google.com/search?q=site%3Ahuffpo.net%20intext%3A%5C%22sql%20syntax%20near%5C%22%20%7C%20intext%3A%5C%22syntax%20error%20has%20occurred%5C%22%20%7C%20intext%3A%5C%22incorrect%20syntax%20near%5C%22%20%7C%20intext%3A%5C%22unexpected%20end%20of%20SQL%20command%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20mysql_connect()%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20mysql_query()%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20pg_connect()%5C%22)
+no results
+
+# Linkedin employees (https://www.google.com/search?q=site%3Alinkedin.com%20employees%20huffpo.net)
+-- 10 results --
+
+Employees at HuffPost - LinkedIn
+https://www.linkedin.com/company/huffpost
+
+Employees at Huffington Post - LinkedIn
+https://www.linkedin.com/company/huffington-post
+
+HuffPost | LinkedIn
+https://gr.linkedin.com/company/huffpost
+
+huffingtonpost.com | LinkedIn
+https://www.linkedin.com/company/huffingtonpost-com
+
+Le HuffPost | LinkedIn
+https://www.linkedin.com/company/le-huffpost
+
+Employees at AOL - LinkedIn
+https://www.linkedin.com/company/aol
+
+Huffington Post | LinkedIn
+https://www.linkedin.com/company/huffington-post/
+
+HuffPost | LinkedIn
+https://qa.linkedin.com/company/huffpost
+
+BuzzFeed hiring Junior Staff Writer - HuffPost Shopping in Utica ...
+https://www.linkedin.com/jobs/view/junior-staff-writer-huffpost-shopping-at-buzzfeed-2627241321
+
+BuzzFeed hiring Staff Writer - HuffPost Shopping in New York, New ...
+https://www.linkedin.com/jobs/view/staff-writer-huffpost-shopping-at-buzzfeed-2632855104
+
+# Other files (https://www.google.com/search?q=site%3Ahuffpo.net%20intitle%3Aindex.of%20%7C%20ext%3Alog%20%7C%20ext%3Aphp%20intitle%3Aphpinfo%20%5C%22published%20by%20the%20PHP%20Group%5C%22%20%7C%20inurl%3Ashell%20%7C%20inurl%3Abackdoor%20%7C%20inurl%3Awso%20%7C%20inurl%3Acmd%20%7C%20shadow%20%7C%20passwd%20%7C%20boot.ini%20%7C%20inurl%3Abackdoor%20%7C%20inurl%3Areadme%20%7C%20inurl%3Alicense%20%7C%20inurl%3Ainstall%20%7C%20inurl%3Asetup%20%7C%20inurl%3Aconfig%20%7C%20inurl%3A%5C%22%2Fphpinfo.php%5C%22%20%7C%20inurl%3A%5C%22.htaccess%5C%22%20%7C%20ext%3Aswf)
+no results

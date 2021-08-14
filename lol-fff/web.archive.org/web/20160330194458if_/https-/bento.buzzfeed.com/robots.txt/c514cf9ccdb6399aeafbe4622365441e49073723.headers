@@ -1,0 +1,41 @@
+GET https://web.archive.org/web/20160330194458if_/https://bento.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Ts: 200
+< Permissions-Policy: interest-cohort=()
+< Server: nginx/1.15.8
+< X-Archive-Orig-Date: Wed, 30 Mar 2016 19:44:58 GMT
+< X-Archive-Guessed-Content-Type: text/html
+< X-Archive-Guessed-Charset: utf-8
+< X-App-Server: wwwb-app206
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/html; charset=utf-8
+< X-Archive-Orig-Etag: "c0013eec75286b1778c1abc45b37ed5e"
+< X-Archive-Orig-Server: AmazonS3
+< X-Archive-Orig-X-Amz-Id-2: cO8/2dAlc8CG3OtbbJarUaTrU6cIk6I1uiYi6i+GGWVmLBqHmmSDxb3SoH9C6fLySuIuZgEXznY=
+< X-Cache-Key: httpsweb.archive.org/web/20160330194458if_/https://bento.buzzfeed.com/robots.txtUS
+< X-Rl: 0
+< X-Na: 0
+< Date: Mon, 26 Jul 2021 17:10:52 GMT
+< X-Archive-Orig-Connection: close
+< X-Location: All
+< X-Tr: 1323
+< X-Page-Cache: MISS
+< X-Archive-Orig-Content-Length: 3839
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: captures_list;dur=202.288482, exclusion.robots;dur=0.181491, exclusion.robots.policy;dur=0.174952, RedisCDXSource;dur=14.086249, esindex;dur=0.008501, LoadShardBlock;dur=125.000657, PetaboxLoader3.datanode;dur=96.138071, CDXLines.iter;dur=26.727516, load_resource;dur=1102.888743, PetaboxLoader3.resolve;dur=1035.065673
+< X-Archive-Orig-Via: 1.1 varnish
+< X-Archive-Orig-X-Served-By: cache-sjc3124-SJC
+< X-Archive-Orig-X-Cache-Hits: 0
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Age: 0
+< X-Archive-Orig-X-Cache: MISS
+< Link: <https://bento.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://bento.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://bento.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160318194947/https://bento.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Fri, 18 Mar 2016 19:49:47 GMT", <https://web.archive.org/web/20160330115354/https://bento.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Wed, 30 Mar 2016 11:53:54 GMT", <https://web.archive.org/web/20160330194458/https://bento.buzzfeed.com/robots.txt>; rel="memento"; datetime="Wed, 30 Mar 2016 19:44:58 GMT", <https://web.archive.org/web/20160330220942/https://bento.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Wed, 30 Mar 2016 22:09:42 GMT", <https://web.archive.org/web/20210423005127/https://bento.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Fri, 23 Apr 2021 00:51:27 GMT"
+< X-Archive-Src: ARCHIVEIT-6443-WEEKLY-JOB204583-00000/ARCHIVEIT-6443-WEEKLY-JOB204583-20160330194452503-00000.warc.gz
+< Connection: keep-alive
+< X-Archive-Orig-X-Amz-Request-Id: A56A984E9102FD52
+< X-Archive-Orig-Last-Modified: Wed, 30 Mar 2016 14:07:22 GMT
+< X-Nid: -
+< X-Archive-Orig-Cache-Control: max-age=0, no-cache
+< Memento-Datetime: Wed, 30 Mar 2016 19:44:58 GMT

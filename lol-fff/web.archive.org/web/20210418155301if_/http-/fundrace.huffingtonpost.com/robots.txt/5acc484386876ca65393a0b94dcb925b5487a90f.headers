@@ -1,0 +1,35 @@
+GET https://web.archive.org/web/20210418155301if_/http://fundrace.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Tr: 548
+< Memento-Datetime: Sun, 18 Apr 2021 15:53:01 GMT
+< X-Archive-Orig-Cache-Control: no-store
+< Server-Timing: captures_list;dur=361.987080, exclusion.robots;dur=0.239168, exclusion.robots.policy;dur=0.229498, RedisCDXSource;dur=1.593849, esindex;dur=0.008903, LoadShardBlock;dur=180.297198, PetaboxLoader3.datanode;dur=84.554678, CDXLines.iter;dur=94.798640, PetaboxLoader3.resolve;dur=138.276778, load_resource;dur=151.991791
+< X-Location: All
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Content-Length: 4396
+< X-Ts: 301
+< Link: <http://fundrace.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://fundrace.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://fundrace.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20070806194950/http://fundrace.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Mon, 06 Aug 2007 19:49:50 GMT", <https://web.archive.org/web/20210415024313/http://fundrace.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Thu, 15 Apr 2021 02:43:13 GMT", <https://web.archive.org/web/20210418155301/http://fundrace.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Sun, 18 Apr 2021 15:53:01 GMT", <https://web.archive.org/web/20210421100124/http://fundrace.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Wed, 21 Apr 2021 10:01:24 GMT", <https://web.archive.org/web/20210716220755/https://fundrace.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Fri, 16 Jul 2021 22:07:55 GMT"
+< X-Archive-Src: OPENSYLLABUS-20210418152303-crawl804/OPENSYLLABUS-20210418153449-01802.warc.gz
+< X-App-Server: wwwb-app204
+< Connection: keep-alive
+< Location: https://web.archive.org/web/20210418155301if_/https://www.huffingtonpost.com/
+< Cache-Control: max-age=1800
+< X-Cache-Key: httpsweb.archive.org/web/20210418155301if_/http://fundrace.huffingtonpost.com/robots.txtUS
+< X-Na: 0
+< X-Archive-Orig-Date: Sun, 18 Apr 2021 15:53:01 GMT
+< Date: Mon, 26 Jul 2021 15:11:07 GMT
+< X-Archive-Orig-Content-Language: en
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Rl: 0
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< X-Archive-Orig-Server: ATS
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Archive-Orig-Content-Security-Policy: sandbox allow-scripts; default-src 'self'; img-src https:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; report-uri http://csp.yahoo.com/beacon/csp?src=redirect
+< Permissions-Policy: interest-cohort=()
+< Content-Type: text/html

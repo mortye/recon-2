@@ -1,0 +1,36 @@
+GET https://web.archive.org/web/20150318214017if_/http://www.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< Connection: keep-alive
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Ts: 200
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Date: Mon, 26 Jul 2021 15:06:12 GMT
+< X-Archive-Orig-Content-Length: 315
+< Cache-Control: max-age=1800
+< X-Archive-Orig-Etag: "659ea-348-5111c25e5f72d"
+< X-Cache-Key: httpsweb.archive.org/web/20150318214017if_/http://www.buzzfeed.com/robots.txtUS
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Location: All
+< X-Archive-Orig-Server: Apache
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Nid: -
+< X-Archive-Orig-Connection: keep-alive
+< Memento-Datetime: Wed, 18 Mar 2015 21:40:17 GMT
+< X-Archive-Src: perma_cc_B5L8-NLK6/B5L8-NLK6.warc.gz
+< X-Tr: 2164
+< X-Na: 0
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Last-Modified: Thu, 12 Mar 2015 19:11:16 GMT
+< X-Archive-Guessed-Encoding: utf-8
+< Server-Timing: exclusion.robots;dur=1.352137, exclusion.robots.policy;dur=1.284305, RedisCDXSource;dur=78.707644, esindex;dur=0.073995, LoadShardBlock;dur=1448.888715, PetaboxLoader3.datanode;dur=502.409661, CDXLines.iter;dur=360.950517, load_resource;dur=153.699857, PetaboxLoader3.resolve;dur=129.916871
+< Link: <http://www.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20020921163523/http://buzzfeed.com:80/robots.txt>; rel="first memento"; datetime="Sat, 21 Sep 2002 16:35:23 GMT", <https://web.archive.org/web/20150318210538/http://www.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Wed, 18 Mar 2015 21:05:38 GMT", <https://web.archive.org/web/20150318214017/http://www.buzzfeed.com/robots.txt>; rel="memento"; datetime="Wed, 18 Mar 2015 21:40:17 GMT", <https://web.archive.org/web/20150318220723/http://www.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Wed, 18 Mar 2015 22:07:23 GMT", <https://web.archive.org/web/20210725033235/https://www.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 03:32:35 GMT"
+< X-App-Server: wwwb-app56
+< Content-Type: text/plain
+< X-Archive-Orig-X-Buzzfeed: webdr12
+< X-Archive-Orig-Date: Wed, 18 Mar 2015 21:40:17 GMT

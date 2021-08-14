@@ -1,0 +1,157 @@
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/13.225.66.85.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 13.225.66.85
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/152.195.33.108.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 152.195.33.108
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/152.195.54.70.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 152.195.54.70
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/152.195.54.95.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 152.195.54.95
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/159.127.208.126.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 159.127.208.126
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/18.205.32.89.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 18.205.32.89
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/192.229.210.208.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 192.229.210.208
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/34.198.85.75.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 34.198.85.75
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/34.214.155.242.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 34.214.155.242
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/52.200.251.124.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 52.200.251.124
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/52.207.33.227.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 52.207.33.227
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/52.207.34.213.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 52.207.34.213
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/52.4.52.199.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 52.4.52.199
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/52.86.107.13.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 52.86.107.13
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:36 2021 as: nmap -v -oG output/72.21.92.20.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 72.21.92.20
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/107.22.230.149.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 107.22.230.149
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/13.225.66.18.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 13.225.66.18
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/13.225.66.73.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 13.225.66.73
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/151.101.2.114.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 151.101.2.114
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/152.195.54.235.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 152.195.54.235
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/152.195.54.54.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 152.195.54.54
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/159.127.198.106.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 159.127.198.106
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/192.229.162.194.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 192.229.162.194
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/192.229.210.172.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 192.229.210.172
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/192.229.210.191.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 192.229.210.191
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/192.229.210.207.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 192.229.210.207
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/23.33.238.27.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 23.33.238.27
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/3.214.159.141.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 3.214.159.141
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/3.225.174.173.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 3.225.174.173
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/3.226.166.212.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 3.226.166.212
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/3.233.55.14.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 3.233.55.14
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/34.199.147.118.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 34.199.147.118
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/35.169.51.216.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 35.169.51.216
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/35.171.57.253.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 35.171.57.253
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/52.202.111.9.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 52.202.111.9
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/54.211.23.160.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 54.211.23.160
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/66.218.84.137.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 66.218.84.137
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/67.195.204.151.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 67.195.204.151
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/69.147.92.11.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 69.147.92.11
+# Nmap 7.80 scan initiated Tue Jul 20 15:57:37 2021 as: nmap -v -oG output/69.147.92.12.txt --top-ports 200 -sV -n -Pn --open --max-retries 2 69.147.92.12
+# Nmap done at Tue Jul 20 15:57:52 2021 -- 1 IP address (1 host up) scanned in 16.09 seconds
+# Nmap done at Tue Jul 20 15:57:52 2021 -- 1 IP address (1 host up) scanned in 16.13 seconds
+# Nmap done at Tue Jul 20 15:57:52 2021 -- 1 IP address (1 host up) scanned in 16.44 seconds
+# Nmap done at Tue Jul 20 15:57:53 2021 -- 1 IP address (1 host up) scanned in 16.63 seconds
+# Nmap done at Tue Jul 20 15:57:54 2021 -- 1 IP address (1 host up) scanned in 16.82 seconds
+# Nmap done at Tue Jul 20 15:57:54 2021 -- 1 IP address (1 host up) scanned in 17.25 seconds
+# Nmap done at Tue Jul 20 15:57:54 2021 -- 1 IP address (1 host up) scanned in 17.48 seconds
+# Nmap done at Tue Jul 20 15:57:54 2021 -- 1 IP address (1 host up) scanned in 17.54 seconds
+# Nmap done at Tue Jul 20 15:57:54 2021 -- 1 IP address (1 host up) scanned in 17.56 seconds
+# Nmap done at Tue Jul 20 15:57:54 2021 -- 1 IP address (1 host up) scanned in 17.80 seconds
+# Nmap done at Tue Jul 20 15:57:55 2021 -- 1 IP address (1 host up) scanned in 17.81 seconds
+# Nmap done at Tue Jul 20 15:57:56 2021 -- 1 IP address (1 host up) scanned in 18.96 seconds
+# Nmap done at Tue Jul 20 15:57:56 2021 -- 1 IP address (1 host up) scanned in 19.18 seconds
+# Nmap done at Tue Jul 20 15:57:56 2021 -- 1 IP address (1 host up) scanned in 19.34 seconds
+# Nmap done at Tue Jul 20 15:57:57 2021 -- 1 IP address (1 host up) scanned in 19.97 seconds
+# Nmap done at Tue Jul 20 15:57:58 2021 -- 1 IP address (1 host up) scanned in 21.54 seconds
+# Nmap done at Tue Jul 20 15:57:58 2021 -- 1 IP address (1 host up) scanned in 21.73 seconds
+# Nmap done at Tue Jul 20 15:57:58 2021 -- 1 IP address (1 host up) scanned in 22.01 seconds
+# Nmap done at Tue Jul 20 15:57:59 2021 -- 1 IP address (1 host up) scanned in 22.39 seconds
+# Nmap done at Tue Jul 20 15:57:59 2021 -- 1 IP address (1 host up) scanned in 22.91 seconds
+# Nmap done at Tue Jul 20 15:57:59 2021 -- 1 IP address (1 host up) scanned in 23.41 seconds
+# Nmap done at Tue Jul 20 15:58:00 2021 -- 1 IP address (1 host up) scanned in 22.92 seconds
+# Nmap done at Tue Jul 20 15:58:00 2021 -- 1 IP address (1 host up) scanned in 23.13 seconds
+# Nmap done at Tue Jul 20 15:58:00 2021 -- 1 IP address (1 host up) scanned in 23.36 seconds
+# Nmap done at Tue Jul 20 15:58:00 2021 -- 1 IP address (1 host up) scanned in 23.41 seconds
+# Nmap done at Tue Jul 20 15:58:01 2021 -- 1 IP address (1 host up) scanned in 24.54 seconds
+# Nmap done at Tue Jul 20 15:58:01 2021 -- 1 IP address (1 host up) scanned in 25.45 seconds
+# Nmap done at Tue Jul 20 15:58:02 2021 -- 1 IP address (1 host up) scanned in 24.97 seconds
+# Nmap done at Tue Jul 20 15:58:02 2021 -- 1 IP address (1 host up) scanned in 25.56 seconds
+# Nmap done at Tue Jul 20 15:58:02 2021 -- 1 IP address (1 host up) scanned in 25.78 seconds
+# Nmap done at Tue Jul 20 15:58:03 2021 -- 1 IP address (1 host up) scanned in 25.79 seconds
+# Nmap done at Tue Jul 20 15:58:03 2021 -- 1 IP address (1 host up) scanned in 26.04 seconds
+# Nmap done at Tue Jul 20 15:58:05 2021 -- 1 IP address (1 host up) scanned in 28.08 seconds
+# Nmap done at Tue Jul 20 15:58:18 2021 -- 1 IP address (1 host up) scanned in 41.58 seconds
+# Nmap done at Tue Jul 20 15:58:19 2021 -- 1 IP address (1 host up) scanned in 42.57 seconds
+# Nmap done at Tue Jul 20 15:58:20 2021 -- 1 IP address (1 host up) scanned in 43.38 seconds
+# Nmap done at Tue Jul 20 15:59:04 2021 -- 1 IP address (1 host up) scanned in 87.65 seconds
+# Nmap done at Tue Jul 20 15:59:17 2021 -- 1 IP address (1 host up) scanned in 100.70 seconds
+# Nmap done at Tue Jul 20 16:00:02 2021 -- 1 IP address (1 host up) scanned in 145.91 seconds
+# Nmap done at Tue Jul 20 16:00:23 2021 -- 1 IP address (1 host up) scanned in 166.30 seconds
+# Ports scanned: TCP(200;1,3,7,9,13,17,19,21-23,25-26,37,53,79-82,88,100,106,110-111,113,119,135,139,143-144,179,199,254-255,280,311,389,427,443-445,464-465,497,513-515,543-544,548,554,587,593,625,631,636,646,787,808,873,902,990,993,995,1000,1022,1024-1033,1035-1041,1044,1048-1050,1053-1054,1056,1058-1059,1064-1066,1069,1071,1074,1080,1110,1234,1433,1494,1521,1720,1723,1755,1761,1801,1900,1935,1998,2000-2003,2005,2049,2103,2105,2107,2121,2161,2301,2383,2401,2601,2717,2869,2967,3000-3001,3128,3268,3306,3389,3689-3690,3703,3986,4000-4001,4045,4899,5000-5001,5003,5009,5050-5051,5060,5101,5120,5190,5357,5432,5555,5631,5666,5800,5900-5901,6000-6002,6004,6112,6646,6666,7000,7070,7937-7938,8000,8002,8008-8010,8031,8080-8081,8443,8888,9000-9001,9090,9100,9102,9999-10001,10010,32768,32771,49152-49157,50000) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 107.22.230.149 ()	Ports: 443/open/tcp//ssl|https//guce/	Ignored State: filtered (199)
+Host: 107.22.230.149 ()	Status: Up
+Host: 13.225.66.18 ()	Ports: 80/open/tcp//http//Amazon CloudFront httpd/, 443/open/tcp//ssl|https//CloudFront/	Ignored State: filtered (198)
+Host: 13.225.66.18 ()	Status: Up
+Host: 13.225.66.73 ()	Ports: 80/open/tcp//http//Amazon CloudFront httpd/, 443/open/tcp//ssl|https//CloudFront/	Ignored State: filtered (198)
+Host: 13.225.66.73 ()	Status: Up
+Host: 13.225.66.85 ()	Ports: 80/open/tcp//http//Amazon CloudFront httpd/, 443/open/tcp//ssl|https//CloudFront/	Ignored State: filtered (198)
+Host: 13.225.66.85 ()	Status: Up
+Host: 151.101.2.114 ()	Ports: 80/open/tcp//http-proxy//Varnish/, 443/open/tcp//ssl|https//Varnish/	Ignored State: filtered (198)
+Host: 151.101.2.114 ()	Status: Up
+Host: 152.195.33.108 ()	Ports: 80/open/tcp//http//ECAcc (nyd|D19E)/, 443/open/tcp//ssl|https//ECAcc (nyd|D19E)/
+Host: 152.195.33.108 ()	Status: Up
+Host: 152.195.54.235 ()	Ports: 80/open/tcp//http//Edgecast ECD httpd/, 443/open/tcp//ssl|http//Edgecast ECD httpd/
+Host: 152.195.54.235 ()	Status: Up
+Host: 152.195.54.54 ()	Ports: 80/open/tcp//http//Edgecast ECD httpd/, 443/open/tcp//ssl|http//Edgecast ECD httpd/
+Host: 152.195.54.54 ()	Status: Up
+Host: 152.195.54.70 ()	Ports: 80/open/tcp//http//Edgecast ECD httpd/, 443/open/tcp//ssl|http//Edgecast ECD httpd/
+Host: 152.195.54.70 ()	Status: Up
+Host: 152.195.54.95 ()	Ports: 80/open/tcp//http//Edgecast ECD httpd/, 443/open/tcp//ssl|http//Edgecast ECD httpd/
+Host: 152.195.54.95 ()	Status: Up
+Host: 159.127.198.106 ()	Ports: 80/open/tcp//http///, 443/open/tcp//ssl|https///	Ignored State: filtered (198)
+Host: 159.127.198.106 ()	Status: Up
+Host: 159.127.208.126 ()	Ports: 80/open/tcp//http-proxy//F5 BIG-IP load balancer http proxy/, 443/open/tcp//ssl|http//Microsoft HTTPAPI httpd 2.0 (SSDP|UPnP)/	Ignored State: filtered (198)
+Host: 159.127.208.126 ()	Status: Up
+Host: 18.205.32.89 ()	Ports: 80/open/tcp//http//ATS/, 443/open/tcp//ssl|https//ATS/	Ignored State: filtered (198)
+Host: 18.205.32.89 ()	Status: Up
+Host: 192.229.162.194 ()	Ports: 80/open/tcp//http//Edgecast ECD httpd/, 443/open/tcp//ssl|http//Edgecast ECD httpd/
+Host: 192.229.162.194 ()	Status: Up
+Host: 192.229.210.172 ()	Ports: 80/open/tcp//http//ECAcc (nya|7968)/, 443/open/tcp//ssl|https//ECAcc (nya|7968)/
+Host: 192.229.210.172 ()	Status: Up
+Host: 192.229.210.191 ()	Ports: 80/open/tcp//http//ECAcc (nya|7968)/, 443/open/tcp//ssl|https//ECAcc (nya|7968)/
+Host: 192.229.210.191 ()	Status: Up
+Host: 192.229.210.207 ()	Ports: 80/open/tcp//http//ECAcc (nya|7968)/, 443/open/tcp//ssl|https//ECAcc (nya|7968)/
+Host: 192.229.210.207 ()	Status: Up
+Host: 192.229.210.208 ()	Ports: 80/open/tcp//http//ECAcc (nya|7968)/, 443/open/tcp//ssl|https//ECAcc (nya|7968)/
+Host: 192.229.210.208 ()	Status: Up
+Host: 23.33.238.27 ()	Ports: 80/open/tcp//http//AkamaiGHost (Akamai's HTTP Acceleration|Mirror service)/, 443/open/tcp//ssl|https?///	Ignored State: filtered (198)
+Host: 23.33.238.27 ()	Status: Up
+Host: 3.214.159.141 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (198)
+Host: 3.214.159.141 ()	Status: Up
+Host: 3.225.174.173 ()	Ports: 25/open/tcp//smtp///, 465/open/tcp//ssl|smtp///, 587/open/tcp//smtp///	Ignored State: filtered (197)
+Host: 3.225.174.173 ()	Status: Up
+Host: 3.226.166.212 ()	Ports: 80/open/tcp//http//Sailthru/, 443/open/tcp//ssl|https//Sailthru/	Ignored State: filtered (198)
+Host: 3.226.166.212 ()	Status: Up
+Host: 3.233.55.14 ()	Ports: 80/open/tcp//http//nginx/, 443/open/tcp//ssl|http//nginx/	Ignored State: filtered (198)
+Host: 3.233.55.14 ()	Status: Up
+Host: 34.198.85.75 ()	Ports: 443/open/tcp//ssl|https///	Ignored State: filtered (199)
+Host: 34.198.85.75 ()	Status: Up
+Host: 34.214.155.242 ()	Ports: 443/open/tcp//ssl|https//guce/	Ignored State: filtered (199)
+Host: 34.214.155.242 ()	Status: Up
+Host: 35.169.51.216 ()	Ports: 80/open/tcp//http//ATS/, 443/open/tcp//ssl|https//ATS/	Ignored State: filtered (198)
+Host: 35.169.51.216 ()	Status: Up
+Host: 35.171.57.253 ()	Ports: 443/open/tcp//ssl|https///	Ignored State: filtered (199)
+Host: 35.171.57.253 ()	Status: Up
+Host: 52.200.251.124 ()	Ports: 443/open/tcp//ssl|https///	Ignored State: filtered (199)
+Host: 52.200.251.124 ()	Status: Up
+Host: 52.202.111.9 ()	Ports: 443/open/tcp//ssl|https///	Ignored State: filtered (199)
+Host: 52.202.111.9 ()	Status: Up
+Host: 52.207.33.227 ()	Ports: 443/open/tcp//ssl|http//nginx 1.19.6/
+Host: 52.207.33.227 ()	Status: Up
+Host: 52.207.34.213 ()	Ports: 80/open/tcp//http///, 443/open/tcp//ssl|https///	Ignored State: filtered (198)
+Host: 52.207.34.213 ()	Status: Up
+Host: 52.4.52.199 ()	Ports: 443/open/tcp//ssl|https///	Ignored State: filtered (199)
+Host: 52.4.52.199 ()	Status: Up
+Host: 54.211.23.160 ()	Ports: 80/open/tcp//http-proxy//Varnish http accelerator/, 443/open/tcp//ssl|http-proxy//Varnish http accelerator/	Ignored State: filtered (198)
+Host: 54.211.23.160 ()	Status: Up
+Host: 66.218.84.137 ()	Ports: 80/open/tcp//http-proxy//Apache Traffic Server/, 443/open/tcp//ssl|http-proxy//Apache Traffic Server/	Ignored State: filtered (198)
+Host: 66.218.84.137 ()	Status: Up
+Host: 67.195.204.151 ()	Ports: 80/open/tcp//http-proxy//Apache Traffic Server/, 443/open/tcp//ssl|http-proxy//Apache Traffic Server/	Ignored State: filtered (198)
+Host: 67.195.204.151 ()	Status: Up
+Host: 69.147.92.11 ()	Ports: 80/open/tcp//http-proxy//Apache Traffic Server/, 443/open/tcp//ssl|http-proxy//Apache Traffic Server/	Ignored State: filtered (198)
+Host: 69.147.92.11 ()	Status: Up
+Host: 69.147.92.12 ()	Ports: 80/open/tcp//http-proxy//Apache Traffic Server/, 443/open/tcp//ssl|http-proxy//Apache Traffic Server/	Ignored State: filtered (198)
+Host: 69.147.92.12 ()	Status: Up
+Host: 72.21.92.20 ()	Ports: 80/open/tcp//http//Edgecast ECD httpd/, 443/open/tcp//ssl|http//Edgecast ECD httpd/
+Host: 72.21.92.20 ()	Status: Up

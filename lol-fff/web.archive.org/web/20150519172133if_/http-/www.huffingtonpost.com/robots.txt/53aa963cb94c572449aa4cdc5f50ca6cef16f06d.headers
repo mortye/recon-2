@@ -1,0 +1,34 @@
+GET https://web.archive.org/web/20150519172133if_/http://www.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Date: Mon, 26 Jul 2021 18:27:05 GMT
+< Memento-Datetime: Tue, 19 May 2015 17:21:33 GMT
+< X-Archive-Src: ARCHIVEIT-4457-MONTHLY-3022-00000/ARCHIVEIT-4457-MONTHLY-3022-20150519161135096-00002-wbgrp-crawl051.us.archive.org-6440.warc.gz
+< X-Tr: 2121
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< X-Location: All
+< X-Archive-Orig-Etag: "687f-204-5167168ec85c0"-gzip
+< X-Archive-Orig-Connection: close
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Ts: 200
+< Connection: keep-alive
+< X-Archive-Orig-Last-Modified: Tue, 19 May 2015 16:00:31 GMT
+< X-App-Server: wwwb-app39
+< X-Page-Cache: MISS
+< X-Archive-Guessed-Encoding: utf-8
+< Server-Timing: CDXLines.iter;dur=412.847496, PetaboxLoader3.datanode;dur=1106.701125, load_resource;dur=385.507424, exclusion.robots.policy;dur=1.487460, esindex;dur=0.073601, exclusion.robots;dur=1.574515, LoadShardBlock;dur=1141.489114, RedisCDXSource;dur=60.988959, PetaboxLoader3.resolve;dur=191.536067
+< X-Rl: 0
+< X-Na: 0
+< Server: nginx/1.15.8
+< X-Archive-Orig-P3p: CP='NO P3P'
+< X-Archive-Orig-Server: Apache
+< X-Archive-Orig-Date: Tue, 19 May 2015 17:21:33 GMT
+< Cache-Control: max-age=1800
+< X-Cache-Key: httpsweb.archive.org/web/20150519172133if_/http://www.huffingtonpost.com/robots.txtUS
+< X-Nid: -
+< Content-Type: text/plain; charset=utf-8
+< X-Archive-Orig-Content-Length: 516
+< Link: <http://www.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20050422005938/http://www.huffingtonpost.com:80/robots.txt>; rel="first memento"; datetime="Fri, 22 Apr 2005 00:59:38 GMT", <https://web.archive.org/web/20150519141054/http://www.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Tue, 19 May 2015 14:10:54 GMT", <https://web.archive.org/web/20150519172133/http://www.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Tue, 19 May 2015 17:21:33 GMT", <https://web.archive.org/web/20150519173001/http://www.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Tue, 19 May 2015 17:30:01 GMT", <https://web.archive.org/web/20210725021515/https://www.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 02:15:15 GMT"
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org

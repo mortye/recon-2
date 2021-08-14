@@ -1,0 +1,42 @@
+GET https://web.archive.org/web/20160322184151if_/https://bento.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< Link: <https://bento.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://bento.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://bento.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160318194947/https://bento.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Fri, 18 Mar 2016 19:49:47 GMT", <https://web.archive.org/web/20160322154125/https://bento.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Tue, 22 Mar 2016 15:41:25 GMT", <https://web.archive.org/web/20160322184151/https://bento.buzzfeed.com/robots.txt>; rel="memento"; datetime="Tue, 22 Mar 2016 18:41:51 GMT", <https://web.archive.org/web/20160322193249/https://bento.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Tue, 22 Mar 2016 19:32:49 GMT", <https://web.archive.org/web/20210423005127/https://bento.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Fri, 23 Apr 2021 00:51:27 GMT"
+< X-Archive-Src: ARCHIVEIT-3648-DAILY-JOB202690-00000/ARCHIVEIT-3648-DAILY-JOB202690-20160322182438351-00000.warc.gz
+< X-App-Server: wwwb-app201
+< X-Ts: 200
+< Content-Type: text/html; charset=utf-8
+< X-Archive-Orig-X-Amz-Request-Id: 80A880B153D4BBA3
+< X-Archive-Orig-Server: AmazonS3
+< X-Archive-Orig-X-Timer: S1458672111.089793,VS0,VE197
+< X-Cache-Key: httpsweb.archive.org/web/20160322184151if_/https://bento.buzzfeed.com/robots.txtUS
+< Connection: keep-alive
+< X-Archive-Orig-Age: 0
+< X-Archive-Guessed-Content-Type: text/html
+< X-Tr: 801
+< X-Archive-Orig-X-Cache-Hits: 0
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-Cache-Control: max-age=0, no-cache
+< X-Archive-Orig-Etag: "29b7de73f298e6ea6eeb6d0facecfa61"
+< X-Archive-Orig-Date: Tue, 22 Mar 2016 18:41:51 GMT
+< X-Archive-Orig-Via: 1.1 varnish
+< Date: Mon, 26 Jul 2021 17:58:10 GMT
+< X-Archive-Guessed-Charset: utf-8
+< Server: nginx/1.15.8
+< X-Archive-Orig-Content-Length: 3839
+< X-Archive-Orig-X-Served-By: cache-sjc3125-SJC
+< X-Page-Cache: MISS
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Nid: -
+< X-Location: All
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-X-Amz-Id-2: DUXT9VDkST7wEeE2raRYXS9qB4Tpr5eRgv0DSiImxqoaJSKw4DAx0OyircEPOihhS5uzGgAOMTs=
+< X-Archive-Orig-Connection: close
+< X-Archive-Orig-X-Cache: MISS
+< Server-Timing: captures_list;dur=634.202766, exclusion.robots;dur=0.269438, exclusion.robots.policy;dur=0.260071, RedisCDXSource;dur=175.770287, esindex;dur=0.009442, LoadShardBlock;dur=395.707574, PetaboxLoader3.resolve;dur=216.307662, PetaboxLoader3.datanode;dur=138.043591, CDXLines.iter;dur=27.961443, load_resource;dur=144.970159
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Last-Modified: Tue, 22 Mar 2016 18:33:54 GMT
+< Memento-Datetime: Tue, 22 Mar 2016 18:41:51 GMT
+< X-Rl: 0

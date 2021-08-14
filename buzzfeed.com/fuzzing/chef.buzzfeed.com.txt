@@ -1,0 +1,4 @@
+200 1218 https://chef.buzzfeed.com/favicon.ico
+200 1249 https://chef.buzzfeed.com/images/logo.gif
+200 7816 https://chef.buzzfeed.com/version
+301 178 https://chef.buzzfeed.com/id

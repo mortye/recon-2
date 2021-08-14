@@ -1,0 +1,6 @@
+302 235 http://tastycentral.buzzfeed.com/%2e/admin
+302 236 http://tastycentral.buzzfeed.com/./admin/.
+302 243 http://tastycentral.buzzfeed.com/.nsf/../winnt/win.ini
+302 245 http://tastycentral.buzzfeed.com/./web-inf/web.xml
+302 246 http://tastycentral.buzzfeed.com/.//web-inf/web.xml
+302 253 http://tastycentral.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess

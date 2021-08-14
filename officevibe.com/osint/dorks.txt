@@ -1,0 +1,339 @@
+
+# Linkedin employees (https://www.google.com/search?q=site%3Alinkedin.com%20employees%20officevibe.com)
+-- 9 results --
+
+Officevibe | LinkedIn
+https://se.linkedin.com/company/officevibe
+
+Officevibe | LinkedIn
+https://co.linkedin.com/company/officevibe
+
+Officevibe | LinkedIn
+https://bo.linkedin.com/company/officevibe
+
+Officevibe | LinkedIn
+https://no.linkedin.com/company/officevibe
+
+Officevibe | LinkedIn
+https://cr.linkedin.com/company/officevibe
+
+Officevibe | LinkedIn
+https://mx.linkedin.com/company/officevibe
+
+Officevibe | LinkedIn
+https://es.linkedin.com/company/officevibe
+
+Officevibe | LinkedIn
+https://de.linkedin.com/company/officevibe
+
+Officevibe | LinkedIn
+https://fr.linkedin.com/company/officevibe
+
+# Other files (https://www.google.com/search?q=site%3Aofficevibe.com%20intitle%3Aindex.of%20%7C%20ext%3Alog%20%7C%20ext%3Aphp%20intitle%3Aphpinfo%20%5C%22published%20by%20the%20PHP%20Group%5C%22%20%7C%20inurl%3Ashell%20%7C%20inurl%3Abackdoor%20%7C%20inurl%3Awso%20%7C%20inurl%3Acmd%20%7C%20shadow%20%7C%20passwd%20%7C%20boot.ini%20%7C%20inurl%3Abackdoor%20%7C%20inurl%3Areadme%20%7C%20inurl%3Alicense%20%7C%20inurl%3Ainstall%20%7C%20inurl%3Asetup%20%7C%20inurl%3Aconfig%20%7C%20inurl%3A%5C%22%2Fphpinfo.php%5C%22%20%7C%20inurl%3A%5C%22.htaccess%5C%22%20%7C%20ext%3Aswf)
+no results
+
+# Jenkins (https://www.google.com/search?q=intitle%3A%5C%22Dashboard%20%5BJenkins%5D%5C%22%20%22officevibe%22)
+no results
+
+# Stackoverflow (https://www.google.com/search?q=site%3Astackoverflow.com%20%22officevibe.com%22)
+-- 1 results --
+
+Using cURL in API where a Date Array is required - Stack Overflow
+https://stackoverflow.com/questions/56025179/using-curl-in-api-where-a-date-array-is-required
+
+# Traefik (https://www.google.com/search?q=intitle%3Atraefik%20inurl%3A8080%2Fdashboard%20%22officevibe%22)
+no results
+
+# Other 3rd parties sites (https://www.google.com/search?q=site%3Agitter.im%20%7C%20site%3Apapaly.com%20%7C%20site%3Aproductforums.google.com%20%7C%20site%3Acoggle.it%20%7C%20site%3Areplt.it%20%7C%20site%3Aycombinator.com%20%7C%20site%3Alibraries.io%20%7C%20site%3Anpm.runkit.com%20%7C%20site%3Anpmjs.com%20%7C%20site%3Ascribd.com%20%22officevibe%22)
+-- 9 results --
+
+Officevibe is not anonymous in certain circumstances. It shows ...
+https://news.ycombinator.com/item?id=25206050
+
+Submissions from officevibe.com | Hacker News
+https://news.ycombinator.com/from?site=officevibe.com
+
+You're basically describing Officevibe. It emails people with some ...
+https://news.ycombinator.com/item?id=25202347
+
+Hey, good to see you mate. Officevibe is great for NPS kind of thing ...
+https://news.ycombinator.com/item?id=20239505
+
+keywords:officevibe - npm search
+https://www.npmjs.com/search?q=keywords:officevibe
+
+Microsoft 365 has employee surveillance and analytics built in ...
+https://news.ycombinator.com/item?id=25198713
+
+@igloo-ui/icons - npm
+https://www.npmjs.com/package/@igloo-ui/icons
+
+Again w/ Neal Stephenson bring prescient (in this case his 1992 ...
+https://news.ycombinator.com/item?id=25199277
+
+Read Expert Contributors Online - Scribd
+https://www.scribd.com/article/450978150/Expert-Contributors
+
+# Subdomains (https://www.google.com/search?q=site%3A*.officevibe.com)
+-- 10 results --
+
+Officevibe
+https://app.officevibe.com/
+
+https://api.officevibe.com/
+https://api.officevibe.com/
+
+https://sandbox.officevibe.com/
+https://sandbox.officevibe.com/
+
+aspnetapp: Home page
+https://organisationapiv2-organisation.prod.officevibe.com/
+
+aspnetapp: Home page
+https://organisationapiv2-organisation.sbox.officevibe.com/
+
+Custom Surveys &#8211; Help Center
+https://help.officevibe.com/hc/en-us/articles/360032889891-Custom-Surveys
+
+Custom Integration &#8211; Help Center
+https://help.officevibe.com/hc/en-us/articles/360032888551-Custom-Integration
+
+Questionnaires personnalisés &#8211; Centre d'aide
+https://help.officevibe.com/hc/fr-ca/articles/360032889891-Questionnaires-personnalis%C3%A9s
+
+Feedback Report &#8211; Help Center
+https://help.officevibe.com/hc/en-us/articles/360031499251-Feedback-Report
+
+Intégration personnalisée &#8211; Centre d'aide - Officevibe
+https://help.officevibe.com/hc/fr-ca/articles/360032888551-Int%C3%A9gration-personnalis%C3%A9e
+
+# GitLab/GitHub/Bitbucket (https://www.google.com/search?q=site%3Agithub.com%20%7C%20site%3Agitlab.com%20%7C%20site%3Abitbucket.org%20%22officevibe%22)
+-- 10 results --
+
+officevibe · GitHub Topics · GitHub
+https://github.com/topics/officevibe
+
+chrisb/officevibe-slack: Post Officevibe metrics to a Slack ... - GitHub
+https://github.com/chrisb/officevibe-slack
+
+chrisb/officevibe-ruby: A Ruby client for Officevibe - GitHub
+https://github.com/chrisb/officevibe-ruby/
+
+AmmarMira/officevibe: This website made just for practicing - GitHub
+https://github.com/AmmarMira/officevibe
+
+futurice/tribevibe-server: Officevibe integration with data ... - GitHub
+https://github.com/futurice/tribevibe-server
+
+vendasta/vibezy: Golang OfficeVibe SDK - GitHub
+https://github.com/vendasta/vibezy
+
+GSoft · GitHub
+https://github.com/gsoft-inc?language=hcl
+
+GSoft · GitHub
+https://github.com/gsoft-inc
+
+GSoft · GitHub
+https://github.com/gsoft-inc?language=typescript
+
+GSoft · GitHub
+https://github.com/gsoft-inc?language=python
+
+# PHP errors (https://www.google.com/search?q=site%3Aofficevibe.com%20%5C%22PHP%20Parse%20error%5C%22%20%7C%20%5C%22PHP%20Warning%5C%22%20%7C%20%5C%22PHP%20Error%5C%22)
+no results
+
+# Project management sites (https://www.google.com/search?q=site%3Atrello.com%20%7C%20site%3A*.atlassian.net%20%22officevibe%22)
+-- 10 results --
+
+Officevibe.com - Inclusion benefits on Diversity & Inclusion - Trello
+https://trello.com/c/5quElpfI/20-officevibecom-inclusion-benefits
+
+OfficeVibe on Onboarding Eugenie - Trello
+https://trello.com/c/ia7zxGgL/71-officevibe
+
+OfficeVibe on Adding Value Board from LT - Trello
+https://trello.com/c/HJI6hS4g/126-officevibe
+
+Confluence
+https://chrisshayan.atlassian.net/wiki/pages/viewpage.action?pageId=23461899
+
+Officevibe: team mood on LUISS Coding for Non Dev - Trello
+https://trello.com/c/ce8L4oJX/7-officevibe-team-mood
+
+HR via OfficeVibe Employee Survey on VO Automation /Migration ...
+https://trello.com/c/tWKjWLas/15-hr-via-officevibe-employee-survey
+
+OfficeVibe on CC TEST - Trello
+https://trello.com/c/RLa8g8RK/124-officevibe
+
+Reminders: OfficeVibe Feedback - follow ups (All); PMO Town Hall ...
+https://trello.com/c/Jnzceb67/72-reminders-officevibe-feedback-follow-ups-all-pmo-town-hall-on-friday
+
+officevibe- wie geht das Team damit um? on Onboarding Verena ...
+https://trello.com/c/LBvkvFGH/14-officevibe-wie-geht-das-team-damit-um
+
+officevibe.com y entrar con tu user de SLACK on HR - Manuales ...
+https://trello.com/c/O2S61c13/41-officevibecom-y-entrar-con-tu-user-de-slack
+
+# Open redirects (https://www.google.com/search?q=site%3Aofficevibe.com%20inurl%3Aredir%20%7C%20inurl%3Aurl%20%7C%20inurl%3Aredirect%20%7C%20inurl%3Areturn%20%7C%20inurl%3Asrc%3Dhttp%20%7C%20inurl%3Ar%3Dhttp)
+no results
+
+# .git folder (https://www.google.com/search?q=inurl%3A%5C%22%2F.git%5C%22%20officevibe.com%20-github)
+no results
+
+# Backup files (https://www.google.com/search?q=site%3Aofficevibe.com%20ext%3Abkf%20%7C%20ext%3Abkp%20%7C%20ext%3Abak%20%7C%20ext%3Aold%20%7C%20ext%3Abackup)
+no results
+
+# Database files (https://www.google.com/search?q=site%3Aofficevibe.com%20ext%3Asql%20%7C%20ext%3Adbf%20%7C%20ext%3Amdb)
+no results
+
+# Pastebin-like sites (https://www.google.com/search?q=site%3Ajustpaste.it%20%7C%20site%3Aheypasteit.com%20%7C%20site%3Apastebin.com%20%22officevibe%22)
+-- 2 results --
+
+admin.iris.netadmin.mywebvalet.netadmin.seo.com.cnapi ...
+https://pastebin.com/6CGVFFex
+
+aiwicollective follower list - Pastebin.com
+https://pastebin.com/sJz47ZyU
+
+# Login pages (https://www.google.com/search?q=site%3Aofficevibe.com%20inurl%3Asignup%20%7C%20inurl%3Aregister%20%7C%20intitle%3ASignup)
+-- 6 results --
+
+https://app.officevibe.com/signup
+https://app.officevibe.com/signup
+
+Administrators: Register for a Live Officevibe Training &#8211; Help Center
+https://help.officevibe.com/hc/en-us/articles/360060470012-Administrators-Register-for-a-Live-Officevibe-Training
+
+Sign Up - Officevibe
+https://officevibe.com/signup
+
+Administrators & Executive Managers: Register for a Live Officevibe ...
+https://help.officevibe.com/hc/en-us/articles/360060470012-Administrators-Executive-Managers-Register-for-a-Live-Officevibe-Training
+
+Managers: Register for a Live Officevibe Training &#8211; Help Center
+https://help.officevibe.com/hc/en-us/articles/360038513711-Managers-Register-for-a-Live-Officevibe-Training
+
+Sign Up - Officevibe
+https://officevibe.com/signup?l=fr-CA
+
+# Sub-subdomains (https://www.google.com/search?q=site%3A*.*.officevibe.com)
+no results
+
+# SQL errors (https://www.google.com/search?q=site%3Aofficevibe.com%20intext%3A%5C%22sql%20syntax%20near%5C%22%20%7C%20intext%3A%5C%22syntax%20error%20has%20occurred%5C%22%20%7C%20intext%3A%5C%22incorrect%20syntax%20near%5C%22%20%7C%20intext%3A%5C%22unexpected%20end%20of%20SQL%20command%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20mysql_connect()%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20mysql_query()%5C%22%20%7C%20intext%3A%5C%22Warning%3A%20pg_connect()%5C%22)
+no results
+
+# Cloud buckets S3/GCP (https://www.google.com/search?q=site%3A.s3.amazonaws.com%20%7C%20site%3Astorage.googleapis.com%20%7C%20site%3Aamazonaws.com%20%22officevibe%22)
+-- 9 results --
+
+Officevibe HRMS Tool | Top Customers and Competitor Details 2021
+https://slintelnodewebsite-951613469.us-east-2.elb.amazonaws.com/tech/hrms/officevibe-market-share
+
+Top 80 Workplace Blogs and Websites To Follow in 2021
+https://ec2-54-187-111-4.us-west-2.compute.amazonaws.com/workplace_blogs/
+
+[PPT] Company Culture
+https://higherlogicdownload.s3.amazonaws.com/HTGPEERGROUPS/b554b3cb-97dd-4f1b-b52d-493f9384b941/UploadedImages/HTG_-_2018-04-06_-_Culture_Presentation.pptx
+
+The Best Work Life Balance Blogs of 2014 - BuyerZone
+http://ec2-52-5-14-36.compute-1.amazonaws.com/best-of-buyerzone/work-life-balance-blogs-2014/
+
+Workify Employee Engagement Tool | Top Customers and ... - Slintel
+https://slintelnodewebsite-951613469.us-east-2.elb.amazonaws.com/tech/employee-engagement/workify-market-share
+
+[PDF] The Curve Group Workforce presentation.pdf - Amazon AWS
+https://oliver-dev.s3.amazonaws.com/2017/03/29/11/36/38/314/The%20Curve%20Group%20Workforce%20presentation.pdf
+
+Turn Hot Summer Days into Big Summer Growth | EnerBankUSA
+https://ec2-54-187-8-196.us-west-2.compute.amazonaws.com/blog/turn-hot-summer-days-into-big-summer-growth?format=amp
+
+Jive Employee Engagement Tool | Top Customers and Competitor ...
+https://slintelnodewebsite-951613469.us-east-2.elb.amazonaws.com/amp/tech/employee-engagement/jive-market-share
+
+What A Team Survey Revealed About The Way We Live Our ... - Buffer
+https://ec2-50-19-22-63.compute-1.amazonaws.com/resources/values-survey/
+
+# Config files (https://www.google.com/search?q=site%3Aofficevibe.com%20ext%3Axml%20%7C%20ext%3Aconf%20%7C%20ext%3Acnf%20%7C%20ext%3Areg%20%7C%20ext%3Ainf%20%7C%20ext%3Ardp%20%7C%20ext%3Acfg%20%7C%20ext%3Atxt%20%7C%20ext%3Aora%20%7C%20ext%3Aenv%20%7C%20ext%3Aini)
+-- 1 results --
+
+User-agent: * Disallow: /cgi-bin/ Disallow: /wp-admin/ Disallow: /blog ...
+https://officevibe.com/robots.txt
+
+# Code share sites (https://www.google.com/search?q=site%3Asharecode.io%20%7C%20site%3Acontrolc.com%20%7C%20site%3Acodepad.co%20%7Csite%3Aideone.com%20%7C%20site%3Acodebeautify.org%20%7C%20site%3Ajsdelivr.com%20%7C%20site%3Acodeshare.io%20%7C%20site%3Acodepen.io%20%7C%20site%3Arepl.it%20%7C%20site%3Ajsfiddle.net%20%22officevibe%22)
+-- 2 results --
+
+A Pen by Daniel Marques - CodePen
+https://codepen.io/danielmarquespt/pen/gRzNYx
+
+A Pen by dbenoni - CodePen
+https://codepen.io/dbenoni/details/Kojur
+
+# Exposed documents (https://www.google.com/search?q=site%3Aofficevibe.com%20ext%3Adoc%20%7C%20ext%3Adocx%20%7C%20ext%3Aodt%20%7C%20ext%3Apdf%20%7C%20ext%3Artf%20%7C%20ext%3Asxw%20%7C%20ext%3Apsw%20%7C%20ext%3Appt%20%7C%20ext%3Apptx%20%7C%20ext%3Apps%20%7C%20ext%3Acsv)
+-- 10 results --
+
+[PDF] Turning Employee Engagement into Customer Success - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2020/10/Nintex_Manager.pdf
+
+[PDF] Lindsey O'Sullivan - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2020/09/SuccessStory_Nautilus.pdf
+
+[PDF] Employee recognition revisited - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2021/01/Employee_recognition_Guide.pdf
+
+[PDF] Increasing engagement by giving everyone a voice - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2020/10/CampMinder_Manager.pdf
+
+[PDF] How Nolk maintains their culture & recruits talent with Officevibe
+https://assets.officevibe.com/wp-content/uploads/2020/09/SuccessStory_Nolk.pdf
+
+7-Step onboarding checklist - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2020/05/OV_ToolBox_Onbording_v02.pdf
+
+[PDF] Administration du compte - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2018/04/AdministrationDeCompte.pdf
+
+[PDF] Employee feedback demystified: a comprehensive guide ... - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2021/02/Employee_Feedback_Demystified-Guide.pdf
+
+[PDF] We know you're super busy. So we made this complete ... - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2021/01/leadership-guide.pdf
+
+One-on-one meetings: a manager's complete guide - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2021/02/OV_1-1Meeting-Guide_Interactif.pdf
+
+# Wordpress files (https://www.google.com/search?q=site%3Aofficevibe.com%20inurl%3Awp-content%20%7C%20inurl%3Awp-includes)
+-- 10 results --
+
+https://www.officevibe.com/wp-content/themes/offic...
+https://www.officevibe.com/wp-content/themes/officevibe/resources/officevibe-vs-alternatives.pdf
+
+[PDF] valentine-card-for-colleague-1.pdf - Officevibe
+https://officevibe.com/wp-content/uploads/2017/02/valentine-card-for-colleague-1.pdf
+
+[PDF] valentine-card-for-employee.pdf - Officevibe
+https://www.officevibe.com/wp-content/uploads/2017/02/valentine-card-for-employee.pdf
+
+https://www.officevibe.com/wp-content/themes/offic...
+https://www.officevibe.com/wp-content/themes/officevibe/resources/officevibe-summary.pdf
+
+[PDF] Your go-to guide for efficient one-on-ones - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2020/04/1-on-1-Guide-2020.pdf
+
+7-Step onboarding checklist - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2020/05/OV_ToolBox_Onbording_v02.pdf
+
+[PDF] Managing emotions in the workplace - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2021/01/Managing-emotions-workplace.pdf
+
+[PDF] Emotional intelligence guide and practice exercises - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2020/04/Emotional-intelligence-guide-practice-exercises-1.pdf
+
+[PDF] Employee recognition revisited - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2021/01/Employee_recognition_Guide.pdf
+
+One-on-one meetings: a manager's complete guide - Officevibe
+https://assets.officevibe.com/wp-content/uploads/2021/02/OV_1-1Meeting-Guide_Interactif.pdf
+
+# Apache Struts RCE (https://www.google.com/search?q=site%3Aofficevibe.com%20ext%3Aaction%20%7C%20ext%3Astruts%20%7C%20ext%3Ado)
+no results

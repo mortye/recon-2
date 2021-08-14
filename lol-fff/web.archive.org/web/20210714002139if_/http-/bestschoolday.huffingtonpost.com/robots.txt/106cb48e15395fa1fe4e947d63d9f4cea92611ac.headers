@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20210714002139if_/http://bestschoolday.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< X-Cache-Key: httpsweb.archive.org/web/20210714002139if_/http://bestschoolday.huffingtonpost.com/robots.txtUS
+< X-Na: 0
+< X-Nid: -
+< X-App-Server: wwwb-app201
+< X-Tr: 2388
+< X-Rl: 0
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 0
+< X-Archive-Redirect-Reason: found capture at 20210714002142
+< Referrer-Policy: no-referrer-when-downgrade
+< Permissions-Policy: interest-cohort=()
+< Location: https://web.archive.org/web/20210714002142if_/https://bestschoolday.huffingtonpost.com/robots.txt
+< Server-Timing: captures_list;dur=1467.810315, exclusion.robots;dur=0.337235, exclusion.robots.policy;dur=0.315416, RedisCDXSource;dur=9.984246, esindex;dur=0.021779, LoadShardBlock;dur=1135.309601, PetaboxLoader3.datanode;dur=257.762273, CDXLines.iter;dur=79.505334, load_resource;dur=893.235144, PetaboxLoader3.resolve;dur=627.802162
+< X-Page-Cache: MISS
+< X-Ts: 302
+< X-Location: All
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 18:08:19 GMT
+< Connection: keep-alive

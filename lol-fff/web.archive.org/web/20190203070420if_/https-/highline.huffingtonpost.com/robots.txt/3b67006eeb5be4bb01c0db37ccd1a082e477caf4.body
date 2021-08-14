@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /articles/en/alabama-text-only
+
+Sitemap: https://highline.huffingtonpost.com/sitemap.xml

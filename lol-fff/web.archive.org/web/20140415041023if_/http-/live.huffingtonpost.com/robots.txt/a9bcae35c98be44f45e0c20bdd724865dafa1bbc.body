@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /font/
+Disallow: /LivePlayer/
+Disallow: /styles/
+Disallow: /_ns_/
+Disallow: /_uac/
+Disallow: /js/
+Disallow: /Core/
+Disallow: /HPSNPlayer/
+Disallow: /fixtures/
+Disallow: version.txt
+
+Sitemap: http://live.huffingtonpost.com/sitemaps/sitemaps/sitemap_index.xml.gz

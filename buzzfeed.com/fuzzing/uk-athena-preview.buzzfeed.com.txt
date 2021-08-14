@@ -1,0 +1,15 @@
+200 0 https://uk-athena-preview.buzzfeed.com/ping
+200 25 https://uk-athena-preview.buzzfeed.com/robots.txt
+301 0 https://uk-athena-preview.buzzfeed.com/.//web-inf/web.xml
+301 0 https://uk-athena-preview.buzzfeed.com/./admin/.
+301 0 https://uk-athena-preview.buzzfeed.com/./web-inf/web.xml
+301 0 https://uk-athena-preview.buzzfeed.com/.cobalt/sysmanage/../admin/.htaccess
+301 0 https://uk-athena-preview.buzzfeed.com/.nsf/../winnt/win.ini
+301 0 https://uk-athena-preview.buzzfeed.com//cfide/administrator
+301 0 https://uk-athena-preview.buzzfeed.com//out
+301 0 https://uk-athena-preview.buzzfeed.com/admin//phpmyadmin
+301 0 https://uk-athena-preview.buzzfeed.com/citrix//accessplatform/auth/clientscripts/cookies.js
+301 0 https://uk-athena-preview.buzzfeed.com/content/../libs/foundation/components/text/text.jsp
+301 0 https://uk-athena-preview.buzzfeed.com/extjs/resources//charts.swf
+301 0 https://uk-athena-preview.buzzfeed.com/secret/.
+301 0 https://uk-athena-preview.buzzfeed.com/vpn/../vpns/cfg/smb.conf

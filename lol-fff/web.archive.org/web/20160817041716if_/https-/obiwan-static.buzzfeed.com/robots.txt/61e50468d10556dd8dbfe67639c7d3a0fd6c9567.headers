@@ -1,0 +1,40 @@
+GET https://web.archive.org/web/20160817041716if_/https://obiwan-static.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Age: 0
+< Link: <https://obiwan-static.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://obiwan-static.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://obiwan-static.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160710085101/https://obiwan-static.buzzfeed.com/robots.txt>; rel="first memento"; datetime="Sun, 10 Jul 2016 08:51:01 GMT", <https://web.archive.org/web/20160815211248/https://obiwan-static.buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Mon, 15 Aug 2016 21:12:48 GMT", <https://web.archive.org/web/20160817041716/https://obiwan-static.buzzfeed.com/robots.txt>; rel="memento"; datetime="Wed, 17 Aug 2016 04:17:16 GMT", <https://web.archive.org/web/20160818160536/https://obiwan-static.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Thu, 18 Aug 2016 16:05:36 GMT", <https://web.archive.org/web/20200419202947/https://obiwan-static.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 19 Apr 2020 20:29:47 GMT"
+< X-Tr: 492
+< Server-Timing: CDXLines.iter;dur=17.098433, PetaboxLoader3.datanode;dur=98.195987, load_resource;dur=108.446188, exclusion.robots.policy;dur=0.280296, esindex;dur=0.013871, exclusion.robots;dur=0.295842, LoadShardBlock;dur=85.711286, RedisCDXSource;dur=3.526510, PetaboxLoader3.resolve;dur=55.215665, captures_list;dur=140.352742
+< X-Location: All
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Type: text/html; charset=UTF-8
+< X-Archive-Orig-Etag: "fdc9e9a4475a95d6bb53d3954bb34578fcb0ab3c"
+< X-Archive-Orig-X-Timer: S1471407436.344113,VS0,VE671
+< X-Archive-Orig-X-Served-By: cache-sjc3634-SJC
+< X-Archive-Orig-X-Cache: MISS
+< X-Archive-Orig-Via: 1.1 varnish
+< X-Archive-Orig-Connection: close
+< X-Page-Cache: MISS
+< X-Archive-Orig-Server: TornadoServer/4.3
+< X-Archive-Orig-Vary: Accept-Encoding, X-BF-Origin
+< X-App-Server: wwwb-app39
+< X-Rl: 0
+< Date: Mon, 26 Jul 2021 17:40:48 GMT
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-X-Cache-Hits: 0
+< X-Archive-Orig-Date: Wed, 17 Aug 2016 04:17:17 GMT
+< X-Archive-Guessed-Charset: utf-8
+< X-Archive-Src: buzzfeed.com-20160814-144752/IA-FOC-buzzfeed.com-20160817041145-00000.warc.gz
+< X-Cache-Key: httpsweb.archive.org/web/20160817041716if_/https://obiwan-static.buzzfeed.com/robots.txtUS
+< Server: nginx/1.15.8
+< X-Archive-Orig-Cache-Control: public, max-age=60
+< X-Ts: 200
+< Memento-Datetime: Wed, 17 Aug 2016 04:17:16 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Na: 0
+< X-Nid: -
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< X-Archive-Orig-Content-Length: 222070
+< X-Archive-Guessed-Content-Type: text/html

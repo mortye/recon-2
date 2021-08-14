@@ -1,0 +1,38 @@
+GET https://web.archive.org/web/20190227035720if_/http://live.huffpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Content-Length: 3388
+< Link: <http://live.huffpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://live.huffpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://live.huffpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20180410140802/http://live.huffpost.com/robots.txt>; rel="first memento"; datetime="Tue, 10 Apr 2018 14:08:02 GMT", <https://web.archive.org/web/20190218074813/http://live.huffpost.com/robots.txt>; rel="prev memento"; datetime="Mon, 18 Feb 2019 07:48:13 GMT", <https://web.archive.org/web/20190227035720/http://live.huffpost.com/robots.txt>; rel="memento"; datetime="Wed, 27 Feb 2019 03:57:20 GMT", <https://web.archive.org/web/20190830100046/http://live.huffpost.com/robots.txt>; rel="next memento"; datetime="Fri, 30 Aug 2019 10:00:46 GMT", <https://web.archive.org/web/20190830100046/http://live.huffpost.com/robots.txt>; rel="last memento"; datetime="Fri, 30 Aug 2019 10:00:46 GMT"
+< X-Tr: 469
+< X-Nid: -
+< X-Archive-Orig-Connection: close
+< Memento-Datetime: Wed, 27 Feb 2019 03:57:20 GMT
+< X-Cache-Key: httpsweb.archive.org/web/20190227035720if_/http://live.huffpost.com/robots.txtUS
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Vary: Accept-Encoding
+< X-Archive-Orig-P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+< X-Archive-Orig-X-Xss-Protection: 1; mode=block
+< X-Archive-Orig-Referrer-Policy: strict-origin-when-cross-origin
+< X-Ts: 200
+< Server: nginx/1.15.8
+< X-Archive-Guessed-Charset: utf-8
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Date: Wed, 27 Feb 2019 03:23:10 GMT
+< X-Archive-Orig-Cache-Control: max-age=3600, public
+< X-Archive-Src: liveweb-20190227104658/cachegw-20190227002047-wwwb-app14.us.archive.org.warc.gz
+< Content-Type: text/html; charset=UTF-8
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: LoadShardBlock;dur=229.859438, captures_list;dur=271.680182, RedisCDXSource;dur=0.715860, esindex;dur=0.014560, CDXLines.iter;dur=35.759799, PetaboxLoader3.resolve;dur=82.842011, exclusion.robots;dur=0.401327, PetaboxLoader3.datanode;dur=152.076371, exclusion.robots.policy;dur=0.384296, load_resource;dur=140.078824
+< X-App-Server: wwwb-app102
+< X-Location: All
+< X-Na: 0
+< X-Page-Cache: MISS
+< X-Archive-Guessed-Content-Type: text/html
+< Connection: keep-alive
+< X-Archive-Orig-Age: 2050
+< X-Archive-Orig-Server: ATS
+< X-Archive-Orig-X-Frame-Options: DENY
+< X-Archive-Orig-X-Content-Type-Options: nosniff
+< Date: Mon, 26 Jul 2021 17:10:54 GMT

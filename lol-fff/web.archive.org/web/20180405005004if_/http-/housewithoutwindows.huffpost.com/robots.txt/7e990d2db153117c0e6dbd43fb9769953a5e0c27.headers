@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20180405005004if_/http://housewithoutwindows.huffpost.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< X-Location: All
+< X-Nid: -
+< Content-Type: text/plain; charset=utf-8
+< X-Archive-Redirect-Reason: found capture at 20180405005005
+< X-App-Server: wwwb-app103
+< X-Na: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< Content-Length: 0
+< Location: https://web.archive.org/web/20180405005005if_/https://housewithoutwindows.huffpost.com/robots.txt
+< X-Tr: 465
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< Date: Mon, 26 Jul 2021 16:52:57 GMT
+< Server-Timing: load_resource;dur=140.331395, exclusion.robots.policy;dur=0.277568, LoadShardBlock;dur=239.145813, captures_list;dur=262.629054, CDXLines.iter;dur=17.633676, PetaboxLoader3.resolve;dur=206.890340, RedisCDXSource;dur=0.545177, PetaboxLoader3.datanode;dur=98.996698, esindex;dur=0.011303, exclusion.robots;dur=0.288306
+< X-Rl: 0
+< Permissions-Policy: interest-cohort=()
+< Connection: keep-alive
+< X-Ts: 302
+< X-Cache-Key: httpsweb.archive.org/web/20180405005004if_/http://housewithoutwindows.huffpost.com/robots.txtUS

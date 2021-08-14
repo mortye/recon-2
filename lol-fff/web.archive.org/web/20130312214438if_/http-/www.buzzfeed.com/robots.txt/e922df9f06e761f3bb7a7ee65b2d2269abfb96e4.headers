@@ -1,0 +1,34 @@
+GET https://web.archive.org/web/20130312214438if_/http://www.buzzfeed.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Archive-Orig-Content-Length: 1078
+< X-Archive-Guessed-Encoding: utf-8
+< Link: <http://www.buzzfeed.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/http://www.buzzfeed.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://www.buzzfeed.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20020921163523/http://buzzfeed.com:80/robots.txt>; rel="first memento"; datetime="Sat, 21 Sep 2002 16:35:23 GMT", <https://web.archive.org/web/20130312195311/http://buzzfeed.com/robots.txt>; rel="prev memento"; datetime="Tue, 12 Mar 2013 19:53:11 GMT", <https://web.archive.org/web/20130312214438/http://www.buzzfeed.com/robots.txt>; rel="memento"; datetime="Tue, 12 Mar 2013 21:44:38 GMT", <https://web.archive.org/web/20130313025740/http://www.buzzfeed.com/robots.txt>; rel="next memento"; datetime="Wed, 13 Mar 2013 02:57:40 GMT", <https://web.archive.org/web/20210725033235/https://www.buzzfeed.com/robots.txt>; rel="last memento"; datetime="Sun, 25 Jul 2021 03:32:35 GMT"
+< X-Na: 0
+< X-Nid: -
+< Date: Mon, 26 Jul 2021 15:31:33 GMT
+< X-Archive-Orig-Etag: "60b09-436-4d7c04c245bea"
+< X-Archive-Orig-Date: Tue, 12 Mar 2013 21:44:38 GMT
+< X-Archive-Guessed-Content-Type: text/plain
+< X-App-Server: wwwb-app55
+< X-Tr: 3571
+< Server: nginx/1.15.8
+< X-Archive-Src: ARCHIVEIT-3293-QUARTERLY-17905-00000/ARCHIVEIT-3293-QUARTERLY-17905-20130312114834191-00004-wbgrp-crawl062.us.archive.org-6441.warc.gz
+< X-Cache-Key: httpsweb.archive.org/web/20130312214438if_/http://www.buzzfeed.com/robots.txtUS
+< X-Rl: 0
+< X-Page-Cache: MISS
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Server: Apache/2.2.17 (Ubuntu)
+< X-Archive-Orig-Connection: close
+< X-Ts: 200
+< X-Location: All
+< Connection: keep-alive
+< X-Archive-Orig-Last-Modified: Tue, 12 Mar 2013 20:40:17 GMT
+< X-Archive-Orig-X-Buzzfeed: webdr03
+< Cache-Control: max-age=1800
+< Memento-Datetime: Tue, 12 Mar 2013 21:44:38 GMT
+< Content-Type: text/plain
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: exclusion.robots;dur=1.449937, exclusion.robots.policy;dur=1.370294, RedisCDXSource;dur=75.730680, esindex;dur=0.074330, LoadShardBlock;dur=2666.653570, PetaboxLoader3.datanode;dur=379.108762, CDXLines.iter;dur=336.004941, load_resource;dur=380.785180, PetaboxLoader3.resolve;dur=334.578070
+< Permissions-Policy: interest-cohort=()

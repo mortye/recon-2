@@ -1,0 +1,30 @@
+GET https://web.archive.org/web/20181024082110if_/https://beta.www.huffpost.com/robots.txt
+
+
+< HTTP/1.1 301 Moved
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Server: nginx/1.15.8
+< Memento-Datetime: Wed, 24 Oct 2018 08:21:10 GMT
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20181024082110if_/https://beta.www.huffpost.com/robots.txtUS
+< Location: https://web.archive.org/web/20181024082110if_/https://staging.www.huffingtonpost.com/robots.txt
+< Cache-Control: max-age=1800
+< X-Ts: 301
+< X-Tr: 1067
+< X-Page-Cache: MISS
+< X-Archive-Orig-Server: Varnish
+< X-Archive-Orig-X-Varnish: 5202991
+< X-App-Server: wwwb-app200
+< Connection: keep-alive
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< X-Archive-Orig-Connection: close
+< X-Na: 0
+< Date: Mon, 26 Jul 2021 19:02:04 GMT
+< X-Archive-Orig-Content-Length: 0
+< Link: <https://beta.www.huffpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://beta.www.huffpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://beta.www.huffpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20181024082110/https://beta.www.huffpost.com/robots.txt>; rel="first memento"; datetime="Wed, 24 Oct 2018 08:21:10 GMT", <https://web.archive.org/web/20181024082110/https://beta.www.huffpost.com/robots.txt>; rel="memento"; datetime="Wed, 24 Oct 2018 08:21:10 GMT", <https://web.archive.org/web/20181024082110/https://beta.www.huffpost.com/robots.txt>; rel="last memento"; datetime="Wed, 24 Oct 2018 08:21:10 GMT"
+< X-Rl: 0
+< X-Archive-Src: liveweb-20181025000937/cachegw-20181024002054-wwwb-app55.us.archive.org.warc.gz
+< Server-Timing: captures_list;dur=888.386339, exclusion.robots;dur=0.160483, exclusion.robots.policy;dur=0.155093, RedisCDXSource;dur=514.482465, esindex;dur=0.010136, LoadShardBlock;dur=356.297270, PetaboxLoader3.datanode;dur=224.927025, CDXLines.iter;dur=15.336264, load_resource;dur=154.718202, PetaboxLoader3.resolve;dur=72.812222
+< Permissions-Policy: interest-cohort=()
+< X-Archive-Orig-Date: Wed, 24 Oct 2018 08:21:10 GMT

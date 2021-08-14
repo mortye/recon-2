@@ -1,0 +1,37 @@
+GET https://web.archive.org/web/20171214082233if_/https://contributor.huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 200 OK
+< X-Page-Cache: MISS
+< X-Archive-Orig-Accept-Ranges: bytes
+< X-Archive-Orig-Server: AmazonS3
+< X-Archive-Orig-Content-Length: 26
+< Memento-Datetime: Thu, 14 Dec 2017 08:22:33 GMT
+< Server: nginx/1.15.8
+< X-Archive-Orig-X-Amz-Id-2: r7n8za+mMmYaXERoTjyOktnyz+zmXGN8Y5XCWV63M2/wWNE+n8N9hAIbHB2BQb/TdGDDDhvuRck=
+< X-Archive-Orig-X-Amz-Request-Id: CC9FE374FBF9E434
+< X-App-Server: wwwb-app105
+< X-Rl: 0
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Archive-Orig-Date: Thu, 14 Dec 2017 08:22:35 GMT
+< X-Archive-Orig-X-Cache: HIT
+< X-Archive-Src: liveweb-20171214134957/cachegw-20171214053536-wwwb-app1.us.archive.org.warc.gz
+< X-Tr: 283
+< X-Nid: -
+< Connection: keep-alive
+< X-Archive-Orig-Last-Modified: Wed, 13 Dec 2017 15:44:58 GMT
+< X-Archive-Guessed-Content-Type: text/plain
+< X-Archive-Guessed-Encoding: utf-8
+< Content-Type: text/plain
+< Link: <https://contributor.huffingtonpost.com/robots.txt>; rel="original", <https://web.archive.org/web/timemap/link/https://contributor.huffingtonpost.com/robots.txt>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://contributor.huffingtonpost.com/robots.txt>; rel="timegate", <https://web.archive.org/web/20160817172519/https://contributor.huffingtonpost.com/robots.txt>; rel="first memento"; datetime="Wed, 17 Aug 2016 17:25:19 GMT", <https://web.archive.org/web/20171212154823/https://contributor.huffingtonpost.com/robots.txt>; rel="prev memento"; datetime="Tue, 12 Dec 2017 15:48:23 GMT", <https://web.archive.org/web/20171214082233/https://contributor.huffingtonpost.com/robots.txt>; rel="memento"; datetime="Thu, 14 Dec 2017 08:22:33 GMT", <https://web.archive.org/web/20171215180324/https://contributor.huffingtonpost.com/robots.txt>; rel="next memento"; datetime="Fri, 15 Dec 2017 18:03:24 GMT", <https://web.archive.org/web/20210316053228/https://contributor.huffingtonpost.com/robots.txt>; rel="last memento"; datetime="Tue, 16 Mar 2021 05:32:28 GMT"
+< X-Archive-Orig-Etag: "f71d20196d4caf35b6a670db8c70b03d"
+< Cache-Control: max-age=1800
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20171214082233if_/https://contributor.huffingtonpost.com/robots.txtUS
+< Date: Mon, 26 Jul 2021 14:53:40 GMT
+< Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org analytics.archive.org pragma.archivelab.org
+< Server-Timing: load_resource;dur=110.609168, CDXLines.iter;dur=24.297506, LoadShardBlock;dur=49.956648, exclusion.robots.policy;dur=0.412274, esindex;dur=0.072269, captures_list;dur=95.245575, PetaboxLoader3.datanode;dur=59.009018, RedisCDXSource;dur=0.839577, exclusion.robots;dur=0.429354, PetaboxLoader3.resolve;dur=73.571895
+< X-Na: 0
+< X-Archive-Orig-Connection: close
+< X-Ts: 200
+< Permissions-Policy: interest-cohort=()

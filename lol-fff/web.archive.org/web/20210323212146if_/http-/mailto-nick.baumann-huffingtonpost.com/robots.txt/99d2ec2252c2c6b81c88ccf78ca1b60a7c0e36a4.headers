@@ -1,0 +1,23 @@
+GET https://web.archive.org/web/20210323212146if_/http://mailto:nick.baumann@huffingtonpost.com/robots.txt
+
+
+< HTTP/1.1 302 FOUND
+< X-Rl: 0
+< X-Page-Cache: MISS
+< Server: nginx/1.15.8
+< X-Na: 0
+< X-Nid: -
+< Referrer-Policy: no-referrer-when-downgrade
+< Server-Timing: cdx.remote;dur=0.182187, LoadShardBlock;dur=581.856392, exclusion.robots;dur=0.250923, PetaboxLoader3.resolve;dur=88.498170, esindex;dur=0.015499, CDXLines.iter;dur=43.652795, load_resource;dur=213.395033, PetaboxLoader3.datanode;dur=332.551636, exclusion.robots.policy;dur=0.232622
+< Location: https://web.archive.org/web/20210323205537if_/https://www.huffingtonpost.com/robots.txt
+< X-Tr: 927
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 0
+< Connection: keep-alive
+< X-Archive-Redirect-Reason: found capture at 20210323205537
+< X-App-Server: wwwb-app13
+< X-Ts: 302
+< X-Location: All
+< X-Cache-Key: httpsweb.archive.org/web/20210323212146if_/http://mailto:nick.baumann@huffingtonpost.com/robots.txtUS
+< Date: Mon, 26 Jul 2021 19:06:09 GMT
+< Permissions-Policy: interest-cohort=()
